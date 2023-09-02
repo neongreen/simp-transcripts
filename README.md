@@ -1,6 +1,6 @@
-# Chess Simp transcriptions
+# Chess Simp transcripts
 
-This repository hosts transcriptions for all Chess Simp videos as of August 29, 2023.
+This repository hosts transcripts for all Chess Simp videos as of August 29, 2023.
 
 I made this so that I could find a video where he says "Maybe Not" in an expressive voice. Unfortunately it turned out that he always says it in the same way.
 
