@@ -1,0 +1,108 @@
+1
+00:00:00,000 --> 00:00:06,320
+ 100 rated chess, but your odd-numbered moves must make Stockfish happy, and your even-numbered
+
+2
+00:00:06,320 --> 00:00:12,800
+ moves must make Stockfish upset. I just want to say that book moves are not always good.
+
+3
+00:00:12,800 --> 00:00:19,680
+ But still, I will respect his perception. We get a 2 0 8 from Russia, and the Russian flag has been
+
+4
+00:00:19,680 --> 00:00:29,760
+ censored by chess.com due to the Ukraine war. First move has to be a good move. E4. G6. All right,
+
+5
+00:00:29,760 --> 00:00:36,800
+ here comes the problem. I was expecting E5 so that I can play B4, which blunders a pawn on move 2,
+
+6
+00:00:36,800 --> 00:00:43,440
+ but since he didn't open up his bishop, I think I have to go for king to E2. Stockfish?
+
+7
+00:00:43,440 --> 00:00:51,440
+ Thank you. The entire chess community will host a gigantic party the day that king E2 becomes a
+
+8
+00:00:51,440 --> 00:01:00,240
+ brilliant move. Bishop G7. Back to the good moves. D4. I mean taking the full center has to be a good
+
+9
+00:01:00,240 --> 00:01:11,840
+ move. Right? Of course. B6. Not very aggressive. Man, it's getting very hard to make a bad move
+
+10
+00:01:11,840 --> 00:01:19,040
+ because he's not taking the center at all. King to E3. In no world that is not a bad move.
+
+11
+00:01:20,560 --> 00:01:26,480
+ There we go, and you can see that my opponent's position is so bad that even king E3 is only an
+
+12
+00:01:26,480 --> 00:01:36,000
+ inaccuracy. Bishop H6 check. Aha, king back to E2. Not just a good move, that has to be the best move.
+
+13
+00:01:36,000 --> 00:01:46,320
+ Right? Perfect. Bishop A6 check. Oh no. King E1 is obviously the best move, and I don't want to
+
+14
+00:01:46,320 --> 00:01:53,280
+ blunder a pawn meaninglessly. Therefore, king F3 is kinda forced. It's fine, I don't think he can
+
+15
+00:01:53,280 --> 00:02:01,840
+ checkmate me with this not taking the center playstyle. D6. A good move, bishop takes H6.
+
+16
+00:02:01,840 --> 00:02:11,440
+ I will never play chess again if it's not a good move. There we go. Knight takes A6. I really want
+
+17
+00:02:11,440 --> 00:02:19,040
+ to take this bishop as well, but sadly, it's time for a bad move. B4. I mean that blunders a pawn,
+
+18
+00:02:19,040 --> 00:02:29,920
+ so it has to be a bad move. Right? Thank you. Now I can take this bishop. Best move? Yes.
+
+19
+00:02:29,920 --> 00:02:39,280
+ Knight takes H6. Aha, now I have queen D2 forking the horses, but sadly, it's time for a bad move.
+
+20
+00:02:39,920 --> 00:02:47,600
+ King E3. Since I missed a fork, there is no doubt that this is a bad move. No question there.
+
+21
+00:02:47,600 --> 00:02:56,000
+ Knight G4 check. Aha, so he wants to trade 2 knights with my rook and a pawn, I will happily
+
+22
+00:02:56,000 --> 00:03:04,560
+ take it. Knight takes C2 check. King back is definitely good, therefore, king forward. Stockfish?
+
+23
+00:03:06,080 --> 00:03:13,040
+ Of course. Knight takes A1. Alright, now I believe moving the queen back to trap his knight is
+
+24
+00:03:13,040 --> 00:03:18,720
+ definitely the best move, but you know what they say, a real man never retreats his woman.
+
+25
+00:03:18,720 --> 00:03:25,360
+ Therefore, knight C3. In no world developing a piece to the center is not a good move.
+
+26
+00:03:31,840 --> 00:03:39,120
+ What the f-
+
+27
+00:03:39,120 --> 00:03:46,880
+ [Music]
+

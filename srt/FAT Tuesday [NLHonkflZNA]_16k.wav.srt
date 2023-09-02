@@ -1,0 +1,124 @@
+1
+00:00:00,000 --> 00:00:08,880
+ It's Tuesday 21st of February 2023, aka the Fat Tuesday. So 100 rated chess, but your pieces are
+
+2
+00:00:08,880 --> 00:00:15,200
+ fat, they cannot move further than 2.25 squares per move, they cannot move twice in a row,
+
+3
+00:00:15,200 --> 00:00:20,960
+ the horses cannot jump, and the rooks cannot castle. Disallowing moving twice in a row is
+
+4
+00:00:20,960 --> 00:00:26,080
+ obviously just making this challenge impossible to navigate, so we have to delete this part.
+
+5
+00:00:26,960 --> 00:00:34,240
+ And I'm not a coward. We get a 1 53 from the US. A 4. If you really think about it,
+
+6
+00:00:34,240 --> 00:00:39,840
+ if my bishops travel 2 squares, they are actually covering a distance of 2 times square root of 2,
+
+7
+00:00:39,840 --> 00:00:46,400
+ which is 2.8, longer than 2.25, which means my bishops can only travel 1 square each time in
+
+8
+00:00:46,400 --> 00:00:52,080
+ this game, which means they are absolutely useless, so there is no need to push the center pawns.
+
+9
+00:00:53,520 --> 00:01:00,400
+ D5. Rook K3. Moving in a straight line is the only way I can utilize this challenge to the utmost.
+
+10
+00:01:00,400 --> 00:01:14,080
+ C5. H4. G5. Very aggressive. Left blunders a pawn. H6. I want to move this rook to the king's side,
+
+11
+00:01:14,080 --> 00:01:24,880
+ therefore, rook C3. Well, I guess it'll take a while. H takes G5. Wait. That blunders a rook,
+
+12
+00:01:24,880 --> 00:01:29,360
+ but I cannot take it due to the rules, and I also cannot move my rook anywhere,
+
+13
+00:01:29,360 --> 00:01:32,640
+ because it will die regardless.
+
+14
+00:01:39,120 --> 00:01:44,720
+ It's fine, at least I can take back a bishop, and who knows, maybe he'll decide to be an unpaid
+
+15
+00:01:44,720 --> 00:01:56,080
+ actor and not take my rook. And he did. Rook G3. Ha! Thank you very much. Rook H1. Very aggressive.
+
+16
+00:01:56,080 --> 00:02:04,000
+ I'll take this pawn. My knights cannot move anyway. So f*** them. Rook takes useless horsey.
+
+17
+00:02:04,640 --> 00:02:13,440
+ E4. We'll use our queen. Rook takes F1. King takes. Ha! Now it's like a two pieces for a
+
+18
+00:02:13,440 --> 00:02:17,920
+ rook trade, which is definitely good for me because those pieces are trash for this game.
+
+19
+00:02:17,920 --> 00:02:29,200
+ Bishop H6. That blunders a horsey, but it is too far. Bishop G7. I can take it. F takes E4.
+
+20
+00:02:29,920 --> 00:02:35,680
+ Ah ha! That blunders a knight and a queen, but after I take his knight, there is a small chance
+
+21
+00:02:35,680 --> 00:02:40,880
+ that he'll go king F7, which actually trash my rook because his queen is too far away and my rook
+
+22
+00:02:40,880 --> 00:02:48,000
+ cannot be retreated to a safe square. So I guess, queen E2. It's fine, there's no need to rush.
+
+23
+00:02:48,000 --> 00:02:56,160
+ Knight F6. Queen E3. And don't even tell me that I blundered a fork. I see that.
+
+24
+00:02:57,600 --> 00:03:04,640
+ And he sees it too. Queen G3. Since I've already broken down his kingside, it's better to just
+
+25
+00:03:04,640 --> 00:03:10,000
+ use two pieces to deliver a quick checkmate than to spend too many moves on unnecessary pieces.
+
+26
+00:03:10,000 --> 00:03:20,560
+ D takes C3. Queen G5. We're slowly getting there. King F8. We can easily see,
+
+27
+00:03:20,560 --> 00:03:30,640
+ that he's getting scared. Queen G6. Threatening queen F7 mate. Queen E8. Queen H6. Threatening
+
+28
+00:03:30,640 --> 00:03:38,960
+ queen H8 knight G8 queen G8 checkmate in two. Knight G8. This guy is really defending all of
+
+29
+00:03:38,960 --> 00:03:49,520
+ my mating threats. Queen H7. Let's see how long he can survive. Well. Not very long. Queen H8
+
+30
+00:03:49,520 --> 00:03:57,600
+ knight G8 queen G8 checkmate. Mission accomplished.
+
+31
+00:03:57,760 --> 00:04:10,160
+ [Music]
+

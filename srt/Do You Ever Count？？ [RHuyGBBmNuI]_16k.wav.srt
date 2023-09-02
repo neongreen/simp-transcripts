@@ -1,0 +1,368 @@
+1
+00:00:00,000 --> 00:00:06,000
+ 100 rated chess, but if there are more than 40 possible moves you can make...
+
+2
+00:00:06,000 --> 00:00:07,760
+ The video ends.
+
+3
+00:00:07,760 --> 00:00:14,360
+ I'm sure there are already some people saying that changing 27 to 40 is too much of a negotiation,
+
+4
+00:00:14,360 --> 00:00:19,840
+ but please trust me, 40 is an absolutely fair number, and you will see the reason during
+
+5
+00:00:19,840 --> 00:00:21,220
+ the game.
+
+6
+00:00:21,220 --> 00:00:26,320
+ But anyway, for a challenge like this, I think I should be picking a longer time control
+
+7
+00:00:26,320 --> 00:00:32,880
+ like 10 minutes, or even 15 minutes so that I can count the moves before making a decision.
+
+8
+00:00:32,880 --> 00:00:35,740
+ But no, that is a coward act.
+
+9
+00:00:35,740 --> 00:00:38,520
+ I will play 3 minute splits.
+
+10
+00:00:38,520 --> 00:00:39,520
+ Let's go.
+
+11
+00:00:39,520 --> 00:00:44,560
+ I will use my instinct and strategies to beat this challenge, without even needing to count
+
+12
+00:00:44,560 --> 00:00:45,640
+ the moves.
+
+13
+00:00:45,640 --> 00:00:48,680
+ We get a 1 56 from Peru.
+
+14
+00:00:48,680 --> 00:00:51,760
+ With a very fat cat profile picture.
+
+15
+00:00:51,760 --> 00:00:53,960
+ E4.
+
+16
+00:00:53,960 --> 00:00:54,960
+ First move.
+
+17
+00:00:54,960 --> 00:01:00,080
+ We have 16, plus 4, is 20 different moves.
+
+18
+00:01:00,080 --> 00:01:02,560
+ Which is less than 40.
+
+19
+00:01:02,560 --> 00:01:04,960
+ Knight C6.
+
+20
+00:01:04,960 --> 00:01:06,480
+ Knight C3.
+
+21
+00:01:06,480 --> 00:01:08,200
+ 22.
+
+22
+00:01:08,200 --> 00:01:09,640
+ Knight F6.
+
+23
+00:01:09,640 --> 00:01:13,560
+ Please remember that even though there is a number right here showing how many different
+
+24
+00:01:13,560 --> 00:01:18,680
+ moves there are, I did not have that during the game, so I'm literally playing the game
+
+25
+00:01:18,680 --> 00:01:23,100
+ blindly and trying to be safe as much as possible.
+
+26
+00:01:23,100 --> 00:01:24,640
+ Knight F3.
+
+27
+00:01:24,640 --> 00:01:31,160
+ You see, just by developing the knights already brought the number to 24, so 27 was obviously
+
+28
+00:01:31,160 --> 00:01:33,160
+ a bad idea.
+
+29
+00:01:33,160 --> 00:01:34,580
+ But anyway.
+
+30
+00:01:34,580 --> 00:01:37,280
+ Here comes the serious stuff.
+
+31
+00:01:37,280 --> 00:01:39,900
+ D6.
+
+32
+00:01:39,900 --> 00:01:41,640
+ The plan is simple.
+
+33
+00:01:41,640 --> 00:01:47,160
+ All I have to do, is to trade down the pieces, and if there are only pawns and kings on the
+
+34
+00:01:47,160 --> 00:01:51,080
+ board, the video can never end.
+
+35
+00:01:51,080 --> 00:01:52,760
+ Bishop E2.
+
+36
+00:01:52,760 --> 00:01:54,800
+ Bishop G4.
+
+37
+00:01:54,800 --> 00:01:55,800
+ Castle.
+
+38
+00:01:55,800 --> 00:01:56,800
+ Dude.
+
+39
+00:01:56,800 --> 00:02:01,320
+ It's already at 35 when I've only developed a bishop.
+
+40
+00:02:01,320 --> 00:02:04,320
+ But of course, I didn't know that during the game.
+
+41
+00:02:04,320 --> 00:02:07,600
+ Let's trade it down real fast.
+
+42
+00:02:07,600 --> 00:02:09,520
+ Perfect.
+
+43
+00:02:09,520 --> 00:02:12,480
+ One down, a lot more to go.
+
+44
+00:02:12,480 --> 00:02:13,480
+ Knight E5.
+
+45
+00:02:13,480 --> 00:02:17,920
+ I mean it's right there for me to trade, so why not.
+
+46
+00:02:17,920 --> 00:02:19,760
+ D4.
+
+47
+00:02:19,760 --> 00:02:21,720
+ Thank you.
+
+48
+00:02:21,720 --> 00:02:23,000
+ Queen takes.
+
+49
+00:02:23,000 --> 00:02:24,200
+ Ah ha.
+
+50
+00:02:24,200 --> 00:02:29,280
+ Since he got his queen out, this is a very good chance to trade down my queen.
+
+51
+00:02:29,280 --> 00:02:30,280
+ E5.
+
+52
+00:02:30,280 --> 00:02:35,720
+ I have to be careful though, because once I take my queen out, the video is immediately
+
+53
+00:02:35,720 --> 00:02:38,360
+ put at risk.
+
+54
+00:02:38,360 --> 00:02:40,280
+ D takes E5.
+
+55
+00:02:40,280 --> 00:02:45,340
+ Taking back that pawn will open up this massive file for my queen and also this very long
+
+56
+00:02:45,340 --> 00:02:51,000
+ diagonal for my bishop, and even though normally that is really good, it actually sucks for
+
+57
+00:02:51,000 --> 00:02:52,360
+ this challenge.
+
+58
+00:02:52,360 --> 00:02:55,800
+ Therefore, knight back to D7.
+
+59
+00:02:55,800 --> 00:03:00,760
+ Let's just let him take that pawn and I'll develop my bishop first.
+
+60
+00:03:00,760 --> 00:03:02,400
+ He takes D6.
+
+61
+00:03:02,400 --> 00:03:07,760
+ I mean I should spend some time to count the squares after bishop takes D6.
+
+62
+00:03:07,760 --> 00:03:11,120
+ But no, I don't have such luxury.
+
+63
+00:03:11,120 --> 00:03:12,600
+ Bishop takes D6.
+
+64
+00:03:12,600 --> 00:03:17,360
+ I have faith that I will not go over 40 squares.
+
+65
+00:03:17,360 --> 00:03:19,020
+ Ha.
+
+66
+00:03:19,020 --> 00:03:22,160
+ He even blocked down a square for me.
+
+67
+00:03:22,160 --> 00:03:23,880
+ That blunders a pawn.
+
+68
+00:03:23,880 --> 00:03:29,160
+ And even better, my bishop on D6 was seeing a long diagonal to his king, but when it's
+
+69
+00:03:29,160 --> 00:03:34,800
+ over here, his knight has already blocked out such diagonal.
+
+70
+00:03:34,800 --> 00:03:36,800
+ A pawn push.
+
+71
+00:03:36,800 --> 00:03:37,800
+ Another trade.
+
+72
+00:03:37,800 --> 00:03:42,560
+ Okay now please just see that your queen can go horizontally.
+
+73
+00:03:42,560 --> 00:03:44,640
+ Perfect.
+
+74
+00:03:44,640 --> 00:03:46,760
+ Castle.
+
+75
+00:03:46,760 --> 00:03:49,360
+ Here's how I predict it will happen.
+
+76
+00:03:49,360 --> 00:03:54,120
+ Bishop B2, queen F6, and 2 things can happen.
+
+77
+00:03:54,120 --> 00:03:58,200
+ One is that he takes my queen immediately and I win this game.
+
+78
+00:03:58,200 --> 00:04:02,720
+ Two is that he moves his queen away and my video is f***ed.
+
+79
+00:04:02,720 --> 00:04:05,120
+ Ah ha.
+
+80
+00:04:05,120 --> 00:04:06,560
+ Here we go.
+
+81
+00:04:06,560 --> 00:04:07,920
+ Queen F6.
+
+82
+00:04:07,920 --> 00:04:09,240
+ Man.
+
+83
+00:04:09,240 --> 00:04:12,760
+ This is obviously a suicidal decision.
+
+84
+00:04:12,760 --> 00:04:14,760
+ No.
+
+85
+00:04:14,760 --> 00:04:16,960
+ Wait.
+
+86
+00:04:16,960 --> 00:04:20,640
+ There is still a chance that it's not over 40 yet.
+
+87
+00:04:20,640 --> 00:04:22,260
+ Let's count.
+
+88
+00:04:22,260 --> 00:04:31,160
+ 5 pawns is 10, knight is 14, king 15, each rook can move 4 squares, so it's 23.
+
+89
+00:04:31,160 --> 00:04:33,760
+ And then there's the queen.
+
+90
+00:04:33,760 --> 00:04:34,760
+ My goodness.
+
+91
+00:04:34,760 --> 00:04:41,640
+ 25, 27, 31, 34, 39, and 4.
+
+92
+00:04:41,640 --> 00:04:56,120
+ *outro*
+

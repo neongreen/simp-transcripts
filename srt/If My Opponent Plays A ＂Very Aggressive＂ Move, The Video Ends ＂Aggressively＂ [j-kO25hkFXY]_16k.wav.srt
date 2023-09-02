@@ -1,0 +1,268 @@
+1
+00:00:00,000 --> 00:00:04,000
+ If my opponent plays a very aggressive move,
+
+2
+00:00:04,000 --> 00:00:08,000
+ the video ends aggressively,
+
+3
+00:00:08,000 --> 00:00:13,000
+ playing 3 minute splits on a 100 rated account.
+
+4
+00:00:13,000 --> 00:00:16,000
+ Well, maybe you are wondering,
+
+5
+00:00:16,000 --> 00:00:20,000
+ when do we consider a move as an aggressive one?
+
+6
+00:00:20,000 --> 00:00:26,000
+ No worries, because I will be the judge of that.
+
+7
+00:00:26,000 --> 00:00:29,000
+ If I think a move is very aggressive,
+
+8
+00:00:29,000 --> 00:00:31,000
+ then it is very aggressive,
+
+9
+00:00:31,000 --> 00:00:35,000
+ and if I don't, then it's not.
+
+10
+00:00:35,000 --> 00:00:37,000
+ Very simple.
+
+11
+00:00:37,000 --> 00:00:39,000
+ And with that out of the way,
+
+12
+00:00:39,000 --> 00:00:42,000
+ let's find an opponent.
+
+13
+00:00:42,000 --> 00:00:48,000
+ We get a 174 from Australia.
+
+14
+00:00:48,000 --> 00:00:51,000
+ Ok, first move.
+
+15
+00:00:51,000 --> 00:00:55,000
+ I think in order to prevent my opponent from playing aggressively,
+
+16
+00:00:55,000 --> 00:01:00,000
+ I need to play even more aggressively.
+
+17
+00:01:00,000 --> 00:01:02,000
+ E4.
+
+18
+00:01:02,000 --> 00:01:06,000
+ E5.
+
+19
+00:01:06,000 --> 00:01:09,000
+ Nothing special so far.
+
+20
+00:01:09,000 --> 00:01:11,000
+ Knight f3.
+
+21
+00:01:11,000 --> 00:01:16,000
+ Bishop c5.
+
+22
+00:01:16,000 --> 00:01:18,000
+ That is a gambit.
+
+23
+00:01:18,000 --> 00:01:23,000
+ And gambits can be considered as aggressive openings.
+
+24
+00:01:23,000 --> 00:01:27,000
+ But still, I don't think this is too aggressive.
+
+25
+00:01:27,000 --> 00:01:31,000
+ You know, like, it's kinda aggressive,
+
+26
+00:01:31,000 --> 00:01:36,000
+ but not too aggressive, that makes me end my video.
+
+27
+00:01:36,000 --> 00:01:39,000
+ Therefore, knight takes e5.
+
+28
+00:01:39,000 --> 00:01:42,000
+ Accepting a gambit is an aggressive play,
+
+29
+00:01:42,000 --> 00:01:46,000
+ but of course, this challenge only affects my opponent,
+
+30
+00:01:46,000 --> 00:01:50,000
+ so it doesn't matter how crazy my play is.
+
+31
+00:01:51,000 --> 00:01:53,000
+ Queen f6.
+
+32
+00:01:53,000 --> 00:01:55,000
+ Very aggressive.
+
+33
+00:01:55,000 --> 00:01:57,000
+ No.
+
+34
+00:01:57,000 --> 00:01:59,000
+ I mean it looks kinda aggressive,
+
+35
+00:01:59,000 --> 00:02:02,000
+ but it's not too aggressive.
+
+36
+00:02:02,000 --> 00:02:05,000
+ I mean if he really wants to play aggressively,
+
+37
+00:02:05,000 --> 00:02:07,000
+ he can just play queen h4,
+
+38
+00:02:07,000 --> 00:02:10,000
+ forking my e-pawn and my f-pawn.
+
+39
+00:02:10,000 --> 00:02:14,000
+ But instead, he chose queen f6,
+
+40
+00:02:14,000 --> 00:02:16,000
+ which allows knight f3,
+
+41
+00:02:16,000 --> 00:02:19,000
+ going back to safety.
+
+42
+00:02:19,000 --> 00:02:24,000
+ And also keeps his queen from getting into too much trouble in the future.
+
+43
+00:02:24,000 --> 00:02:26,000
+ So in conclusion,
+
+44
+00:02:26,000 --> 00:02:28,000
+ I think that,
+
+45
+00:02:28,000 --> 00:02:30,000
+ he played aggressively,
+
+46
+00:02:30,000 --> 00:02:33,000
+ but he also didn't want to play too aggressively.
+
+47
+00:02:33,000 --> 00:02:35,000
+ Which means,
+
+48
+00:02:35,000 --> 00:02:36,000
+ the video,
+
+49
+00:02:36,000 --> 00:02:38,000
+ survived.
+
+50
+00:02:38,000 --> 00:02:40,000
+ d4.
+
+51
+00:02:40,000 --> 00:02:42,000
+ This move is really aggressive,
+
+52
+00:02:42,000 --> 00:02:43,000
+ but again,
+
+53
+00:02:43,000 --> 00:02:46,000
+ who cares how I play anyway.
+
+54
+00:02:46,000 --> 00:02:48,000
+ And the best thing is,
+
+55
+00:02:48,000 --> 00:02:49,000
+ in this position,
+
+56
+00:02:49,000 --> 00:02:52,000
+ he doesn't have any aggressive moves at all.
+
+57
+00:02:52,000 --> 00:02:53,000
+ Well,
+
+58
+00:02:53,000 --> 00:02:57,000
+ I mean he does have things like bishop takes d4,
+
+59
+00:02:57,000 --> 00:03:01,000
+ or even queen takes f2 going absolutely crazy.
+
+60
+00:03:01,000 --> 00:03:07,000
+ What the f
+
+61
+00:03:08,000 --> 00:03:09,000
+ What the f
+
+62
+00:03:09,000 --> 00:03:10,000
+ What the f
+
+63
+00:03:10,000 --> 00:03:11,000
+ What the f
+
+64
+00:03:11,000 --> 00:03:12,000
+ What the f
+
+65
+00:03:12,000 --> 00:03:13,000
+ What the f
+
+66
+00:03:13,000 --> 00:03:14,000
+ What the f
+
+67
+00:03:14,000 --> 00:03:15,000
+ What the f
+

@@ -1,0 +1,92 @@
+1
+00:00:00,000 --> 00:00:05,920
+ 100 rated chess, but you need to make a position where you can checkmate your opponent in at least
+
+2
+00:00:05,920 --> 00:00:13,760
+ 3 different ways. If they resign, you lose. Very challenging. We get a 2 24 from Brazil.
+
+3
+00:00:13,760 --> 00:00:23,600
+ D4. The best opening to get an early checkmate against D4, is of course, E5. England, gambit.
+
+4
+00:00:24,880 --> 00:00:33,840
+ E3. Not very aggressive. E4 knight H3 D5 bishop E2. I'll take that horsey. Destroying his king
+
+5
+00:00:33,840 --> 00:00:43,840
+ side can never be a bad choice. G takes H3. Bishop D6. Alright, please castle. Maybe later.
+
+6
+00:00:43,840 --> 00:00:53,360
+ Queen H4. Bishop back. Well, not very aggressive. So in order to create 3 ways to checkmate him,
+
+7
+00:00:53,360 --> 00:01:02,080
+ I need a lot of pieces into the attack straight at his king. Therefore, knight D7. Bishop E5. C6.
+
+8
+00:01:02,080 --> 00:01:10,720
+ A4. Ah ha, that blunders a bishop, but if I take his bishop, my opponent may decide to resign,
+
+9
+00:01:10,720 --> 00:01:15,120
+ as that is literally the only piece he's been moving from the beginning of the game.
+
+10
+00:01:15,120 --> 00:01:23,520
+ So I guess, I'll take this pawn instead. Bishop D2. Queen G2. I mean I technically don't want to
+
+11
+00:01:23,520 --> 00:01:28,480
+ take this rook to avoid a resignation, but putting the queen here should help a lot in order to
+
+12
+00:01:28,480 --> 00:01:39,280
+ attack his king. Knight C3. Knight F6. Queen E2. Ah ha, he obviously wants to castle queen side,
+
+13
+00:01:39,280 --> 00:01:44,160
+ which is definitely going to be really bad for this video because my queen is still on the king
+
+14
+00:01:44,160 --> 00:01:51,520
+ side. Therefore, I have to take this rook. Queen F1 queen F3. Stopping his king from castling.
+
+15
+00:01:51,520 --> 00:02:00,560
+ Queen back to E2. Oh no. He wants to block my queen's view and castle, so I need to go,
+
+16
+00:02:00,560 --> 00:02:08,240
+ queen H1 again, queen F1 queen F3. I mean in case he really goes queen E2 next, I cannot go back to
+
+17
+00:02:08,240 --> 00:02:14,400
+ H1 due to 3-fold repetition, but who knows, maybe he himself doesn't really want to draw.
+
+18
+00:02:14,400 --> 00:02:25,280
+ Ha, of course he doesn't want to draw. I'll take this pawn. Queen H1. That blunders a queen.
+
+19
+00:02:25,280 --> 00:02:30,720
+ You may say that taking his queen is a stupid idea because that is just provoking him to resign the
+
+20
+00:02:30,720 --> 00:02:36,880
+ game, but no, since he didn't want to draw by repetition, he is obviously aiming for a win,
+
+21
+00:02:36,880 --> 00:02:43,440
+ and someone aiming for a win obviously never resigns. Of course.
+
+22
+00:02:43,440 --> 00:02:50,320
+ What the f-
+
+23
+00:02:50,320 --> 00:03:04,720
+ [Music]
+

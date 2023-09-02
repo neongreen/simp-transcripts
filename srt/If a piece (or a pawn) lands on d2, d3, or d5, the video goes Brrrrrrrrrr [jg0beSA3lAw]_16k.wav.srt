@@ -1,0 +1,360 @@
+1
+00:00:00,000 --> 00:00:08,000
+ If a piece or a pawn lands on d3, the video goes 3d.
+
+2
+00:00:08,000 --> 00:00:17,000
+ Then, if a piece or a pawn lands on d2, the video goes 2d.
+
+3
+00:00:17,000 --> 00:00:29,000
+ Then, if a piece or a pawn lands on d5, the game changes to 5d chess with multiverse time travel.
+
+4
+00:00:29,000 --> 00:00:36,000
+ That last one sounds a bit too dank. But still, it's not like I'll let that happen.
+
+5
+00:00:36,000 --> 00:00:39,000
+ Let's find an opponent.
+
+6
+00:00:39,000 --> 00:00:46,000
+ We get a 157 from Spain.
+
+7
+00:00:46,000 --> 00:00:52,000
+ For those of you who are looking for those squares, this is d2.
+
+8
+00:00:52,000 --> 00:00:55,000
+ This is d3.
+
+9
+00:00:55,000 --> 00:00:58,000
+ And this is d5.
+
+10
+00:00:58,000 --> 00:01:05,000
+ If something lands on any of those squares, the video changes accordingly to the rules.
+
+11
+00:01:05,000 --> 00:01:13,000
+ And of course, there is already a pawn on d2. Which means the video needs to change to 2d.
+
+12
+00:01:13,000 --> 00:01:17,000
+ But as you can see, it's already in 2d.
+
+13
+00:01:17,000 --> 00:01:20,000
+ Therefore, nothing changes.
+
+14
+00:01:20,000 --> 00:01:25,000
+ And since the d2 and d3 squares are totally my control,
+
+15
+00:01:25,000 --> 00:01:31,000
+ all I need to do, is to prevent my opponent from putting anything on d5.
+
+16
+00:01:31,000 --> 00:01:37,000
+ Normally, e4 should be the best move, but since he may be a Scandinavian player,
+
+17
+00:01:37,000 --> 00:01:40,000
+ e4 is too risky.
+
+18
+00:01:40,000 --> 00:01:43,000
+ So I guess, c4.
+
+19
+00:01:43,000 --> 00:01:49,000
+ Of course he can still play d5, but there's nothing more I can do.
+
+20
+00:01:49,000 --> 00:01:52,000
+ e5.
+
+21
+00:01:52,000 --> 00:01:56,000
+ Aha! He obviously wants a reversed Sicilian.
+
+22
+00:01:56,000 --> 00:01:58,000
+ But no!
+
+23
+00:01:58,000 --> 00:01:59,000
+ e5.
+
+24
+00:01:59,000 --> 00:02:03,000
+ I need to overprotect the d5 square.
+
+25
+00:02:03,000 --> 00:02:06,000
+ a6.
+
+26
+00:02:06,000 --> 00:02:08,000
+ Very non-aggressive.
+
+27
+00:02:08,000 --> 00:02:10,000
+ Knight c3.
+
+28
+00:02:10,000 --> 00:02:14,000
+ Of course, more pressure on d5.
+
+29
+00:02:14,000 --> 00:02:17,000
+ b5.
+
+30
+00:02:17,000 --> 00:02:19,000
+ Very aggressive.
+
+31
+00:02:19,000 --> 00:02:22,000
+ Taking the b-pawn should be the best move.
+
+32
+00:02:22,000 --> 00:02:27,000
+ But of course, I need my c-pawn to defend the d5 square.
+
+33
+00:02:27,000 --> 00:02:31,000
+ Therefore, b3.
+
+34
+00:02:31,000 --> 00:02:34,000
+ bxc4.
+
+35
+00:02:34,000 --> 00:02:37,000
+ bxc4.
+
+36
+00:02:37,000 --> 00:02:41,000
+ knight c6.
+
+37
+00:02:41,000 --> 00:02:45,000
+ It seems like he wants knight d4, which is totally fine,
+
+38
+00:02:45,000 --> 00:02:49,000
+ because the rules didn't say anything about 4d chess.
+
+39
+00:02:49,000 --> 00:02:52,000
+ Knight f3.
+
+40
+00:02:52,000 --> 00:02:55,000
+ Knight d4.
+
+41
+00:02:55,000 --> 00:02:57,000
+ That blunders a pawn.
+
+42
+00:02:57,000 --> 00:03:00,000
+ But I think it's better to leave his pawn under attack,
+
+43
+00:03:00,000 --> 00:03:03,000
+ so that he'll play d6 to defend it,
+
+44
+00:03:03,000 --> 00:03:05,000
+ and after he's played d6,
+
+45
+00:03:05,000 --> 00:03:09,000
+ it's more unlikely that he's going to push that pawn again.
+
+46
+00:03:09,000 --> 00:03:12,000
+ Therefore, bishop e2.
+
+47
+00:03:12,000 --> 00:03:15,000
+ I want him to take my bishop instead of my knight,
+
+48
+00:03:15,000 --> 00:03:20,000
+ so that my knight can keep the pressure on his e-pawn.
+
+49
+00:03:20,000 --> 00:03:23,000
+ Knight takes e2.
+
+50
+00:03:23,000 --> 00:03:25,000
+ Exactly as I planned.
+
+51
+00:03:25,000 --> 00:03:27,000
+ Queen takes.
+
+52
+00:03:27,000 --> 00:03:32,000
+ Now he should play d6 to defend his pawn, right?
+
+53
+00:03:32,000 --> 00:03:35,000
+ Bishop b7.
+
+54
+00:03:35,000 --> 00:03:37,000
+ That blunders the e-pawn again,
+
+55
+00:03:37,000 --> 00:03:41,000
+ but of course, let's give him one more chance.
+
+56
+00:03:41,000 --> 00:03:43,000
+ Castle.
+
+57
+00:03:43,000 --> 00:03:46,000
+ Knight f6.
+
+58
+00:03:46,000 --> 00:03:48,000
+ He still doesn't see it.
+
+59
+00:03:48,000 --> 00:03:50,000
+ Bishop b2.
+
+60
+00:03:50,000 --> 00:03:54,000
+ I'm putting even more pressure on his e-pawn.
+
+61
+00:03:54,000 --> 00:03:58,000
+ c6.
+
+62
+00:03:58,000 --> 00:03:59,000
+ Ah ha!
+
+63
+00:03:59,000 --> 00:04:02,000
+ So he obviously wants to go d5,
+
+64
+00:04:02,000 --> 00:04:05,000
+ which makes me change the game.
+
+65
+00:04:05,000 --> 00:04:08,000
+ Therefore, I'll take his pawn.
+
+66
+00:04:08,000 --> 00:04:10,000
+ Now since my knight is very close,
+
+67
+00:04:10,000 --> 00:04:15,000
+ he'll definitely play d6 to attack it, right?
+
+68
+00:04:15,000 --> 00:04:18,000
+ Rook g8.
+
+69
+00:04:18,000 --> 00:04:21,000
+ That looks like a mouse slip.
+
+70
+00:04:21,000 --> 00:04:22,000
+ d4.
+
+71
+00:04:22,000 --> 00:04:26,000
+ I'm trying to get him focus on my knight.
+
+72
+00:04:26,000 --> 00:04:32,000
+ Okay, let's change game.
+
+73
+00:04:32,000 --> 00:04:33,000
+ Yes!
+
+74
+00:04:33,000 --> 00:04:36,000
+ I've just had to buy this game for $5.
+
+75
+00:04:36,000 --> 00:04:40,000
+ If this video doesn't make me more than $5,
+
+76
+00:04:40,000 --> 00:04:42,000
+ I think I'm going to cry.
+
+77
+00:04:42,000 --> 00:04:46,000
+ But anyway, let's get in there.
+
+78
+00:04:46,000 --> 00:04:58,000
+ Guide.
+
+79
+00:04:58,000 --> 00:04:59,000
+ Nah.
+
+80
+00:04:59,000 --> 00:05:01,000
+ Who cares?
+
+81
+00:05:01,000 --> 00:05:03,000
+ I can play chess.
+
+82
+00:05:03,000 --> 00:05:05,000
+ Public match.
+
+83
+00:05:05,000 --> 00:05:09,000
+ Let's go for short clocks.
+
+84
+00:05:09,000 --> 00:05:17,000
+ Okay, I've been waiting for a while now,
+
+85
+00:05:17,000 --> 00:05:19,000
+ and came to a conclusion,
+
+86
+00:05:19,000 --> 00:05:23,000
+ that very few people are playing this game now.
+
+87
+00:05:23,000 --> 00:05:27,000
+ Therefore, let's just end the video instead.
+
+88
+00:05:27,000 --> 00:05:30,000
+ Thank you for watching.
+
+89
+00:05:30,000 --> 00:05:33,000
+ See you next time.
+
+90
+00:05:33,000 --> 00:05:41,000
+ [Music]
+

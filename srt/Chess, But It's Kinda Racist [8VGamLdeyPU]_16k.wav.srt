@@ -1,0 +1,204 @@
+1
+00:00:00,000 --> 00:00:07,280
+ 100 rated chess, but you can only land your pieces and pawns on a different color square
+
+2
+00:00:07,280 --> 00:00:10,800
+ from where your opponent landed theirs.
+
+3
+00:00:10,800 --> 00:00:12,280
+ Alright then.
+
+4
+00:00:12,280 --> 00:00:15,480
+ We get a 2 1 3 from India.
+
+5
+00:00:15,480 --> 00:00:17,960
+ e4.
+
+6
+00:00:17,960 --> 00:00:20,800
+ That pawn landed on a light square.
+
+7
+00:00:20,800 --> 00:00:24,720
+ Therefore, e5.
+
+8
+00:00:24,720 --> 00:00:26,560
+ Queen f3.
+
+9
+00:00:26,560 --> 00:00:29,480
+ Light square again, knight f6.
+
+10
+00:00:29,480 --> 00:00:35,480
+ I have to be really careful, because if he takes something, I won't be able to take back.
+
+11
+00:00:35,480 --> 00:00:41,000
+ For example, if he takes my knight here, that is a dark square move, which means I cannot
+
+12
+00:00:41,000 --> 00:00:45,580
+ take back, since I'll have to make a light square move.
+
+13
+00:00:45,580 --> 00:00:51,520
+ But of course, there's no way he's going to make such an absurd move like that.
+
+14
+00:00:51,520 --> 00:00:53,480
+ Right?
+
+15
+00:00:53,480 --> 00:00:55,560
+ Bishop c4.
+
+16
+00:00:55,560 --> 00:00:57,960
+ Another light square move.
+
+17
+00:00:57,960 --> 00:01:03,920
+ Bishop c5. Oh wait, don't tell me you're gonna play d4 here.
+
+18
+00:01:03,920 --> 00:01:05,560
+ Phew!
+
+19
+00:01:05,560 --> 00:01:06,960
+ Thank god.
+
+20
+00:01:06,960 --> 00:01:12,400
+ I was worrying that he was going to play d4, which blunders a pawn, but since it's a dark
+
+21
+00:01:12,400 --> 00:01:17,880
+ square move, I won't be able to take it or move my bishop away, so instead of me winning
+
+22
+00:01:17,880 --> 00:01:21,280
+ a pawn, it's him winning my bishop.
+
+23
+00:01:21,280 --> 00:01:22,680
+ But anyway.
+
+24
+00:01:22,680 --> 00:01:23,960
+ Knight c6.
+
+25
+00:01:23,960 --> 00:01:29,280
+ I wanted to move my bishop away, but that's against the rules, so I decided to put more
+
+26
+00:01:29,280 --> 00:01:32,720
+ pressure on d4 instead.
+
+27
+00:01:32,720 --> 00:01:34,880
+ G4.
+
+28
+00:01:34,880 --> 00:01:36,520
+ Very aggressive.
+
+29
+00:01:36,520 --> 00:01:39,800
+ Knight d4.
+
+30
+00:01:39,800 --> 00:01:41,840
+ Queen f5.
+
+31
+00:01:41,840 --> 00:01:44,360
+ That blunders a queen.
+
+32
+00:01:44,360 --> 00:01:47,760
+ But I can't take it due to the rules.
+
+33
+00:01:47,760 --> 00:01:53,760
+ I also can't fork his king and rook, also due to the rules.
+
+34
+00:01:53,760 --> 00:01:54,920
+ Alright.
+
+35
+00:01:54,920 --> 00:01:56,560
+ It's fine.
+
+36
+00:01:56,560 --> 00:01:57,960
+ D6.
+
+37
+00:01:57,960 --> 00:02:02,440
+ If he blunders it once, he will blunder it again.
+
+38
+00:02:02,440 --> 00:02:05,400
+ And it happened sooner than I expected.
+
+39
+00:02:05,400 --> 00:02:12,040
+ But once again, I can't either take the queen, or take the fork, due to the rules.
+
+40
+00:02:12,040 --> 00:02:17,520
+ Even worse, instead of me forcing his queen to move, now it's him forcing my queen to
+
+41
+00:02:17,520 --> 00:02:21,520
+ move, or else I lose.
+
+42
+00:02:21,520 --> 00:02:25,880
+ Are you serious?
+
+43
+00:02:25,880 --> 00:02:28,720
+ And he resigned.
+
+44
+00:02:28,720 --> 00:02:32,600
+ I solemnly swear that this guy is not a paid actor.
+
+45
+00:02:32,600 --> 00:02:36,400
+ Or at least, I didn't pay him.
+
+46
+00:02:36,400 --> 00:02:37,400
+ But anyway.
+
+47
+00:02:37,400 --> 00:02:39,520
+ Mission, accomplished.
+
+48
+00:02:39,520 --> 00:02:42,880
+ [MUSIC PLAYING]
+
+49
+00:02:42,880 --> 00:02:46,240
+ [MUSIC PLAYING]
+
+50
+00:02:46,240 --> 00:02:49,600
+ [MUSIC PLAYING]
+
+51
+00:02:49,600 --> 00:02:54,720
+ [Music]
+

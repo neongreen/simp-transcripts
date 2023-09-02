@@ -1,0 +1,144 @@
+1
+00:00:00,000 --> 00:00:05,280
+ If Stockfish thinks that the game is balanced, the video ends.
+
+2
+00:00:05,280 --> 00:00:08,080
+ First three moves don't count.
+
+3
+00:00:08,080 --> 00:00:09,280
+ Disclaimer.
+
+4
+00:00:09,280 --> 00:00:12,800
+ I only use Stockfish's evaluation after the game is already done,
+
+5
+00:00:12,800 --> 00:00:15,600
+ which means I didn't use it during the game.
+
+6
+00:00:15,600 --> 00:00:20,000
+ And with that out of the way, let's start the game.
+
+7
+00:00:20,000 --> 00:00:23,760
+ We get a 100 rated from Mexico.
+
+8
+00:00:23,760 --> 00:00:26,720
+ E4.
+
+9
+00:00:26,720 --> 00:00:28,240
+ Sicilian.
+
+10
+00:00:28,240 --> 00:00:33,280
+ Wow. I would love to have a Sicilian game with a 100 rated opponent,
+
+11
+00:00:33,280 --> 00:00:39,200
+ but sadly, I'm actually making a video, so it's pretty much not possible.
+
+12
+00:00:39,200 --> 00:00:44,800
+ Queen H5. Don't panic guys, I have a plan.
+
+13
+00:00:44,800 --> 00:00:51,840
+ G5. That blunders a pawn, and as you can see, the evaluation went to 1.1 for me,
+
+14
+00:00:51,840 --> 00:00:55,200
+ which is more than enough to continue playing normally.
+
+15
+00:00:55,200 --> 00:00:58,880
+ But sadly, I didn't know that during the game.
+
+16
+00:00:58,880 --> 00:01:02,080
+ Therefore, I went for the safe route.
+
+17
+00:01:02,080 --> 00:01:06,000
+ Queen takes F7. Check.
+
+18
+00:01:06,000 --> 00:01:10,160
+ King takes F7. My plan was to give him a free queen,
+
+19
+00:01:10,160 --> 00:01:14,000
+ so that he's up a ton of material, and then I'll find a way
+
+20
+00:01:14,000 --> 00:01:19,280
+ to shift the game from his advantage, straight towards a forced checkmate.
+
+21
+00:01:19,280 --> 00:01:22,640
+ Bishop C4 check.
+
+22
+00:01:22,640 --> 00:01:27,680
+ King back to E8. Oh wait. I have an idea.
+
+23
+00:01:27,680 --> 00:01:33,440
+ Bishop back to E2. Can you see my idea guys?
+
+24
+00:01:33,440 --> 00:01:38,800
+ Knight H6. And since my 100 rated opponent saw my idea,
+
+25
+00:01:38,800 --> 00:01:42,240
+ I will assume that all of you guys did too.
+
+26
+00:01:42,240 --> 00:01:49,040
+ D4. Since I already lost a queen, who cares about another pawn anyway?
+
+27
+00:01:49,040 --> 00:01:56,880
+ Knight F5. And look at that E-val bar. But it's only been move 7 into the video,
+
+28
+00:01:56,880 --> 00:02:04,800
+ which means the video is so short. Well who cares, bishop H5, checkmate.
+
+29
+00:02:04,800 --> 00:02:10,880
+ And since the video is so short, I'll answer some of your comments instead.
+
+30
+00:02:10,880 --> 00:02:15,920
+ That's not not even close, it almost ended your video.
+
+31
+00:02:15,920 --> 00:02:21,760
+ Well, not even close. Imagine living in Asia and not knowing
+
+32
+00:02:21,760 --> 00:02:26,320
+ what croissants and mukbangs are shake my head my head.
+
+33
+00:02:26,320 --> 00:02:33,200
+ Well, I'm very sorry for that. What's an M? So in case you don't know
+
+34
+00:02:33,200 --> 00:02:35,840
+ about it, I would prefer you totally not knowing
+
+35
+00:02:35,840 --> 00:02:42,640
+ about it, and it's purely for your own goo- Oh wait he knew about it. Yikes.
+
+36
+00:02:42,640 --> 00:02:55,440
+ [Music]
+

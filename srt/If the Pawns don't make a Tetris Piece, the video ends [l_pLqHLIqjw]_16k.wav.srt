@@ -1,0 +1,488 @@
+1
+00:00:00,000 --> 00:00:04,000
+ If neither player's pawn structure contains a Tetris piece,
+
+2
+00:00:04,000 --> 00:00:07,000
+ the video ends.
+
+3
+00:00:07,000 --> 00:00:09,000
+ Very interesting.
+
+4
+00:00:09,000 --> 00:00:12,000
+ For those of you who don't know what Tetris is,
+
+5
+00:00:12,000 --> 00:00:16,000
+ it's basically a Russian game, made in the 80s.
+
+6
+00:00:16,000 --> 00:00:21,000
+ But anyway, for this video, we only have to care about the Tetris pieces,
+
+7
+00:00:21,000 --> 00:00:23,000
+ not the gameplay.
+
+8
+00:00:23,000 --> 00:00:26,000
+ There are 5 types of pieces like this.
+
+9
+00:00:26,000 --> 00:00:29,000
+ Of course you can spin them around as well.
+
+10
+00:00:29,000 --> 00:00:34,000
+ If no one's pawn structure contains a shape like one of these shapes,
+
+11
+00:00:34,000 --> 00:00:37,000
+ the video ends.
+
+12
+00:00:37,000 --> 00:00:41,000
+ And with that out of the way, let's find an opponent.
+
+13
+00:00:41,000 --> 00:00:47,000
+ We get a 139 from Australia,
+
+14
+00:00:47,000 --> 00:00:50,000
+ with premium membership.
+
+15
+00:00:50,000 --> 00:00:52,000
+ E4.
+
+16
+00:00:52,000 --> 00:00:54,000
+ The plan is simple.
+
+17
+00:00:54,000 --> 00:00:58,000
+ All I have to do, is to keep these 4 pawns untouched,
+
+18
+00:00:58,000 --> 00:01:02,000
+ so they will always look like this Tetris piece.
+
+19
+00:01:02,000 --> 00:01:05,000
+ E5.
+
+20
+00:01:05,000 --> 00:01:07,000
+ Knight F3.
+
+21
+00:01:07,000 --> 00:01:09,000
+ So far so good.
+
+22
+00:01:09,000 --> 00:01:12,000
+ D5.
+
+23
+00:01:12,000 --> 00:01:14,000
+ I'll take it then.
+
+24
+00:01:14,000 --> 00:01:18,000
+ Can't just allow him to have 2 strong center pawns.
+
+25
+00:01:18,000 --> 00:01:21,000
+ Bishop C5.
+
+26
+00:01:21,000 --> 00:01:24,000
+ I'll take this pawn as well.
+
+27
+00:01:24,000 --> 00:01:27,000
+ Bishop F5.
+
+28
+00:01:27,000 --> 00:01:29,000
+ Knight F3.
+
+29
+00:01:29,000 --> 00:01:33,000
+ If he takes the pawn on C2, the video ends,
+
+30
+00:01:33,000 --> 00:01:35,000
+ but since he has premium membership,
+
+31
+00:01:35,000 --> 00:01:40,000
+ I believe that chess.com has already given him a lesson or two about the Scholar's Mate.
+
+32
+00:01:40,000 --> 00:01:42,000
+ Right?
+
+33
+00:01:42,000 --> 00:01:45,000
+ Yep.
+
+34
+00:01:45,000 --> 00:01:46,000
+ He found it.
+
+35
+00:01:46,000 --> 00:01:49,000
+ Not only he didn't take the pawn on C2,
+
+36
+00:01:49,000 --> 00:01:53,000
+ but he also used his queen to defend the F pawn.
+
+37
+00:01:53,000 --> 00:01:55,000
+ But anyway,
+
+38
+00:01:55,000 --> 00:01:58,000
+ he's as slummed as a bishop.
+
+39
+00:01:58,000 --> 00:02:01,000
+ Knight D7.
+
+40
+00:02:01,000 --> 00:02:05,000
+ He's offering a trade, and of course I'll take it.
+
+41
+00:02:05,000 --> 00:02:08,000
+ Queen takes.
+
+42
+00:02:08,000 --> 00:02:10,000
+ Knight takes.
+
+43
+00:02:10,000 --> 00:02:13,000
+ King E7.
+
+44
+00:02:13,000 --> 00:02:15,000
+ That looks like a mouse slip.
+
+45
+00:02:15,000 --> 00:02:18,000
+ But still, I don't care.
+
+46
+00:02:18,000 --> 00:02:21,000
+ Knight takes C5.
+
+47
+00:02:21,000 --> 00:02:23,000
+ Like no one once said,
+
+48
+00:02:23,000 --> 00:02:25,000
+ if your opponent mouse slipped,
+
+49
+00:02:25,000 --> 00:02:27,000
+ destroy them.
+
+50
+00:02:27,000 --> 00:02:29,000
+ Rook E8.
+
+51
+00:02:29,000 --> 00:02:31,000
+ Very aggressive.
+
+52
+00:02:31,000 --> 00:02:34,000
+ He's obviously planning to go King D6,
+
+53
+00:02:34,000 --> 00:02:36,000
+ with a discovered check on my king,
+
+54
+00:02:36,000 --> 00:02:38,000
+ and then king takes C5,
+
+55
+00:02:38,000 --> 00:02:41,000
+ willing to expose his king to the middle of the board,
+
+56
+00:02:41,000 --> 00:02:44,000
+ just to win back a piece.
+
+57
+00:02:44,000 --> 00:02:48,000
+ But of course, I don't want to lose my horsey.
+
+58
+00:02:48,000 --> 00:02:50,000
+ Bishop E2.
+
+59
+00:02:50,000 --> 00:02:54,000
+ Since I already lost 2 pieces due to the challenge's rules,
+
+60
+00:02:54,000 --> 00:02:58,000
+ losing 1 more is not really an option.
+
+61
+00:02:58,000 --> 00:03:01,000
+ King D8.
+
+62
+00:03:01,000 --> 00:03:03,000
+ Knight C3.
+
+63
+00:03:03,000 --> 00:03:06,000
+ Knight F6.
+
+64
+00:03:06,000 --> 00:03:08,000
+ Ah ha!
+
+65
+00:03:08,000 --> 00:03:10,000
+ He's obviously baiting me to castle,
+
+66
+00:03:10,000 --> 00:03:13,000
+ and then he'll go knight takes D5,
+
+67
+00:03:13,000 --> 00:03:15,000
+ knight takes D5,
+
+68
+00:03:15,000 --> 00:03:17,000
+ distracting my knight away from my bishop,
+
+69
+00:03:17,000 --> 00:03:19,000
+ and then taking my bishop,
+
+70
+00:03:19,000 --> 00:03:21,000
+ thus winning a pawn.
+
+71
+00:03:21,000 --> 00:03:24,000
+ So I guess, instead of castling,
+
+72
+00:03:24,000 --> 00:03:27,000
+ I'll take a free pawn.
+
+73
+00:03:27,000 --> 00:03:31,000
+ King C8.
+
+74
+00:03:31,000 --> 00:03:33,000
+ Knight A5.
+
+75
+00:03:33,000 --> 00:03:37,000
+ Rook E5.
+
+76
+00:03:37,000 --> 00:03:39,000
+ Knight to C6.
+
+77
+00:03:39,000 --> 00:03:41,000
+ Oh no my pawn!
+
+78
+00:03:41,000 --> 00:03:43,000
+ Wow!
+
+79
+00:03:43,000 --> 00:03:46,000
+ I was baiting him to go knight takes D5,
+
+80
+00:03:46,000 --> 00:03:48,000
+ knight takes D5,
+
+81
+00:03:48,000 --> 00:03:50,000
+ rook takes D5,
+
+82
+00:03:50,000 --> 00:03:52,000
+ and then I'll have knight E7,
+
+83
+00:03:52,000 --> 00:03:54,000
+ forking his king and his rook.
+
+84
+00:03:54,000 --> 00:03:56,000
+ But he then saw through that line,
+
+85
+00:03:56,000 --> 00:03:58,000
+ and played rook H2 E8,
+
+86
+00:03:58,000 --> 00:04:01,000
+ preventing my knight from going to E7,
+
+87
+00:04:01,000 --> 00:04:06,000
+ thus also threatening to take my D5 pawn on his next move.
+
+88
+00:04:06,000 --> 00:04:09,000
+ So I guess, F4.
+
+89
+00:04:09,000 --> 00:04:11,000
+ Oh, wait.
+
+90
+00:04:17,000 --> 00:04:20,000
+ Okay nobody saw that.
+
+91
+00:04:20,000 --> 00:04:23,000
+ Rook takes E2 check.
+
+92
+00:04:23,000 --> 00:04:25,000
+ Knight takes.
+
+93
+00:04:25,000 --> 00:04:30,000
+ To this point, I can 100% sure that this video is going to be another victory for me,
+
+94
+00:04:30,000 --> 00:04:35,000
+ if I can just finish the game before my time runs out.
+
+95
+00:04:35,000 --> 00:04:38,000
+ Knight takes D5.
+
+96
+00:04:38,000 --> 00:04:40,000
+ Rook F1.
+
+97
+00:04:40,000 --> 00:04:44,000
+ Rook E4.
+
+98
+00:04:44,000 --> 00:04:46,000
+ G3.
+
+99
+00:04:47,000 --> 00:04:49,000
+ King D7.
+
+100
+00:04:49,000 --> 00:04:52,000
+ Knight E5 check.
+
+101
+00:04:52,000 --> 00:04:55,000
+ King to E6.
+
+102
+00:04:55,000 --> 00:04:57,000
+ Very aggressive.
+
+103
+00:04:57,000 --> 00:04:59,000
+ Knight back to F3.
+
+104
+00:04:59,000 --> 00:05:03,000
+ I'm threatening to fork him on G5.
+
+105
+00:05:03,000 --> 00:05:07,000
+ And he's inviting me to do it.
+
+106
+00:05:07,000 --> 00:05:10,000
+ Of course then.
+
+107
+00:05:10,000 --> 00:05:13,000
+ King F5.
+
+108
+00:05:13,000 --> 00:05:16,000
+ I'll take his rook of course.
+
+109
+00:05:16,000 --> 00:05:20,000
+ King takes G4.
+
+110
+00:05:20,000 --> 00:05:23,000
+ F5.
+
+111
+00:05:23,000 --> 00:05:26,000
+ After all of those videos,
+
+112
+00:05:26,000 --> 00:05:29,000
+ I have finally done it again.
+
+113
+00:05:29,000 --> 00:05:32,000
+ D3 check.
+
+114
+00:05:32,000 --> 00:05:34,000
+ Mate.
+
+115
+00:05:34,000 --> 00:05:37,000
+ This is the second time I have done this,
+
+116
+00:05:37,000 --> 00:05:40,000
+ winning the game, by breaking the rules.
+
+117
+00:05:40,000 --> 00:05:43,000
+ And since I have broken the rules myself,
+
+118
+00:05:43,000 --> 00:05:46,000
+ there is no what the f*** today.
+
+119
+00:05:46,000 --> 00:05:48,000
+ Thanks for watching.
+
+120
+00:05:48,000 --> 00:05:50,000
+ I hope you enjoyed.
+
+121
+00:05:50,000 --> 00:05:52,000
+ See you next time.
+
+122
+00:05:52,000 --> 00:05:59,000
+ [Music]
+

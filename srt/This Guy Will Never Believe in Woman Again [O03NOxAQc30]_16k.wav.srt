@@ -1,0 +1,224 @@
+1
+00:00:00,000 --> 00:00:06,560
+ 100 rated chess, but before starting the game, you must pick a number from 0 to 10, then
+
+2
+00:00:06,560 --> 00:00:08,460
+ reveal the challenge.
+
+3
+00:00:08,460 --> 00:00:11,600
+ Of course I'm not gonna just simply choose a number.
+
+4
+00:00:11,600 --> 00:00:14,400
+ To do this completely fair and square.
+
+5
+00:00:14,400 --> 00:00:16,320
+ We'll make it random.
+
+6
+00:00:16,320 --> 00:00:17,320
+ Very simple.
+
+7
+00:00:17,320 --> 00:00:22,920
+ Our number will be a random integer from 0 to 10, then we print out the result, and since
+
+8
+00:00:22,920 --> 00:00:28,880
+ my computer doesn't know what random is, I'll make him read a book called random.
+
+9
+00:00:28,880 --> 00:00:32,880
+ Here we go.
+
+10
+00:00:32,880 --> 00:00:37,000
+ Result is 1, I'll uncover the challenge.
+
+11
+00:00:37,000 --> 00:00:42,000
+ The number you chose is the number of pieces, and/or pawns, you must capture during the
+
+12
+00:00:42,000 --> 00:00:44,760
+ game, no more no less.
+
+13
+00:00:44,760 --> 00:00:49,040
+ This is not even a covered challenge as you can just write the entire thing down all at
+
+14
+00:00:49,040 --> 00:00:52,120
+ once and I'll still do the randoming part.
+
+15
+00:00:52,120 --> 00:00:53,300
+ But it's fine.
+
+16
+00:00:53,300 --> 00:00:56,800
+ We get a 100 rated American.
+
+17
+00:00:56,800 --> 00:00:58,060
+ C4.
+
+18
+00:00:58,060 --> 00:01:03,140
+ Since I cannot take too many pieces and pawns, the only way to open up the challenge, is
+
+19
+00:01:03,140 --> 00:01:05,840
+ to let him take mine.
+
+20
+00:01:05,840 --> 00:01:06,840
+ Nevermind.
+
+21
+00:01:06,840 --> 00:01:07,840
+ E5.
+
+22
+00:01:07,840 --> 00:01:11,880
+ Let's play as aggressive as possible.
+
+23
+00:01:11,880 --> 00:01:13,320
+ Knight F3.
+
+24
+00:01:13,320 --> 00:01:15,840
+ Bishop C5.
+
+25
+00:01:15,840 --> 00:01:17,920
+ He finally took a pawn.
+
+26
+00:01:17,920 --> 00:01:20,560
+ Queen F6.
+
+27
+00:01:20,560 --> 00:01:22,360
+ Knight takes F7.
+
+28
+00:01:22,360 --> 00:01:23,720
+ Ah ha.
+
+29
+00:01:23,720 --> 00:01:25,480
+ Here comes the problem.
+
+30
+00:01:25,480 --> 00:01:30,480
+ He's blundering a massive check, but if I take the check, that is not a checkmate, so
+
+31
+00:01:30,480 --> 00:01:35,520
+ I'll have to continue playing without capturing anything more while also be losing a rook.
+
+32
+00:01:35,520 --> 00:01:41,360
+ The other option is to take the knight, but there is no initiative after that.
+
+33
+00:01:41,360 --> 00:01:44,180
+ Alright.
+
+34
+00:01:44,180 --> 00:01:46,680
+ I'll take this check.
+
+35
+00:01:46,680 --> 00:01:48,200
+ King D2.
+
+36
+00:01:48,200 --> 00:01:50,320
+ The plan is very simple.
+
+37
+00:01:50,320 --> 00:01:52,080
+ Queen E3 check.
+
+38
+00:01:52,080 --> 00:01:55,880
+ Draw by repetition lets go.
+
+39
+00:01:55,880 --> 00:01:57,400
+ Didn't happen.
+
+40
+00:01:57,400 --> 00:01:59,400
+ We need more materials.
+
+41
+00:01:59,400 --> 00:02:00,640
+ Knight C6.
+
+42
+00:02:00,640 --> 00:02:06,640
+ I mean since his king is heavily attacked, there is no way he's taking my rook.
+
+43
+00:02:06,640 --> 00:02:09,060
+ Right?
+
+44
+00:02:09,060 --> 00:02:11,800
+ Knight B4 check.
+
+45
+00:02:11,800 --> 00:02:13,480
+ King C3.
+
+46
+00:02:13,480 --> 00:02:19,080
+ Another chance for a repetition, but I'm not taking it anymore as I may be called a coward.
+
+47
+00:02:19,080 --> 00:02:21,840
+ D4 check.
+
+48
+00:02:21,840 --> 00:02:22,840
+ King B3.
+
+49
+00:02:22,840 --> 00:02:23,840
+ A5.
+
+50
+00:02:23,840 --> 00:02:26,840
+ Oh no my woman.
+
+51
+00:02:26,840 --> 00:02:28,720
+ Ha!
+
+52
+00:02:28,720 --> 00:02:32,520
+ I bet this guy will never believe in women after this game.
+
+53
+00:02:32,520 --> 00:02:35,600
+ A4 king A3 knight C2.
+
+54
+00:02:35,600 --> 00:02:37,400
+ Double checkmate.
+
+55
+00:02:37,400 --> 00:02:39,160
+ Mission accomplished.
+
+56
+00:02:39,280 --> 00:02:53,880
+ [Music]
+

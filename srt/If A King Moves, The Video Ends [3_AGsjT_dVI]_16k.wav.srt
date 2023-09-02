@@ -1,0 +1,256 @@
+1
+00:00:00,000 --> 00:00:07,000
+ If a king moves, the video ends. Castling doesn't count. Day 50.
+
+2
+00:00:07,000 --> 00:00:11,000
+ End my misery please.
+
+3
+00:00:11,000 --> 00:00:17,000
+ You know what? I normally don't take on challenges that are too easy to accomplish.
+
+4
+00:00:17,000 --> 00:00:22,000
+ But this time, just for this guy, I will take on this challenge.
+
+5
+00:00:22,000 --> 00:00:24,000
+ And let's change it to...
+
+6
+00:00:24,000 --> 00:00:29,000
+ Castling. Also. Counts.
+
+7
+00:00:30,000 --> 00:00:35,000
+ I don't have anything else to say. Let's find an opponent.
+
+8
+00:00:56,000 --> 00:01:00,000
+ We get a 248 from Vietnam.
+
+9
+00:01:00,000 --> 00:01:03,000
+ E4.
+
+10
+00:01:03,000 --> 00:01:12,000
+ So in order to prevent his king from moving, I think I need to keep my opponent busy, and then checkmate him in the middle of the board.
+
+11
+00:01:12,000 --> 00:01:16,000
+ Therefore, D5.
+
+12
+00:01:16,000 --> 00:01:19,000
+ E takes D5.
+
+13
+00:01:19,000 --> 00:01:21,000
+ C6.
+
+14
+00:01:21,000 --> 00:01:25,000
+ D takes C6.
+
+15
+00:01:25,000 --> 00:01:27,000
+ E5.
+
+16
+00:01:27,000 --> 00:01:30,000
+ C takes B7.
+
+17
+00:01:30,000 --> 00:01:32,000
+ Very aggressive.
+
+18
+00:01:32,000 --> 00:01:35,000
+ Bishop takes B7.
+
+19
+00:01:35,000 --> 00:01:38,000
+ F3.
+
+20
+00:01:38,000 --> 00:01:40,000
+ Not very aggressive.
+
+21
+00:01:40,000 --> 00:01:43,000
+ Bishop C5.
+
+22
+00:01:43,000 --> 00:01:47,000
+ Bishop B5 check.
+
+23
+00:01:47,000 --> 00:01:50,000
+ Knight C6.
+
+24
+00:01:50,000 --> 00:01:53,000
+ Queen E2.
+
+25
+00:01:53,000 --> 00:01:55,000
+ Very aggressive.
+
+26
+00:01:55,000 --> 00:01:57,000
+ But who cares anyway.
+
+27
+00:01:57,000 --> 00:01:59,000
+ Bishop takes G1.
+
+28
+00:01:59,000 --> 00:02:07,000
+ If he can take my bishop with his rook, it means his king won't be able to castle kingside anymore.
+
+29
+00:02:07,000 --> 00:02:11,000
+ F4.
+
+30
+00:02:11,000 --> 00:02:13,000
+ Okay then.
+
+31
+00:02:13,000 --> 00:02:15,000
+ Bishop back to B6.
+
+32
+00:02:15,000 --> 00:02:23,000
+ Even though he didn't take my bishop, he's still unable to castle, so it's actually a win-win for me.
+
+33
+00:02:23,000 --> 00:02:26,000
+ F takes E5.
+
+34
+00:02:26,000 --> 00:02:29,000
+ Knight E7.
+
+35
+00:02:29,000 --> 00:02:32,000
+ E6.
+
+36
+00:02:32,000 --> 00:02:34,000
+ Very aggressive.
+
+37
+00:02:34,000 --> 00:02:43,000
+ So I'm pretty sure the engine really wants me to castle in this position, but of course, that is against the rules.
+
+38
+00:02:43,000 --> 00:02:45,000
+ So I guess...
+
+39
+00:02:45,000 --> 00:02:47,000
+ F6.
+
+40
+00:02:47,000 --> 00:02:52,000
+ I'll use his pawn as a shield for my king in the middle of the board.
+
+41
+00:02:52,000 --> 00:02:56,000
+ Bishop takes C6 check.
+
+42
+00:02:56,000 --> 00:02:59,000
+ Bishop takes C6.
+
+43
+00:02:59,000 --> 00:03:03,000
+ Queen D3.
+
+44
+00:03:03,000 --> 00:03:05,000
+ He's offering a queen trade.
+
+45
+00:03:05,000 --> 00:03:14,000
+ I think I still can checkmate his king without a queen, but it's going to be hard to prevent him from moving his king around during the process.
+
+46
+00:03:14,000 --> 00:03:18,000
+ Therefore, queen C8.
+
+47
+00:03:18,000 --> 00:03:22,000
+ H4.
+
+48
+00:03:22,000 --> 00:03:25,000
+ Again, very, aggressive.
+
+49
+00:03:25,000 --> 00:03:33,000
+ Taking this pawn should be the best move, but it will result in a check, which may cause him to move his king.
+
+50
+00:03:34,000 --> 00:03:36,000
+ So I guess...
+
+51
+00:03:36,000 --> 00:03:38,000
+ Bishop takes G2.
+
+52
+00:03:38,000 --> 00:03:42,000
+ Rook G1.
+
+53
+00:03:42,000 --> 00:03:45,000
+ That blunders a rook.
+
+54
+00:03:45,000 --> 00:03:50,000
+ Queen D7 check.
+
+55
+00:03:50,000 --> 00:03:55,000
+ That blunders a pawn.
+
+56
+00:03:55,000 --> 00:04:05,000
+ But after queen takes D7, E takes D7, I'll have to move my king, which makes me a fool, for ending my own video.
+
+57
+00:04:05,000 --> 00:04:11,000
+ And there is no other way to resolve this check without moving my king.
+
+58
+00:04:11,000 --> 00:04:14,000
+ Are you serious?
+
+59
+00:04:14,000 --> 00:04:18,000
+ Okay. It's fine.
+
+60
+00:04:18,000 --> 00:04:21,000
+ Queen takes D7.
+
+61
+00:04:21,000 --> 00:04:25,000
+ There is still hope that he won't take my queen.
+
+62
+00:04:25,000 --> 00:04:32,000
+ I hate this guy.
+
+63
+00:04:33,000 --> 00:04:39,000
+ To be continued...
+
+64
+00:04:39,000 --> 00:04:47,000
+ Thanks for watching!
+

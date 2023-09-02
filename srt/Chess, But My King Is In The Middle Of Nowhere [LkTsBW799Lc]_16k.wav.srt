@@ -1,0 +1,408 @@
+1
+00:00:00,000 --> 00:00:04,880
+ 100 rated chess, but you keep your king in the center.
+
+2
+00:00:04,880 --> 00:00:06,640
+ Smiley face.
+
+3
+00:00:06,640 --> 00:00:13,280
+ OK, but we need to define again, where is the so called, center.
+
+4
+00:00:13,280 --> 00:00:18,060
+ So for most people, the center is the center, 4 squares.
+
+5
+00:00:18,060 --> 00:00:24,680
+ But in real game, after things like e4 e5, my king cannot get to that 4 squares, without
+
+6
+00:00:24,680 --> 00:00:27,200
+ going all the way around like this.
+
+7
+00:00:27,200 --> 00:00:32,640
+ Therefore, I will define the center for this game, is this area.
+
+8
+00:00:32,640 --> 00:00:35,880
+ I need to keep my king, here.
+
+9
+00:00:35,880 --> 00:00:37,000
+ Let's go.
+
+10
+00:00:37,000 --> 00:00:42,680
+ We get a 2 51 from Australia, with premiumed membership.
+
+11
+00:00:42,680 --> 00:00:47,400
+ And it's very unfortunate, that we got the black pieces, which means there is a chance
+
+12
+00:00:47,400 --> 00:00:51,840
+ that I can't even get my king into the middle of the board.
+
+13
+00:00:51,840 --> 00:00:54,960
+ e4 e5
+
+14
+00:00:54,960 --> 00:00:59,140
+ bishop c4 OK here we go again.
+
+15
+00:00:59,140 --> 00:01:01,840
+ King e7
+
+16
+00:01:01,840 --> 00:01:06,000
+ Queen g4 Ha, he moved his queen out as soon as I took
+
+17
+00:01:06,000 --> 00:01:07,840
+ my king into battle.
+
+18
+00:01:07,840 --> 00:01:11,880
+ Which can be considered, as very aggressive.
+
+19
+00:01:11,880 --> 00:01:15,380
+ King d6 Man it feels like this guy knows what I'm
+
+20
+00:01:15,380 --> 00:01:21,880
+ trying to do, since he decided to control the e6 square, with 2 pieces, to guarantee
+
+21
+00:01:21,880 --> 00:01:26,000
+ that my king can never go to that square.
+
+22
+00:01:26,000 --> 00:01:30,320
+ Knight c3 Knight f6
+
+23
+00:01:30,320 --> 00:01:34,520
+ Queen f5 g6
+
+24
+00:01:34,520 --> 00:01:36,320
+ Knight b5 check.
+
+25
+00:01:36,320 --> 00:01:37,880
+ Ah ha!
+
+26
+00:01:37,880 --> 00:01:38,880
+ Danger!
+
+27
+00:01:38,880 --> 00:01:39,880
+ Levels!
+
+28
+00:01:39,880 --> 00:01:43,520
+ I attack his queen, he attacks my king.
+
+29
+00:01:43,520 --> 00:01:46,520
+ King c5
+
+30
+00:01:46,520 --> 00:01:48,760
+ Queen take c5 check.
+
+31
+00:01:48,760 --> 00:01:50,720
+ That blunders a bishop.
+
+32
+00:01:50,720 --> 00:01:55,000
+ Except that it's not really a blunder of a bishop, but it's actually me blundering my
+
+33
+00:01:55,000 --> 00:01:56,400
+ king.
+
+34
+00:01:56,400 --> 00:02:02,080
+ So guys, feel free to pause the video right now and find the checkmate in 2 for white,
+
+35
+00:02:02,080 --> 00:02:07,480
+ while I don't give you any seconds to do so, since people will skip the video, so for those
+
+36
+00:02:07,480 --> 00:02:13,320
+ of you guys who were able to do it, congratulations, and for those of you who are here just to
+
+37
+00:02:13,320 --> 00:02:16,820
+ enjoy the show, which means you didn't see it.
+
+38
+00:02:16,820 --> 00:02:23,160
+ That's fine, because I didn't see it either, I mean I only got 3 minutes on the clock anyway.
+
+39
+00:02:23,160 --> 00:02:29,340
+ It was a4 and queen f3, or a4 knight e4 and queen d4.
+
+40
+00:02:29,340 --> 00:02:31,340
+ But anyway.
+
+41
+00:02:31,340 --> 00:02:32,620
+ Knight c3.
+
+42
+00:02:32,620 --> 00:02:39,040
+ Of course my opponent didn't see it either, and now queen b5 is very dangerous.
+
+43
+00:02:39,040 --> 00:02:40,800
+ c6.
+
+44
+00:02:40,800 --> 00:02:46,720
+ Except that that move once again blunder checkmate in 2, f*** my life, pause the video, or not
+
+45
+00:02:46,720 --> 00:02:53,840
+ it, and the move was b3, king b4, and a3, checkmate with a pawn.
+
+46
+00:02:53,840 --> 00:02:57,480
+ That was almost the biggest humiliation ever for me.
+
+47
+00:02:57,480 --> 00:03:01,700
+ But instead, queen g3.
+
+48
+00:03:01,700 --> 00:03:05,080
+ Since he's moved his queen back.
+
+49
+00:03:05,080 --> 00:03:07,780
+ King c5.
+
+50
+00:03:07,780 --> 00:03:09,520
+ Knight a4 check.
+
+51
+00:03:09,520 --> 00:03:15,840
+ And funny enough, now king c4 and king d4 are my 2 only moves, which blunders checkmate
+
+52
+00:03:15,840 --> 00:03:19,060
+ in 5, or checkmate in 3.
+
+53
+00:03:19,060 --> 00:03:22,980
+ So of course, I chose, the checkmate in 3.
+
+54
+00:03:22,980 --> 00:03:26,960
+ I mean I didn't see any of those anyway, so it's not my fault.
+
+55
+00:03:26,960 --> 00:03:28,720
+ c3.
+
+56
+00:03:28,720 --> 00:03:32,220
+ And of course that is also not the correct move.
+
+57
+00:03:32,220 --> 00:03:34,260
+ King take c4.
+
+58
+00:03:34,260 --> 00:03:38,500
+ Which is once again, blunders checkmate in 4.
+
+59
+00:03:38,500 --> 00:03:43,680
+ And you know what, I've been blundering my king like a thousand times this game, so feel
+
+60
+00:03:43,680 --> 00:03:48,940
+ free to pause the video anytime you want to, because I think it will always be some sort
+
+61
+00:03:48,940 --> 00:03:54,520
+ of checkmate from now on, when my king is literally in his side of the board.
+
+62
+00:03:54,520 --> 00:03:56,480
+ f3.
+
+63
+00:03:56,480 --> 00:04:01,800
+ That is not the right move, and even though king d3 looks real fun, I have to play it
+
+64
+00:04:01,800 --> 00:04:04,040
+ for the video's sake.
+
+65
+00:04:04,040 --> 00:04:07,180
+ King d5, and would you look at that.
+
+66
+00:04:07,180 --> 00:04:11,160
+ King d5, is a great, move.
+
+67
+00:04:11,160 --> 00:04:13,920
+ Who would have thought.
+
+68
+00:04:13,920 --> 00:04:14,920
+ Knight e2.
+
+69
+00:04:14,920 --> 00:04:15,920
+ Aha!
+
+70
+00:04:15,920 --> 00:04:17,960
+ Counter-attack time!
+
+71
+00:04:17,960 --> 00:04:20,780
+ Bishop d6.
+
+72
+00:04:20,780 --> 00:04:22,320
+ Queen h4.
+
+73
+00:04:22,320 --> 00:04:24,800
+ Rook e8.
+
+74
+00:04:24,800 --> 00:04:26,320
+ Queen d4 check.
+
+75
+00:04:26,320 --> 00:04:28,400
+ King e6 is forced.
+
+76
+00:04:28,400 --> 00:04:32,840
+ Keep checking please, as long as you keep checking with your queen, there is always
+
+77
+00:04:32,840 --> 00:04:36,200
+ a chance that you will blunder her.
+
+78
+00:04:36,200 --> 00:04:41,640
+ And just as I was talking about it, knight takes d4.
+
+79
+00:04:41,640 --> 00:04:43,200
+ F takes e4.
+
+80
+00:04:43,200 --> 00:04:49,620
+ Okay, now since I'm up a full queen, I think we can all agree, that I cannot lose this
+
+81
+00:04:49,620 --> 00:04:51,580
+ mission anymore.
+
+82
+00:04:51,580 --> 00:04:53,120
+ Queen h4 check.
+
+83
+00:04:53,120 --> 00:04:58,240
+ Let's just finish this game, since the video is getting kinda long.
+
+84
+00:04:58,240 --> 00:04:59,880
+ g3.
+
+85
+00:04:59,880 --> 00:05:01,840
+ Queen takes e4.
+
+86
+00:05:01,840 --> 00:05:03,920
+ d3.
+
+87
+00:05:03,920 --> 00:05:06,760
+ That blunders a rook.
+
+88
+00:05:06,760 --> 00:05:07,760
+ King f2.
+
+89
+00:05:07,760 --> 00:05:10,360
+ I'll take this pawn as well.
+
+90
+00:05:10,360 --> 00:05:11,960
+ King f3.
+
+91
+00:05:11,960 --> 00:05:14,160
+ Bishop c7.
+
+92
+00:05:14,160 --> 00:05:15,160
+ Bishop f4.
+
+93
+00:05:15,160 --> 00:05:17,160
+ Okay fine.
+
+94
+00:05:17,160 --> 00:05:18,960
+ Knight takes f4 check.
+
+95
+00:05:18,960 --> 00:05:21,120
+ King d6.
+
+96
+00:05:21,120 --> 00:05:22,120
+ c4.
+
+97
+00:05:22,120 --> 00:05:23,120
+ g5.
+
+98
+00:05:23,120 --> 00:05:25,840
+ Knight e2.
+
+99
+00:05:25,840 --> 00:05:29,180
+ That blunders a king, queen takes e2.
+
+100
+00:05:29,180 --> 00:05:31,200
+ Checkmate.
+
+101
+00:05:31,200 --> 00:05:37,760
+ After all of those savage king blunders, I can finally say, mission, accomplished.
+
+102
+00:05:38,760 --> 00:05:52,760
+ [Music]
+

@@ -1,0 +1,228 @@
+1
+00:00:00,000 --> 00:00:07,000
+ 100 rated chess, but the center is the fountain of youth, any pieces, or pawns, that land
+
+2
+00:00:07,000 --> 00:00:09,000
+ in it become immortal.
+
+3
+00:00:09,000 --> 00:00:14,960
+ Too easy, we get a 173 from Canada, so the obvious plan is to not put anything in the
+
+4
+00:00:14,960 --> 00:00:19,360
+ center, and also prevent my opponent from putting anything there.
+
+5
+00:00:19,360 --> 00:00:26,120
+ Therefore, knight f3, I mean at least this prevents e5, but if he plays d5 right now,
+
+6
+00:00:26,120 --> 00:00:30,200
+ that will be very bad.
+
+7
+00:00:30,200 --> 00:00:31,200
+ b3.
+
+8
+00:00:31,200 --> 00:00:36,160
+ Well, at the end of the day, that is just one pawn, and there is no way this video can
+
+9
+00:00:36,160 --> 00:00:39,440
+ be destroyed by just one pawn.
+
+10
+00:00:39,440 --> 00:00:41,000
+ Knight c6.
+
+11
+00:00:41,000 --> 00:00:42,680
+ Bishop b2.
+
+12
+00:00:42,680 --> 00:00:43,680
+ f5.
+
+13
+00:00:43,680 --> 00:00:44,680
+ Ha!
+
+14
+00:00:44,680 --> 00:00:45,680
+ Wrong pawn.
+
+15
+00:00:45,680 --> 00:00:46,960
+ e3.
+
+16
+00:00:46,960 --> 00:00:52,240
+ As long as I can stop him from playing e5, things are going to be ok.
+
+17
+00:00:52,240 --> 00:00:53,560
+ Nevermind.
+
+18
+00:00:53,560 --> 00:00:54,560
+ Bishop b5.
+
+19
+00:00:54,560 --> 00:00:59,880
+ Alright, now both of his center pawns are immortal, but still they are only useless
+
+20
+00:00:59,880 --> 00:01:04,000
+ pawns, and there is no way I'm losing to those.
+
+21
+00:01:04,000 --> 00:01:05,440
+ Bishop d7.
+
+22
+00:01:05,440 --> 00:01:06,480
+ Queen e2.
+
+23
+00:01:06,480 --> 00:01:10,040
+ You may ask why did I play a useless move like queen e2?
+
+24
+00:01:10,040 --> 00:01:14,840
+ Guess what, I actually didn't know what to do at this point, so I just wanted to play
+
+25
+00:01:14,840 --> 00:01:18,880
+ a random move and then see what is going to happen next.
+
+26
+00:01:18,880 --> 00:01:20,360
+ a6.
+
+27
+00:01:20,360 --> 00:01:22,560
+ Capture is forced.
+
+28
+00:01:22,560 --> 00:01:23,560
+ Bishop takes.
+
+29
+00:01:23,560 --> 00:01:27,960
+ Since I cannot play in the center, let's try to make some progress on the edges of the
+
+30
+00:01:27,960 --> 00:01:28,960
+ board.
+
+31
+00:01:28,960 --> 00:01:30,520
+ h4.
+
+32
+00:01:30,520 --> 00:01:32,640
+ And you know what Stockfish said?
+
+33
+00:01:32,640 --> 00:01:35,180
+ h4 is a mistake.
+
+34
+00:01:35,180 --> 00:01:37,080
+ Knight takes e5 is best.
+
+35
+00:01:37,080 --> 00:01:39,680
+ Yeah f*** you Stockfish.
+
+36
+00:01:39,680 --> 00:01:40,680
+ h5.
+
+37
+00:01:40,680 --> 00:01:42,780
+ Ah ha!
+
+38
+00:01:42,780 --> 00:01:43,920
+ Knight g5.
+
+39
+00:01:43,920 --> 00:01:48,720
+ I mean if he can play e4 now to open my bishop and then move his bishop away so that I can
+
+40
+00:01:48,720 --> 00:01:49,720
+ trap his rook.
+
+41
+00:01:49,720 --> 00:01:52,200
+ That will be very convenient.
+
+42
+00:01:52,200 --> 00:01:58,160
+ No, that was only one move, he hasn't moved his bishop yet.
+
+43
+00:01:58,160 --> 00:01:59,580
+ Rook h3.
+
+44
+00:01:59,580 --> 00:02:02,320
+ No way that bishop is gonna move.
+
+45
+00:02:02,320 --> 00:02:09,240
+ Well, I guess sometimes things just naturally become very convenient in our lives.
+
+46
+00:02:09,240 --> 00:02:11,320
+ Bishop takes g7.
+
+47
+00:02:11,320 --> 00:02:12,640
+ Rook h6.
+
+48
+00:02:12,640 --> 00:02:17,500
+ To be honest I'm actually very impressed that he found rook h6 to allow a recapture after
+
+49
+00:02:17,500 --> 00:02:19,280
+ my bishop takes his rook.
+
+50
+00:02:19,280 --> 00:02:22,720
+ It is not an easy thing to spot for a low-rated player.
+
+51
+00:02:22,720 --> 00:02:24,560
+ I'll take it.
+
+52
+00:02:24,560 --> 00:02:27,360
+ Knight takes, queen h5 check.
+
+53
+00:02:27,360 --> 00:02:33,080
+ King f8 queen h6 king e7 queen e6 and we can pre-move queen f7.
+
+54
+00:02:33,080 --> 00:02:34,480
+ Checkmate.
+
+55
+00:02:34,480 --> 00:02:39,120
+ And since this challenge was actually a bit too easy, there is no mission accomplished
+
+56
+00:02:39,120 --> 00:02:39,640
+ today.
+
+57
+00:02:40,000 --> 00:02:54,560
+ [Music]
+

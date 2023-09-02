@@ -1,0 +1,124 @@
+1
+00:00:00,000 --> 00:00:07,440
+ I'm better than my viewers, you play white. That looks very interesting. I mean my opponent has 14
+
+2
+00:00:07,440 --> 00:00:15,280
+ queens, but he can only use 6 of them. The challenger this time is a guy called Aiden3435,
+
+3
+00:00:15,280 --> 00:00:22,640
+ and by the way, that is not his chess ratings. E6, in case you don't know, I'm actually not
+
+4
+00:00:22,640 --> 00:00:28,720
+ very high rated, so playing against a 1300 opponent having 6 queens on the board,
+
+5
+00:00:28,720 --> 00:00:36,480
+ is definitely not the situation I want to be in. D takes E6, D takes will open up my queen for him
+
+6
+00:00:36,480 --> 00:00:42,800
+ to trade, and as you can see, I'm down more than a hundred points of materials, so I don't really
+
+7
+00:00:42,800 --> 00:00:51,600
+ want to trade my queen. Therefore, F takes E6. Oh no, he is so going to sacrifice his bishop just
+
+8
+00:00:51,600 --> 00:00:57,600
+ to trade queens with me, which is absolutely unfair, which means I will very likely lose this
+
+9
+00:00:57,600 --> 00:01:09,840
+ game. Bishop E5. I cannot trade queens no matter what. F6. G takes F6. E takes F6. Alright. Here we
+
+10
+00:01:09,840 --> 00:01:16,960
+ go. Bishop takes F6. Maybe that was a bad move, but to be honest, there is no real good move when
+
+11
+00:01:16,960 --> 00:01:24,560
+ you're fighting against a lot of women. Queen takes F6. Ah ha. So this is how you want to do it.
+
+12
+00:01:25,280 --> 00:01:31,680
+ Knight takes F6. It's fine, trading is not good for me because I'm down in materials,
+
+13
+00:01:31,680 --> 00:01:41,760
+ but still, a piece for a queen is as far as I can go. G5. All per sun. Queen takes. D takes E6.
+
+14
+00:01:41,760 --> 00:01:48,720
+ As you can see, the Eval bar is still in my favor, which is to say, everything is still under
+
+15
+00:01:48,720 --> 00:01:57,280
+ control. Queen takes E6. This poor horsey is being attacked 3 times by the women. But anyway.
+
+16
+00:01:57,280 --> 00:02:07,600
+ Bishop takes E6. Eval bar is going crazy. Queen takes F6. Rook F4. Queen takes F4. Ah ha,
+
+17
+00:02:07,600 --> 00:02:15,200
+ checkmate in 7. Queen takes H8 check. There is no way this is the wrong move, king D7 is forced,
+
+18
+00:02:15,200 --> 00:02:21,680
+ and even though I knew for sure that knight D5 king E6 knight F4 check is the correct continuation,
+
+19
+00:02:21,680 --> 00:02:28,720
+ for some unknown reasons, I decided to go for, queen takes H7. And as you can see,
+
+20
+00:02:28,720 --> 00:02:35,360
+ stockfish did not like that at all, backseat me all you want, but I'm being absolutely honest here,
+
+21
+00:02:35,360 --> 00:02:41,600
+ that I have absolutely no idea why I went for queen H7, it's like my hand did not do what my
+
+22
+00:02:41,600 --> 00:02:48,960
+ brain wanted to do. But anyway, king takes E6. At this point, I'm pretty sure there is nothing
+
+23
+00:02:48,960 --> 00:02:56,400
+ more I can do, so I went for my last little trick. Knight C6. The point is if he takes my rook,
+
+24
+00:02:56,400 --> 00:03:03,360
+ there is a checkmate in 3 of queen G6 check king D7 queen F7 check king C8 is forced queen E8
+
+25
+00:03:03,360 --> 00:03:10,000
+ checkmate, or if he takes my knight, I think there is rook E4 check, queen takes queen takes and then
+
+26
+00:03:10,000 --> 00:03:16,960
+ I can try to go for a repetitive check draw. And he did not fall for any of those stuff.
+
+27
+00:03:16,960 --> 00:03:22,400
+ That was my last ditch effort, he then sacrificed his queen for my rook,
+
+28
+00:03:22,400 --> 00:03:27,840
+ which is definitely not fair, and then forced a queen trade, and then I resigned.
+
+29
+00:03:27,840 --> 00:03:36,880
+ The series was called, I'm better than my viewers. And after this game, let's just say,
+
+30
+00:03:36,880 --> 00:03:43,440
+ I'm still better than my viewers. But this guy, and only this guy, is equal to me.
+
+31
+00:03:43,440 --> 00:03:57,920
+ [Music]
+

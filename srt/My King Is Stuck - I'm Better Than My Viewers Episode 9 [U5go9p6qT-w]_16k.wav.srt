@@ -1,0 +1,120 @@
+1
+00:00:00,000 --> 00:00:06,720
+ I'm better than my viewers, and as the situation suggests, I guess I'm playing white. The challenger
+
+2
+00:00:06,720 --> 00:00:13,920
+ this time is a guy called LOD. The weakest point of a pawn chain is definitely their starting points,
+
+3
+00:00:13,920 --> 00:00:23,120
+ therefore, G2. Rook K7. Oh, I've just realized that even if I play B2 now, there is still
+
+4
+00:00:23,120 --> 00:00:31,360
+ absolutely no way to defend my C1 pawn. So I guess, E5, if I can't defend, of course I'll attack.
+
+5
+00:00:31,360 --> 00:00:38,960
+ Knight D5. That blunders a fork, I mean if he can just feel embarrassed and then resign right now.
+
+6
+00:00:38,960 --> 00:00:47,520
+ Nevermind. Let's take this knight. But still, even though I've just won a knight, it's still +13 for
+
+7
+00:00:47,520 --> 00:00:55,520
+ him, so the situation is actually not that much better. Queen takes. E4. So in this position,
+
+8
+00:00:55,520 --> 00:01:02,160
+ even though the valuation bar on the left is only saying -18, there is actually a checkmate in 8 for
+
+9
+00:01:02,160 --> 00:01:08,480
+ black, so if you're interested, please feel free to pause the video to find it, but for me, I'm
+
+10
+00:01:08,480 --> 00:01:17,120
+ totally not into such absurd thing. Knight B6. E3. As long as he doesn't go rook A1, I can still
+
+11
+00:01:17,120 --> 00:01:26,560
+ slowly make my progress. Nevermind. Alright, panic time. E5. I mean if he can just blunder his queen
+
+12
+00:01:26,560 --> 00:01:35,760
+ right now, that will help me. A lot. Sadly he's not a paid actor. King up, have to advance everything
+
+13
+00:01:35,760 --> 00:01:44,640
+ if I want to win. Rook takes C1. Okay, at least now there is no more pawn for him to take. C4.
+
+14
+00:01:44,640 --> 00:01:51,200
+ I mean -21 is actually not that bad, but actually, when I run this through stopfish after the game
+
+15
+00:01:51,200 --> 00:02:02,320
+ is done, it's actually -72.9. Which is to say, really bad. Queen A4. Very aggressive. Now I'm
+
+16
+00:02:02,320 --> 00:02:08,560
+ sure that all of the pawns in this side is gonna die sooner or later. Therefore, I'll use the other
+
+17
+00:02:08,560 --> 00:02:19,120
+ side. Bishop G4 check. F3. Bishop takes F3 check. Oh wow. So even though stopfish didn't seem to
+
+18
+00:02:19,120 --> 00:02:24,800
+ like that move, I actually think that was a very good move, because now if I take with pawn,
+
+19
+00:02:24,800 --> 00:02:32,160
+ there is a checkmate in 5 of rook H2 check. F2 rook D1. King D1. Queen A1. Check. King E2. Rook
+
+20
+00:02:32,160 --> 00:02:39,440
+ H1. And my king is literally stuck in the middle of his own soldiers. Therefore, king takes F3 is
+
+21
+00:02:39,440 --> 00:02:44,880
+ kinda forced. Well I mean that blunders a lot of these pawns, but that's still a lot better than
+
+22
+00:02:44,880 --> 00:02:54,240
+ blundering my king. Rook takes D1. This check is too dangerous, therefore, F2. Man I really just
+
+23
+00:02:54,240 --> 00:03:01,600
+ want to resign right now, but the video is still too short to be ended. Queen takes E2. A desperate
+
+24
+00:03:01,600 --> 00:03:09,120
+ move. E6. I mean if he can just make some random moves and allow Edward to E7 and F8 to change his
+
+25
+00:03:09,120 --> 00:03:17,200
+ gender, that will be very convenient. Of course it doesn't happen. G4. Now there is a checkmate
+
+26
+00:03:17,200 --> 00:03:23,440
+ in 2 of rook H3 king G2 and queen F1, but it is actually very hard to see because he needs to
+
+27
+00:03:23,440 --> 00:03:30,400
+ notice that his queen will be defending his rook by X-raying through my king. And he saw it. By the
+
+28
+00:03:30,400 --> 00:03:38,320
+ way, this guy is only 900 rated. King G2 is forced. Well maybe he doesn't see the final blow.
+
+29
+00:03:40,560 --> 00:03:57,440
+ Well, I'm still better than my viewers, but this guy, and only this guy, is equal to me.
+
+30
+00:03:57,440 --> 00:04:02,520
+ [Music]
+

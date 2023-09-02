@@ -1,0 +1,128 @@
+1
+00:00:00,000 --> 00:00:05,520
+ I'm better than my viewers number 35, or maybe some other number, I don't remember.
+
+2
+00:00:05,520 --> 00:00:12,160
+ You didn't need her anyway. Of course, a real man never says that he needs a woman.
+
+3
+00:00:12,160 --> 00:00:17,600
+ Ladies and gentlemen and kids, welcome to another episode of I'm better than my viewers,
+
+4
+00:00:17,600 --> 00:00:23,440
+ and the challenger this time is a guy called Pelican Whisperer. I have no idea there was a
+
+5
+00:00:23,440 --> 00:00:29,760
+ job like that. I'll take this rook. I mean this woman is gonna die anyway, so why not just take
+
+6
+00:00:29,760 --> 00:00:35,520
+ a rook before she dies, and who knows, maybe he'll blunder his rook and my queen can get out alive.
+
+7
+00:00:35,520 --> 00:00:43,760
+ Of course that doesn't happen. Taking this rook is fine, but I'll go for. C3. The plan is to use
+
+8
+00:00:43,760 --> 00:00:49,840
+ my bishop and capture 2 rooks at once, or even better, if he doesn't take my queen, I can move
+
+9
+00:00:49,840 --> 00:01:00,240
+ her out of danger. He takes it. I'll take his rook then. Rook takes C1. Knight B3. Rook B1.
+
+10
+00:01:00,240 --> 00:01:07,680
+ Wow. It seems like that blunders a rook, but since my bishop is literally forking 3 rooks at the same
+
+11
+00:01:07,680 --> 00:01:14,800
+ time, it basically can only take 1, which means it actually didn't blunder a rook. Rook B7,
+
+12
+00:01:14,800 --> 00:01:21,760
+ preventing rook B6 totally trapping my king. And then he goes rook A6 instead. Rook takes
+
+13
+00:01:21,760 --> 00:01:30,400
+ rook takes king B5 rook A2. I'll take this rook then. Rook takes B2. Dude, this guy told me that
+
+14
+00:01:30,400 --> 00:01:36,080
+ he is 500 rated, but somehow he saw that he doesn't need to take my bishop immediately,
+
+15
+00:01:36,080 --> 00:01:44,160
+ but instead take my pawn and fork 2 pieces. Bishop E4. Rook B3 king C4 rook B7 bishop E7
+
+16
+00:01:44,160 --> 00:01:49,840
+ bishop D2. The situation seems to be a draw because even though he has a lot of materials,
+
+17
+00:01:49,840 --> 00:01:56,320
+ they are just some useless same-color bishops. So I guess. G4. From this point onward,
+
+18
+00:01:56,320 --> 00:02:01,600
+ I'll try to play as aggressive as possible, and who knows, maybe he'll blunder his rook.
+
+19
+00:02:01,600 --> 00:02:12,240
+ King H2. F3. Rook C1. No way I can defend that pawn. Bishop E4. Centralizing my bishop,
+
+20
+00:02:12,240 --> 00:02:22,960
+ rook C3 king D5 rook C5 king E6 bishop G5 back to the original position. Okay. Here we go. E. 3.
+
+21
+00:02:22,960 --> 00:02:29,520
+ The plan is very simple. He takes my pawn, I take his bishop, and you may say that taking one of
+
+22
+00:02:29,520 --> 00:02:35,440
+ those useless bishops won't change anything at all? Well, I think you're right, but I still need
+
+23
+00:02:35,440 --> 00:02:43,440
+ to make progress. Bishop H6. Okay I guess it's 2 pawns for 2 bishops then. F4 bishop takes pawn
+
+24
+00:02:43,440 --> 00:02:49,680
+ takes bishop takes king takes. Okay I know that you guys always hate me skipping moves. But again,
+
+25
+00:02:49,680 --> 00:02:55,040
+ since there is absolutely nothing to show, we reached this position with him accidentally
+
+26
+00:02:55,040 --> 00:03:01,760
+ blundered one of bishops, and then I went. King G6. As you can see, Stockfish seems to really
+
+27
+00:03:01,760 --> 00:03:07,280
+ hate that move, it goes as far as saying that I'm blundering a checkmate in 30, but even after
+
+28
+00:03:07,280 --> 00:03:12,720
+ thinking about it for hours, I still don't know where the problem is, so if you have an explanation
+
+29
+00:03:12,720 --> 00:03:17,440
+ for this, please feel free to leave your comment below so that everyone will know about your
+
+30
+00:03:17,440 --> 00:03:24,000
+ wisdom. Rook G8 bishop takes rook king takes pawn. Draw by insufficient materials, therefore,
+
+31
+00:03:24,560 --> 00:03:33,600
+ I'm better than my viewers.
+
+32
+00:03:33,920 --> 00:03:41,200
+ [Music]
+

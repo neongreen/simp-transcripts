@@ -1,0 +1,100 @@
+1
+00:00:00,000 --> 00:00:07,760
+ 100 rated chess, but you have to pre-move every 7th move. That sounds a bit too easy.
+
+2
+00:00:07,760 --> 00:00:20,220
+ Let's change it to 2nd. We get a 2 59 from India. E4. E5. Now the most popular move here
+
+3
+00:00:20,220 --> 00:00:26,700
+ has to be knight f3, but since this is a 100 rated game, queen h5 is more likely going
+
+4
+00:00:26,700 --> 00:00:38,060
+ to happen. Therefore, I'll pre-move. Knight c6. Aha! So he decided to go bishop b5, and
+
+5
+00:00:38,060 --> 00:00:44,980
+ then bishop back to c4. Very funny. And now I find it really difficult to give commentaries
+
+6
+00:00:44,980 --> 00:00:52,220
+ in such a game like this. Knight f6 bishop c5. That's pretty risky though, since if he
+
+7
+00:00:52,220 --> 00:01:08,820
+ plays crazy things like d4, my bishop is dead. Queen e2. F3. Knight d4. Maybe e6. Queen d3
+
+8
+00:01:08,820 --> 00:01:15,020
+ and knight c3. I want to play bishop e6, but if I play it now, I won't be able to make
+
+9
+00:01:15,020 --> 00:01:21,900
+ a good pre-move, since I don't know whether he will take it or not. Therefore, castle,
+
+10
+00:01:21,900 --> 00:01:27,940
+ and then bishop e6. In this case, even if he take my bishop, I can still actively take
+
+11
+00:01:27,940 --> 00:01:39,940
+ it back. Wait wait what? I'll be honest, I didn't even know what happened back there.
+
+12
+00:01:39,940 --> 00:01:46,420
+ But anyway, let's start an attack. Bishop takes c4. I'm calculating that after queen
+
+13
+00:01:46,420 --> 00:01:56,100
+ takes c4, knight takes e4, knight takes e4, d5, queen takes c5, d takes e4, f takes e4
+
+14
+00:01:56,100 --> 00:02:03,220
+ blunders queen h4 check. Of course he can also not go f takes e4, but I still believe
+
+15
+00:02:03,220 --> 00:02:14,060
+ this is a worthy risk. Therefore, I'll pre-move. Knight takes e4. King d1. That blunders a
+
+16
+00:02:14,060 --> 00:02:24,580
+ queen. But I already pre-moved. And now 2 of my pieces are hanging. Are you serious?
+
+17
+00:02:24,580 --> 00:02:36,540
+ And then he made the correct choice of taking my knight. f5, queen f6 pre-move. Queen g4.
+
+18
+00:02:36,540 --> 00:02:50,340
+ That blunders the queen again. And I cannot take it again. Queen g3. Rook ke8. e4. b3.
+
+19
+00:02:50,340 --> 00:02:59,100
+ Oh, I forgot that my bishop is still alive over there. Alright it's fine. e takes f3,
+
+20
+00:02:59,100 --> 00:03:07,300
+ knight takes f4, oh wait he can still take with pawn. Let's go for f4. Oh he really took
+
+21
+00:03:07,300 --> 00:03:16,060
+ back with pawn. Queen f2. That blunders a pawn. And let's pull my knight back. I mean
+
+22
+00:03:16,060 --> 00:03:21,340
+ who cares about that rook in the corner anyway. My knight is much stronger here in the middle
+
+23
+00:03:21,340 --> 00:03:32,940
+ of the board.
+
+24
+00:03:32,940 --> 00:03:33,180
+ What the f-
+
+25
+00:03:33,180 --> 00:03:47,740
+ *outro music*
+

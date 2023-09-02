@@ -1,0 +1,88 @@
+1
+00:00:00,000 --> 00:00:07,120
+ 100 rated chess, but every time a bishop moves, a piece has to move up.
+
+2
+00:00:07,120 --> 00:00:14,560
+ Well, that sounds too easy, so let's change it to "you move your king up".
+
+3
+00:00:14,560 --> 00:00:22,000
+ And you know what? That is actually still too easy. So furthermore, I cannot take my opponent's
+
+4
+00:00:22,000 --> 00:00:30,320
+ bishops. Yeah, now that is enough challenging for a video. Let's go, we get a 2-1-0 from the US.
+
+5
+00:00:30,320 --> 00:00:39,600
+ With premium membership. E3. A bishop move will force my king to move up, but if I play a move
+
+6
+00:00:39,600 --> 00:00:46,960
+ like d5 trying to stop bishop c4, it will just provoke him to play bishop b5 check, which actually
+
+7
+00:00:46,960 --> 00:00:54,320
+ doesn't even allow my king to move up, which means I'll have to end my video. Therefore, e5,
+
+8
+00:00:54,320 --> 00:01:03,680
+ bishop c4 and king e7, are expected to happen next. Or not. Now knight c6 should be the best move,
+
+9
+00:01:03,680 --> 00:01:10,160
+ but after bishop c4, I'll have to go king e7, which allows queen takes f7, and even though
+
+10
+00:01:10,160 --> 00:01:17,440
+ it's not a checkmate, I don't think I should let that happen. So I guess. D5. Let's just disallow
+
+11
+00:01:17,440 --> 00:01:23,200
+ bishop c4 first, because if he doesn't develop his bishop, I won't have to advance my king.
+
+12
+00:01:23,200 --> 00:01:32,160
+ Well, I guess I still have to advance my king sometimes. King takes f7 is forced.
+
+13
+00:01:32,800 --> 00:01:41,360
+ Man, I totally didn't see this coming. And I also didn't see that coming. King f6.
+
+14
+00:01:41,360 --> 00:01:51,600
+ E4. That blunders this bishop again, but of course, I cannot take it, due to the rules. D takes e4.
+
+15
+00:01:51,600 --> 00:02:00,800
+ D3. Ah ha, now I have a chance of pulling my king back, but you know what, that sounds very coward.
+
+16
+00:02:01,440 --> 00:02:09,520
+ Therefore, E takes d3. I will not pull my king back, he will either stay here, or move forward.
+
+17
+00:02:09,520 --> 00:02:18,720
+ I solemnly swear, that this guy is not a paid actor. Man, it's gonna be a big problem if I
+
+18
+00:02:18,720 --> 00:02:26,880
+ have to disclaim the paid actor stuff like this in every video. King f5 is forced. This is really bad,
+
+19
+00:02:26,880 --> 00:02:33,280
+ if he somehow moves his bishop again, it's king g4 forced, and then my king cannot move forward
+
+20
+00:02:33,280 --> 00:02:42,560
+ anymore. And it really happened. Wow, this guy is absolutely destroying me right now. Wait what?
+
+21
+00:02:42,560 --> 00:02:47,760
+ Ha! Mission accomplished.
+
+22
+00:02:47,760 --> 00:03:02,640
+ [Music]
+

@@ -1,0 +1,452 @@
+1
+00:00:00,000 --> 00:00:02,000
+ If I can't play the best move,
+
+2
+00:00:02,000 --> 00:00:04,000
+ or book move,
+
+3
+00:00:04,000 --> 00:00:07,000
+ the video ends.
+
+4
+00:00:07,000 --> 00:00:12,000
+ Playing 3 minute splits on a 100 rated account.
+
+5
+00:00:12,000 --> 00:00:14,000
+ Disclaimer.
+
+6
+00:00:14,000 --> 00:00:16,000
+ I don't judge the moves myself,
+
+7
+00:00:16,000 --> 00:00:20,000
+ the evaluations of the moves are decided by Stockfish,
+
+8
+00:00:20,000 --> 00:00:23,000
+ one of the chess.com engines.
+
+9
+00:00:23,000 --> 00:00:27,000
+ And I only use the engine to analyze the game after it is already done,
+
+10
+00:00:27,000 --> 00:00:31,000
+ which means I don't cheat during the game.
+
+11
+00:00:31,000 --> 00:00:33,000
+ Alright.
+
+12
+00:00:33,000 --> 00:00:38,000
+ The truth is, I actually came up with this idea a long time ago.
+
+13
+00:00:38,000 --> 00:00:42,000
+ But of course, this is just way too hard,
+
+14
+00:00:42,000 --> 00:00:45,000
+ especially at the 180 D low,
+
+15
+00:00:45,000 --> 00:00:48,000
+ where people don't usually make book moves.
+
+16
+00:00:48,000 --> 00:00:51,000
+ But sadly, when ideas are running out,
+
+17
+00:00:51,000 --> 00:00:55,000
+ I need to take on the unthinkable.
+
+18
+00:00:55,000 --> 00:00:57,000
+ And with that out of the way,
+
+19
+00:00:57,000 --> 00:01:00,000
+ let's find an opponent.
+
+20
+00:01:00,000 --> 00:01:11,000
+ We get a 293 from the US,
+
+21
+00:01:11,000 --> 00:01:14,000
+ with premiumed membership.
+
+22
+00:01:14,000 --> 00:01:16,000
+ Man.
+
+23
+00:01:16,000 --> 00:01:19,000
+ I've been facing a lot of Americans these days,
+
+24
+00:01:19,000 --> 00:01:24,000
+ which makes me miss all the fun I used to have with the Indians.
+
+25
+00:01:24,000 --> 00:01:25,000
+ But anyway,
+
+26
+00:01:25,000 --> 00:01:29,000
+ it's not like I can choose my opponent in the first place,
+
+27
+00:01:29,000 --> 00:01:32,000
+ so let's just play the game.
+
+28
+00:01:32,000 --> 00:01:35,000
+ Since the challenge requires me to play
+
+29
+00:01:35,000 --> 00:01:37,000
+ either best
+
+30
+00:01:37,000 --> 00:01:39,000
+ or book moves,
+
+31
+00:01:39,000 --> 00:01:42,000
+ I think I should start with the most famous move,
+
+32
+00:01:42,000 --> 00:01:44,000
+ written in the books.
+
+33
+00:01:44,000 --> 00:01:46,000
+ E4.
+
+34
+00:01:46,000 --> 00:01:51,000
+ D5.
+
+35
+00:01:51,000 --> 00:01:53,000
+ Dude.
+
+36
+00:01:53,000 --> 00:01:56,000
+ As I was planning to play theoretically,
+
+37
+00:01:56,000 --> 00:02:00,000
+ he gave me an opening, that brings out his queen.
+
+38
+00:02:00,000 --> 00:02:03,000
+ Okay then.
+
+39
+00:02:03,000 --> 00:02:05,000
+ Nf3.
+
+40
+00:02:05,000 --> 00:02:07,000
+ If this is what he wants,
+
+41
+00:02:07,000 --> 00:02:10,000
+ I would prefer to do it this way.
+
+42
+00:02:10,000 --> 00:02:11,000
+ Tennis and gambit,
+
+43
+00:02:11,000 --> 00:02:17,000
+ and I'll try to go for the intercontinental ballistic missile variation.
+
+44
+00:02:17,000 --> 00:02:19,000
+ He took it.
+
+45
+00:02:19,000 --> 00:02:22,000
+ Ng5.
+
+46
+00:02:23,000 --> 00:02:25,000
+ Nh6.
+
+47
+00:02:25,000 --> 00:02:28,000
+ Okay I guess that's out of theory.
+
+48
+00:02:28,000 --> 00:02:29,000
+ From now on,
+
+49
+00:02:29,000 --> 00:02:32,000
+ things are going to be hard.
+
+50
+00:02:32,000 --> 00:02:34,000
+ First things first.
+
+51
+00:02:34,000 --> 00:02:37,000
+ Taking this pawn
+
+52
+00:02:37,000 --> 00:02:39,000
+ should be best.
+
+53
+00:02:39,000 --> 00:02:40,000
+ But of course,
+
+54
+00:02:40,000 --> 00:02:44,000
+ we still need stockfish to confirm that.
+
+55
+00:02:44,000 --> 00:02:47,000
+ Yes.
+
+56
+00:02:47,000 --> 00:02:50,000
+ Bf5.
+
+57
+00:02:50,000 --> 00:02:52,000
+ Bishop f5.
+
+58
+00:02:52,000 --> 00:02:54,000
+ Ah ha!
+
+59
+00:02:54,000 --> 00:02:56,000
+ This one should be easy.
+
+60
+00:02:56,000 --> 00:02:58,000
+ Ng3.
+
+61
+00:02:58,000 --> 00:03:00,000
+ Stockfish?
+
+62
+00:03:00,000 --> 00:03:03,000
+ Thank you.
+
+63
+00:03:03,000 --> 00:03:06,000
+ E6.
+
+64
+00:03:06,000 --> 00:03:07,000
+ Okay.
+
+65
+00:03:07,000 --> 00:03:10,000
+ Now comes the hard part.
+
+66
+00:03:10,000 --> 00:03:12,000
+ There are so many choices.
+
+67
+00:03:12,000 --> 00:03:14,000
+ D3.
+
+68
+00:03:14,000 --> 00:03:15,000
+ D4.
+
+69
+00:03:15,000 --> 00:03:17,000
+ Nc3.
+
+70
+00:03:17,000 --> 00:03:18,000
+ Be2.
+
+71
+00:03:18,000 --> 00:03:20,000
+ Bc4.
+
+72
+00:03:20,000 --> 00:03:22,000
+ Bb5.
+
+73
+00:03:22,000 --> 00:03:24,000
+ Or Ke2.
+
+74
+00:03:24,000 --> 00:03:28,000
+ Well I'm pretty sure Ke2 is not really a choice,
+
+75
+00:03:28,000 --> 00:03:34,000
+ but subtracting one choice out of a hundred is not really that much of a deal.
+
+76
+00:03:34,000 --> 00:03:36,000
+ Alright.
+
+77
+00:03:36,000 --> 00:03:39,000
+ I guess I can just trust my instinct.
+
+78
+00:03:39,000 --> 00:03:42,000
+ D4.
+
+79
+00:03:42,000 --> 00:03:44,000
+ Stockfish?
+
+80
+00:03:44,000 --> 00:03:46,000
+ Ha ha!
+
+81
+00:03:46,000 --> 00:03:49,000
+ I'm such a grandmaster.
+
+82
+00:03:49,000 --> 00:03:52,000
+ Bd6.
+
+83
+00:03:52,000 --> 00:03:54,000
+ I have faith in this one.
+
+84
+00:03:54,000 --> 00:03:57,000
+ Bxh6.
+
+85
+00:03:57,000 --> 00:03:59,000
+ But of course,
+
+86
+00:03:59,000 --> 00:04:02,000
+ we still need stockfish to decide that.
+
+87
+00:04:02,000 --> 00:04:06,000
+ Yes.
+
+88
+00:04:06,000 --> 00:04:09,000
+ Gxh6.
+
+89
+00:04:09,000 --> 00:04:11,000
+ I'll take this one as well.
+
+90
+00:04:11,000 --> 00:04:13,000
+ There is no way this is wrong.
+
+91
+00:04:13,000 --> 00:04:15,000
+ Right?
+
+92
+00:04:16,000 --> 00:04:18,000
+ Thank you fish.
+
+93
+00:04:18,000 --> 00:04:21,000
+ He takes f5.
+
+94
+00:04:21,000 --> 00:04:23,000
+ Alright.
+
+95
+00:04:23,000 --> 00:04:26,000
+ Now comes the hard part again.
+
+96
+00:04:26,000 --> 00:04:29,000
+ I need to make a developing move.
+
+97
+00:04:29,000 --> 00:04:32,000
+ I mean Bd3 looks really good,
+
+98
+00:04:32,000 --> 00:04:36,000
+ but Qh5 is forking the f-pawn and the h-pawn,
+
+99
+00:04:36,000 --> 00:04:40,000
+ and Qf3 is forking the f-pawn and the b-pawn.
+
+100
+00:04:40,000 --> 00:04:43,000
+ Alright.
+
+101
+00:04:43,000 --> 00:04:46,000
+ I guess I need to trust my instinct again.
+
+102
+00:04:46,000 --> 00:04:49,000
+ Qf3.
+
+103
+00:04:49,000 --> 00:04:53,000
+ Even though Qh5 hits the most amount of targets,
+
+104
+00:04:53,000 --> 00:04:57,000
+ Qg5 is such a good move to cancel all of them.
+
+105
+00:04:57,000 --> 00:05:00,000
+ But in order to stop Qf3,
+
+106
+00:05:00,000 --> 00:05:02,000
+ the only possible move
+
+107
+00:05:02,000 --> 00:05:04,000
+ is Qc8,
+
+108
+00:05:04,000 --> 00:05:06,000
+ which looks absurd.
+
+109
+00:05:06,000 --> 00:05:08,000
+ But of course,
+
+110
+00:05:08,000 --> 00:05:12,000
+ we still need stockfish to decide whether I'm right or not.
+
+111
+00:05:12,000 --> 00:05:14,000
+ (Quack)
+
+112
+00:05:14,000 --> 00:05:21,000
+ What the f-
+
+113
+00:05:21,000 --> 00:05:34,000
+ (Outro)
+

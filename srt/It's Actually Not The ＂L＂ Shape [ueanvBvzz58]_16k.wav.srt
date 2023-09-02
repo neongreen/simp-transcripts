@@ -1,0 +1,144 @@
+1
+00:00:00,000 --> 00:00:04,640
+ If something attacks a knight, simp explains how the knight actually goes.
+
+2
+00:00:04,640 --> 00:00:11,520
+ Fine. This is obviously a very hard challenge, but I actually believe, that I can make a long
+
+3
+00:00:11,520 --> 00:00:20,640
+ video with it. We get a 2 41 from France. My most usual first move is e4, but in this game, e4 opens
+
+4
+00:00:20,640 --> 00:00:27,360
+ up my queen, and later on in the game, there may be knight f6 and knight g4, which makes my queen
+
+5
+00:00:27,360 --> 00:00:40,240
+ attacks his knight, which ends the video. Therefore, d4. d5. Bishop f4. e5. Very aggressive. That blunders
+
+6
+00:00:40,240 --> 00:00:46,560
+ a pawn. And that was very good, because now he can't develop his knight to f6 anymore, and if he
+
+7
+00:00:46,560 --> 00:00:54,560
+ can't develop his knight to the center, it will less likely be attacked by my pieces. c6. e3.
+
+8
+00:00:55,840 --> 00:01:03,280
+ f5. Ah ha, now en passant is possible, but since it only provokes knight f6, which is not good for
+
+9
+00:01:03,280 --> 00:01:10,800
+ the video, so I guess we'll have to skip the French move this time. Bishop d3. I can already see,
+
+10
+00:01:10,800 --> 00:01:16,800
+ that some people are gonna say, I can't believe you didn't play en passant disliked unsubbed.
+
+11
+00:01:16,800 --> 00:01:24,960
+ But you know, I only play for the video's sake. Knight d7. That blunders a pawn, but of course,
+
+12
+00:01:24,960 --> 00:01:33,280
+ that attacks his knight on d7, which makes me a fool, for ending my own video. So I guess. a4.
+
+13
+00:01:33,280 --> 00:01:38,560
+ Of course I don't want to develop my knights at any cost, so I need to make room to move my rook
+
+14
+00:01:38,560 --> 00:01:52,400
+ out in the future. Bishop c5. h4. h5. Very aggressive. Rook h3. g6. Rook g3. Actually,
+
+15
+00:01:52,400 --> 00:02:00,880
+ I think my moves are even more aggressive than his. Knight e7. Wow, just look at his knight,
+
+16
+00:02:00,880 --> 00:02:08,880
+ there is absolutely nowhere to go to. But anyway. Queen f3. I mean I'm pretty much out of moves,
+
+17
+00:02:08,880 --> 00:02:17,760
+ so it was just a random one. Queen a5 check. Very aggressive. c3 is obviously the best move,
+
+18
+00:02:17,760 --> 00:02:25,280
+ but let's go with. King f1. I mean I can't castle anyway, so it's a good chance to hide my king away
+
+19
+00:02:25,280 --> 00:02:35,120
+ from the center. Rook g8. Ha! A moment ago, this knight still had the g8 square. But now,
+
+20
+00:02:35,120 --> 00:02:46,400
+ it's officially trapped. c3. b5. That blunders a bishop. Oh, wait. Now if he goes bishop takes b4,
+
+21
+00:02:46,400 --> 00:02:52,720
+ I won't be able to take back, because if c takes b4, there is queen takes b4 attacking my knight.
+
+22
+00:02:52,720 --> 00:03:04,960
+ My bad. Nevermind. B takes c5. Queen takes c5. A takes b5. And in no world do you take with your
+
+23
+00:03:04,960 --> 00:03:18,880
+ queen here. Of course. Rook a5. a6. Not very aggressive. c4. Man, this video is lasting much
+
+24
+00:03:18,880 --> 00:03:27,040
+ longer than I expected. B takes c4. That blunders a queen. But should I even take it, though?
+
+25
+00:03:27,040 --> 00:03:31,920
+ Because if I take his queen, knight takes will bring his knight closer to the center,
+
+26
+00:03:31,920 --> 00:03:40,320
+ which may turn the video down very quickly. You know what? I think it's fine. Rook takes c5.
+
+27
+00:03:40,320 --> 00:03:51,280
+ Knight takes c5. Bishop takes c4. Oh, wait. I blundered knight e4. But I didn't blunder that one.
+
+28
+00:03:51,280 --> 00:03:59,760
+ Okay fine, I'll explain how the knights really move. You see, a lot of people just don't want
+
+29
+00:03:59,760 --> 00:04:04,640
+ to talk about this stuff when they get asked, and just say simple stuff like,
+
+30
+00:04:04,640 --> 00:04:11,760
+ they move in the L shape. But in fact, that is not true. To make it easier to understand,
+
+31
+00:04:11,760 --> 00:04:17,840
+ let's imagine, that you are driving a car to the supermarket. And now that you have arrived,
+
+32
+00:04:17,840 --> 00:04:22,800
+ you need to turn your car in a direction, so you can park it in the correct parking lot.
+
+33
+00:04:23,600 --> 00:04:30,640
+ Knights are no different. A knight is a combination of a guy riding a horse. And when that guy needs
+
+34
+00:04:30,640 --> 00:04:37,120
+ to go to a square on the chessboard, he rides his horse there, and then takes a turn to park
+
+35
+00:04:37,120 --> 00:04:43,520
+ his horse on the very next square. And there you have it, that is the undeniable fact about how
+
+36
+00:04:43,520 --> 00:04:59,520
+ the knights move.
+

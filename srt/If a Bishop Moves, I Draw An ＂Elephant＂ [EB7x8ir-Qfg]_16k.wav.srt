@@ -1,0 +1,136 @@
+1
+00:00:00,000 --> 00:00:03,360
+ If someone moves a bishop, simp draws an elephant.
+
+2
+00:00:03,360 --> 00:00:10,080
+ Okay so for anyone who doesn't know, the bishops are actually called elephants in Chinese chess.
+
+3
+00:00:10,080 --> 00:00:12,560
+ And those pieces suck.
+
+4
+00:00:12,560 --> 00:00:17,120
+ But anyway. We get a 2-94 from Uruguay.
+
+5
+00:00:17,120 --> 00:00:21,200
+ Pushing a center pawn doesn't seem to be a great idea,
+
+6
+00:00:21,200 --> 00:00:26,240
+ since it mostly provokes my opponent to do the same, which opens up his bishop's way.
+
+7
+00:00:27,120 --> 00:00:33,680
+ Therefore, c4. I'm pretty sure he's just gonna play c5 and leave his bishops closed.
+
+8
+00:00:33,680 --> 00:00:34,960
+ E6.
+
+9
+00:00:34,960 --> 00:00:42,960
+ Alright. It's fine. Now the threats are bishop c5 and bishop b4,
+
+10
+00:00:42,960 --> 00:00:45,440
+ because the other 2 moves look pretty stupid.
+
+11
+00:00:45,440 --> 00:00:50,960
+ Therefore, a3. That will at least stop bishop b4.
+
+12
+00:00:50,960 --> 00:00:56,720
+ And he should be able to see, that bishop c5 will immediately get kicked back by b4.
+
+13
+00:00:56,960 --> 00:01:01,680
+ And not to mention that a lot of people just push their e-pawn to develop their queen.
+
+14
+00:01:01,680 --> 00:01:05,040
+ Ha! I called it.
+
+15
+00:01:05,040 --> 00:01:12,800
+ b4. Now bishop c5 is no longer a threat anymore, and since the other 2 moves are bad,
+
+16
+00:01:12,800 --> 00:01:15,920
+ this entire bishop is basically no longer a threat.
+
+17
+00:01:15,920 --> 00:01:24,880
+ f5. Wow! That is even better for me, since this bishop is basically crying from his home.
+
+18
+00:01:26,000 --> 00:01:32,640
+ Nf3. It would be great if he can take this pawn instead of just retreating,
+
+19
+00:01:32,640 --> 00:01:35,760
+ but horizontal moves tend to be a little bit hard to see.
+
+20
+00:01:35,760 --> 00:01:42,720
+ Qg4. Ah ha! I guess we are a bit closer to our goal now.
+
+21
+00:01:42,720 --> 00:01:44,720
+ h3.
+
+22
+00:01:44,720 --> 00:01:47,040
+ Finally!
+
+23
+00:01:47,040 --> 00:01:51,920
+ d3. The more you move your queen, the longer the video gets.
+
+24
+00:01:54,400 --> 00:01:56,720
+ Ha! That is interesting.
+
+25
+00:01:56,720 --> 00:02:01,040
+ Should I sacrifice my rook to keep him moving his queen,
+
+26
+00:02:01,040 --> 00:02:05,040
+ or should I just take his queen and risk the chance of him moving his bishop?
+
+27
+00:02:05,040 --> 00:02:11,600
+ I'll take his queen. I mean that rook is innocent, and just look at this bishop.
+
+28
+00:02:11,600 --> 00:02:16,800
+ No way out, and this bishop just doesn't have any moves that make sense,
+
+29
+00:02:16,800 --> 00:02:19,040
+ so it's also kinda no way out.
+
+30
+00:02:22,800 --> 00:02:24,880
+ Yeah I should have sacrificed my rook.
+
+31
+00:02:24,880 --> 00:02:27,520
+ And you know what the worst part is?
+
+32
+00:02:27,520 --> 00:02:31,200
+ Bishop e7 is excellent.
+
+33
+00:02:31,200 --> 00:02:49,280
+ Yeah I think that's good enough.
+
+34
+00:02:49,520 --> 00:03:04,320
+ [Music]
+

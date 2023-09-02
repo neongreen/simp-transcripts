@@ -1,0 +1,140 @@
+1
+00:00:00,000 --> 00:00:08,400
+ chess but. Well, I guess you mean, chess, but, you can only move pawns, until you are checked.
+
+2
+00:00:08,400 --> 00:00:15,600
+ That is actually pretty easy, so let's combine it, with chess, but you have to move pawns 2
+
+3
+00:00:15,600 --> 00:00:23,920
+ squares forward on their first move. And you know what? Still easy. We get a 1 54 from the US.
+
+4
+00:00:25,440 --> 00:00:32,400
+ D4. D5, opening up my king's diagonal, because of course, I want to be checked.
+
+5
+00:00:32,400 --> 00:00:38,800
+ Knight F3. And funny enough, there is still no piece that can check me.
+
+6
+00:00:38,800 --> 00:00:45,360
+ B5. Now of course you will open up your bishop and go for my B pawn. Right?
+
+7
+00:00:46,880 --> 00:00:55,440
+ Knight C3. No. This is not good. At this point, my B pawn will be taken by his knight, and I don't
+
+8
+00:00:55,440 --> 00:01:05,200
+ want to lose a pawn for free like that. Therefore, B4. Knight B5. That blunders a horsey to A6,
+
+9
+00:01:05,200 --> 00:01:10,960
+ because the knight is trapped, but sadly, I cannot move pawns 1 square at the beginning,
+
+10
+00:01:10,960 --> 00:01:18,480
+ because of the rules. Therefore, F5. I'm opening up the other king's diagonal, which may provoke
+
+11
+00:01:18,480 --> 00:01:27,520
+ him to push his E pawn, move his knight out, and play queen H5 check. Knight E5. Very aggressive.
+
+12
+00:01:27,520 --> 00:01:34,640
+ But that's actually a good move, because now I have to be careful, since if queen H5 really happens,
+
+13
+00:01:34,640 --> 00:01:43,040
+ my king cannot move anywhere, which means G6 is forced, which ends the video. But anyway. C5. I
+
+14
+00:01:43,040 --> 00:01:51,520
+ mean I didn't have that many moves to think about, so I just moved a random pawn. D takes. G5. Not
+
+15
+00:01:51,520 --> 00:01:57,440
+ gonna lie, this is getting kinda annoying, because I cannot do anything, and he literally has no
+
+16
+00:01:57,440 --> 00:02:07,120
+ available checks after 6 moves already. Knight C6. That blunders a horsey. But I cannot take it,
+
+17
+00:02:07,120 --> 00:02:16,720
+ due to the rules. Which means I'll lose my queen. E5. Here, just go back and take the pawn please.
+
+18
+00:02:16,720 --> 00:02:24,400
+ Nevermind. And the worst thing is, I can't even take back to avenge my wife, because of the rules.
+
+19
+00:02:25,360 --> 00:02:32,960
+ D4. Alright, it's fine, at least now he will definitely go knight C7 check to fork my rook,
+
+20
+00:02:32,960 --> 00:02:42,000
+ which means I will finally be able to play the game. Or not. B takes C3, just fork me please.
+
+21
+00:02:42,000 --> 00:02:51,760
+ B takes. Taking his B pawn is obviously not a good idea, therefore, A5. I'm running out of
+
+22
+00:02:51,760 --> 00:03:01,440
+ pawn moves here. C takes D4. E4, keep the queen's file close, or my king will get f***ed real hard.
+
+23
+00:03:01,440 --> 00:03:11,920
+ D5. Now queen D4 attacking the rook is the threat. Therefore, H5. I mean I still cannot move my rook
+
+24
+00:03:11,920 --> 00:03:17,120
+ if he really plays it, but at least let's just hope that he thinks my rook can move.
+
+25
+00:03:18,800 --> 00:03:26,400
+ Thank you. F4. Oh I blundered a pawn. My bad, but you know, what can I even do anyway.
+
+26
+00:03:26,400 --> 00:03:37,040
+ E takes. G takes. Bishop takes. Oh wait, maybe that's good, because now the bishop also controls
+
+27
+00:03:37,040 --> 00:03:46,560
+ C7, maybe it's finally time, that he can see knight C7 check. H4. Okay. Come on, I'm almost
+
+28
+00:03:46,560 --> 00:03:56,480
+ out of pawn moves, so just give a check, and we go all out. Knight D6 check. Aha, finally,
+
+29
+00:03:56,480 --> 00:04:05,040
+ not only he didn't see knight C7, he also gave me, a check. Bishop takes D6. I can still lose though,
+
+30
+00:04:05,040 --> 00:04:17,920
+ I don't have much time left. C takes. Let's go fast. King takes D8. D7. It took him 42.3 seconds
+
+31
+00:04:17,920 --> 00:04:26,880
+ to blunder a pawn. D6. Knight C6. I don't know if it's good or not, just need to move fast.
+
+32
+00:04:28,240 --> 00:04:37,920
+ Queen B1. Knight F6, man that move looks real bad. Queen B7. Very aggressive. Rook B8.
+
+33
+00:04:37,920 --> 00:04:49,200
+ Queen A6. Alright, the dirty flag move, rook B6. Pre-move this. Wait what? Oh he's trying to flag
+
+34
+00:04:49,200 --> 00:04:59,760
+ me too? Rook B8 again. And he ran out of time. Mission accomplished.
+
+35
+00:04:59,760 --> 00:05:12,080
+ [Music]
+

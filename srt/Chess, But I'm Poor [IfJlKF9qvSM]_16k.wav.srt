@@ -1,0 +1,236 @@
+1
+00:00:00,000 --> 00:00:02,000
+ Chess, but you only have
+
+2
+00:00:02,000 --> 00:00:06,860
+ $690 and you pay your soldiers for every moves
+
+3
+00:00:06,860 --> 00:00:09,180
+ Blah blah blah
+
+4
+00:00:09,180 --> 00:00:14,180
+ Castling counts as moving. Oh, wait, wait, wait. That's a different comment. Oh
+
+5
+00:00:14,180 --> 00:00:20,860
+ I see. He didn't mention about castling. So let's make it
+
+6
+00:00:20,860 --> 00:00:23,300
+ $0
+
+7
+00:00:23,300 --> 00:00:26,980
+ Let's go. We get a 215 from India
+
+8
+00:00:28,020 --> 00:00:30,020
+ e4
+
+9
+00:00:30,020 --> 00:00:31,700
+ e5
+
+10
+00:00:31,700 --> 00:00:33,220
+ still theory
+
+11
+00:00:33,220 --> 00:00:40,480
+ Since I have a very limited budget. Let's try to play really aggressively and get some chances at winning quickly
+
+12
+00:00:40,480 --> 00:00:43,700
+ d4
+
+13
+00:00:43,700 --> 00:00:47,180
+ F6 that blunders a pawn
+
+14
+00:00:47,180 --> 00:00:50,660
+ F takes e5
+
+15
+00:00:51,020 --> 00:00:58,260
+ Aha, now it gets really tricky in this position. I have Queen h5 check g6
+
+16
+00:00:58,260 --> 00:01:03,640
+ Queen takes e5 check Queen blocks Queen takes h8 winning a rook
+
+17
+00:01:03,640 --> 00:01:11,580
+ But then he can go Queen g7 which forces Queen takes g7 trading the Queens which is for Queens move in a row
+
+18
+00:01:11,580 --> 00:01:13,620
+ which costs me
+
+19
+00:01:13,620 --> 00:01:17,700
+ $360 more than half of my entire budget and also
+
+20
+00:01:18,100 --> 00:01:21,660
+ Losing the Queen will make it harder for me to checkmate my opponent
+
+21
+00:01:21,660 --> 00:01:29,060
+ Well, but on the other hand if I don't do that, it's actually even harder to find a good plan now
+
+22
+00:01:29,060 --> 00:01:31,300
+ therefore
+
+23
+00:01:31,300 --> 00:01:33,300
+ YOLO Queen h5
+
+24
+00:01:33,300 --> 00:01:36,100
+ check
+
+25
+00:01:36,100 --> 00:01:41,100
+ King e7 that's a lot of testosterone right there
+
+26
+00:01:41,980 --> 00:01:48,820
+ Normally, I'll go Queen takes e5 check King f7 is forced Bishop c4 check d5
+
+27
+00:01:48,820 --> 00:01:53,980
+ Bishop takes d5 check Queen takes d5 e takes d5
+
+28
+00:01:53,980 --> 00:01:58,260
+ But that line requires me to move my Queen first which costs
+
+29
+00:01:58,260 --> 00:02:05,500
+ $90 and even though it wins my opponent's Queen it opens up too much space for his King and other pieces to move
+
+30
+00:02:05,500 --> 00:02:07,980
+ Which should make it harder for me to win quickly
+
+31
+00:02:08,940 --> 00:02:15,440
+ Therefore Bishop c4 I'm threatening Queen takes e5 checkmate in one and you know
+
+32
+00:02:15,440 --> 00:02:18,560
+ There's a chance that he cannot see it, right?
+
+33
+00:02:18,560 --> 00:02:23,860
+ Wow, he actually saw it
+
+34
+00:02:23,860 --> 00:02:30,440
+ Before the video continues in this position. There is a brilliant move according to stockfish
+
+35
+00:02:30,440 --> 00:02:36,660
+ So feel free to pause the video to try and find that move while I give you a couple of seconds
+
+36
+00:02:36,660 --> 00:02:38,660
+ *PAUSE*
+
+37
+00:02:38,660 --> 00:02:46,020
+ Okay for those of you who were able to find it
+
+38
+00:02:46,020 --> 00:02:50,840
+ Congratulations, and for those of you who just wants to enjoy the show
+
+39
+00:02:50,840 --> 00:02:58,740
+ It's Bishop to f4 the idea is if he takes there is Queen d5 check King e7 is forced
+
+40
+00:02:58,740 --> 00:03:03,780
+ Queen e5 checkmate if he just ignores it and play things like a6
+
+41
+00:03:03,860 --> 00:03:09,220
+ There is a forced checkmate in 8 or even if he finds the best move of Queen f6
+
+42
+00:03:09,220 --> 00:03:16,900
+ We can move our Bishop once again to g5 and he'll either have to sacrifice his Queen or go Queen g6 and blunder his
+
+43
+00:03:16,900 --> 00:03:25,300
+ King to Queen all the way back to d1 check King c6 Queen d5 check King b6 and Queen b5 checkmate
+
+44
+00:03:25,300 --> 00:03:30,220
+ But anyway, of course, I didn't see the brilliant move
+
+45
+00:03:31,020 --> 00:03:38,340
+ Queen f7 I was planning that he might decide to go Queen e7 to offer a Queen trade which blunders Queen
+
+46
+00:03:38,340 --> 00:03:40,340
+ d5 checkmate in one
+
+47
+00:03:40,340 --> 00:03:42,900
+ but instead he went for
+
+48
+00:03:42,900 --> 00:03:45,820
+ Knight h6
+
+49
+00:03:45,820 --> 00:03:48,700
+ That also blunders checkmate in two anyway
+
+50
+00:03:48,700 --> 00:03:54,180
+ Queen d5 check and I can pre move Queen takes e5
+
+51
+00:03:54,180 --> 00:03:59,180
+ Checkmate
+
+52
+00:03:59,180 --> 00:04:07,060
+ Fun fact I actually always analyze my games with Stockfish after it is done and this time I got to see
+
+53
+00:04:07,060 --> 00:04:09,580
+ this
+
+54
+00:04:09,580 --> 00:04:13,540
+ 0.0% accuracy from my opponent
+
+55
+00:04:13,540 --> 00:04:18,420
+ Man, that was the funniest thing I've ever seen in my entire life
+
+56
+00:04:18,420 --> 00:04:23,140
+ Except for that day when my best friend was kicked in the balls by his girlfriend
+
+57
+00:04:23,140 --> 00:04:25,660
+ but anyway
+
+58
+00:04:25,660 --> 00:04:27,660
+ mission accomplished
+
+59
+00:04:27,660 --> 00:04:42,720
+ [Music]
+

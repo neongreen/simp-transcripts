@@ -1,0 +1,104 @@
+1
+00:00:00,000 --> 00:00:05,120
+ 100 rated chess, but your pawns and pieces can't cross the halfway line.
+
+2
+00:00:05,120 --> 00:00:12,880
+ Very short, but very challenging. We get a 100 rated American. For those of you guys who don't
+
+3
+00:00:12,880 --> 00:00:19,680
+ know. This, is the halfway line, which means I cannot move anything in my army past this line.
+
+4
+00:00:19,680 --> 00:00:27,120
+ E4. The plan is simple. Sacrifice all of the pawns, so I can use my rooks to checkmate his
+
+5
+00:00:27,120 --> 00:00:40,480
+ king from far away. E5. D4. First pawn to die. Perfect. C3. Second pawn to die. Or not.
+
+6
+00:00:40,480 --> 00:00:46,640
+ Taking this pawn is obviously the best move now, but since the challenge doesn't allow me to move
+
+7
+00:00:46,640 --> 00:00:51,440
+ over to his side of the board, taking the full center actually doesn't have much affection as
+
+8
+00:00:51,440 --> 00:01:02,400
+ it usually do. Therefore, Bc4. Let's continue giving away the pawns. Qh4. Ah ha. First of all.
+
+9
+00:01:02,400 --> 00:01:09,840
+ Very aggressive. Secondly, Bd5 should be the best move, but the rule doesn't allow me to do that,
+
+10
+00:01:09,840 --> 00:01:18,480
+ and a move like Bd3 makes me look like a coward. Therefore, G4. Ha. I bet you've never seen that
+
+11
+00:01:18,480 --> 00:01:29,040
+ move before. Ne5. Wow. This has to be the first time I've ever seen a 100-rated guy seeing a fork.
+
+12
+00:01:29,040 --> 00:01:35,920
+ Nf3. I think Stockfish might have wanted me to take his pawn and let my G-pawn die,
+
+13
+00:01:35,920 --> 00:01:44,400
+ but I don't like that at all. Nxc4. Ha, that blunders a woman, and since the woman is already
+
+14
+00:01:44,400 --> 00:01:51,760
+ in our side of the board, I can take it. Alright, change of plan. The original plan was to open up
+
+15
+00:01:51,760 --> 00:01:58,080
+ the board and checkmate his king from 100 miles away, but now since I've taken down his queen,
+
+16
+00:01:58,080 --> 00:02:09,440
+ let's just try to make him resign. D3. I can feel the desperation in that move. Qxd3. Ne5.
+
+17
+00:02:10,240 --> 00:02:16,480
+ Very aggressive. Let's just go back, it's still a bit too early to bring my queen out,
+
+18
+00:02:16,480 --> 00:02:25,040
+ especially when I don't have that many squares to move to. Bc5. Castle. Maybe castle was not
+
+19
+00:02:25,040 --> 00:02:33,360
+ a good decision, but who cares anyway. D6. That attacks the G-pawn, but as I mentioned before,
+
+20
+00:02:33,360 --> 00:02:44,560
+ if the pawns die, there will be more space for my other pieces. Therefore, b4. Bb6. a4. Push M baby!
+
+21
+00:02:44,560 --> 00:02:56,560
+ Dude. I said push M, not take M. Qb3. I mean he's almost ran out of time, so I'm pretty sure that
+
+22
+00:02:56,560 --> 00:03:04,480
+ I will win this game, as long as I don't end my own video. Nf3 check. Very desperate for a check.
+
+23
+00:03:04,480 --> 00:03:12,800
+ And he didn't even take back. Ng5 is obviously the best move, but of course, I need to control
+
+24
+00:03:12,800 --> 00:03:21,680
+ myself. Rook e1. And there we go. Wow. I didn't even think that this challenge was doable.
+
+25
+00:03:23,440 --> 00:03:27,440
+ Mission accomplished.
+
+26
+00:03:27,440 --> 00:03:40,340
+ [outro]
+

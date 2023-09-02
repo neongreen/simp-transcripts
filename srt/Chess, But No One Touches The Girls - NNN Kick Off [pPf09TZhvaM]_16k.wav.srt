@@ -1,0 +1,76 @@
+1
+00:00:00,000 --> 00:00:07,000
+ 100 rated chess, but no one can move their queens, or eat their opponent's queen.
+
+2
+00:00:07,000 --> 00:00:12,000
+ OK then. We get a 272 from India.
+
+3
+00:00:12,000 --> 00:00:22,000
+ So if I play E4 like usual, he may be going to play E5, which opens up the queen's diagonal, which is not good.
+
+4
+00:00:22,000 --> 00:00:33,000
+ Therefore, D4. Of course he can still play E5, but since the England gambit sucks, let's just hope that he won't go for it.
+
+5
+00:00:33,000 --> 00:00:49,000
+ Knight C6. Perfect. D5. Not only he didn't open up his queen, but he also allowed me to attack his knight, which makes him busy, and thus extends the video's length.
+
+6
+00:00:50,000 --> 00:01:03,000
+ Knight E5. Aha! Now F4 should be the best move, but if I play F4, it will just provoke him to open up his queen faster, and then go queen H4 check.
+
+7
+00:01:03,000 --> 00:01:07,000
+ Therefore, bishop F4.
+
+8
+00:01:07,000 --> 00:01:18,000
+ Knight G6. Bishop G3. Well, at least if he opens up his queen now, queen H4 is not an option.
+
+9
+00:01:19,000 --> 00:01:34,000
+ E6. DxE6 is obviously the best move, but after DxE6, there will be a lot of tension between the queens, and even if I block it, his queen will still have too many squares to go to.
+
+10
+00:01:34,000 --> 00:01:38,000
+ So I guess, E4.
+
+11
+00:01:39,000 --> 00:01:50,000
+ He takes D5. Taking back the pawn is just provoking queen E7 check, and even though it's just a useless check, we can never know what will happen.
+
+12
+00:01:50,000 --> 00:01:59,000
+ Therefore, knight C3. Now just take my E pawn, or push D4 to attack my horsey.
+
+13
+00:01:59,000 --> 00:02:08,000
+ Yes! Once again, taking the pawn back will only provoke queen E7, which can pin down the knight.
+
+14
+00:02:08,000 --> 00:02:20,000
+ Therefore, bishop C4. Since I'm keeping my knight on C3, he should be able to see, that queen E7 or queen F6 are just blundering a rook.
+
+15
+00:02:20,000 --> 00:02:29,000
+ Because they allow knight D5, which will then fork his queen and the C7 pawn, which is actually another fork of forking his king and his rook.
+
+16
+00:02:29,000 --> 00:02:34,000
+ Which is like, a fork, inside of another fork.
+
+17
+00:02:34,000 --> 00:02:40,000
+ (silence)
+
+18
+00:02:40,000 --> 00:02:41,000
+ What the f-
+
+19
+00:02:41,000 --> 00:02:55,000
+ (outro music)
+

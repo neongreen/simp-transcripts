@@ -1,0 +1,92 @@
+1
+00:00:00,000 --> 00:00:06,480
+ It's January 1st, 2023, and what better way to start a year, than by calling my viewers,
+
+2
+00:00:06,480 --> 00:00:12,560
+ cheaters. Ladies and gentlemen, welcome to the first ever episode of my viewers cheat.
+
+3
+00:00:12,560 --> 00:00:17,520
+ The rules are very simple, we play a custom position, but my opponent gets to play with
+
+4
+00:00:17,520 --> 00:00:24,080
+ stockfish, with some special restrictions, that I'll explain during the video. Too much talking,
+
+5
+00:00:24,080 --> 00:00:30,720
+ Knight df6. As you can see, I'm opening stockfish right now for my opponent to use, but I actually
+
+6
+00:00:30,720 --> 00:00:38,000
+ cannot see it because I'm censoring it on my computer. Trust. Rook h6. I think my pieces
+
+7
+00:00:38,000 --> 00:00:44,480
+ are placed correctly, now let's just move the king. Rook h4 king b6 bishop e6 king c7.
+
+8
+00:00:44,480 --> 00:00:49,920
+ The plan is very simple, I want to go king b8 threatening his pawn, which provokes rook h8
+
+9
+00:00:49,920 --> 00:00:55,040
+ check protecting the pawn, and then I can go knight e8 countercheck and also skew as the rook.
+
+10
+00:00:55,040 --> 00:01:02,720
+ He saw it. Alright, as I said before, my opponent can only use stockfish with some special
+
+11
+00:01:02,720 --> 00:01:08,320
+ restrictions. At the beginning of the game, I asked him to choose a number from 1 to 5,
+
+12
+00:01:08,320 --> 00:01:15,760
+ he picked 4, so now after 4 moves, I'll disable stockfish. No worries, I'll enable it back after
+
+13
+00:01:15,760 --> 00:01:25,520
+ 4 moves more. King d6. Bishop f5. That was his first ever real move in this entire game. King e5,
+
+14
+00:01:25,520 --> 00:01:35,200
+ rook h3 knight d5 bishop g4 aha! That blunders a fork. King f7. Alright, 4 moves surpassed,
+
+15
+00:01:35,200 --> 00:01:43,520
+ I'll enable stockfish again. Knight takes h3. Bishop takes d1. That makes this pawn too dangerous,
+
+16
+00:01:43,520 --> 00:01:55,600
+ I'll take it. Bishop g4. Knight g5 check. King e8. Knight d e4. Bishop e2. 4 moves again,
+
+17
+00:01:55,600 --> 00:02:01,760
+ stockfish disabled, he's trying to bait me to take his bishop and let his f-pawn change his gender,
+
+18
+00:02:01,760 --> 00:02:11,040
+ so of course, I'll eliminate it first. Bishop takes f1. Knight e6. Bishop g2. Unfortunately,
+
+19
+00:02:11,040 --> 00:02:15,760
+ that trick doesn't work this time, now since he has blundered everything he's got,
+
+20
+00:02:15,760 --> 00:02:22,400
+ we shuffled our pieces for a few moves, and he promoted to a knight. You know what? I'm just
+
+21
+00:02:22,400 --> 00:02:28,720
+ gonna let that horsey live. And then after a few more moves, I get 2 queens, and he resigned.
+
+22
+00:02:29,600 --> 00:02:41,280
+ Ha! Even with stockfish, my viewers still cannot beat me.
+
+23
+00:02:41,360 --> 00:02:48,400
+ [Music]
+

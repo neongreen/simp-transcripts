@@ -1,0 +1,240 @@
+1
+00:00:00,000 --> 00:00:08,360
+ If a piece, not pawn, moves from the king's side to the queen's side, the video ends.
+
+2
+00:00:08,360 --> 00:00:09,880
+ Fine.
+
+3
+00:00:09,880 --> 00:00:12,920
+ We get a 299 from the US.
+
+4
+00:00:12,920 --> 00:00:15,380
+ With diamond membership.
+
+5
+00:00:15,380 --> 00:00:20,080
+ For those of you who don't know about the king's side and the queen's side of the chessboard,
+
+6
+00:00:20,080 --> 00:00:27,320
+ the king's side consists of the E, F, G, and H files, and the other 4 files, belong to
+
+7
+00:00:27,320 --> 00:00:29,420
+ the queen's side.
+
+8
+00:00:29,420 --> 00:00:35,960
+ So basically, if a piece, not pawn, moved from my left side to my right side, the video
+
+9
+00:00:35,960 --> 00:00:36,960
+ ends.
+
+10
+00:00:36,960 --> 00:00:37,960
+ E4.
+
+11
+00:00:37,960 --> 00:00:41,280
+ Ah ha.
+
+12
+00:00:41,280 --> 00:00:47,480
+ Now there are bishop D3, bishop C4, and bishop B5 ending the video.
+
+13
+00:00:47,480 --> 00:00:51,480
+ But sadly, there is no way I can prevent all of them.
+
+14
+00:00:51,480 --> 00:00:53,760
+ Therefore, D5.
+
+15
+00:00:53,760 --> 00:00:59,740
+ I want to at least stop bishop C4, and even though it looks like I'm just provoking bishop
+
+16
+00:00:59,740 --> 00:01:06,040
+ B5 check, most people will just take the pawn here.
+
+17
+00:01:06,040 --> 00:01:07,040
+ Knight C3.
+
+18
+00:01:07,040 --> 00:01:10,040
+ Ah ha, perfect.
+
+19
+00:01:10,040 --> 00:01:11,520
+ D4.
+
+20
+00:01:11,520 --> 00:01:15,200
+ If I attack his knight, he can't develop his bishop.
+
+21
+00:01:15,200 --> 00:01:20,320
+ And once again, the challenge is only about moving from king's side to queen's side, not
+
+22
+00:01:20,320 --> 00:01:26,520
+ vice versa, so knight E2 doesn't end my video.
+
+23
+00:01:26,520 --> 00:01:28,280
+ Knight B5.
+
+24
+00:01:28,280 --> 00:01:29,280
+ Very aggressive.
+
+25
+00:01:29,280 --> 00:01:30,280
+ A6.
+
+26
+00:01:30,280 --> 00:01:37,200
+ Thanks to his aggressiveness, now I can prevent bishop B5.
+
+27
+00:01:37,200 --> 00:01:38,960
+ Knight A3.
+
+28
+00:01:38,960 --> 00:01:41,520
+ Bishop C4 is still a threat.
+
+29
+00:01:41,520 --> 00:01:42,520
+ B5.
+
+30
+00:01:42,520 --> 00:01:43,520
+ C3.
+
+31
+00:01:43,520 --> 00:01:46,520
+ Ha ha.
+
+32
+00:01:46,520 --> 00:01:49,640
+ D3.
+
+33
+00:01:49,640 --> 00:01:52,680
+ Now he can't even end my video anymore.
+
+34
+00:01:52,680 --> 00:01:57,220
+ Man, I can't believe this challenge is going so smoothly.
+
+35
+00:01:57,220 --> 00:02:01,960
+ I thought I would have lost right away at move 2 or something.
+
+36
+00:02:01,960 --> 00:02:04,160
+ F4.
+
+37
+00:02:04,160 --> 00:02:05,340
+ Very aggressive.
+
+38
+00:02:05,340 --> 00:02:10,400
+ I can tell that my pawn push is making him really angry right now.
+
+39
+00:02:10,400 --> 00:02:12,400
+ E5.
+
+40
+00:02:12,400 --> 00:02:15,560
+ F takes E5.
+
+41
+00:02:15,560 --> 00:02:17,440
+ That blunders a rook.
+
+42
+00:02:17,440 --> 00:02:18,440
+ Queen H4.
+
+43
+00:02:18,440 --> 00:02:19,440
+ Check.
+
+44
+00:02:19,440 --> 00:02:23,960
+ G3 is forced.
+
+45
+00:02:23,960 --> 00:02:25,600
+ Queen takes E4.
+
+46
+00:02:25,600 --> 00:02:26,960
+ Check.
+
+47
+00:02:26,960 --> 00:02:28,400
+ King F2.
+
+48
+00:02:28,400 --> 00:02:30,880
+ Queen takes A. Oh wait wait wait.
+
+49
+00:02:30,880 --> 00:02:36,440
+ If I take his rook, my queen won't be guarding my D pawn anymore, which allows bishop takes
+
+50
+00:02:36,440 --> 00:02:39,620
+ D3, which ends the video.
+
+51
+00:02:39,620 --> 00:02:45,880
+ But actually, I was playing those moves so fast, that I didn't even see, bishop C5 is
+
+52
+00:02:45,880 --> 00:02:48,080
+ a checkmate in 1.
+
+53
+00:02:48,080 --> 00:02:50,800
+ And it breaks the challenge's rule.
+
+54
+00:02:50,800 --> 00:02:58,400
+ Well, I mean, we have been in this situation many times, and you know what I always do.
+
+55
+00:02:58,400 --> 00:03:00,320
+ F*** the mission.
+
+56
+00:03:00,320 --> 00:03:02,440
+ Bishop C5.
+
+57
+00:03:02,440 --> 00:03:04,400
+ Checkmate.
+
+58
+00:03:04,400 --> 00:03:19,840
+ And since I failed the challenge myself, there is no what the f*** today.
+
+59
+00:03:19,840 --> 00:03:22,420
+ (upbeat music)
+
+60
+00:03:22,420 --> 00:03:24,420
+ you
+

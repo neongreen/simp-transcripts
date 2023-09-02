@@ -1,0 +1,176 @@
+1
+00:00:00,000 --> 00:00:15,000
+ 100 rated chess, but you're a beginner's chess engine, if you can take a piece, not pawn, you must take a piece, not pawn, and you never learned how to checkmate, so you can only win that way by doing what you already know how to do.
+
+2
+00:00:15,000 --> 00:00:17,000
+ Taking a piece.
+
+3
+00:00:17,000 --> 00:00:18,000
+ Not pawn.
+
+4
+00:00:18,000 --> 00:00:21,000
+ Such a complicated way to explain a simple challenge.
+
+5
+00:00:21,000 --> 00:00:26,000
+ But anyway, we get an exact 100 rated guy from the United Kingdom.
+
+6
+00:00:26,000 --> 00:00:29,000
+ With premium membership.
+
+7
+00:00:29,000 --> 00:00:30,000
+ E4.
+
+8
+00:00:30,000 --> 00:00:31,000
+ E5.
+
+9
+00:00:31,000 --> 00:00:38,000
+ To be fair, this challenge is actually one of the easier ones, so I guess we're gonna have a good time here.
+
+10
+00:00:38,000 --> 00:00:39,000
+ Knight f3.
+
+11
+00:00:39,000 --> 00:00:41,000
+ Knight f6.
+
+12
+00:00:41,000 --> 00:00:43,000
+ Knight takes e5.
+
+13
+00:00:43,000 --> 00:00:50,000
+ Ah ha. Now I can take this pawn, but since the challenge said not pawn, knight c6 instead.
+
+14
+00:00:50,000 --> 00:00:52,000
+ Knight back.
+
+15
+00:00:52,000 --> 00:01:01,000
+ Coward. I still don't want to take this pawn because of queen e2 queen e7 and I'll probably have to trade my queen, so I guess, d6.
+
+16
+00:01:01,000 --> 00:01:13,000
+ In case you're wondering why I'm so against trading queens, it's because I'm playing against a 100 rated player, and in this rating area, you just let them blunder their own queen.
+
+17
+00:01:13,000 --> 00:01:14,000
+ c3.
+
+18
+00:01:14,000 --> 00:01:16,000
+ Bishop g4.
+
+19
+00:01:16,000 --> 00:01:24,000
+ Probably I'll have to trade my bishop off next move, but who knows, maybe he'll move his knight to give me his queen instead.
+
+20
+00:01:24,000 --> 00:01:27,000
+ Of course that doesn't happen.
+
+21
+00:01:27,000 --> 00:01:29,000
+ Taking a piece, is forced.
+
+22
+00:01:29,000 --> 00:01:37,000
+ Letting his queen goes here is pretty dangerous, but the riskier he plays, the more chance he'll blunder his queen.
+
+23
+00:01:37,000 --> 00:01:39,000
+ Yeah. Like that.
+
+24
+00:01:39,000 --> 00:01:41,000
+ King takes f7 is forced.
+
+25
+00:01:41,000 --> 00:01:46,000
+ I solemnly swear, that this guy is not a paid actor.
+
+26
+00:01:46,000 --> 00:01:49,000
+ Bishop check. I'll go back.
+
+27
+00:01:49,000 --> 00:01:50,000
+ d3.
+
+28
+00:01:50,000 --> 00:01:51,000
+ I'll take this pawn.
+
+29
+00:01:51,000 --> 00:02:04,000
+ Okay so here's the problem. Even though I'm leaving a gigantic amount of material, the challenge also forbids me from checkmating his king, so if he never resigns, maybe I'll be losing on time.
+
+30
+00:02:04,000 --> 00:02:05,000
+ e5.
+
+31
+00:02:05,000 --> 00:02:10,000
+ I want to take that pawn, but sadly, taking a piece is forced.
+
+32
+00:02:10,000 --> 00:02:11,000
+ d4.
+
+33
+00:02:11,000 --> 00:02:24,000
+ d takes d takes knight takes, I mean opening up the queen is very dangerous, but even if he plays something like knight d2 forcing my queen to take, I still can just use my knight and take this bishop instead.
+
+34
+00:02:24,000 --> 00:02:26,000
+ Bishop f4.
+
+35
+00:02:26,000 --> 00:02:39,000
+ That blunders a bishop. Now he should be able to see, that since I'm obviously attacking this pawn, a move like knight d2 forcing knight takes bishop takes queen takes king takes and I'm losing a queen is just blundering this pawn.
+
+36
+00:02:39,000 --> 00:02:41,000
+ Right?
+
+37
+00:02:41,000 --> 00:02:48,000
+ It's fine. Knight takes is kinda forced, I mean who knows, maybe he won't recapture.
+
+38
+00:02:48,000 --> 00:02:50,000
+ And he did.
+
+39
+00:02:50,000 --> 00:02:53,000
+ Again, not a paid actor.
+
+40
+00:02:53,000 --> 00:02:59,000
+ Knight e4 bishop takes knight takes rook takes queen takes king takes, and he still hasn't resigned.
+
+41
+00:02:59,000 --> 00:03:07,000
+ Okay fine I'll take all the pawns. Fast forward. And in this very position, he still doesn't resign.
+
+42
+00:03:07,000 --> 00:03:10,000
+ But he abandoned the game.
+
+43
+00:03:10,000 --> 00:03:13,000
+ Mission, accomplished.
+
+44
+00:03:13,000 --> 00:03:27,000
+ [outro music]
+

@@ -1,0 +1,76 @@
+1
+00:00:00,000 --> 00:00:07,120
+ 100 rated chess, but you can't capture a piece. Not pawn. The turn after it moves.
+
+2
+00:00:07,120 --> 00:00:14,160
+ Very challenging. We get a 138 from Mexico. With diamond membership.
+
+3
+00:00:14,160 --> 00:00:21,680
+ E4, nothing wrong so far. Knight f6. E5,
+
+4
+00:00:21,680 --> 00:00:26,080
+ let's see if the diamond membership taught him anything about moving the horses.
+
+5
+00:00:28,480 --> 00:00:35,200
+ Well, that blunders a horsey, but since it's just moved, I cannot take it, due to the rules.
+
+6
+00:00:35,200 --> 00:00:42,000
+ Therefore, d4, I mean if he can just leave it there for another turn, I can take it.
+
+7
+00:00:42,000 --> 00:00:53,520
+ Well of course, except for this case. G4. Knight g7. Fun fact, that is still. A book move.
+
+8
+00:00:54,880 --> 00:01:00,720
+ I'm really curious to see who wrote this book about the modern defense Norwegian defense 3 e5
+
+9
+00:01:00,720 --> 00:01:12,320
+ knight h5 4 g4 dot dot dot. But anyway, bishop h6. d5. Aha, the French move is possible,
+
+10
+00:01:12,320 --> 00:01:19,920
+ but sadly, I don't like it. c4. Once again, on passant, is not forced.
+
+11
+00:01:21,200 --> 00:01:31,120
+ Knight e6. I'll take his bishop. King takes. Very aggressive. c takes d5. Somehow that looks like a
+
+12
+00:01:31,120 --> 00:01:39,360
+ blunder to me, but I don't really know why. Knight takes d4. Aha, now that is really a blunder,
+
+13
+00:01:39,360 --> 00:01:46,400
+ but since his knight has just moved, I cannot take it due to the rules. So I guess, knight c3.
+
+14
+00:01:46,960 --> 00:01:52,720
+ c5 is coming, and sadly I have to say, I will once again not take on passant.
+
+15
+00:01:52,720 --> 00:02:00,640
+ Nevermind. That blunders a horsie. And after missing the free knight for like 200 times,
+
+16
+00:02:00,640 --> 00:02:13,120
+ stockfish says. Great move. F*** you stockfish. Bishop takes g4. e6. f takes e6. At least he
+
+17
+00:02:13,120 --> 00:02:21,440
+ didn't blunder his king, but that still blunders a lot. King f7 is forced. d takes e6 check.
+
+18
+00:02:21,440 --> 00:02:29,920
+ And he resigns. Mission accomplished.
+
+19
+00:02:29,920 --> 00:02:42,020
+ *outro*
+

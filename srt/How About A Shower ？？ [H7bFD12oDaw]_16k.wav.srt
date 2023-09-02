@@ -1,0 +1,172 @@
+1
+00:00:00,000 --> 00:00:06,880
+ 100 rated chess, but your king is stinky, you can only move your pieces, and pawns,
+
+2
+00:00:06,880 --> 00:00:12,240
+ further away from him. Well I mean an easier solution to this is just to take the king to a
+
+3
+00:00:12,240 --> 00:00:19,360
+ shower, but I guess war doesn't wait for anyone. Edward forward, I mean pushing a pawn is absolutely
+
+4
+00:00:19,360 --> 00:00:26,320
+ moving the pawn away from the king, unless the king is in front of the pawn. Knight f6. e5.
+
+5
+00:00:27,360 --> 00:00:38,640
+ Knight e4. d3. Knight c5. d4. Knight e4. That blunders a horsey. f3, I mean if he goes knight
+
+6
+00:00:38,640 --> 00:00:45,040
+ g5, bishop takes g5 will also put my bishop into trouble because I cannot retreat my bishop
+
+7
+00:00:45,040 --> 00:00:52,400
+ according to the rules, but at least I'll take a pawn before my bishop dies. Nevermind. F takes e4.
+
+8
+00:00:53,280 --> 00:01:00,640
+ Knight takes d4. Ah ha, now things get interesting. That blunders a horsey, but if I take it,
+
+9
+00:01:00,640 --> 00:01:05,920
+ that will put my queen pretty far away from my king, and I won't be able to retreat her,
+
+10
+00:01:05,920 --> 00:01:13,280
+ ever again. Well, but I'm not a coward. Queen takes d4, I mean as long as he doesn't attack
+
+11
+00:01:13,280 --> 00:01:21,360
+ my queen, it's fine. e6. Knight f3. Okay this move looks like I've just broken the rules,
+
+12
+00:01:21,360 --> 00:01:26,960
+ but actually, my knight was originally 2 squares away from my king, but the knight on f3 actually
+
+13
+00:01:26,960 --> 00:01:32,960
+ has a square root of 5 distance to my king, and as far as I can see, square root of 5,
+
+14
+00:01:32,960 --> 00:01:40,640
+ is bigger than 2, which means that move did not break the rules. Bishop e4 check. Very aggressive.
+
+15
+00:01:40,640 --> 00:01:46,960
+ That blunders a bishop. Again, that move has just put my queen even further away from my king,
+
+16
+00:01:46,960 --> 00:01:52,480
+ which even further restricts my queen's movement. But of course, I'm not a coward.
+
+17
+00:01:52,480 --> 00:02:00,720
+ C5. Ah ha, that blunders a pawn, and in case you're wondering, that still puts my queen further away
+
+18
+00:02:00,720 --> 00:02:07,680
+ from my king, because queen on b4 is 3 times square root of 2, and queen on c5 is 2 times
+
+19
+00:02:07,680 --> 00:02:15,920
+ square root of 5, and you can compare those numbers. d6. Again, queen takes d6. And I'm
+
+20
+00:02:15,920 --> 00:02:20,480
+ not gonna explain the numbers again, you can calculate them yourself if you want to.
+
+21
+00:02:20,480 --> 00:02:28,640
+ Queen trade. Ah ha. Perfect. I mean my queen was so far away from my king already,
+
+22
+00:02:28,640 --> 00:02:33,040
+ so a queen trade is kinda forced if I don't want to lose my woman for free.
+
+23
+00:02:33,040 --> 00:02:43,520
+ Castle. Bishop d3 bishop d7 e5 a5 h4 ok c8 g4 let's be aggressive bishop a4. Ah ha,
+
+24
+00:02:43,520 --> 00:02:50,720
+ he is obviously aiming for my c2 pawn, therefore, knight a3, and when you think about it, that is
+
+25
+00:02:50,720 --> 00:02:57,440
+ actually the only square that my knight can go to, and since my c-pawn is now defended by 2 pieces,
+
+26
+00:02:57,440 --> 00:03:05,840
+ in no world do you take my c-pawn right now. Well, maybe this world is an exception. Of course I
+
+27
+00:03:05,840 --> 00:03:12,000
+ can't go knight c2, and bishop take c2 is actually putting my bishop in a square that has the same
+
+28
+00:03:12,000 --> 00:03:17,440
+ distance to my king, and as the rule said, I can only move further away from the king,
+
+29
+00:03:17,440 --> 00:03:24,640
+ so equal distance is also not allowed here. Bishop b5. Ok I'm not gonna care about that,
+
+30
+00:03:24,640 --> 00:03:32,400
+ let's just try to promote David. Rook c3. Man the crazy moves are really swarming in now.
+
+31
+00:03:32,400 --> 00:03:38,240
+ That blunders a rook, but again, that puts my pawn closer to the king, which is against the rules.
+
+32
+00:03:38,880 --> 00:03:50,640
+ Therefore, bishop g5. Oh no my horsey. Rook takes f3. David to d7. Rook e3 check. That blunders the
+
+33
+00:03:50,640 --> 00:03:58,400
+ rook again, but again, that is against the rules. King d2. The rules said I have to move my pieces
+
+34
+00:03:58,400 --> 00:04:03,520
+ away from the king, but it didn't say that I cannot move my king closer to my pieces,
+
+35
+00:04:03,520 --> 00:04:12,240
+ so that move is still a legal move. Bishop e4. King take c3. Man, maybe using the king is the
+
+36
+00:04:12,240 --> 00:04:19,840
+ best way to do this challenge. Bishop c6. Man these moves are starting to be so random right now.
+
+37
+00:04:19,840 --> 00:04:26,880
+ David forward, and change to a rook. I mean he's gonan take anyway, so it doesn't matter.
+
+38
+00:04:28,800 --> 00:04:37,840
+ Well. I guess it matters now. Bishop e7. Now he has to take. Or not. That blunders a king to rook
+
+39
+00:04:37,840 --> 00:04:43,760
+ takes f8 checkmate in 1, but that actually puts my rook in a same distance away from my king,
+
+40
+00:04:43,760 --> 00:04:48,640
+ which is against the rules, but then f*** the rules because I cannot use any of my rooks anymore
+
+41
+00:04:48,640 --> 00:04:54,880
+ since all the moves are just putting it closer to my king. Therefore, rook takes f8 checkmate,
+
+42
+00:04:54,880 --> 00:05:00,800
+ and since I ended my own video, there's no what the f*** today.
+
+43
+00:05:00,800 --> 00:05:13,720
+ [Music]
+

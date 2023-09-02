@@ -1,0 +1,144 @@
+1
+00:00:00,000 --> 00:00:07,280
+ I'm better than my viewers, Fortress. Looks fun. Welcome to episode 13 of I'm better than my
+
+2
+00:00:07,280 --> 00:00:13,840
+ viewers, and the challenger this time is a guy called Star on Da Great, exclamation mark.
+
+3
+00:00:13,840 --> 00:00:19,360
+ I will be playing black this game, and even though Stockfish is saying that black has the advantage,
+
+4
+00:00:19,360 --> 00:00:24,640
+ we all know that it is not true, because all these queens are going to die. So black actually
+
+5
+00:00:24,640 --> 00:00:30,240
+ only has some same color bishops and a few knights, which is pretty impossible to deliver a checkmate.
+
+6
+00:00:30,240 --> 00:00:37,680
+ B takes a3 discovered check. Queen blocks is forced, well I mean if he can just play c3 to
+
+7
+00:00:37,680 --> 00:00:45,840
+ block his own bishop, that will be very convenient. Of course it doesn't happen. Queen takes is forced,
+
+8
+00:00:45,840 --> 00:00:53,040
+ c3 best move by the way. Or not. Ah ha, now I can go king takes to save my queen,
+
+9
+00:00:53,040 --> 00:00:58,640
+ but then there is still knight a4 check king a2 knight c3 royal fork anyway, and I believe
+
+10
+00:00:58,640 --> 00:01:06,480
+ that situation is actually even worse for my king, therefore, queen takes b2. Bishop fe5.
+
+11
+00:01:06,480 --> 00:01:12,240
+ Of course there's no reason to take his bishop, so I'll take this knight instead. As long as this
+
+12
+00:01:12,240 --> 00:01:18,880
+ thing is still on the board, there is always a chance that he'll mess up. Nevermind. King takes.
+
+13
+00:01:18,880 --> 00:01:24,560
+ Stockfish obviously doesn't know how to evaluate this position, because now I have to somehow keep
+
+14
+00:01:24,560 --> 00:01:32,960
+ all of my horses alive, and just for context, there is already one about to die. Bishop f6 check.
+
+15
+00:01:32,960 --> 00:01:39,520
+ King takes c2. Ah ha, now please go knight d4 check and then take my bishop so that I can move
+
+16
+00:01:39,520 --> 00:01:46,560
+ my knight out of danger. This guy is totally destroying me right now. I'll take this horsey,
+
+17
+00:01:46,560 --> 00:01:54,400
+ oh, wait. Maybe I should have taken this pawn first. Yeah, that was unfortunate. I have to
+
+18
+00:01:54,400 --> 00:02:02,000
+ take that. It's fine, my knight didn't really have any moves anyway. Another horse dies. Knight takes
+
+19
+00:02:02,000 --> 00:02:08,320
+ g2. Alright, at least these 2 guys are safe, let's just hope that they can make it all the way to
+
+20
+00:02:08,320 --> 00:02:18,720
+ the white king. B4. Bishop c4. Need to stop those pawns first. King h6. Ah ha, that king obviously
+
+21
+00:02:18,720 --> 00:02:25,920
+ wants to run out of the fortress, therefore, knight takes d2. Alright, now just go king g5
+
+22
+00:02:25,920 --> 00:02:36,160
+ and give me a free tempo to go knight f3. And he saw it. Knight f3 anyway. King g7. Ha, after an
+
+23
+00:02:36,160 --> 00:02:41,440
+ unsuccessful attempt to break out, he has become really sad and decided to go back inside the
+
+24
+00:02:41,440 --> 00:02:47,680
+ prison. But anyway, it was in this position, I decided that there is no way I can checkmate him
+
+25
+00:02:47,680 --> 00:02:54,400
+ with this limited amount of materials, so I offered a draw, and surprisingly, he actually declined the
+
+26
+00:02:54,400 --> 00:03:01,520
+ offer. Yeah, even this 900 rated guy knows that he is the one having the advantage here, not me.
+
+27
+00:03:02,240 --> 00:03:10,720
+ Bishop g6, just a random move, I needed time to think. Bishop ef6. Knight e1, that is one of the
+
+28
+00:03:10,720 --> 00:03:18,320
+ 3 safe dark squares left on the entire board. Knight takes e4. Ah ha, that move is threatening
+
+29
+00:03:18,320 --> 00:03:23,920
+ to win my knight, and even though there is knight d3, my knight won't be able to go anywhere after
+
+30
+00:03:23,920 --> 00:03:31,120
+ that, therefore, let's take a risk. Bishop takes e4, I'm removing my bishop from controlling the
+
+31
+00:03:31,120 --> 00:03:36,800
+ b5 square, so let's just hope that he'll push these pawns to give me some free moves to develop my
+
+32
+00:03:36,800 --> 00:03:44,240
+ knight. Maybe not. And now since I only have one knight left, there is absolutely no way I can
+
+33
+00:03:44,240 --> 00:03:51,040
+ checkmate him, so after just 2 more moves, we agree to a draw. Which is to say, that, I'm better than
+
+34
+00:03:51,040 --> 00:03:55,840
+ my viewers, and if you don't agree that I'm better because Stockfish said that I have the advantage
+
+35
+00:03:55,840 --> 00:03:59,200
+ from the start, well, who cares.
+
+36
+00:03:59,200 --> 00:04:13,760
+ [Music]
+

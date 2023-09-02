@@ -1,0 +1,136 @@
+1
+00:00:00,000 --> 00:00:06,320
+ I'm better than my viewers, and that looks very clickbaitable. Welcome to episode 17 of I'm
+
+2
+00:00:06,320 --> 00:00:11,440
+ better than my viewers, and the challenger this time is surprisingly the same guy that gave the
+
+3
+00:00:11,440 --> 00:00:17,600
+ position, called a Kanehirogi. Okay since this position has too many pieces in it,
+
+4
+00:00:17,600 --> 00:00:23,760
+ I actually cheated a little bit and studied it before the game begins. Knight takes c6,
+
+5
+00:00:23,760 --> 00:00:29,120
+ well I mean since I'm playing against the position creator himself, the fact that I practiced it
+
+6
+00:00:29,120 --> 00:00:37,360
+ beforehand may actually not even matter here. Bishop takes c6. Aha, I prepared that one too,
+
+7
+00:00:37,360 --> 00:00:43,680
+ queen h3. The idea is pretty obvious that I need to dodge this entire 4 rooks on one file attack,
+
+8
+00:00:43,680 --> 00:00:50,000
+ but I think his best move is still to capture my queen, which is also in my preparation. Okay I
+
+9
+00:00:50,000 --> 00:00:57,360
+ didn't prepare for that move. Wow. Now I guess it's time that I get destroyed. I'll take that
+
+10
+00:00:57,360 --> 00:01:04,160
+ knight, there's no way that's a wrong move. Rook takes, queen takes d8, and I think I've just
+
+11
+00:01:04,160 --> 00:01:11,840
+ blundered a queen after bishop takes. Dude what is wrong with me today? Oh wait he took with rook.
+
+12
+00:01:11,840 --> 00:01:19,200
+ Rook takes d8 bishop takes d8 bishop takes f4. Ha, I thought I was so dead if he takes with bishop,
+
+13
+00:01:19,200 --> 00:01:23,200
+ but he takes with rook instead and things turned out to be not so bad,
+
+14
+00:01:23,200 --> 00:01:30,720
+ which is absolutely very convenient. Okay now he takes on h3. G takes rook takes bishop takes
+
+15
+00:01:30,720 --> 00:01:36,720
+ rook takes, okay now there is only 1 rook on this side, I guess there's not much to be worried about
+
+16
+00:01:36,720 --> 00:01:44,880
+ anymore. I'll take this rook, I mean this queen was about to die anyway. Bishop takes. b3,
+
+17
+00:01:44,880 --> 00:01:50,480
+ not gonna lie, somehow I feel that this move is so good for a few moves now, but I just don't
+
+18
+00:01:50,480 --> 00:01:58,560
+ understand why. Queen h7. Ah ha, he's telling me to take his bishop and blunder rook h1 king g2
+
+19
+00:01:58,560 --> 00:02:05,600
+ queen h3 checkmate in 2, and of course, I'm not very interested in such checkmate. Therefore,
+
+20
+00:02:05,600 --> 00:02:16,880
+ knight g3. Bishop back to c6. Bishop g2. Rook h4. Ah ha, as you can see, stockfish moved in a good
+
+21
+00:02:16,880 --> 00:02:22,560
+ way for me after that move, which means I should have a very good tactic here. So I actually took
+
+22
+00:02:22,560 --> 00:02:28,560
+ like 2 minutes in this position just to think, and then I found the absolutely brilliant move,
+
+23
+00:02:28,560 --> 00:02:36,240
+ of knight takes f5. And of course, that was not the right move. Bishop g6, okay that was obviously
+
+24
+00:02:36,240 --> 00:02:42,400
+ not his right move either, so I tried again, with rook takes e5. There is no way this is not the
+
+25
+00:02:42,400 --> 00:02:49,600
+ right move. F e5 rook d8 bishop d8 queen d2 bishop d7 oh my god stockfish hates that move bishop takes
+
+26
+00:02:49,600 --> 00:02:55,280
+ e5 check bishop blocks bishop takes king takes. And in this position, there is a checkmate in 6
+
+27
+00:02:55,280 --> 00:03:00,480
+ for white, so if you're interested, please feel free to pause the video to find the checkmate,
+
+28
+00:03:00,480 --> 00:03:06,560
+ while I don't give you any seconds to do so, and the answer is queen d6 check. And after king b6
+
+29
+00:03:06,560 --> 00:03:11,840
+ there are 5 more moves that I don't want to show you here, but of course I definitely did see the
+
+30
+00:03:11,840 --> 00:03:20,640
+ entire checkmate in 6. Trust. King c8. Well that actually makes things much easier. Knight e7 check
+
+31
+00:03:20,640 --> 00:03:28,320
+ king d8 is 4 queen b8 check bishop c8 queen takes c8. Checkmate. And I mean even though I blundered
+
+32
+00:03:28,320 --> 00:03:33,360
+ my queen at the middle of the road, I won the game in the end, therefore of course,
+
+33
+00:03:33,360 --> 00:03:35,360
+ I'm better than my viewers.
+
+34
+00:03:35,360 --> 00:03:50,000
+ [Music]
+

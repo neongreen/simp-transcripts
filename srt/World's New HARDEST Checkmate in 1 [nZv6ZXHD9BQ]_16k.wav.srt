@@ -1,0 +1,136 @@
+1
+00:00:00,000 --> 00:00:07,040
+ I'm better than my viewers, barrage of lunatic pawns. And I'm Adenliss again. Men and women and
+
+2
+00:00:07,040 --> 00:00:12,960
+ none of the above, welcome to another I'm better than my viewers video, the series that I made so
+
+3
+00:00:12,960 --> 00:00:21,200
+ that I can play chess with my fans, and today's fan is a guy called, Antti. But still, he is a fan.
+
+4
+00:00:21,200 --> 00:00:26,240
+ As you have seen in the title, after analyzing this position for this amount of time,
+
+5
+00:00:26,240 --> 00:00:30,640
+ Stockfish has finally found the checkmate in one hidden in this very position.
+
+6
+00:00:30,640 --> 00:00:35,680
+ So if you are interested in beating Stockfish, please feel free to pause the video to find
+
+7
+00:00:35,680 --> 00:00:41,600
+ the hardest checkmate in one ever existed in history, while I give you a few seconds to do so.
+
+8
+00:00:55,680 --> 00:01:01,440
+ So for those of you who were able to do it, f*** you, you didn't find it, you are just lying to
+
+9
+00:01:01,440 --> 00:01:07,200
+ yourself and to everyone else, and for those of you who just want to enjoy the show, good job,
+
+10
+00:01:07,200 --> 00:01:11,440
+ you knew your limit and you acknowledged well the fact that we are human and there is no way
+
+11
+00:01:11,440 --> 00:01:17,120
+ we can do something that computer struggles for an entire minute straight. And the answer is,
+
+12
+00:01:17,120 --> 00:01:24,640
+ there was no checkmate in one, Stockfish was drunk, chess.com, please fix this. F7 check.
+
+13
+00:01:25,520 --> 00:01:34,160
+ Knight takes. E takes F7 check again. King F8. Quite frankly, just don't mind the evaluation
+
+14
+00:01:34,160 --> 00:01:41,680
+ bar on the left because even Stockfish doesn't know what it is doing. G7 check. King takes F7.
+
+15
+00:01:41,680 --> 00:01:47,120
+ Knight A1 knight C2 is a very problematic smothered checkmate threat. So I guess, I'll
+
+16
+00:01:47,120 --> 00:01:55,360
+ eliminate this knight first. Knight takes D4. He's still aiming for that smothered mate. Knight A3.
+
+17
+00:01:55,360 --> 00:02:00,320
+ I don't even want to imagine how many people are going to unsubscribe to this channel if I get
+
+18
+00:02:00,320 --> 00:02:09,200
+ smothered. Bishop E4. I'll take this queen first. Bishop takes A3. That removes the defender of the
+
+19
+00:02:09,200 --> 00:02:14,720
+ checkmate, so now I have to take this knight. Creating a free square for my king to move to.
+
+20
+00:02:15,840 --> 00:02:26,000
+ Knight C2 check. King F2. Bishop takes G4. I'll take this bishop. Queen D4 check. King G2.
+
+21
+00:02:26,000 --> 00:02:33,360
+ Bishop takes B2. Ah ha, as you can see, Stockfish doesn't like that move a lot,
+
+22
+00:02:33,360 --> 00:02:40,640
+ so if I make the correct move here, my opponent is totally dead. D takes C3. And that wasn't the
+
+23
+00:02:40,640 --> 00:02:48,160
+ correct move. Queen takes C3. Ha, Stockfish has given me another chance, and this time,
+
+24
+00:02:48,160 --> 00:02:54,960
+ I will be aggressive. Queen G8 B7 rook C5, B8 equals queen is probably the best move in this
+
+25
+00:02:54,960 --> 00:03:01,040
+ position, but since there is nothing can stop that from happening, I'll take this bishop first. No
+
+26
+00:03:01,040 --> 00:03:06,320
+ need to rush, there is no way my opponent can win this game anymore unless I mouse slip something
+
+27
+00:03:06,320 --> 00:03:14,000
+ absolutely terrifying. Rook H4 G H4 Bishop C1 rook A C1 rook A6. Now I make a woman.
+
+28
+00:03:14,000 --> 00:03:21,440
+ E takes D6. Knight E2. I mean who knows, maybe he'll blunder his queen right now.
+
+29
+00:03:21,440 --> 00:03:26,560
+ Of course that doesn't happen. King F3.
+
+30
+00:03:29,920 --> 00:03:36,560
+ Well, I guess it is safe to say, that a viewer cannot be a paid actor. That blunders a woman.
+
+31
+00:03:36,560 --> 00:03:46,320
+ Knight takes D1. No need to worry about a lonely knight. H7. Queen takes G7. Ah ha.
+
+32
+00:03:46,320 --> 00:03:52,240
+ Each pawn underpromotes to a horsey, and even though that horsey didn't live for long.
+
+33
+00:03:53,920 --> 00:04:00,240
+ E takes D5. Checkmate with a pawn. I'm better than my viewers.
+
+34
+00:04:01,120 --> 00:04:13,840
+ [Music]
+

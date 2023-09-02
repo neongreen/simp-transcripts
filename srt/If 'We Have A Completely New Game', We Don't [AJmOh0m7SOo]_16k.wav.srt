@@ -1,0 +1,172 @@
+1
+00:00:00,000 --> 00:00:04,000
+ If your opponent plays a move that has never been played before,
+
+2
+00:00:04,000 --> 00:00:07,000
+ the video ends.
+
+3
+00:00:07,000 --> 00:00:12,000
+ Playing 3 minute splits on a 100 rated account.
+
+4
+00:00:12,000 --> 00:00:15,000
+ This is going to be short.
+
+5
+00:00:15,000 --> 00:00:20,000
+ In fact, I will be surprised if this video can last over move 5.
+
+6
+00:00:20,000 --> 00:00:26,000
+ But anyway, in order to do this challenge, I need an opening database.
+
+7
+00:00:26,000 --> 00:00:30,000
+ And this time, I'll use the Leech S database.
+
+8
+00:00:30,000 --> 00:00:37,000
+ I actually wanted to use the chess.com one, but sadly, it requires premium membership.
+
+9
+00:00:37,000 --> 00:00:39,000
+ And I'm poor.
+
+10
+00:00:39,000 --> 00:00:41,000
+ Disclaimer.
+
+11
+00:00:41,000 --> 00:00:48,000
+ Using an opening database is not much different from using a chess engine, which is considered cheating.
+
+12
+00:00:48,000 --> 00:00:54,000
+ Therefore, in this video, I only used the database, after the game is already done.
+
+13
+00:00:54,000 --> 00:00:58,000
+ Which means I didn't cheat during the game.
+
+14
+00:00:58,000 --> 00:01:03,000
+ And with that out of the way, let's find an opponent.
+
+15
+00:01:03,000 --> 00:01:08,000
+ That was fast.
+
+16
+00:01:08,000 --> 00:01:11,000
+ We get a 192 from Australia.
+
+17
+00:01:11,000 --> 00:01:19,000
+ So in order to extend this video, I believe that I need to play, as theoretical, as possible.
+
+18
+00:01:19,000 --> 00:01:21,000
+ Therefore,
+
+19
+00:01:21,000 --> 00:01:23,000
+ E4.
+
+20
+00:01:23,000 --> 00:01:28,000
+ The most played move in the book, with over 1 million games on Leech S.
+
+21
+00:01:28,000 --> 00:01:38,000
+ But even though I have played the most famous move, there are still some chances, that the video is going to end, right now.
+
+22
+00:01:38,000 --> 00:01:44,000
+ E5.
+
+23
+00:01:44,000 --> 00:01:46,000
+ Thank god.
+
+24
+00:01:46,000 --> 00:01:48,000
+ Let's continue.
+
+25
+00:01:48,000 --> 00:01:50,000
+ Knight F3.
+
+26
+00:01:52,000 --> 00:01:54,000
+ Knight C6.
+
+27
+00:01:54,000 --> 00:01:55,000
+ Yes.
+
+28
+00:01:55,000 --> 00:02:00,000
+ Now as you can see, bishop B5 is the most popular move here.
+
+29
+00:02:00,000 --> 00:02:04,000
+ But sadly, I didn't know that during the game.
+
+30
+00:02:04,000 --> 00:02:08,000
+ So I played, bishop C4.
+
+31
+00:02:08,000 --> 00:02:13,000
+ Which is also a very famous move, so there's nothing bad about it.
+
+32
+00:02:13,000 --> 00:02:15,000
+ Right?
+
+33
+00:02:15,000 --> 00:02:20,000
+ Knight F6.
+
+34
+00:02:20,000 --> 00:02:22,000
+ Ah ha!
+
+35
+00:02:22,000 --> 00:02:26,000
+ He's provoking me to play knight G5, the fried liver.
+
+36
+00:02:26,000 --> 00:02:36,000
+ Now as you can see, D3 is the most popular move in this position, but once again, I didn't know that during the game.
+
+37
+00:02:36,000 --> 00:02:39,000
+ So I played, knight G5.
+
+38
+00:02:39,000 --> 00:02:47,000
+ There are a ton of theories in the fried liver, so I think that this will at least get the video a bit longer.
+
+39
+00:02:47,000 --> 00:02:52,000
+ [Fried liver]
+
+40
+00:02:52,000 --> 00:02:55,000
+ That blunders a horsey.
+
+41
+00:02:55,000 --> 00:02:57,000
+ But anyway.
+
+42
+00:02:57,000 --> 00:02:59,000
+ What the f-
+
+43
+00:02:59,000 --> 00:03:12,000
+ [Outro]
+

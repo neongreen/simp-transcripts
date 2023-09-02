@@ -1,0 +1,88 @@
+1
+00:00:00,000 --> 00:00:07,280
+ 100 rated chess, but white pieces cannot be taken on white squares, and black pieces cannot be taken
+
+2
+00:00:07,280 --> 00:00:15,680
+ on black squares. Not pawns. This is going to be annoying. We get a 290 from Saudi Arabia.
+
+3
+00:00:15,680 --> 00:00:25,840
+ If my pieces cannot die on the light squares, I'll put the pawns there. E5. D4. Still theory.
+
+4
+00:00:27,200 --> 00:00:37,360
+ No more theory. D takes E5. Knight takes E4. Aha! So the best continuation should be bishop C4,
+
+5
+00:00:37,360 --> 00:00:44,400
+ he makes a random move, and then there is bishop takes F7, king takes F7, queen D5, check king E8,
+
+6
+00:00:44,400 --> 00:00:51,280
+ queen takes E4 and I win a pawn, but sadly, king takes F7 actually kills my bishop on a light
+
+7
+00:00:51,280 --> 00:01:01,120
+ square, which is against the rules. Therefore, bishop D3. D5. Aha! Taking his knight and trading
+
+8
+00:01:01,120 --> 00:01:07,520
+ queens to make him unable to castle should be my best choice, but sadly, D takes E4 also ends the
+
+9
+00:01:07,520 --> 00:01:14,800
+ video, not to mention that I also cannot capture his queen on a dark square. So I guess. On passant.
+
+10
+00:01:16,000 --> 00:01:23,520
+ Knight takes. Knight F3. An absolutely normal development move. That move is definitely not
+
+11
+00:01:23,520 --> 00:01:33,520
+ normal. Knight C3. Knight F5. Taking that knight is just provoking him to end my video. Therefore,
+
+12
+00:01:33,520 --> 00:01:40,480
+ knight D5. I'm attacking his queen and threatening a fork right now, but before the video continues,
+
+13
+00:01:40,480 --> 00:01:45,200
+ I just want to say that YouTube has finally given me the power of the join button.
+
+14
+00:01:45,200 --> 00:01:50,720
+ If you like my videos and want to support me with your real money, that button will do the job,
+
+15
+00:01:50,720 --> 00:01:58,480
+ and you'll also get some very special privileges back. But anyway. Queen D6. He's obviously
+
+16
+00:01:58,480 --> 00:02:05,760
+ threatening to take my knight and also ends the video. Therefore, A4. He should be able to see
+
+17
+00:02:05,760 --> 00:02:14,240
+ that queen takes D5 is blundering bishop B5 check with a discovered attack on the queen. Right?
+
+18
+00:02:14,240 --> 00:02:17,760
+ [Bloopers]
+
+19
+00:02:17,760 --> 00:02:22,640
+ By the way, for those people who are thinking that there is C6 blocking the check and also
+
+20
+00:02:22,640 --> 00:02:29,360
+ defend the queen, jokes on you, queen takes D5 still happens and the C6 pawn is pinned so it
+
+21
+00:02:29,360 --> 00:02:34,080
+ cannot recapture the queen. But anyway. What the f-
+
+22
+00:02:34,080 --> 00:02:48,560
+ [Outro]
+

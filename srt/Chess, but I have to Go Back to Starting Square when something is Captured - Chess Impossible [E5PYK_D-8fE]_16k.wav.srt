@@ -1,0 +1,160 @@
+1
+00:00:00,000 --> 00:00:07,000
+ Good evening Agent Sim. This is an emergency. Our army has been fighting way over aggressively
+
+2
+00:00:07,000 --> 00:00:14,000
+ in our recent battles. Your mission. Should you choose to accept it? 100 rated chest.
+
+3
+00:00:14,000 --> 00:00:19,000
+ But you have to retreat a piece back to its starting position, every time a capture happens.
+
+4
+00:00:19,000 --> 00:00:21,000
+ Good luck Agent Sim.
+
+5
+00:00:23,000 --> 00:00:30,000
+ Wait. That's it? Why is he so rushing in delivering the mission today?
+
+6
+00:00:30,000 --> 00:00:37,000
+ Well, I guess I'll know tomorrow. For now, let's just find an opponent.
+
+7
+00:00:37,000 --> 00:00:46,000
+ We get a 2-22 from Mexico.
+
+8
+00:00:48,000 --> 00:00:56,000
+ H4. Ah ha. It's been a long time since I last see the card as opening.
+
+9
+00:00:56,000 --> 00:01:04,000
+ But anyway. According to the mission, I think I only have to retreat if my opponent takes something from me.
+
+10
+00:01:04,000 --> 00:01:11,000
+ Because you know, how can I capture something, and retreat something at the same time, right?
+
+11
+00:01:11,000 --> 00:01:21,000
+ Okay. Normally, people will play D5, planning that if white goes rook H3, bishop takes H3, wins a rook.
+
+12
+00:01:21,000 --> 00:01:33,000
+ But no. Because if rook H3 really happens, bishop takes H3, knight takes H3, and then I have to move a piece back to its original square.
+
+13
+00:01:33,000 --> 00:01:40,000
+ But since I don't have any pieces developed yet, so I can't retreat any pieces, which fails the mission.
+
+14
+00:01:40,000 --> 00:01:45,000
+ So I guess, it doesn't really matter. E5.
+
+15
+00:01:45,000 --> 00:01:59,000
+ Knight F3. Ah ha. He's provoking E4. But I think I shouldn't expand my position too early, which may cause a lot of captures.
+
+16
+00:01:59,000 --> 00:02:10,000
+ Therefore, knight C6. My knight actually just stands there for fun. Because if he really takes my pawn, I'll have to retreat a piece back.
+
+17
+00:02:10,000 --> 00:02:14,000
+ Which means I can't recapture.
+
+18
+00:02:14,000 --> 00:02:28,000
+ D3. D5. Let's play really aggressively, since I cannot recapture a capture, which means I should capture first, and then let my opponent recapture.
+
+19
+00:02:29,000 --> 00:02:38,000
+ Knight C3. Knight F6. More pieces developed, more chances for retreating them.
+
+20
+00:02:38,000 --> 00:02:44,000
+ E3. Bishop B4.
+
+21
+00:02:44,000 --> 00:02:49,000
+ A3. I'll go back.
+
+22
+00:02:49,000 --> 00:02:57,000
+ B3. That looks like a mouse slip. But anyway, I'll take a free knight.
+
+23
+00:02:58,000 --> 00:03:12,000
+ Queen D2. Ah ha. He's obviously trying to confuse me by giving me a fork. But of course, I'll take... the queen.
+
+24
+00:03:12,000 --> 00:03:25,000
+ King takes. Very aggressive. But anyway, that's a capture. Therefore, knight back to G8.
+
+25
+00:03:26,000 --> 00:03:30,000
+ Bishop B2.
+
+26
+00:03:30,000 --> 00:03:38,000
+ F6. I'm not Ben Feingold, pretty sure that F6 was the best move.
+
+27
+00:03:38,000 --> 00:03:49,000
+ G4. Again, very aggressive. But anyway, that blunders a pawn.
+
+28
+00:03:50,000 --> 00:03:56,000
+ Bishop to E2. Knight H6.
+
+29
+00:03:56,000 --> 00:04:10,000
+ Rook HG1. Ah ha. He obviously saw my knight was already defending my bishop, but he still wants to attack it with his rook, which means he should be wanting to sacrifice his rook.
+
+30
+00:04:10,000 --> 00:04:18,000
+ But if he really takes my bishop, I'll have to retreat something back, which means I won't be able to recapture.
+
+31
+00:04:19,000 --> 00:04:22,000
+ Therefore, I'll deliver the strike first.
+
+32
+00:04:22,000 --> 00:04:26,000
+ Bishop takes F3.
+
+33
+00:04:26,000 --> 00:04:33,000
+ Bishop takes. Knight back to B8. Is he going to c?
+
+34
+00:04:33,000 --> 00:04:46,000
+ Rook takes B7. Knight G8 is forced. Bishop H5 check. King F8 is forced. Rook F7 check. King E8 is forced.
+
+35
+00:04:47,000 --> 00:04:53,000
+ Bishop to G7 check, and then make a draw by repetition?
+
+36
+00:04:53,000 --> 00:05:04,000
+ No he didn't. That blunders a bishop. But of course, knight G8 is forced. And now it's become me blundering a rook.
+
+37
+00:05:04,000 --> 00:05:15,000
+ But it doesn't even matter, because if he really takes my B7 pawn, I don't have any more pieces to retreat, which means I'll fail the mission.
+
+38
+00:05:16,000 --> 00:05:20,000
+ [Pause]
+
+39
+00:05:20,000 --> 00:05:23,000
+ What the f-
+
+40
+00:05:23,000 --> 00:05:37,000
+ [Music]
+

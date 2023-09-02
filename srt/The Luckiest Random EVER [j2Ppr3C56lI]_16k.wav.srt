@@ -1,0 +1,312 @@
+1
+00:00:00,000 --> 00:00:06,640
+ 100 rated chess, but it's Friday, all your pieces and pawns already drunk, so all of
+
+2
+00:00:06,640 --> 00:00:10,120
+ their moves are random between blunders and best moves.
+
+3
+00:00:10,120 --> 00:00:13,600
+ Alright, it is time to do some coding.
+
+4
+00:00:13,600 --> 00:00:14,600
+ Very simple.
+
+5
+00:00:14,600 --> 00:00:19,000
+ Our move is going to be randomized between a blunder or a good move, then we tell the
+
+6
+00:00:19,000 --> 00:00:24,160
+ computer to show us the result, and since the computer doesn't know what random is,
+
+7
+00:00:24,160 --> 00:00:26,920
+ I'll introduce the random guy to it.
+
+8
+00:00:26,920 --> 00:00:32,360
+ Alright, that is all good, now I just need to add in a few more things to make it easier
+
+9
+00:00:32,360 --> 00:00:36,680
+ for you guys to keep track of the results, you don't need to understand any of these
+
+10
+00:00:36,680 --> 00:00:42,160
+ things, just watch the video normally, and only care about the results to come.
+
+11
+00:00:42,160 --> 00:00:45,080
+ We get a 2 35 from Israel.
+
+12
+00:00:45,080 --> 00:00:46,920
+ E4.
+
+13
+00:00:46,920 --> 00:00:50,640
+ First move, let's run the program.
+
+14
+00:00:50,640 --> 00:00:56,900
+ Move 1 is a blunder, and since there is only one way we can make a blunder, B5 is forced.
+
+15
+00:00:56,900 --> 00:01:01,000
+ That's fine, next move is gonna be a good move.
+
+16
+00:01:01,000 --> 00:01:02,520
+ Queen F3.
+
+17
+00:01:02,520 --> 00:01:05,640
+ Random, blunder again.
+
+18
+00:01:05,640 --> 00:01:11,960
+ Now I have to choose between F5 and D5, and since F5 looks a bit too dangerous, I'll say
+
+19
+00:01:11,960 --> 00:01:14,320
+ goodbye to David.
+
+20
+00:01:14,320 --> 00:01:15,720
+ David is dead.
+
+21
+00:01:15,720 --> 00:01:21,680
+ Alright, there is no way this is another blunder.
+
+22
+00:01:21,680 --> 00:01:23,440
+ Are you serious?
+
+23
+00:01:23,440 --> 00:01:29,120
+ I'm out of pawns to sacrifice, and C6 is too dangerous because of C7 discovered attack
+
+24
+00:01:29,120 --> 00:01:32,020
+ on my rook and a 4 coming with promotion.
+
+25
+00:01:32,020 --> 00:01:34,720
+ So I guess, knight C6.
+
+26
+00:01:34,720 --> 00:01:38,560
+ This video is going very wrong very quickly.
+
+27
+00:01:38,560 --> 00:01:40,120
+ D takes C6.
+
+28
+00:01:40,120 --> 00:01:48,880
+ Okay, 3 blunders in a row, statistically speaking, this has to be a good move.
+
+29
+00:01:48,880 --> 00:01:51,440
+ What the f*** is happening here?
+
+30
+00:01:51,440 --> 00:01:54,040
+ Bishop D7 is kinda forced.
+
+31
+00:01:54,040 --> 00:02:02,120
+ Dude, after he takes, even if I roll a good move, I still have to move the king out.
+
+32
+00:02:02,120 --> 00:02:03,360
+ Thank you.
+
+33
+00:02:03,360 --> 00:02:07,320
+ There is no way it happens 5 times in a row.
+
+34
+00:02:07,320 --> 00:02:09,960
+ Ah ha.
+
+35
+00:02:09,960 --> 00:02:11,080
+ Finally.
+
+36
+00:02:11,080 --> 00:02:12,480
+ Bishop E6.
+
+37
+00:02:12,480 --> 00:02:17,280
+ I mean I basically don't have any moves that can magically change the situation after being
+
+38
+00:02:17,280 --> 00:02:22,280
+ forced to make so many blunders, but if we can get a few good moves in a row, we can
+
+39
+00:02:22,280 --> 00:02:25,600
+ definitely turn the table.
+
+40
+00:02:25,600 --> 00:02:27,520
+ Knight C3.
+
+41
+00:02:27,520 --> 00:02:31,320
+ Statistically speaking, I should be getting another good move here.
+
+42
+00:02:31,320 --> 00:02:35,120
+ Nope, we're back to hell.
+
+43
+00:02:35,120 --> 00:02:37,000
+ Bishop back to D7.
+
+44
+00:02:37,000 --> 00:02:43,080
+ Well I mean it blunders C D7 queen D7 queen A A checkmate in 2, but since he didn't take
+
+45
+00:02:43,080 --> 00:02:48,480
+ my bishop last time, chances are he also won't take it this time.
+
+46
+00:02:48,480 --> 00:02:50,000
+ Right?
+
+47
+00:02:50,000 --> 00:02:51,640
+ Perfect.
+
+48
+00:02:51,640 --> 00:02:57,160
+ Ah ha, good move again, bishop E6.
+
+49
+00:02:57,160 --> 00:02:59,640
+ Bishop F4.
+
+50
+00:02:59,640 --> 00:03:00,960
+ Blunder.
+
+51
+00:03:00,960 --> 00:03:04,100
+ What kind of 50/50 is this?
+
+52
+00:03:04,100 --> 00:03:05,400
+ Bishop F5.
+
+53
+00:03:05,400 --> 00:03:11,920
+ I'm blundering a pawn through bishop takes C7 queen takes C7 queen takes F5, and of course,
+
+54
+00:03:11,920 --> 00:03:16,040
+ blundering through tactics is also a type of blunder.
+
+55
+00:03:16,040 --> 00:03:18,120
+ He missed it.
+
+56
+00:03:18,120 --> 00:03:19,680
+ And blunder again.
+
+57
+00:03:19,680 --> 00:03:20,680
+ G5.
+
+58
+00:03:20,680 --> 00:03:24,960
+ It's fine, just a pawn anyway.
+
+59
+00:03:24,960 --> 00:03:26,600
+ Bishop takes G5.
+
+60
+00:03:26,600 --> 00:03:27,960
+ Okay.
+
+61
+00:03:27,960 --> 00:03:35,800
+ Now I need a good move to retreat my bishop, and since we got too many blunders already.
+
+62
+00:03:35,800 --> 00:03:37,600
+ Nevermind.
+
+63
+00:03:37,600 --> 00:03:39,740
+ Bishop G7.
+
+64
+00:03:39,740 --> 00:03:42,440
+ Queen takes F5.
+
+65
+00:03:42,440 --> 00:03:43,440
+ Good move.
+
+66
+00:03:43,440 --> 00:03:45,720
+ Rook B8.
+
+67
+00:03:45,720 --> 00:03:47,160
+ Queen D7.
+
+68
+00:03:47,160 --> 00:03:48,160
+ Randomize.
+
+69
+00:03:48,160 --> 00:03:49,160
+ Blunder.
+
+70
+00:03:49,160 --> 00:03:56,280
+ Ha, guess what, the only 2 moves I can make are just equally bad, but since we rolled
+
+71
+00:03:56,280 --> 00:04:00,720
+ a blunder, I guess it has to be king F8.
+
+72
+00:04:00,720 --> 00:04:04,120
+ Bishop takes E7 check.
+
+73
+00:04:04,120 --> 00:04:09,440
+ Blunder again, but in this situation, the moves are just the same.
+
+74
+00:04:09,440 --> 00:04:10,800
+ He won.
+
+75
+00:04:10,800 --> 00:04:19,380
+ Okay, the situation is already very bad for me, so I desperately need a good move.
+
+76
+00:04:19,380 --> 00:04:22,560
+ This has to be the worst program I have ever built.
+
+77
+00:04:22,560 --> 00:04:28,640
+ F5, and then in this position, I realized, that F5 doesn't blunder anything.
+
+78
+00:04:28,840 --> 00:04:43,400
+ [Music]
+

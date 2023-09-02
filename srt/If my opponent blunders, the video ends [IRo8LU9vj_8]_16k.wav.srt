@@ -1,0 +1,324 @@
+1
+00:00:00,000 --> 00:00:02,000
+ If my opponent blunders,
+
+2
+00:00:02,000 --> 00:00:04,560
+ the video ends.
+
+3
+00:00:04,560 --> 00:00:08,400
+ Playing 3 minute splits on a 100 rated account.
+
+4
+00:00:08,400 --> 00:00:10,880
+ Disclaimer.
+
+5
+00:00:10,880 --> 00:00:17,760
+ I only use chess.com's engine to analyze the game after it is done, which means I don't cheat during the game.
+
+6
+00:00:17,760 --> 00:00:20,240
+ I know everyone understands this,
+
+7
+00:00:20,240 --> 00:00:27,760
+ but I also know that some haters will just ignore it and say things like, "Oh you trash youtuber you use engine unsubbed."
+
+8
+00:00:28,160 --> 00:00:30,160
+ So I had to say it out.
+
+9
+00:00:30,160 --> 00:00:35,780
+ Well, of course we'll use chess.com's engine, aka
+
+10
+00:00:35,780 --> 00:00:39,680
+ Stockfish, to decide whether a move is a blunder or not.
+
+11
+00:00:39,680 --> 00:00:43,620
+ And with that out of the way, let's find an opponent.
+
+12
+00:00:43,620 --> 00:00:49,540
+ We get a 100 rated from Vietnam.
+
+13
+00:00:49,540 --> 00:00:56,960
+ Since I can't really know when will my opponent blunders, let's just play normally and hope for the best.
+
+14
+00:00:57,840 --> 00:00:59,840
+ e4
+
+15
+00:00:59,840 --> 00:01:05,680
+ e5. Very standards. Knight f3.
+
+16
+00:01:05,680 --> 00:01:09,840
+ Knight c6.
+
+17
+00:01:09,840 --> 00:01:11,760
+ Bishop c4.
+
+18
+00:01:11,760 --> 00:01:17,760
+ Things are going really well so far. Maybe I can finally have a completely normal chess game.
+
+19
+00:01:17,760 --> 00:01:21,840
+ d5.
+
+20
+00:01:21,840 --> 00:01:24,240
+ Okay, that breaks the normal moves chain.
+
+21
+00:01:24,960 --> 00:01:27,520
+ And also, that blunders a pawn.
+
+22
+00:01:27,520 --> 00:01:29,520
+ But no,
+
+23
+00:01:29,520 --> 00:01:31,120
+ Stockfish says,
+
+24
+00:01:31,120 --> 00:01:33,120
+ it's a mistake.
+
+25
+00:01:33,120 --> 00:01:40,820
+ So it's like, it's a blunder, but it's not really a blunder, which means the video continues.
+
+26
+00:01:40,820 --> 00:01:46,320
+ Knight b4.
+
+27
+00:01:46,320 --> 00:01:48,720
+ Okay, there's no way that can be a good move.
+
+28
+00:01:48,720 --> 00:01:53,200
+ But Stockfish, there's no way that is a blunder, right?
+
+29
+00:01:53,360 --> 00:01:56,160
+ Aha! Just an inaccuracy.
+
+30
+00:01:56,160 --> 00:01:59,360
+ Knight c3.
+
+31
+00:01:59,360 --> 00:02:04,160
+ Bishop g4.
+
+32
+00:02:04,160 --> 00:02:08,160
+ That move looks okay, there's no need to check with Stockfish.
+
+33
+00:02:08,160 --> 00:02:10,720
+ I'll castle.
+
+34
+00:02:10,720 --> 00:02:14,160
+ I know that castle is not a good move, but you know,
+
+35
+00:02:14,160 --> 00:02:20,560
+ the rules only mention about my opponent, so it doesn't matter even if I make a blunder, right?
+
+36
+00:02:22,080 --> 00:02:24,080
+ Knight f6.
+
+37
+00:02:24,080 --> 00:02:26,320
+ That move looks fine.
+
+38
+00:02:26,320 --> 00:02:29,280
+ Now I think the engine really wants me to go.
+
+39
+00:02:29,280 --> 00:02:31,840
+ Bishop b5 check.
+
+40
+00:02:31,840 --> 00:02:33,120
+ c6.
+
+41
+00:02:33,120 --> 00:02:35,120
+ d takes c6.
+
+42
+00:02:35,120 --> 00:02:38,240
+ Knight takes c6 and then I'll have a pinned knight.
+
+43
+00:02:38,240 --> 00:02:41,440
+ But no.
+
+44
+00:02:41,440 --> 00:02:45,600
+ A pin is related to tactics, and tactics can lead to blunders.
+
+45
+00:02:45,600 --> 00:02:48,000
+ Therefore,
+
+46
+00:02:48,000 --> 00:02:49,760
+ Rookie 1.
+
+47
+00:02:49,760 --> 00:02:51,280
+ Rookie 1.
+
+48
+00:02:51,280 --> 00:02:56,740
+ I know that's a bad move, but I'm just trying to keep my opponent from blundering things.
+
+49
+00:02:56,740 --> 00:03:01,600
+ Knight b takes d5.
+
+50
+00:03:01,600 --> 00:03:03,440
+ Okay.
+
+51
+00:03:03,440 --> 00:03:05,360
+ That blunders a lot.
+
+52
+00:03:05,360 --> 00:03:13,200
+ Now I have, knight takes d5, knight takes d5, rook takes e5 check, knight e7 blocking the check,
+
+53
+00:03:13,440 --> 00:03:22,720
+ bishop takes f7 check, king takes f7, knight g5 check, and then he will have to choose between going back down and give back the bishop,
+
+54
+00:03:22,720 --> 00:03:25,040
+ or going up and get checkmated.
+
+55
+00:03:25,040 --> 00:03:31,680
+ After those moves, I think I'll be up like two pawns and his king is stuck in the middle of the board.
+
+56
+00:03:31,680 --> 00:03:36,080
+ But of course, unless Stockfish thinks it's a blunder.
+
+57
+00:03:36,080 --> 00:03:40,880
+ Ha ha. There's no way my video can end.
+
+58
+00:03:41,760 --> 00:03:45,840
+ Going into the lines that I've just shown you guys is just too risky,
+
+59
+00:03:45,840 --> 00:03:49,760
+ since he is very likely going to blunder somewhere down the road.
+
+60
+00:03:49,760 --> 00:03:51,840
+ Therefore,
+
+61
+00:03:51,840 --> 00:03:53,840
+ d3.
+
+62
+00:03:53,840 --> 00:04:00,880
+ Knight takes c3. Nothing's wrong with that move. I'll take back.
+
+63
+00:04:00,880 --> 00:04:05,760
+ e4.
+
+64
+00:04:05,760 --> 00:04:07,760
+ That blunders a pawn.
+
+65
+00:04:07,760 --> 00:04:10,080
+ Not this way though.
+
+66
+00:04:10,160 --> 00:04:18,160
+ It's like, bishop takes f7, king takes f7, knight e5 check, king g8, knight takes g4.
+
+67
+00:04:18,160 --> 00:04:22,980
+ But again, let's see what Stockfish thinks.
+
+68
+00:04:22,980 --> 00:04:27,440
+ Yeah, it's just a mistake.
+
+69
+00:04:27,440 --> 00:04:32,420
+ And again, going into that bunch of tactics is too risky.
+
+70
+00:04:32,420 --> 00:04:35,920
+ Therefore, d takes e4.
+
+71
+00:04:39,200 --> 00:04:41,200
+ Knight takes.
+
+72
+00:04:41,200 --> 00:04:46,000
+ Okay, now that really looks like a blunder, since it's just blundered two pieces.
+
+73
+00:04:46,000 --> 00:04:51,440
+ But of course, once again, I believe Stockfish is with me.
+
+74
+00:04:51,440 --> 00:04:58,560
+ Oh well.
+
+75
+00:04:58,560 --> 00:05:00,560
+ What the f-
+
+76
+00:05:00,560 --> 00:05:02,560
+ [outro music]
+
+77
+00:05:03,360 --> 00:05:05,360
+ [outro music]
+
+78
+00:05:05,360 --> 00:05:07,360
+ [outro music]
+
+79
+00:05:07,360 --> 00:05:09,360
+ [outro music]
+
+80
+00:05:09,360 --> 00:05:11,360
+ [outro music]
+
+81
+00:05:11,360 --> 00:05:13,360
+ [outro music]
+

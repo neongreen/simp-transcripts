@@ -1,0 +1,96 @@
+1
+00:00:00,000 --> 00:00:05,920
+ 100 rated chess, but you can only capture pieces with pawns, and pawns with pieces.
+
+2
+00:00:05,920 --> 00:00:12,560
+ Not pawns. Let's go, we get an exact 100 rated guy from Kazakhstan.
+
+3
+00:00:12,560 --> 00:00:19,120
+ E4. E5, my pawns are the only things that can capture his pieces,
+
+4
+00:00:19,120 --> 00:00:21,680
+ so pushing them forward can not be a bad idea.
+
+5
+00:00:21,680 --> 00:00:25,200
+ D3. Not very aggressive.
+
+6
+00:00:25,840 --> 00:00:31,600
+ D5. I don't know if opening up the board in a game that only my pawns can capture pieces is a good
+
+7
+00:00:31,600 --> 00:00:36,640
+ idea, but since I'm obviously not a coward, I prefer to play in an open position.
+
+8
+00:00:36,640 --> 00:00:43,760
+ He takes D5. Bishop C5. No need to take that pawn back immediately.
+
+9
+00:00:43,760 --> 00:00:50,160
+ D4. That blunders a pawn, and even though I really want to take it with my pawn,
+
+10
+00:00:50,160 --> 00:00:55,520
+ I can only take with bishop. Who knows, maybe he'll take my bishop with his queen and let me
+
+11
+00:00:55,520 --> 00:01:04,320
+ take his queen for free with my pawn. Of course that doesn't happen. Bishop B6.
+
+12
+00:01:04,320 --> 00:01:12,720
+ D6. Very aggressive. Queen F6. Alright, take this pawn and blunder checkmate please.
+
+13
+00:01:12,720 --> 00:01:18,800
+ Queen D5. Ah ha. Queen takes F2 check.
+
+14
+00:01:20,000 --> 00:01:26,080
+ King D1 is forced. Taking this bishop is obviously the best move, but since a piece can not take
+
+15
+00:01:26,080 --> 00:01:32,880
+ another piece according to the rules, bishop F5 instead. I'm threatening bishop C2 checkmate in 1,
+
+16
+00:01:32,880 --> 00:01:38,000
+ and even though I know I'm blundering my E pawn with a check, since there are 2 more different
+
+17
+00:01:38,000 --> 00:01:49,920
+ ways to capture and both of them are literally blundering a king, I'm down to take the 66.66666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666 and so on percent of victory.
+
+18
+00:01:49,920 --> 00:01:58,800
+ There we go. That blunders bishop C2 checkmate in 1 or queen C2 bishop F2 checkmate in 2,
+
+19
+00:01:58,800 --> 00:02:04,560
+ but since a king is also a piece, checkmating a king with 2 pieces may cause some of my viewers
+
+20
+00:02:04,560 --> 00:02:09,440
+ to dislike the video because those people assume that a player will have to capture the enemy king
+
+21
+00:02:09,440 --> 00:02:14,800
+ after the checkmate, and since a piece taking another piece is against the rules, I guess I'll
+
+22
+00:02:14,800 --> 00:02:22,400
+ have to go with, queen C2 king E1 queen F2 king D1 queen C2 king E1 queen F2 king D1. Draw by
+
+23
+00:02:22,400 --> 00:02:36,240
+ repetition. And as far as I can assume, a draw is also a win. Mission accomplished.
+
+24
+00:02:36,240 --> 00:02:43,580
+ [Music]
+

@@ -1,0 +1,180 @@
+1
+00:00:00,000 --> 00:00:04,760
+ I'm better than my viewers, you are black and white moves first.
+
+2
+00:00:04,760 --> 00:00:09,280
+ Well, it's not like people gonna let me play with white anyway.
+
+3
+00:00:09,280 --> 00:00:14,480
+ Ladies and gentlemen, welcome to another episode of I'm better than my viewers, the series
+
+4
+00:00:14,480 --> 00:00:19,280
+ that I made so that people can humiliate me in a chess game, but apparently no one has
+
+5
+00:00:19,280 --> 00:00:26,160
+ been able to do that yet, and the challenger this time is a guy called Texan Ranger.
+
+6
+00:00:26,160 --> 00:00:27,400
+ He took a horsey.
+
+7
+00:00:27,400 --> 00:00:29,240
+ I take a queen.
+
+8
+00:00:29,240 --> 00:00:34,480
+ Man, it's actually pretty sad that even though this king has 10 wives, he has to spend his
+
+9
+00:00:34,480 --> 00:00:37,840
+ life alone in a very distance corner of the board.
+
+10
+00:00:37,840 --> 00:00:41,520
+ Queen takes queen queen takes queen queen takes queen queen takes queen.
+
+11
+00:00:41,520 --> 00:00:44,480
+ We can call that the women fight.
+
+12
+00:00:44,480 --> 00:00:45,960
+ Queen takes queen.
+
+13
+00:00:45,960 --> 00:00:46,960
+ Bishop takes queen.
+
+14
+00:00:46,960 --> 00:00:51,000
+ I bet he doesn't have the gut to take this bishop.
+
+15
+00:00:51,000 --> 00:00:53,200
+ Ha!
+
+16
+00:00:53,200 --> 00:00:54,520
+ Coward.
+
+17
+00:00:54,520 --> 00:00:55,520
+ G4.
+
+18
+00:00:55,520 --> 00:01:00,760
+ Okay so as you can see, Stockfish didn't like that move very much, but even after I've spent
+
+19
+00:01:00,760 --> 00:01:05,760
+ an entire night thinking about this position, I still couldn't find any problems with it,
+
+20
+00:01:05,760 --> 00:01:10,120
+ so if you have any explanations about this position, please feel free to leave a comment
+
+21
+00:01:10,120 --> 00:01:13,280
+ below to brag about your IQ.
+
+22
+00:01:13,280 --> 00:01:14,520
+ Queen takes F2.
+
+23
+00:01:14,520 --> 00:01:20,040
+ Ah ha, I haven't taken this pawn yet because the queen might come down to C6 and absolutely
+
+24
+00:01:20,040 --> 00:01:24,640
+ destroy my position, but since she has moved away from the diagonal.
+
+25
+00:01:24,640 --> 00:01:26,760
+ Bishop takes E6.
+
+26
+00:01:26,760 --> 00:01:28,240
+ D takes E6.
+
+27
+00:01:28,240 --> 00:01:32,820
+ D5, opening up this very strong diagonal.
+
+28
+00:01:32,820 --> 00:01:34,420
+ Queen takes G2.
+
+29
+00:01:34,420 --> 00:01:36,260
+ Queen takes G2.
+
+30
+00:01:36,260 --> 00:01:37,920
+ Queen takes G2.
+
+31
+00:01:37,920 --> 00:01:45,320
+ This pawn is about to change his gender, therefore, bishop E5, preparing a skewer.
+
+32
+00:01:45,320 --> 00:01:46,900
+ Queen takes E5.
+
+33
+00:01:46,900 --> 00:01:51,260
+ That blunders a queen, bishop C7 discovered check.
+
+34
+00:01:51,260 --> 00:01:52,680
+ King H7.
+
+35
+00:01:52,680 --> 00:01:54,760
+ Rook takes E5.
+
+36
+00:01:54,760 --> 00:01:56,400
+ Queen G6.
+
+37
+00:01:56,400 --> 00:01:57,400
+ Very aggressive.
+
+38
+00:01:57,400 --> 00:02:04,440
+ Knight G5 queen G5 F G5 king G6 rook G8 I don't see any checkmates king G5 rook G7 king
+
+39
+00:02:04,440 --> 00:02:06,340
+ H4 ah ha.
+
+40
+00:02:06,340 --> 00:02:12,040
+ Now queen H8 is a very obvious side-ranked checkmate in 1, but you know what they say,
+
+41
+00:02:12,040 --> 00:02:15,360
+ if you see a mate in 1, look for better.
+
+42
+00:02:15,360 --> 00:02:18,080
+ Knight F5 king H5 queen H8.
+
+43
+00:02:18,080 --> 00:02:19,640
+ Checkmate in 2.
+
+44
+00:02:19,640 --> 00:02:21,440
+ I'm better than my viewers.
+
+45
+00:02:21,440 --> 00:02:36,300
+ [Outro]
+

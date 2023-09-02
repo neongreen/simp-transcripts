@@ -1,0 +1,116 @@
+1
+00:00:00,000 --> 00:00:07,040
+ 100 rated chess, but you're a communist, you must checkmate when you both have equal materials.
+
+2
+00:00:07,040 --> 00:00:12,000
+ One of the most challenging challenges when put against a 100 rated opponent.
+
+3
+00:00:12,000 --> 00:00:18,320
+ But I'm not a coward. We get a 115 from Russia. And don't ask me why it is Russia.
+
+4
+00:00:18,320 --> 00:00:27,280
+ E4. E5. Still theory. I mean I can easily checkmate him without making any captures
+
+5
+00:00:27,280 --> 00:00:32,800
+ to maintain a 0-0 balance in materials, but that way of doing things sounds like what a coward
+
+6
+00:00:32,800 --> 00:00:39,360
+ would do and it also ruins the purpose of the challenge. Therefore, D4. I will let the captures
+
+7
+00:00:39,360 --> 00:00:46,960
+ happen, and then maneuver the balance of the game when the time is right. D5. A counter gambit.
+
+8
+00:00:46,960 --> 00:00:55,120
+ I'll take this way. E takes D4. Ah ha. It seems like this guy is trying to mirror my move.
+
+9
+00:00:55,120 --> 00:01:00,080
+ So I guess, Q takes D4. Ha. Can't mirror that you i-
+
+10
+00:01:00,080 --> 00:01:10,960
+ Or you can. But that blunders a queen. Q takes D5, is a great move. Shut up Stockfish.
+
+11
+00:01:10,960 --> 00:01:18,320
+ Bishop E7. Bishop C4. I'm up 9 points in materials right now,
+
+12
+00:01:18,320 --> 00:01:22,240
+ but no worries, we still have a lot of materials to sacrifice.
+
+13
+00:01:24,400 --> 00:01:30,880
+ Knight C6. Ah ha. That blunders the F-pawn and will most likely allow a big attack at his king.
+
+14
+00:01:30,880 --> 00:01:37,840
+ Therefore, bishop H6. Attacking right now is obviously too early as I'm still being up too
+
+15
+00:01:37,840 --> 00:01:46,080
+ many points of materials, so let's give him back a few points first. G takes H6. Knight C3.
+
+16
+00:01:47,520 --> 00:01:55,040
+ Bishop G4. Ah ha. This guy is trying to prevent me from castling, and you know what? I will take
+
+17
+00:01:55,040 --> 00:02:00,720
+ this chance to sacrifice my rook. We'll start the attack immediately if he really decides to take
+
+18
+00:02:00,720 --> 00:02:10,480
+ this rook. Thank you. Here we go. Queen takes F7 check. I mean I'm still being up 2 pawns,
+
+19
+00:02:10,480 --> 00:02:18,800
+ but that can be fixed in no time. King D7. Bishop E6 king D8 queen G7 should be best as I can
+
+20
+00:02:18,800 --> 00:02:25,040
+ continue to win more materials, but I obviously don't want to take anything more. Knight D5.
+
+21
+00:02:25,040 --> 00:02:35,040
+ I want a quick checkmate. H5. Very aggressive. Knight F3. Somehow I feel like something very
+
+22
+00:02:35,040 --> 00:02:43,520
+ weird is about to happen. Yeah. Like that. Knight D2. I'm trying to get him tunneled
+
+23
+00:02:43,520 --> 00:02:53,040
+ vision into this corner and thus decide to take this pawn. Exactly as planned. A4. One more pawn,
+
+24
+00:02:53,040 --> 00:03:01,920
+ and we're equal. Absolutely. Now we can finally checkmate him. Queen F5. I'm threatening knight
+
+25
+00:03:01,920 --> 00:03:08,080
+ E4 checkmate in one, and if this 100 rated guy can go bishop C2 putting the bishop back to the
+
+26
+00:03:08,080 --> 00:03:13,120
+ square that it has just left, I'm down to just resign this game and give him the rating points
+
+27
+00:03:13,120 --> 00:03:22,480
+ that he absolutely deserves. Well I mean he has the idea, just not the correct square. Knight E4.
+
+28
+00:03:23,040 --> 00:03:29,600
+ Checkmate in the middle of the board. Mission accomplished.
+
+29
+00:03:30,560 --> 00:03:42,160
+ [Music]
+

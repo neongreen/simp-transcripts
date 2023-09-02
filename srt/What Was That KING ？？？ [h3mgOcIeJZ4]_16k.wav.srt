@@ -1,0 +1,256 @@
+1
+00:00:00,000 --> 00:00:06,720
+ 100 rated chess, but you really like your opponent, you must move your piece, or pawn,
+
+2
+00:00:06,720 --> 00:00:10,520
+ as close as you can to your opponent's last moved piece.
+
+3
+00:00:10,520 --> 00:00:14,680
+ This is going to be annoying, we get a 1 1 2 from Spain.
+
+4
+00:00:14,680 --> 00:00:19,720
+ E4, so normally I would develop a good plan for each challenge and then strictly follow
+
+5
+00:00:19,720 --> 00:00:24,520
+ that plan to get the most optimal outcome, but for this video, I'll say that the plan
+
+6
+00:00:24,520 --> 00:00:28,560
+ is to pray that our opponent won't do anything too crazy.
+
+7
+00:00:28,560 --> 00:00:33,840
+ E5, now I need to move as close to his E pawn as possible.
+
+8
+00:00:33,840 --> 00:00:37,240
+ Therefore, D4 is kinda forced.
+
+9
+00:00:37,240 --> 00:00:38,480
+ D5.
+
+10
+00:00:38,480 --> 00:00:39,720
+ Ah ha.
+
+11
+00:00:39,720 --> 00:00:46,480
+ E takes D5 is forced, the closest distance possible, is definitely 0.
+
+12
+00:00:46,480 --> 00:00:48,200
+ E takes D4.
+
+13
+00:00:48,200 --> 00:00:53,040
+ Queen takes is forced, I mean if he plays something like knight C6 right now, that will
+
+14
+00:00:53,040 --> 00:00:57,920
+ force me to take his knight and then blunders my queen, but he should be able to see, that
+
+15
+00:00:57,920 --> 00:01:04,280
+ I always have queen E3 check which forces knight E7 blocking his dark square bishop.
+
+16
+00:01:04,280 --> 00:01:06,480
+ Right?
+
+17
+00:01:06,480 --> 00:01:14,080
+ Of course, bishop E6 and C6 are still dangerous threats to my queen, therefore, queen A4 check.
+
+18
+00:01:14,080 --> 00:01:19,280
+ I mean if he can just not block with the bishop and forces queen takes blundering a queen,
+
+19
+00:01:19,280 --> 00:01:23,480
+ that will be very convenient.
+
+20
+00:01:23,480 --> 00:01:26,840
+ That was literally the most convenient move possible.
+
+21
+00:01:26,840 --> 00:01:33,120
+ D6, for the video's sake, let's just say that this pawn is also only 1 square away from
+
+22
+00:01:33,120 --> 00:01:38,320
+ the king, which means it is equal to queen D7, so I totally didn't have to sacrifice
+
+23
+00:01:38,320 --> 00:01:44,200
+ my queen, and let's just hope that he'll play king F6, which allows bishop G5 instead of
+
+24
+00:01:44,200 --> 00:01:47,480
+ having to move my queen again.
+
+25
+00:01:47,480 --> 00:01:49,360
+ Queen takes D6.
+
+26
+00:01:49,360 --> 00:01:51,800
+ That is very unfortunate.
+
+27
+00:01:51,800 --> 00:01:53,680
+ Queen C6 is forced.
+
+28
+00:01:53,680 --> 00:01:54,800
+ Alright.
+
+29
+00:01:54,800 --> 00:02:00,480
+ It's fine, it's not like I need a queen to win this game anyway.
+
+30
+00:02:00,480 --> 00:02:01,480
+ Woman's dead.
+
+31
+00:02:01,480 --> 00:02:03,440
+ C4 is forced.
+
+32
+00:02:03,440 --> 00:02:08,180
+ I mean if he can just take this pawn and allow me to take back, then we don't have to worry
+
+33
+00:02:08,180 --> 00:02:11,920
+ about our queen anymore.
+
+34
+00:02:11,920 --> 00:02:16,640
+ I solemnly swear, that this guy is not a paid actor.
+
+35
+00:02:16,640 --> 00:02:18,840
+ Bishop takes C4 is forced.
+
+36
+00:02:18,840 --> 00:02:26,320
+ Ha, now the queens are off the board, there is nothing that can go wrong anymore.
+
+37
+00:02:26,320 --> 00:02:28,440
+ Are you serious?
+
+38
+00:02:28,440 --> 00:02:31,080
+ Bishop D5 is forced.
+
+39
+00:02:31,080 --> 00:02:33,000
+ King takes D5.
+
+40
+00:02:33,000 --> 00:02:34,520
+ Knight C3 check.
+
+41
+00:02:34,520 --> 00:02:38,200
+ In no world do you keep advancing your king here.
+
+42
+00:02:38,200 --> 00:02:40,840
+ B4 is forced.
+
+43
+00:02:40,840 --> 00:02:45,960
+ I can't believe that this guy is absolutely destroying me, by advancing his king into
+
+44
+00:02:45,960 --> 00:02:48,480
+ my territory.
+
+45
+00:02:48,480 --> 00:02:50,080
+ King takes A4.
+
+46
+00:02:50,080 --> 00:02:52,400
+ Bishop D2 is forced.
+
+47
+00:02:52,400 --> 00:02:53,640
+ Aha!
+
+48
+00:02:53,640 --> 00:02:55,920
+ Thank you.
+
+49
+00:02:55,920 --> 00:02:58,120
+ B5 is forced.
+
+50
+00:02:58,120 --> 00:03:02,560
+ Some people may say that this move puts my B pawn further away from the king due to the
+
+51
+00:03:02,560 --> 00:03:04,600
+ Pythagorean theorem.
+
+52
+00:03:04,600 --> 00:03:09,840
+ But no, I have legally decided that it is still following the rules.
+
+53
+00:03:09,840 --> 00:03:10,840
+ King takes.
+
+54
+00:03:10,840 --> 00:03:16,400
+ A4 is kinda forced, and I've just realized that no matter where he's moving his king
+
+55
+00:03:16,400 --> 00:03:21,320
+ to, I will always have to sacrifice my bishop.
+
+56
+00:03:21,320 --> 00:03:23,000
+ King C6.
+
+57
+00:03:23,000 --> 00:03:24,720
+ Bishop A5 is forced.
+
+58
+00:03:24,720 --> 00:03:28,920
+ I mean a lot of people actually cannot see that their rooks can also go forward from
+
+59
+00:03:28,920 --> 00:03:34,520
+ the starting position, so maybe this guy won't see it either.
+
+60
+00:03:34,520 --> 00:03:39,600
+ You know what, this challenge is obviously impossible, so I'm just gonna end the video
+
+61
+00:03:39,600 --> 00:03:41,040
+ right here.
+
+62
+00:03:41,040 --> 00:03:42,120
+ Mission is failed.
+
+63
+00:03:42,120 --> 00:03:43,000
+ Have a great day.
+
+64
+00:03:43,400 --> 00:03:57,880
+ [music]
+

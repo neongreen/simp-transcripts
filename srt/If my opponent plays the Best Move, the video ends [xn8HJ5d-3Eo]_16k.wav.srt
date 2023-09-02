@@ -1,0 +1,152 @@
+1
+00:00:00,000 --> 00:00:05,000
+ If my opponent plays the best move, the video ends.
+
+2
+00:00:05,000 --> 00:00:10,000
+ Playing 3 minute splits on a 100 rated account.
+
+3
+00:00:10,000 --> 00:00:21,000
+ Disclaimer. I only used Chess.com's engine to analyze the game after it is already done, which means I didn't cheat during the game.
+
+4
+00:00:21,000 --> 00:00:24,000
+ Now, back to the video.
+
+5
+00:00:24,000 --> 00:00:30,000
+ Ok. To be honest, I'm pretty sure this video is not going to last long.
+
+6
+00:00:30,000 --> 00:00:35,000
+ But of course, that always depends on my luck.
+
+7
+00:00:35,000 --> 00:00:39,000
+ Therefore, let's find an opponent.
+
+8
+00:00:39,000 --> 00:00:45,000
+ We get a 163 from Brazil.
+
+9
+00:00:46,000 --> 00:00:55,000
+ D4. Ah ha. That is considered to be the best opening move, with E4 as an alternative.
+
+10
+00:00:55,000 --> 00:00:59,000
+ But of course, according to Stockfish, it is...
+
+11
+00:00:59,000 --> 00:01:02,000
+ a book move.
+
+12
+00:01:02,000 --> 00:01:09,000
+ And as far as I can see, a book move cannot be considered as a best move.
+
+13
+00:01:09,000 --> 00:01:14,000
+ Therefore, the video survives.
+
+14
+00:01:14,000 --> 00:01:21,000
+ In order to make this video long, I believe I should be playing as tricky as possible.
+
+15
+00:01:21,000 --> 00:01:27,000
+ Therefore, E5. The trickiest opening against D4 that I know.
+
+16
+00:01:27,000 --> 00:01:29,000
+ The England gambit.
+
+17
+00:01:29,000 --> 00:01:32,000
+ B3.
+
+18
+00:01:32,000 --> 00:01:35,000
+ Well, the theory ends pretty fast.
+
+19
+00:01:35,000 --> 00:01:43,000
+ Since we all know that accepting the gambit is the best move, there's no need to check if B3 is a best move.
+
+20
+00:01:43,000 --> 00:01:47,000
+ But the problem is, what do I have to do now?
+
+21
+00:01:47,000 --> 00:01:58,000
+ I mean if I just leave the pawn here, he'll take it next turn, and even though that move should have been a book move, it will become a best move, since we are out of theory.
+
+22
+00:01:58,000 --> 00:02:06,000
+ But if I play knight C6 to defend it, D5 is obviously the best move, and is easy to see as well.
+
+23
+00:02:06,000 --> 00:02:15,000
+ Also, if I just take his pawn first, queen takes is obviously the best move, and is also very easy to see.
+
+24
+00:02:15,000 --> 00:02:19,000
+ Therefore, I guess I have to go...
+
+25
+00:02:19,000 --> 00:02:20,000
+ E4.
+
+26
+00:02:20,000 --> 00:02:29,000
+ And ha ha! Now even I don't know what his best move is, so I have a good faith that he's not going to see it either.
+
+27
+00:02:29,000 --> 00:02:33,000
+ Ba3.
+
+28
+00:02:33,000 --> 00:02:38,000
+ That move looks okay, but let's see what Stockfish has to say.
+
+29
+00:02:38,000 --> 00:02:45,000
+ Ah ha! It's excellent, but not quite the best move.
+
+30
+00:02:45,000 --> 00:02:53,000
+ But anyway. If I take his bishop, knight takes back is very natural, which should also be the best move.
+
+31
+00:02:53,000 --> 00:03:00,000
+ But if I just leave it like this, his bishop taking mine, can also be a best move.
+
+32
+00:03:00,000 --> 00:03:03,000
+ Therefore, D6.
+
+33
+00:03:03,000 --> 00:03:11,000
+ And again, I don't even see what his best move is, so let's just say, ha ha ha ha ha ha ha!
+
+34
+00:03:11,000 --> 00:03:14,000
+ E3.
+
+35
+00:03:14,000 --> 00:03:23,000
+ That's a fine move. I mean it looks kinda slow, but of course, we still need Stockfish to check that out.
+
+36
+00:03:23,000 --> 00:03:26,000
+ What?
+
+37
+00:03:29,000 --> 00:03:30,000
+ What the f-
+
+38
+00:03:30,000 --> 00:03:44,000
+ [outro music]
+

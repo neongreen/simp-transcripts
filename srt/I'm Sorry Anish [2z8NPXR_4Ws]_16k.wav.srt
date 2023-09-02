@@ -1,0 +1,140 @@
+1
+00:00:00,000 --> 00:00:08,000
+ 100 rated chess, but you are Anish Giri. You must always play for a draw, even if you have a winning position.
+
+2
+00:00:08,000 --> 00:00:17,000
+ For those of you guys who don't know who Anish Giri is, he is a Russian chess grandmaster, and to be honest, he is quite a handsome guy.
+
+3
+00:00:17,000 --> 00:00:24,000
+ Not as much as I am though, and when you google search for "Anish Giri draw", there are all sorts of stuff like
+
+4
+00:00:24,000 --> 00:00:34,000
+ "Anish Giri draw meme" "Anish Giri draw percentage" "Anish Giri 14 draws" "Anish Giri offers draw" "Anish Giri always draws" etc.
+
+5
+00:00:34,000 --> 00:00:40,000
+ Therefore, we draw today. Opponent is a 1-24 American.
+
+6
+00:00:40,000 --> 00:00:44,000
+ E4. E5. Still theory.
+
+7
+00:00:44,000 --> 00:00:53,000
+ D4. Some people may say that creating tension early is not the way to play for a draw, but trust me, I have a plan.
+
+8
+00:00:53,000 --> 00:00:57,000
+ F6. I'll take this pawn.
+
+9
+00:00:57,000 --> 00:01:02,000
+ F takes. That blunders a rook. Qh5 check.
+
+10
+00:01:02,000 --> 00:01:12,000
+ Ke7. Ah ha, so he can actually see that G6 allows Qe5 Qh8, but sadly, Ke7 is even worse.
+
+11
+00:01:12,000 --> 00:01:21,000
+ Qxe5 check. Some people may say that winning materials is not the way to play for a draw, but I mean it's just a pawn anyway,
+
+12
+00:01:21,000 --> 00:01:26,000
+ and he is probably not gonna care about it and resign, right?
+
+13
+00:01:26,000 --> 00:01:30,000
+ Kf7 is forced. Bc4 check.
+
+14
+00:01:30,000 --> 00:01:39,000
+ Kg6. That blunders Qf5 checkmate in 1, but sadly, since I'm playing for a draw, I cannot checkmate him.
+
+15
+00:01:39,000 --> 00:01:50,000
+ Nc3. B5. Very aggressive. That still blunders the king, but again, I cannot do that, so I'll take another pawn instead.
+
+16
+00:01:50,000 --> 00:01:54,000
+ This is going very wrong very quickly.
+
+17
+00:01:54,000 --> 00:02:02,000
+ Bb7. That blunders the king again, and you know what, I'm just gonna put a number right here as I always do,
+
+18
+00:02:02,000 --> 00:02:07,000
+ and let's see how many times is he gonna abandon his king to death.
+
+19
+00:02:07,000 --> 00:02:13,000
+ Nf3. Bb4. Again, very aggressive.
+
+20
+00:02:13,000 --> 00:02:23,000
+ I'll castle, and fun fact, Stockfish says that all of my moves so far, are all blunders, because I did not checkmate his king.
+
+21
+00:02:23,000 --> 00:02:36,000
+ H5. Nd5. I'm provoking c6 Nxb4 cxb5 trading the bishops, because as you can see, trading is the best way to get a draw.
+
+22
+00:02:36,000 --> 00:02:46,000
+ Nevermind. This guy just keeps making so many aggressive moves towards my territory, while still making sure to blunder his king after every move.
+
+23
+00:02:46,000 --> 00:02:57,000
+ Let's go here. I mean now my bishop is so close to his king, he should be scared and move his queen closer to defend him. Right?
+
+24
+00:02:57,000 --> 00:03:05,000
+ Dude. There was only one square that is further from the king, and he chose to go to that exact square.
+
+25
+00:03:05,000 --> 00:03:15,000
+ Rd1. I can't think of anything else. My eyes just keep looking at queen f5 and my brain refused to think of any other moves to continue the game,
+
+26
+00:03:15,000 --> 00:03:20,000
+ and now I know that playing for a draw can be so freaking difficult.
+
+27
+00:03:20,000 --> 00:03:30,000
+ Rk6. That blunders a rook, but again, I'm playing for a draw, so winning a rook is not really an option because he may just resign.
+
+28
+00:03:30,000 --> 00:03:44,000
+ c3. Ne7. Ah ha. Finally. He has finally saved his king, but the cost is that now he is blundering a rook, a bishop, a knight, and a royal fork.
+
+29
+00:03:44,000 --> 00:03:51,000
+ I'll take that knight. I mean winning a piece with a royal fork is normally not the way to go for a draw, but please bear with me,
+
+30
+00:03:51,000 --> 00:03:56,000
+ it is time to execute my plan that I said in the beginning of the video.
+
+31
+00:03:56,000 --> 00:04:01,000
+ Kh7. Well that blunders the king again but I'm not gonna do that.
+
+32
+00:04:01,000 --> 00:04:13,000
+ Knight takes c8. Rook takes c8. Alright, now as you can see, I'm being up an entire queen, it's time to
+
+33
+00:04:13,000 --> 00:04:21,000
+ offer a draw. And he immediately accepts it. So pro tip for you, and Arnish as well if you're watching this video,
+
+34
+00:04:21,000 --> 00:04:31,000
+ next time if you want a draw, just win the enemy's queen, and then you can offer a draw. I promise you, they will most likely accept that draw immediately.
+
+35
+00:04:31,000 --> 00:04:46,000
+ [Music]
+

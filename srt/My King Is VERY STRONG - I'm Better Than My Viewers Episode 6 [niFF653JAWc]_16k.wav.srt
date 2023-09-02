@@ -1,0 +1,144 @@
+1
+00:00:00,000 --> 00:00:06,480
+ You are white? And I'll be honest, that doesn't look good for me. Welcome to episode 6 of I'm
+
+2
+00:00:06,480 --> 00:00:13,280
+ Better Than My Viewers, and the challenger this time is a guy called Le... Totoro. Man,
+
+3
+00:00:13,280 --> 00:00:18,880
+ I have absolutely no idea how to make the text-to-speech engine to read that name correctly.
+
+4
+00:00:18,880 --> 00:00:25,200
+ And in fact, even I don't know how to read that name correctly. But anyway, the most obvious
+
+5
+00:00:25,200 --> 00:00:32,160
+ threat now is like knight f3 king moves bishop c6 checkmate, or knight f3 knight f6 checkmate,
+
+6
+00:00:32,160 --> 00:00:40,320
+ or bishop f6 bishop c6 checkmate, or knight c6 knight f6 checkmate, or so any other combinations.
+
+7
+00:00:40,320 --> 00:00:45,920
+ But the entire point is that it is very easy to take over all of these 4 squares around my king,
+
+8
+00:00:45,920 --> 00:00:52,480
+ which will result in a checkmate. Therefore, E takes f7 is kinda forced. That is the only
+
+9
+00:00:52,480 --> 00:00:57,760
+ move that gives my king a free square to move, and even though I'm sure that was the best move,
+
+10
+00:00:57,760 --> 00:01:02,720
+ there is still a checkmate in 5 for black in this position, so if you are interested,
+
+11
+00:01:02,720 --> 00:01:09,520
+ feel free to pause the video and find it, but the point is that my opponent is currently 1470 rapid,
+
+12
+00:01:09,520 --> 00:01:15,920
+ and his peak was 1600, which is to say he is not like any other people I have faced before,
+
+13
+00:01:15,920 --> 00:01:21,040
+ and starting a game at checkmate in 5 for him is probably not the way I want to do this.
+
+14
+00:01:22,240 --> 00:01:28,480
+ Knight g7. Ah ha, that move blocked away the only getaway square that my king has,
+
+15
+00:01:28,480 --> 00:01:36,560
+ therefore, I have to create another one. C pawn changed gender. Ah ha, the evaluation bar moved
+
+16
+00:01:36,560 --> 00:01:42,560
+ from mate in 5 to there is no checkmates anymore. I'll take his queen, and never mind,
+
+17
+00:01:42,560 --> 00:01:49,040
+ that was a bad move, there is another checkmate on the board. And then there is no checkmate again.
+
+18
+00:01:49,040 --> 00:01:54,080
+ Taking this bishop is just asking to be royal fought, and even though I have a rook that kill
+
+19
+00:01:54,080 --> 00:02:01,520
+ the guy, I don't want to live so passive like that, therefore, c8 changes gender. Dude, it's
+
+20
+00:02:01,520 --> 00:02:06,720
+ like every move I make is just blundering a checkmate of some sort, so I'm not gonna care
+
+21
+00:02:06,720 --> 00:02:15,200
+ about it anymore. Knight c6 check. Rook takes. Bishop takes. F pawn changes gender, and I've
+
+22
+00:02:15,200 --> 00:02:20,640
+ blundered checkmate again, and he's missed checkmate again. Rook takes king takes queen
+
+23
+00:02:20,640 --> 00:02:27,040
+ takes -26, that is actually the best case scenario I have ever been in this entire game,
+
+24
+00:02:27,040 --> 00:02:32,400
+ that means I'm making progress, and I'm only down 7 points of materials right now.
+
+25
+00:02:32,400 --> 00:02:41,920
+ Knight check. D takes, okay now it's 5, and only -20, so I have faith that I can turn this around,
+
+26
+00:02:41,920 --> 00:02:50,720
+ unless he pushes one of these pawns to make another queen. This is really bad. I only had 4
+
+27
+00:02:50,720 --> 00:02:57,840
+ rooks at the beginning, but he has 4 pawns that is very close to changing gender. Queen h1 check.
+
+28
+00:02:57,840 --> 00:03:03,440
+ I have to trade down a queen, can't let him have 2 queens when my king is so strong in the middle
+
+29
+00:03:03,440 --> 00:03:12,320
+ of the board like this. King f2, queen takes c1. B pawn changes gender. Taking this knight is
+
+30
+00:03:12,320 --> 00:03:18,560
+ blundering a queen, therefore, I can only take this bishop, and then from this point, the game
+
+31
+00:03:18,560 --> 00:03:25,440
+ continues for a few more moves, and in this position, something unexpected happened. I found
+
+32
+00:03:25,440 --> 00:03:30,800
+ out that taking this knight is blundering my queen just like before, so I see that there is nothing
+
+33
+00:03:30,800 --> 00:03:36,720
+ else I can do, and he can still make another queen very very soon, therefore, I did the thing that
+
+34
+00:03:36,720 --> 00:03:44,480
+ everyone would do at this point, which is, offering a draw. And funny enough, he accepted it, game
+
+35
+00:03:44,480 --> 00:03:49,600
+ drawn by agreement, not paid actor, and I'm still better than my viewers.
+
+36
+00:03:49,600 --> 00:04:04,220
+ [Music]
+

@@ -1,0 +1,104 @@
+1
+00:00:00,000 --> 00:00:03,920
+ Simp is better than Chess. I don't know what you're talking about.
+
+2
+00:00:03,920 --> 00:00:08,080
+ It was supposed to be I'm better than my viewers, the Mass Skewer.
+
+3
+00:00:08,080 --> 00:00:15,120
+ Very well. Ladies and gentlemen and kids, welcome to another episode of I'm better than my viewers,
+
+4
+00:00:15,120 --> 00:00:20,000
+ the series that I made so that my viewers will stop backseating my YouTube videos,
+
+5
+00:00:20,000 --> 00:00:25,600
+ but apparently it doesn't work. And the challenger this time is a guy called Anatoly Karpov.
+
+6
+00:00:26,480 --> 00:00:33,280
+ Not the real one of course. My king is in check, so king d5 is kinda forced. Alright,
+
+7
+00:00:33,280 --> 00:00:40,080
+ now if he can just go queen f8 which blunders queen e8, queen e8 rook e8 backrank checkmate in 2.
+
+8
+00:00:40,080 --> 00:00:49,440
+ That will be very convenient. Sadly he's not a paid actor. Queen takes b8. King takes b8.
+
+9
+00:00:49,440 --> 00:00:56,080
+ Rook e8 check. Stockfish didn't like that move, but I don't see anything wrong with just giving
+
+10
+00:00:56,080 --> 00:01:04,160
+ a check. King c7 is forced. I'll take this rook. Alright, now the game officially begins,
+
+11
+00:01:04,160 --> 00:01:15,200
+ a rook and 2 minor pieces, versus 3 rooks. 2. Bishop takes g1. Rook d1 check. Bishop blocks.
+
+12
+00:01:15,200 --> 00:01:22,480
+ Actually, I've just realized that I also have a random Edward here. Nevermind. Rook takes rook
+
+13
+00:01:22,480 --> 00:01:28,560
+ rook takes rook. Alright, bishop versus rook endgame, and even though it is theoretically a
+
+14
+00:01:28,560 --> 00:01:33,600
+ draw, there are still a lot of pawns on the line, so let's play it out to see what will happen.
+
+15
+00:01:33,600 --> 00:01:38,960
+ I'll take this pawn, taking a pawn chain from the bottom up is also good,
+
+16
+00:01:38,960 --> 00:01:47,440
+ but since this pawn cannot go anywhere, I can take it whenever I'd like to. G takes h5. Bishop g7.
+
+17
+00:01:48,240 --> 00:01:56,640
+ G takes h4. And then he screamed out, quadruple pawns. Man, has to be his first time ever to get
+
+18
+00:01:56,640 --> 00:02:03,680
+ that happen. Bishop e5 check. I wanted to destroy his quadruple pawns, but let's just leave it one
+
+19
+00:02:03,680 --> 00:02:13,120
+ more move to exist. King d7. G takes h4. Ha, now if he can just be extremely sad and immediately
+
+20
+00:02:13,120 --> 00:02:22,800
+ resign from the game, that will be very convenient. Of course it doesn't happen. G4 hg4 hg4 rook g2
+
+21
+00:02:22,800 --> 00:02:36,080
+ b a5 b a5 a b5 a b5. King c5. Rook takes g4. King takes b5. Rook takes h4. Ah ha, now if I take this
+
+22
+00:02:36,080 --> 00:02:44,000
+ pawn, rook h5 will pin my bishop into my king, which blunders a bishop. Therefore, bishop b8.
+
+23
+00:02:44,000 --> 00:02:53,040
+ And then after 10 moves more, b6 rook c3 king d4 rook b3 king c5 rook c3 king d4 rook b3 king c5.
+
+24
+00:02:53,040 --> 00:02:59,200
+ Draw by repetition. And as usual, since I managed to get a draw from a worse position,
+
+25
+00:02:59,840 --> 00:03:08,880
+ I'm better than my viewers.
+
+26
+00:03:08,880 --> 00:03:16,520
+ [Music]
+

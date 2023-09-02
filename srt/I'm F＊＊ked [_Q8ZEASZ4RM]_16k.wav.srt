@@ -1,0 +1,160 @@
+1
+00:00:00,000 --> 00:00:03,520
+ If a queen is f***ed, the video is f***ed.
+
+2
+00:00:03,520 --> 00:00:07,120
+ And for those people saying that these are forked and not f***ed,
+
+3
+00:00:07,120 --> 00:00:11,200
+ the truth is this guy actually wrote the f-word in the original message,
+
+4
+00:00:11,200 --> 00:00:15,680
+ but for the sake of monetization, I had to censor them away.
+
+5
+00:00:15,680 --> 00:00:22,400
+ But anyway, this is going to be short. We get a 171 from Colombia.
+
+6
+00:00:22,400 --> 00:00:27,760
+ E4. I think we can all agree that the challenge actually means that if a queen
+
+7
+00:00:27,760 --> 00:00:32,480
+ is blundered, or dies, the video ends.
+
+8
+00:00:32,480 --> 00:00:37,840
+ D5. And of course, bringing my queen out in a queen challenge will make it a lot
+
+9
+00:00:37,840 --> 00:00:43,200
+ more entertaining. Nevermind. I'll take the gambit.
+
+10
+00:00:43,200 --> 00:00:47,840
+ Of course queen f3 or queen d3 will immediately end the video,
+
+11
+00:00:47,840 --> 00:00:52,400
+ but who plays like that anyway? Right?
+
+12
+00:00:53,040 --> 00:00:57,840
+ Of course. Knight c6. The purpose is to provoke d5,
+
+13
+00:00:57,840 --> 00:01:02,640
+ and after I move my knight away, his queen will have the d4 square for free,
+
+14
+00:01:02,640 --> 00:01:08,880
+ so if he wants to lift his queen up, he won't choose the blunder d3 square.
+
+15
+00:01:08,880 --> 00:01:16,080
+ F3. I'll take that pawn. G takes. Knight takes d4 wins a free pawn,
+
+16
+00:01:16,080 --> 00:01:20,320
+ but if c3 comes after that, I will have to move my knight away,
+
+17
+00:01:20,320 --> 00:01:24,560
+ and then he can take my queen, which is against the rules.
+
+18
+00:01:24,560 --> 00:01:31,200
+ Therefore, E5. C3. Not very aggressive.
+
+19
+00:01:31,200 --> 00:01:37,600
+ Queen h4 check. King f1. I'll take this pawn. In no world
+
+20
+00:01:37,600 --> 00:01:41,280
+ do you take with your queen here.
+
+21
+00:01:41,280 --> 00:01:45,600
+ That's right. Now knight takes d4 should be the best move,
+
+22
+00:01:45,600 --> 00:01:49,440
+ but I have a strong feeling that he will take back with his queen and totally
+
+23
+00:01:49,440 --> 00:01:52,560
+ missing that my queen on the side can see that square,
+
+24
+00:01:52,560 --> 00:01:59,280
+ because as a grandmaster once said, horizontal moves are very hard to see.
+
+25
+00:01:59,280 --> 00:02:04,960
+ You know what? I think it's fine. I have faith in this guy,
+
+26
+00:02:04,960 --> 00:02:09,120
+ that he will not blunder his queen like this.
+
+27
+00:02:09,120 --> 00:02:13,440
+ Ha! You see? Not only he didn't take that knight,
+
+28
+00:02:13,440 --> 00:02:17,360
+ he even blocked his queen away so that he won't have to look at that capture in
+
+29
+00:02:17,360 --> 00:02:22,560
+ the future. Bishop c5. Knight e2.
+
+30
+00:02:22,560 --> 00:02:28,160
+ That blunders a checkmate in 2 of bishop h3 king g1 knight e2 double checkmate,
+
+31
+00:02:28,160 --> 00:02:32,720
+ but sadly I didn't see it during the game, and instead went for knight takes
+
+32
+00:02:32,720 --> 00:02:36,160
+ f3. I'm threatening queen f2 checkmate in 1
+
+33
+00:02:36,160 --> 00:02:41,520
+ or bishop h3 also checkmate in 1, so he should be able to see bishop b5
+
+34
+00:02:41,520 --> 00:02:46,480
+ check c6 knight g3 sacrificing his bishop to give his king some free
+
+35
+00:02:46,480 --> 00:02:51,120
+ squares to move after being checked. And of course, since I'm really killing
+
+36
+00:02:51,120 --> 00:02:54,480
+ his king right here, he can't even think about moving his
+
+37
+00:02:54,480 --> 00:02:59,120
+ queen, not to mention about blundering it.
+
+38
+00:02:59,120 --> 00:03:05,120
+ The worst thing is, Stockfish actually said,
+
+39
+00:03:05,120 --> 00:03:11,760
+ "Good." What the f-
+
+40
+00:03:12,400 --> 00:03:24,480
+ [Music]
+

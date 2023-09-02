@@ -1,0 +1,84 @@
+1
+00:00:00,000 --> 00:00:06,320
+ 100 rated chess, but your every third move has to be a blunder? According to Stockfish.
+
+2
+00:00:06,320 --> 00:00:13,360
+ Man, I don't know why so many people reacted to this idea, but it's kinda obvious,
+
+3
+00:00:13,360 --> 00:00:18,640
+ that this video is not going to last long. We get a 281 from Netherlands.
+
+4
+00:00:18,640 --> 00:00:26,800
+ H3. Aha, long time no see, the Clemens opening. E5.
+
+5
+00:00:28,160 --> 00:00:37,360
+ G3. Not very aggressive. D5. F3. Alright, as much as I hate it,
+
+6
+00:00:37,360 --> 00:00:44,320
+ the third move has come, and as the rule requested, this has to be a blunder. Therefore,
+
+7
+00:00:44,320 --> 00:00:51,280
+ Bishop takes H3, but not yet, I still have to check if Stockfish thinks that it's a blunder.
+
+8
+00:00:53,200 --> 00:01:01,360
+ Thank you. E3. Wow, don't tell me that he's also doing some stupid challenge like I am.
+
+9
+00:01:01,360 --> 00:01:12,880
+ Bishop back to E6, well at least that helps me save a piece. D3. Knight C6. C3. Three moves went
+
+10
+00:01:12,880 --> 00:01:24,480
+ by real fast. And again, Bishop back to H3. Stockfish? Of course. B3. Bishop back to E6 again.
+
+11
+00:01:24,480 --> 00:01:34,800
+ A3. Knight F6. Ha, now all pawns are forward, I wonder what he's going to do now. Another pawn
+
+12
+00:01:34,800 --> 00:01:43,920
+ push. I solemnly swear, that this guy is not a paid actor. But anyway. A blunder is forced.
+
+13
+00:01:43,920 --> 00:01:52,880
+ Stockfish? Yes. And I mean since he didn't take my Bishop the last 2 times, he won't take it this
+
+14
+00:01:52,880 --> 00:02:04,160
+ time, right? Wow. That's weird. D4. Congratulations to myself, the video has officially got past move
+
+15
+00:02:04,160 --> 00:02:16,320
+ 10. Well unless he resigns right now. C takes D4. E takes D4. E takes D4. I really want to take this
+
+16
+00:02:16,320 --> 00:02:30,320
+ pawn, but sadly, a blunder is forced. Stockfish? Thank you. Castle. D5. Very aggressive. I'll take
+
+17
+00:02:30,320 --> 00:02:40,000
+ it. Queen takes B7. Again, very aggressive. That move blunders a piece to Qe8. Check King F2. Rook
+
+18
+00:02:40,000 --> 00:02:48,560
+ B8. Qe6. Rook takes B1. But sadly, a blunder is forced. I'm blundering my knight on C6, but since
+
+19
+00:02:48,560 --> 00:02:54,320
+ he's already up 4 points in materials, I have a feeling that Stockfish is not going to think that
+
+20
+00:02:54,320 --> 00:03:03,520
+ it is a blunder. Yeah. I saw that was coming.
+
+21
+00:03:03,520 --> 00:03:15,920
+ [Music]
+

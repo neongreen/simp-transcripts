@@ -1,0 +1,260 @@
+1
+00:00:00,000 --> 00:00:06,880
+ 100 rated chess, but centralized pieces, or pawns, must not get out.
+
+2
+00:00:06,880 --> 00:00:12,080
+ Open parenthesis, 16 squares, close parenthesis.
+
+3
+00:00:12,080 --> 00:00:14,280
+ That sounds pretty impossible.
+
+4
+00:00:14,280 --> 00:00:18,220
+ But you know, a real man doesn't run away from a challenge.
+
+5
+00:00:18,220 --> 00:00:21,300
+ We get a 275 from Australia.
+
+6
+00:00:21,300 --> 00:00:26,920
+ For those of you who don't know, the central 16 squares, is this area, which means if a
+
+7
+00:00:26,920 --> 00:00:33,040
+ piece, or pawn, that steps their feet into this square, must never get out.
+
+8
+00:00:33,040 --> 00:00:34,040
+ E4.
+
+9
+00:00:34,040 --> 00:00:35,040
+ E5.
+
+10
+00:00:35,040 --> 00:00:37,520
+ Still theory.
+
+11
+00:00:37,520 --> 00:00:41,000
+ And of course, these pawns must never leave this area.
+
+12
+00:00:41,000 --> 00:00:42,440
+ D4.
+
+13
+00:00:42,440 --> 00:00:47,240
+ Since this mission sounds pretty impossible in my perspective, let's just play really
+
+14
+00:00:47,240 --> 00:00:49,800
+ aggressively and get our victory.
+
+15
+00:00:49,800 --> 00:00:51,040
+ F6.
+
+16
+00:00:51,040 --> 00:00:58,960
+ Well, this pawn definitely cannot leave the center, but no one said, that it cannot die.
+
+17
+00:00:58,960 --> 00:01:00,740
+ F takes E5.
+
+18
+00:01:00,740 --> 00:01:01,740
+ That blunders a rook.
+
+19
+00:01:01,740 --> 00:01:03,440
+ Oh wait wait wait.
+
+20
+00:01:03,440 --> 00:01:09,480
+ In this position, there is queen H5 check, G6, queen takes E5 check and then win the
+
+21
+00:01:09,480 --> 00:01:14,760
+ rook, but since the move queen E5 already put the queen in the center, it must not get
+
+22
+00:01:14,760 --> 00:01:19,560
+ out of there, which means I cannot take his rook.
+
+23
+00:01:19,560 --> 00:01:20,560
+ You know what?
+
+24
+00:01:20,560 --> 00:01:25,440
+ I think it's fine, I mean I cannot take his rook, but I'm still hoping for a king move
+
+25
+00:01:25,440 --> 00:01:27,800
+ instead of G6.
+
+26
+00:01:27,800 --> 00:01:28,800
+ Nevermind.
+
+27
+00:01:28,800 --> 00:01:30,680
+ I'll still take this pawn.
+
+28
+00:01:30,680 --> 00:01:34,560
+ Well, I mean there are still some hopes.
+
+29
+00:01:34,560 --> 00:01:36,360
+ Ha!
+
+30
+00:01:36,360 --> 00:01:37,960
+ You see?
+
+31
+00:01:37,960 --> 00:01:39,480
+ Bishop C4 check.
+
+32
+00:01:39,480 --> 00:01:42,120
+ There should be a checkmate coming very soon.
+
+33
+00:01:42,120 --> 00:01:45,040
+ D5 is forced.
+
+34
+00:01:45,040 --> 00:01:50,960
+ Rook takes D5 check, and let me remind you guys, that these pieces must not get out of
+
+35
+00:01:50,960 --> 00:01:54,560
+ this square, unless they die.
+
+36
+00:01:54,560 --> 00:02:00,440
+ I'll take with pawn, because this way, I can also prevent knight C6, which attacks my queen
+
+37
+00:02:00,440 --> 00:02:04,520
+ and also puts another piece into the center.
+
+38
+00:02:04,520 --> 00:02:05,880
+ Bishop B4 check.
+
+39
+00:02:05,880 --> 00:02:07,280
+ Ah ha!
+
+40
+00:02:07,280 --> 00:02:11,760
+ A lot of people may say that that move puts the bishop into the square and then take it
+
+41
+00:02:11,760 --> 00:02:18,000
+ out, so I'll have to end the video, but know, that bishop actually went to B8, and then
+
+42
+00:02:18,000 --> 00:02:21,000
+ change its direction to go to B4.
+
+43
+00:02:21,000 --> 00:02:26,320
+ And in case you want to argue that no one travels like that, then let me remind you,
+
+44
+00:02:26,320 --> 00:02:30,940
+ about the ever-given, and the Suez Canal in 2021.
+
+45
+00:02:30,940 --> 00:02:32,360
+ But anyway.
+
+46
+00:02:32,360 --> 00:02:36,260
+ Bishop D2, trading is good for me.
+
+47
+00:02:36,260 --> 00:02:38,120
+ Bishop back to D6.
+
+48
+00:02:38,120 --> 00:02:42,880
+ Knight still blunders the rook, but sadly, queen to D4.
+
+49
+00:02:42,880 --> 00:02:44,680
+ Ah ha!
+
+50
+00:02:44,680 --> 00:02:47,320
+ Now he finally protects his rook.
+
+51
+00:02:47,320 --> 00:02:53,960
+ Knight F3, I mean knight H5 ends the video, but there's no reason to play such move.
+
+52
+00:02:53,960 --> 00:02:55,560
+ Right?
+
+53
+00:02:55,560 --> 00:02:57,040
+ Of course.
+
+54
+00:02:57,040 --> 00:02:58,980
+ Bishop E3.
+
+55
+00:02:58,980 --> 00:03:00,480
+ C5.
+
+56
+00:03:00,480 --> 00:03:02,020
+ Very aggressive.
+
+57
+00:03:02,020 --> 00:03:03,280
+ The French move.
+
+58
+00:03:03,280 --> 00:03:05,120
+ Oh, wait.
+
+59
+00:03:05,120 --> 00:03:08,320
+ Please don't retreat your bishop.
+
+60
+00:03:08,320 --> 00:03:10,520
+ Ha!
+
+61
+00:03:10,520 --> 00:03:12,360
+ Not even close.
+
+62
+00:03:12,360 --> 00:03:14,040
+ That blunders a bishop.
+
+63
+00:03:14,040 --> 00:03:24,440
+ Well I mean that was pretty much his only chance to end my video.
+
+64
+00:03:24,440 --> 00:03:37,120
+ The F-
+
+65
+00:03:37,120 --> 00:03:39,780
+ (upbeat music)
+

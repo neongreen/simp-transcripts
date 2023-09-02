@@ -1,0 +1,180 @@
+1
+00:00:00,000 --> 00:00:08,080
+ 100 rated chess, but you can't move a piece, not pawn, until its brother is dead.
+
+2
+00:00:08,080 --> 00:00:09,560
+ Very challenging.
+
+3
+00:00:09,560 --> 00:00:12,880
+ We get a 2 47 from the US.
+
+4
+00:00:12,880 --> 00:00:15,000
+ D4.
+
+5
+00:00:15,000 --> 00:00:20,720
+ So I believe the only way to do this challenge, is to sacrifice pieces on one side, and then
+
+6
+00:00:20,720 --> 00:00:24,040
+ try to use the pieces in the other side.
+
+7
+00:00:24,040 --> 00:00:30,440
+ Therefore, C5. I'll get this pawn all the way down to my horsey right here.
+
+8
+00:00:30,440 --> 00:00:35,560
+ And of course, since I only have 1 king and 1 queen, I cannot move them through the entire
+
+9
+00:00:35,560 --> 00:00:37,880
+ game.
+
+10
+00:00:37,880 --> 00:00:40,040
+ D takes C5.
+
+11
+00:00:40,040 --> 00:00:42,560
+ B6.
+
+12
+00:00:42,560 --> 00:00:44,120
+ C takes B6.
+
+13
+00:00:44,120 --> 00:00:47,680
+ Ok, let's think about this carefully.
+
+14
+00:00:47,680 --> 00:00:53,640
+ After B takes A7 and A takes B8, he'll make a queen, but I cannot take his new woman,
+
+15
+00:00:53,640 --> 00:00:56,320
+ because both of my rooks are still alive.
+
+16
+00:00:56,320 --> 00:00:59,120
+ Therefore, H5.
+
+17
+00:00:59,120 --> 00:01:04,920
+ I want to go H4, then after his new queen takes my rook, I can safely develop my other
+
+18
+00:01:04,920 --> 00:01:08,520
+ rook to H5.
+
+19
+00:01:08,520 --> 00:01:10,840
+ B takes A7.
+
+20
+00:01:10,840 --> 00:01:13,640
+ H4.
+
+21
+00:01:13,640 --> 00:01:16,000
+ A pawn changed gender.
+
+22
+00:01:16,000 --> 00:01:19,640
+ And since my B knight is dead, knight F6.
+
+23
+00:01:19,640 --> 00:01:26,480
+ Man, this challenge actually reminds me of Spider-Man, because he only lives seriously,
+
+24
+00:01:26,480 --> 00:01:31,080
+ after his uncle Ben is already dead.
+
+25
+00:01:31,080 --> 00:01:33,320
+ Queen takes A8.
+
+26
+00:01:33,320 --> 00:01:34,880
+ Exactly as planned.
+
+27
+00:01:34,880 --> 00:01:36,280
+ Rook H5.
+
+28
+00:01:36,280 --> 00:01:37,560
+ Ok.
+
+29
+00:01:37,560 --> 00:01:39,880
+ Now the game truly begins.
+
+30
+00:01:39,880 --> 00:01:45,620
+ I'm being down 19 points of material, and if we include my queen as well, it's actually
+
+31
+00:01:45,620 --> 00:01:49,120
+ plus 28 for my opponent.
+
+32
+00:01:49,120 --> 00:01:51,520
+ Very, challenging.
+
+33
+00:01:51,520 --> 00:01:54,680
+ Wait what?
+
+34
+00:01:54,680 --> 00:01:56,860
+ That blunders a queen.
+
+35
+00:01:56,860 --> 00:02:01,500
+ But I cannot take that queen, due to the mission's rule.
+
+36
+00:02:01,500 --> 00:02:08,660
+ And after queen takes D8, the mission's failed, since I can't move my king either.
+
+37
+00:02:08,660 --> 00:02:11,960
+ What the f*** am I supposed to do then?
+
+38
+00:02:11,960 --> 00:02:13,880
+ E5.
+
+39
+00:02:13,880 --> 00:02:17,680
+ Now please get tunneled vision and focus in the center.
+
+40
+00:02:17,680 --> 00:02:20,200
+ My god that is scary.
+
+41
+00:02:20,200 --> 00:02:23,680
+ But anyway, that forces me to take a queen.
+
+42
+00:02:23,680 --> 00:02:25,640
+ Knight takes D7.
+
+43
+00:02:25,640 --> 00:02:38,040
+ Even though I've won a queen, the situation is actually not much better than before.
+
+44
+00:02:38,040 --> 00:02:52,000
+ I hate this guy.
+
+45
+00:02:52,000 --> 00:02:54,840
+ ♪ ♪
+

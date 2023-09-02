@@ -1,0 +1,128 @@
+1
+00:00:00,000 --> 00:00:06,160
+ 100 rated chess, but you have a very high ping. Every piece move you make should be undone and
+
+2
+00:00:06,160 --> 00:00:13,440
+ then done again. At first glance, it may sound a little bit too difficult. But to me, it's just
+
+3
+00:00:13,440 --> 00:00:23,120
+ like a walk in the park. We get a 171 from India. Knight f3. d5. The challenge requires me to undo
+
+4
+00:00:23,120 --> 00:00:29,520
+ every move I make, but it's technically impossible to undo the pawn moves. Therefore, I guess we can
+
+5
+00:00:29,520 --> 00:00:38,800
+ all agree with. Not pawn. Knight d4. Wow. I thought knight f3 first is to prevent e5,
+
+6
+00:00:38,800 --> 00:00:44,800
+ but it appears that he actually really wants me to play that move. Therefore, let's accept his
+
+7
+00:00:44,800 --> 00:00:56,480
+ kindness. Knight f3. e4. Man, this guy has been really nice to me so far. Knight d4 again. c5.
+
+8
+00:00:57,680 --> 00:01:03,600
+ Knight b3. Developing a piece is definitely a bad idea, because I will have to waste the next
+
+9
+00:01:03,600 --> 00:01:11,280
+ 2 moves to undevelop and then develop it again. Therefore, f5. It's all about the pawns baby.
+
+10
+00:01:11,280 --> 00:01:19,520
+ g3. Alright. I said it's about the pawns, but there is no way I can win with the pawns alone.
+
+11
+00:01:20,080 --> 00:01:30,080
+ So I guess, bishop e7. Bishop h3. Very aggressive. Here we go. Bishop f8 is forced.
+
+12
+00:01:30,080 --> 00:01:38,640
+ Bishop takes f5. That blunders a bishop, but sadly, the challenge actually requires me to undo the
+
+13
+00:01:38,640 --> 00:01:45,600
+ move, but then I'll have to do the move again. Therefore, bishop back to e7 is forced. It's
+
+14
+00:01:45,600 --> 00:01:50,640
+ fine though, because if he didn't see my bishop last move, there is nothing assured he can see
+
+15
+00:01:50,640 --> 00:01:59,280
+ at this move. Right? Ha! I think that he actually saw my bishop, but then he thought that moving it
+
+16
+00:01:59,280 --> 00:02:09,120
+ back one square is already dodging the bishop. Bishop takes g4. f3. Ha! Jokes on you, you don't
+
+17
+00:02:09,120 --> 00:02:19,440
+ have to attack me, I'm willingly moving it back. a3. Oh, wait. Again, the challenge also requires
+
+18
+00:02:19,440 --> 00:02:33,520
+ me to do the move again after undoing it. It's fine though, at least I've already won a bishop,
+
+19
+00:02:33,520 --> 00:02:41,200
+ so let's just consider it as a trade. d4. Man, maybe this challenge is not as easy as I thought
+
+20
+00:02:41,200 --> 00:02:53,520
+ it was. e3. h5. I'm like 99% sure that he will castle right now. Ha! I feel like a god now.
+
+21
+00:02:54,240 --> 00:03:05,600
+ h4. Kh1. He's inviting me to take this pawn, so why not? Qe2. That blunders a queen to rook h2
+
+22
+00:03:05,600 --> 00:03:12,320
+ royal fork, but if I play that move, Qxh2 is very likely to happen, which prevents my rook from
+
+23
+00:03:12,320 --> 00:03:20,240
+ going back to h8 to obey the challenge rules, which ends the video. So I guess. d3. The plan
+
+24
+00:03:20,240 --> 00:03:29,040
+ is simple. cxd3, exd3, queen retreats, and I can play Qd5 check, which will probably lead to some
+
+25
+00:03:29,040 --> 00:03:37,600
+ checkmate sequences. Perfect. exd3. I guess Stockfish is very angry right now that I keep
+
+26
+00:03:37,600 --> 00:03:48,080
+ ignoring his queen fork. Qg2. Wow! That move stops Qd5, threatens to take on b7, and also
+
+27
+00:03:48,080 --> 00:03:55,120
+ threatens to take on g3. This guy is absolutely destroying me, while still blundering his own
+
+28
+00:03:55,120 --> 00:04:01,520
+ queen. You know what? I'm pretty sure this pawn is the only way I can win this game,
+
+29
+00:04:01,520 --> 00:04:09,360
+ but since it is about to die, let's just give our last effort. Rook h2 check. If he takes my rook,
+
+30
+00:04:09,360 --> 00:04:13,200
+ the video ends because I cannot obey the rules, and if he doesn't,
+
+31
+00:04:17,600 --> 00:04:22,240
+ yeah this challenge is obviously impossible.
+
+32
+00:04:22,240 --> 00:04:35,120
+ [Music]
+

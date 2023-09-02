@@ -1,0 +1,128 @@
+1
+00:00:00,000 --> 00:00:06,000
+ 100 rated chess, but you must state in chat what your next move will be before taking your current
+
+2
+00:00:06,000 --> 00:00:12,720
+ move. Well, I normally don't take on impossible challenges like this, but I'm actually sick right
+
+3
+00:00:12,720 --> 00:00:21,520
+ now, so I decided to go with a shorter video. We get a 249 from Australia. Aha! I'm moving first,
+
+4
+00:00:21,520 --> 00:00:29,200
+ so I have to tell him what I'm gonna do in my next move. Knight f3. E4, and this means that
+
+5
+00:00:29,200 --> 00:00:38,640
+ I will have to play knight f3 next move, regardless of what happens now. E5. Just as I expected. I
+
+6
+00:00:38,640 --> 00:00:45,280
+ really want bishop c4 next, but there's a chance that he'll play d5 after my knight f3, which means
+
+7
+00:00:45,280 --> 00:00:52,960
+ I will be blundering a piece. Therefore, let's take a more cautious approach. Knight c3. And as
+
+8
+00:00:52,960 --> 00:01:01,600
+ promised from last move, knight f3. F6. That blunders a pawn, but I cannot take it because
+
+9
+00:01:01,600 --> 00:01:08,320
+ knight c3 is forced. But then there comes a question. Do I take this pawn on my next move?
+
+10
+00:01:08,320 --> 00:01:14,320
+ I mean there is a chance that he will play d6 on his next move, which means I will blunder a knight,
+
+11
+00:01:14,320 --> 00:01:24,720
+ but that chance is relatively small. You know what? I can't risk it. Bishop c4, knight c3.
+
+12
+00:01:24,720 --> 00:01:33,120
+ And let's make this clear, I'm just trying to be safe, and I'm not a coward. Bishop d6. Weird move.
+
+13
+00:01:33,760 --> 00:01:48,960
+ I'll castle next. Bishop c4. Knight h6. d3, castle. F5. Aha! Now it gets serious. You see,
+
+14
+00:01:48,960 --> 00:01:54,480
+ the reason why this challenge is so hard, is that I cannot know whether he will take this pawn or
+
+15
+00:01:54,480 --> 00:02:01,840
+ not. For example, now I have to play d3, but I also have to say what my next move is, and just
+
+16
+00:02:01,840 --> 00:02:09,360
+ for context, if I say my next move is a3, then things may go like d3 is forced, f takes e4,
+
+17
+00:02:09,360 --> 00:02:16,880
+ a3 is forced, and then I'll lose my knight. And even worse, I can't just say e takes f5 or d
+
+18
+00:02:16,880 --> 00:02:23,200
+ takes e4 on my next move, because if he just decides to push this f-pawn, none of those moves
+
+19
+00:02:23,200 --> 00:02:31,760
+ can happen, which means I'll have to end the video. So I guess, bishop h6, d3. I mean this has
+
+20
+00:02:31,760 --> 00:02:37,520
+ to be the safest approach to this situation, but if he goes crazy and move his knight again,
+
+21
+00:02:37,520 --> 00:02:46,080
+ I'm gonna lose a bishop for free. Thank you. And you know what? I think I have a great idea.
+
+22
+00:02:46,880 --> 00:02:58,560
+ Knight e5, bishop takes h6. Exactly as planned. Queen h5, knight e5. Alright, here's how it's
+
+23
+00:02:58,560 --> 00:03:05,040
+ gonna go. He's gonna take my knight here, and then queen h5 comes with some random checkmate that I
+
+24
+00:03:05,040 --> 00:03:10,960
+ haven't seen yet. Or he's gonna find the best move of queen h4 and absolutely destroy me on the
+
+25
+00:03:10,960 --> 00:03:22,080
+ chessboard. Ha! Noob. In this position, there is a forced checkmate in 7 moves, so feel free to
+
+26
+00:03:22,080 --> 00:03:28,320
+ pause the video right now to find the sequence, and the answer is obviously queen h5 check king
+
+27
+00:03:28,320 --> 00:03:35,040
+ e7 queen f7 check king d6 is forced knight b5 check and even though the continuation should be
+
+28
+00:03:35,040 --> 00:03:44,000
+ king c5 queen d5 king before a3 king a4 knight c3 bishop c3 b3 mate, he actually went for king c6,
+
+29
+00:03:44,000 --> 00:03:51,600
+ which shorthand the game down to queen d5 mate. And as you can see here, since all of those moves
+
+30
+00:03:51,600 --> 00:03:58,240
+ were so obvious and forcing, I was able to foretell everything during the sequence. Mission
+
+31
+00:03:58,240 --> 00:03:59,460
+ Accomplished.
+
+32
+00:03:59,460 --> 00:04:13,960
+ [Music]
+

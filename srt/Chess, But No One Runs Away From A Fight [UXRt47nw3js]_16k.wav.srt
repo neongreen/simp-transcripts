@@ -1,0 +1,128 @@
+1
+00:00:00,000 --> 00:00:09,640
+ 100 rated chess. But if a piece, or pawn, is attacked, it gets immobilized.
+
+2
+00:00:09,640 --> 00:00:18,480
+ This is hard. But anyway, let's find an opponent.
+
+3
+00:00:18,480 --> 00:00:24,400
+ We get a 2 51 from Australia. E4.
+
+4
+00:00:24,400 --> 00:00:28,140
+ E5. So far so good.
+
+5
+00:00:28,140 --> 00:00:32,780
+ Knight f3. F6.
+
+6
+00:00:32,780 --> 00:00:39,460
+ That blunders a pawn, oh wait wait wait. If I take his pawn, he takes my knight.
+
+7
+00:00:39,460 --> 00:00:44,240
+ Queen h5 check. G6 will attack and immobilize my queen, which
+
+8
+00:00:44,240 --> 00:00:49,180
+ prevents me from going queen e5 forking his king and rook.
+
+9
+00:00:49,180 --> 00:00:54,440
+ And even worse, he can win my queen on his next move.
+
+10
+00:00:54,440 --> 00:01:00,500
+ So I guess, d4. c5.
+
+11
+00:01:00,500 --> 00:01:05,620
+ That blunders a pawn. But sadly, since my d-pawn is being attacked
+
+12
+00:01:05,620 --> 00:01:14,460
+ by his pawns, it cannot move. So I guess, c3.
+
+13
+00:01:14,460 --> 00:01:20,040
+ He takes d4. I want to take that pawn back, but again,
+
+14
+00:01:20,040 --> 00:01:25,080
+ my c-pawn is being attacked, so it cannot move.
+
+15
+00:01:25,080 --> 00:01:28,820
+ This mission is getting very wrong very quickly.
+
+16
+00:01:28,820 --> 00:01:36,860
+ Therefore, let's just gambit some more pawns, I mean who cares about the pawns anyway.
+
+17
+00:01:36,860 --> 00:01:41,820
+ Bishop to c4. Knight c6.
+
+18
+00:01:41,820 --> 00:01:48,060
+ Ah, just as I said no one cares about the pawns, he shows me that he not only cares
+
+19
+00:01:48,060 --> 00:01:53,340
+ about his pawns, but also cares about my pawns.
+
+20
+00:01:53,340 --> 00:01:59,720
+ He's such a pawn lover. But anyway, I still don't care.
+
+21
+00:01:59,720 --> 00:02:04,260
+ Bishop f4. I'm trying to bait him into playing g5, which
+
+22
+00:02:04,260 --> 00:02:08,380
+ should even give me a chance to checkmate him.
+
+23
+00:02:08,380 --> 00:02:13,500
+ g5. Yes.
+
+24
+00:02:13,500 --> 00:02:18,100
+ That blunders a lot. Knight takes g5.
+
+25
+00:02:18,100 --> 00:02:23,280
+ Please take my knight and loose. And since he cares so much about the pawns,
+
+26
+00:02:23,280 --> 00:02:29,520
+ I believe he will take my knight to avenge his dead g-pawn.
+
+27
+00:02:29,520 --> 00:02:33,060
+ And he did. Wow.
+
+28
+00:02:33,060 --> 00:02:38,620
+ I really can't believe that I have just finished such an impossible mission.
+
+29
+00:02:38,620 --> 00:02:42,980
+ Queen h5 check. And I can pre-move.
+
+30
+00:02:42,980 --> 00:02:51,180
+ Queen f7. Checkmate.
+
+31
+00:02:51,180 --> 00:02:52,820
+ Mission accomplished.
+
+32
+00:02:53,180 --> 00:03:07,740
+ [Music]
+

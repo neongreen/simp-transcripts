@@ -1,0 +1,108 @@
+1
+00:00:00,000 --> 00:00:06,000
+ If a pawn only moves one square in its first move, the video ends.
+
+2
+00:00:06,000 --> 00:00:10,000
+ Okay then. Let's find an opponent.
+
+3
+00:00:10,000 --> 00:00:15,000
+ We get a 163 from Germany.
+
+4
+00:00:15,000 --> 00:00:22,000
+ E4. It's pretty obvious that there are 8 different ways that he can end my video right now.
+
+5
+00:00:22,000 --> 00:00:26,000
+ But of course, there's nothing I can do about it.
+
+6
+00:00:26,000 --> 00:00:29,000
+ E5. Thank God.
+
+7
+00:00:29,000 --> 00:00:36,000
+ So in order to prevent my opponent from moving pawns one square, I need to keep him busy in every move.
+
+8
+00:00:36,000 --> 00:00:39,000
+ The most popular move here is knight f3.
+
+9
+00:00:39,000 --> 00:00:45,000
+ But sadly, he may decide to play d6, the Philidor defense, which ends the video.
+
+10
+00:00:45,000 --> 00:00:54,000
+ D4 is also very risky because of d6, and f4 looks like it's really good, since everyone accepts the king's gambit.
+
+11
+00:00:54,000 --> 00:01:04,000
+ But sadly, f4 allows queen h4 check, and since g6 ends the video, I will have to play king e2, which I don't like at all.
+
+12
+00:01:04,000 --> 00:01:07,000
+ Therefore, b4.
+
+13
+00:01:07,000 --> 00:01:16,000
+ Please just take it, that is a free pawn, and in no world do you play d6 now, which also blocks away your bishop's view.
+
+14
+00:01:16,000 --> 00:01:21,000
+ Thank you. Let's continue to keep him busy.
+
+15
+00:01:21,000 --> 00:01:26,000
+ Bishop a3. Of course you will take it, right?
+
+16
+00:01:26,000 --> 00:01:30,000
+ Bishop c5. That blunders a bishop.
+
+17
+00:01:30,000 --> 00:01:39,000
+ But should I even take it, though? Because if I take his bishop, he may decide to play d6 to attack my bishop, which ends the video.
+
+18
+00:01:39,000 --> 00:01:43,000
+ Therefore, I guess I should play d4.
+
+19
+00:01:43,000 --> 00:01:47,000
+ If his bishop is attacked, he cannot move his pawns.
+
+20
+00:01:48,000 --> 00:01:57,000
+ Bishop e7. Ah ha! I think I can take it now. And in no world do you move your pawns now.
+
+21
+00:01:57,000 --> 00:02:04,000
+ He takes d4. And he proves to me that he can still move his pawns. But anyway.
+
+22
+00:02:04,000 --> 00:02:11,000
+ Bishop takes d8. Now just calm down, take my bishop, and everything is fine.
+
+23
+00:02:11,000 --> 00:02:16,000
+ And do not move your c-pawn, just because my bishop is attacking it.
+
+24
+00:02:17,000 --> 00:02:20,000
+ King takes d8.
+
+25
+00:02:20,000 --> 00:02:24,000
+ And he resigned.
+
+26
+00:02:24,000 --> 00:02:27,000
+ Mission accomplished.
+
+27
+00:02:27,000 --> 00:02:41,000
+ [Music]
+

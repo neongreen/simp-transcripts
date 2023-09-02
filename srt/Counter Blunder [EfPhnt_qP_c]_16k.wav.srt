@@ -1,0 +1,144 @@
+1
+00:00:00,000 --> 00:00:05,440
+ 100 rated chess, but for every bad move your opponent makes, you need to match with an
+
+2
+00:00:05,440 --> 00:00:11,840
+ equally bad move. Or worse. This is one of those challenges where my opponent can actually win by
+
+3
+00:00:11,840 --> 00:00:19,920
+ checkmating me. But of course, I'm not a coward. E4, the plan is very simple. Pray that my opponent
+
+4
+00:00:19,920 --> 00:00:25,040
+ doesn't blunder, because if he doesn't blunder, then the mission basically doesn't even exist.
+
+5
+00:00:26,080 --> 00:00:36,560
+ E5. Still theory, and as far as I can see, theory, is not blunder. D4. D5. I'll take this pawn.
+
+6
+00:00:36,560 --> 00:00:43,840
+ Knight A6. Aha, so technically speaking, that was a really bad move because it blunders a pawn and
+
+7
+00:00:43,840 --> 00:00:49,600
+ gives me a very big center. But in my point of view, that is just a gambit, so it is actually
+
+8
+00:00:49,600 --> 00:00:57,200
+ his tactical opening plan, and definitely not a blunder. Therefore, I'll take that pawn. Knight
+
+9
+00:00:57,200 --> 00:01:06,400
+ B4. Very aggressive. Knight C3. In no world do you take my pawn right now. Nevermind. That blunders
+
+10
+00:01:06,400 --> 00:01:12,560
+ a horsey, but as the challenge suggests, I cannot take this knight, and instead, I have to blunder
+
+11
+00:01:12,560 --> 00:01:20,960
+ a piece back. This video is going very wrong very quickly. Knight takes C3. Dude, after blundering a
+
+12
+00:01:20,960 --> 00:01:26,240
+ horsey, somehow he decided to make the best move to capture my knight, so that he'll have a double
+
+13
+00:01:26,240 --> 00:01:33,840
+ attack on my queen and my bishop. Queen takes D8 King takes D8 Bishop G5 check King E8 E takes C3.
+
+14
+00:01:33,840 --> 00:01:39,760
+ Alright I mean it's still fine, but now I've lost my queen, it'll be hard to finish this game fast
+
+15
+00:01:39,760 --> 00:01:47,040
+ enough before he destroys it with the absurd challenge rules. F6. I'll take that pawn, that
+
+16
+00:01:47,040 --> 00:01:54,880
+ was not a bad move, because it creates a tempo to help him develop his knight. Well, maybe he changed
+
+17
+00:01:54,880 --> 00:02:03,120
+ his mind. Bishop H4 H5 long castle C5 very aggressive bishop C4. Alright, now just go F5
+
+18
+00:02:03,120 --> 00:02:11,600
+ and blunder checkmate in 1. Of course it doesn't happen. F3. Man somehow I have a feeling that
+
+19
+00:02:11,600 --> 00:02:18,720
+ something bad is about to happen. And it happened. That blunders a bishop to bishop B5 F takes G4,
+
+20
+00:02:18,720 --> 00:02:24,960
+ or even if bishop blocks I can still take it. But once again, I cannot take it due to the rules,
+
+21
+00:02:24,960 --> 00:02:32,240
+ and I also have to blunder a bishop back. This is getting very annoying. King takes F7.
+
+22
+00:02:32,240 --> 00:02:41,360
+ F takes G4. F5. Aha, that blunders a pawn, but as I mentioned before, blundering a pawn is actually
+
+23
+00:02:41,360 --> 00:02:50,560
+ just a gambit, which is a very high-level tactic. Therefore, I'll just take it. Bishop D6. Aha,
+
+24
+00:02:50,560 --> 00:02:56,160
+ that blunders a bishop, but in my point of view, he's actually just sacrificing a bishop to prevent
+
+25
+00:02:56,160 --> 00:03:02,480
+ rook D7 check for 1 move, so I actually don't have to blunder a piece back, but since I still think
+
+26
+00:03:02,480 --> 00:03:08,720
+ that it is a pretty bad move, therefore, I'll blunder a pawn back. I mean you can say that I'm
+
+27
+00:03:08,720 --> 00:03:13,520
+ cheating against the rules all you want, but according to Stockfish, his move was only a
+
+28
+00:03:13,520 --> 00:03:18,880
+ mistake, and my move was actually a big blunder, because we all know that the G-pawn is a very
+
+29
+00:03:18,880 --> 00:03:26,400
+ important guy on the chessboard, and he should not be blundered like this. Knight F6. Aha,
+
+30
+00:03:26,400 --> 00:03:31,920
+ that blunders the bishop again, but since that already happened last move, it doesn't count in
+
+31
+00:03:31,920 --> 00:03:40,080
+ this move anymore. Rook takes D6. Again, I'm definitely not cheating, this is 100% absolutely
+
+32
+00:03:40,080 --> 00:03:49,120
+ fair. Knight G4 rook D7 king E8 rook E7 king F8 knight F3 king G8 knight G5 rook H6 knight E6 B4
+
+33
+00:03:49,120 --> 00:03:55,840
+ very aggressive F6 rook C8 F7 king H7 F pawn changes gender king G6 is forced, and in this
+
+34
+00:03:55,840 --> 00:04:03,360
+ position, there is queen F7 checkmate in 1, knight F4 checkmate in 1, rook G7 checkmate in 1, but
+
+35
+00:04:03,360 --> 00:04:09,760
+ sadly, I cannot blunder a checkmate in 1 back to fulfill the challenge rules. Therefore, I have to
+
+36
+00:04:09,760 --> 00:04:25,920
+ end the video here.
+

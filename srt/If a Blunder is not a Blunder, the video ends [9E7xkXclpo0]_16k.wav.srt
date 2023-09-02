@@ -1,0 +1,268 @@
+1
+00:00:00,000 --> 00:00:07,840
+ If a blunder of a piece, not a pawn, is not a blunder to stockfish.
+
+2
+00:00:07,840 --> 00:00:10,360
+ The video ends.
+
+3
+00:00:10,360 --> 00:00:14,680
+ Playing 3 minute splits on a 100 rated account.
+
+4
+00:00:14,680 --> 00:00:19,000
+ Well, that's easy to understand.
+
+5
+00:00:19,000 --> 00:00:23,600
+ Let's find an opponent.
+
+6
+00:00:23,600 --> 00:00:28,360
+ We get a 2 39 from Brazil.
+
+7
+00:00:28,360 --> 00:00:30,360
+ D4.
+
+8
+00:00:30,360 --> 00:00:32,000
+ D5.
+
+9
+00:00:32,000 --> 00:00:33,560
+ Still theory.
+
+10
+00:00:33,560 --> 00:00:35,720
+ E3.
+
+11
+00:00:35,720 --> 00:00:38,280
+ Now we're out of theory.
+
+12
+00:00:38,280 --> 00:00:41,960
+ Bishop F5.
+
+13
+00:00:41,960 --> 00:00:44,040
+ Queen F3.
+
+14
+00:00:44,040 --> 00:00:46,040
+ That blunders a pawn.
+
+15
+00:00:46,040 --> 00:00:51,080
+ But since the challenge only affects the pieces, the video is still safe.
+
+16
+00:00:51,080 --> 00:00:57,040
+ Also, I'm not taking that pawn, since putting my bishop in his territory may be too tricky
+
+17
+00:00:57,040 --> 00:01:00,360
+ for him, which may lead to some blunders.
+
+18
+00:01:00,360 --> 00:01:06,120
+ And since the challenge is all about the blunders, I believe the best thing to do, is to avoid
+
+19
+00:01:06,120 --> 00:01:09,880
+ all of the blunders in the first place.
+
+20
+00:01:09,880 --> 00:01:11,680
+ So I guess.
+
+21
+00:01:11,680 --> 00:01:13,680
+ E6.
+
+22
+00:01:13,680 --> 00:01:16,720
+ Knight C3.
+
+23
+00:01:16,720 --> 00:01:18,920
+ C6.
+
+24
+00:01:18,920 --> 00:01:26,120
+ Maybe C5 was better, but I'm just trying to keep my opponent from making blunders here.
+
+25
+00:01:26,120 --> 00:01:27,120
+ G4.
+
+26
+00:01:27,120 --> 00:01:30,600
+ Very aggressive.
+
+27
+00:01:30,600 --> 00:01:34,640
+ I'll go back.
+
+28
+00:01:34,640 --> 00:01:36,960
+ Bishop D3.
+
+29
+00:01:36,960 --> 00:01:38,680
+ Bishop B4.
+
+30
+00:01:38,680 --> 00:01:42,560
+ Nothing crazy so far.
+
+31
+00:01:42,560 --> 00:01:45,120
+ Bishop takes G6.
+
+32
+00:01:45,120 --> 00:01:48,300
+ H takes.
+
+33
+00:01:48,300 --> 00:01:50,480
+ Knight H3.
+
+34
+00:01:50,480 --> 00:01:53,760
+ I'll take this knight.
+
+35
+00:01:53,760 --> 00:01:56,000
+ B takes.
+
+36
+00:01:56,000 --> 00:01:57,880
+ Knight D7.
+
+37
+00:01:57,880 --> 00:02:02,720
+ Somehow I have a feeling that something bad is about to happen.
+
+38
+00:02:02,720 --> 00:02:06,280
+ E4.
+
+39
+00:02:06,280 --> 00:02:08,720
+ Yeah my feeling is right.
+
+40
+00:02:08,720 --> 00:02:10,620
+ That blunders a pawn.
+
+41
+00:02:10,620 --> 00:02:14,600
+ But if I take his pawn, he may decide to take back.
+
+42
+00:02:14,600 --> 00:02:16,960
+ Which blunders his knight over here.
+
+43
+00:02:16,960 --> 00:02:22,000
+ But since we cannot know if Stockfish thinks that's a blunder or not, I think it's best
+
+44
+00:02:22,000 --> 00:02:25,040
+ to just totally avoid that.
+
+45
+00:02:25,040 --> 00:02:28,760
+ And F6.
+
+46
+00:02:28,760 --> 00:02:30,320
+ Knight G5.
+
+47
+00:02:30,320 --> 00:02:34,400
+ Again, very, aggressive.
+
+48
+00:02:34,400 --> 00:02:38,780
+ I'll take the pawn now.
+
+49
+00:02:38,780 --> 00:02:40,320
+ Queen F4.
+
+50
+00:02:40,320 --> 00:02:42,320
+ Ah ha!
+
+51
+00:02:42,320 --> 00:02:47,960
+ He's obviously baiting me to go knight D5, attacking his queen, but blundering my king
+
+52
+00:02:47,960 --> 00:02:50,520
+ in the process.
+
+53
+00:02:50,520 --> 00:02:53,980
+ He's so underestimating me right now.
+
+54
+00:02:53,980 --> 00:02:57,720
+ So I guess, let's throw a punch at him.
+
+55
+00:02:57,720 --> 00:02:59,920
+ Rook H4.
+
+56
+00:02:59,920 --> 00:03:04,640
+ That's not a good move, but it's tricky.
+
+57
+00:03:04,640 --> 00:03:06,860
+ Bishop A3.
+
+58
+00:03:06,860 --> 00:03:08,960
+ That blunders a pawn.
+
+59
+00:03:08,960 --> 00:03:15,220
+ And again, since a pawn is not a piece, there's no need to check Stockfish about it.
+
+60
+00:03:15,220 --> 00:03:20,200
+ But actually, when you really think about it, this guy has been playing really well
+
+61
+00:03:20,200 --> 00:03:25,440
+ that he hasn't blundered any pieces so far.
+
+62
+00:03:25,440 --> 00:03:27,240
+ Queen D6.
+
+63
+00:03:27,240 --> 00:03:29,160
+ Right.
+
+64
+00:03:29,160 --> 00:03:31,500
+ That blunders a horsey.
+
+65
+00:03:31,500 --> 00:03:44,800
+ But I mean, this is too obvious, so there's no way Stockfish declines it, right?
+
+66
+00:03:44,800 --> 00:03:52,180
+ What the f--
+
+67
+00:03:52,180 --> 00:03:59,760
+ [outro]
+

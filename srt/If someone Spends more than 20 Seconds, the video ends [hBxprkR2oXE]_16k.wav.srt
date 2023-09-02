@@ -1,0 +1,232 @@
+1
+00:00:00,000 --> 00:00:04,000
+ If someone spends more than 20 seconds on a single move,
+
+2
+00:00:04,000 --> 00:00:07,000
+ the video ends.
+
+3
+00:00:07,000 --> 00:00:10,000
+ No sacrificing allowed.
+
+4
+00:00:10,000 --> 00:00:16,000
+ Well, normally, I don't take challenges that depend on pure luck.
+
+5
+00:00:16,000 --> 00:00:19,000
+ But of course, I can't argue with money.
+
+6
+00:00:19,000 --> 00:00:23,000
+ Therefore, let's find an opponent.
+
+7
+00:00:27,000 --> 00:00:30,000
+ We get a 1-13 from Mexico.
+
+8
+00:00:30,000 --> 00:00:33,000
+ E4.
+
+9
+00:00:33,000 --> 00:00:35,000
+ Very standards.
+
+10
+00:00:35,000 --> 00:00:39,000
+ So in order to stop my opponent from spending too much time,
+
+11
+00:00:39,000 --> 00:00:45,000
+ I believe I should be playing as non-tactical as possible.
+
+12
+00:00:45,000 --> 00:00:48,000
+ Therefore, E5.
+
+13
+00:00:48,000 --> 00:00:52,000
+ The most popular move to respond to E4.
+
+14
+00:00:52,000 --> 00:00:54,000
+ For those of you who are wondering about,
+
+15
+00:00:54,000 --> 00:00:58,000
+ how can we know how much time the player has spent for a move?
+
+16
+00:00:58,000 --> 00:01:01,000
+ They are written over here.
+
+17
+00:01:01,000 --> 00:01:06,000
+ Like right now, there has only been 2 moves on the board.
+
+18
+00:01:06,000 --> 00:01:11,000
+ The 2.9 means white has spent 2.9 seconds on his move,
+
+19
+00:01:11,000 --> 00:01:16,000
+ and 2.5 means black has spent 2.5 seconds on his move.
+
+20
+00:01:16,000 --> 00:01:22,000
+ With that said, if there is a number larger than 20 is written up there.
+
+21
+00:01:22,000 --> 00:01:25,000
+ The video ends.
+
+22
+00:01:25,000 --> 00:01:29,000
+ F4.
+
+23
+00:01:29,000 --> 00:01:31,000
+ Great!
+
+24
+00:01:31,000 --> 00:01:33,000
+ The king's gambit.
+
+25
+00:01:33,000 --> 00:01:37,000
+ As I was planning to avoid the tactical plays,
+
+26
+00:01:37,000 --> 00:01:41,000
+ he took me into the most tactical opening ever existed.
+
+27
+00:01:41,000 --> 00:01:44,000
+ But anyway, what's done is done.
+
+28
+00:01:44,000 --> 00:01:50,000
+ I believe the best thing I can do right now, is to not accept the gambit.
+
+29
+00:01:50,000 --> 00:01:53,000
+ Bishop to C5.
+
+30
+00:01:53,000 --> 00:01:57,000
+ F takes E5.
+
+31
+00:01:57,000 --> 00:01:59,000
+ 11 seconds.
+
+32
+00:01:59,000 --> 00:02:02,000
+ And that blunders a rook.
+
+33
+00:02:02,000 --> 00:02:08,000
+ Because it allows, queen H4 check, G3, queen takes E4 check,
+
+34
+00:02:08,000 --> 00:02:11,000
+ forking the king and the rook in the corner.
+
+35
+00:02:11,000 --> 00:02:15,000
+ But of course, doing that is too tactically heavy,
+
+36
+00:02:15,000 --> 00:02:19,000
+ which may get my opponent into burning his own time.
+
+37
+00:02:19,000 --> 00:02:23,000
+ So I guess, knight C6.
+
+38
+00:02:23,000 --> 00:02:27,000
+ Bishop C4.
+
+39
+00:02:27,000 --> 00:02:31,000
+ That once again, blundering queen to H4.
+
+40
+00:02:31,000 --> 00:02:38,000
+ And you know what? Let's just block her view, so there's no more tactic for me.
+
+41
+00:02:38,000 --> 00:02:46,000
+ Dude! Why is he thinking for so long?
+
+42
+00:02:48,000 --> 00:02:54,000
+ What the hell dude? Please move, just take my pawn or something.
+
+43
+00:02:54,000 --> 00:02:58,000
+ 20.0 seconds.
+
+44
+00:02:58,000 --> 00:03:03,000
+ Okay. So if I remember correctly, the challenge suggested,
+
+45
+00:03:03,000 --> 00:03:08,000
+ that we cannot use, more than 20 seconds.
+
+46
+00:03:08,000 --> 00:03:14,000
+ And as far as I can see, 20.0, is not larger, than 20.
+
+47
+00:03:14,000 --> 00:03:21,000
+ Man! The people are so going to argue with me about the decimal numbers after that number 0.
+
+48
+00:03:21,000 --> 00:03:27,000
+ But anyway. I have decided, that the video, survives.
+
+49
+00:03:27,000 --> 00:03:29,000
+ G6.
+
+50
+00:03:29,000 --> 00:03:35,000
+ Since he has played queen H5 check, he should have expected G6 already,
+
+51
+00:03:35,000 --> 00:03:40,000
+ so there's no way he's spending too much time now, right?
+
+52
+00:03:42,000 --> 00:03:46,000
+ Why is he still thinking?
+
+53
+00:03:46,000 --> 00:03:54,000
+ Dude! You saw queen H5, there is no reason you didn't see G6?
+
+54
+00:03:54,000 --> 00:04:10,000
+ What the f...
+
+55
+00:04:10,000 --> 00:04:14,000
+ Thanks for watching!
+
+56
+00:04:14,000 --> 00:04:18,000
+ See you next time!
+
+57
+00:04:18,000 --> 00:04:22,000
+ (Subs by Andrew Jelen)
+
+58
+00:04:22,000 --> 00:04:24,000
+ You
+

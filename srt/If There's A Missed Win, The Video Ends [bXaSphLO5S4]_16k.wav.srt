@@ -1,0 +1,124 @@
+1
+00:00:00,000 --> 00:00:03,680
+ If the opponent plays a missed win, the video ends.
+
+2
+00:00:03,680 --> 00:00:10,480
+ Yes! Finally! A nice guy who gives me an easy challenge. And you know,
+
+3
+00:00:10,480 --> 00:00:16,800
+ since I think this challenge is so easy, let's make it. Anyone? Because you know,
+
+4
+00:00:16,800 --> 00:00:20,000
+ I'm a generous man. Let's go!
+
+5
+00:00:20,000 --> 00:00:24,480
+ We get a 101 from the US. With premiumed membership.
+
+6
+00:00:25,360 --> 00:00:32,640
+ The plan is simple. I win, and my opponent doesn't win. Because if my opponent doesn't win,
+
+7
+00:00:32,640 --> 00:00:37,120
+ there is no missed win, and if I win, there is also no missed win.
+
+8
+00:00:37,120 --> 00:00:41,360
+ D4, let's just play safe and slowly get our win.
+
+9
+00:00:41,360 --> 00:00:48,720
+ E6. Not very aggressive. I was planning to go bishop F4 London system,
+
+10
+00:00:48,720 --> 00:00:52,000
+ but since he's not very aggressive. E4.
+
+11
+00:00:53,520 --> 00:00:59,840
+ Knight F6. E5. Need to make sure I always take any possible advantages.
+
+12
+00:00:59,840 --> 00:01:08,400
+ Knight E4. Ah ha, he's baiting me into playing F3, thinking that the knight is trapped after
+
+13
+00:01:08,400 --> 00:01:16,880
+ knight G5 and H4, but he actually got queen H4 check, G3, knight takes G3, H takes G3,
+
+14
+00:01:16,880 --> 00:01:21,200
+ and queen takes H1. Therefore, bishop D3.
+
+15
+00:01:22,640 --> 00:01:26,960
+ Bishop B4 check. That blunders a piece. C3.
+
+16
+00:01:26,960 --> 00:01:36,400
+ A desperado. Knight takes. Alright, now since I've won a piece, let's try to be extra careful
+
+17
+00:01:36,400 --> 00:01:41,040
+ from now on, because we can never know, when stockfish is gonna pull the trigger.
+
+18
+00:01:41,040 --> 00:01:44,960
+ Castle. Knight F3.
+
+19
+00:01:46,560 --> 00:01:54,400
+ D6. So in this position, there is a brilliant move for white, or actually, just kinda brilliant,
+
+20
+00:01:54,400 --> 00:02:00,080
+ since it's pretty obvious if you're an experienced player, so feel free to pause the video right now
+
+21
+00:02:00,080 --> 00:02:05,760
+ to find the move, while I don't give you any seconds to do so, and the move is bishop takes
+
+22
+00:02:05,760 --> 00:02:12,640
+ H7, check. This is called the Greek gift sacrifice, and if you couldn't spot the move,
+
+23
+00:02:12,640 --> 00:02:17,200
+ don't feel bad, because you will definitely learn this stuff sooner or later.
+
+24
+00:02:17,200 --> 00:02:27,600
+ King takes H7. Knight G5 check. Wait what? So it seems like this guy knows about the line.
+
+25
+00:02:27,600 --> 00:02:36,800
+ Not gonna lie, I'm actually scared now. Queen G4. This is very problematic, because he can just
+
+26
+00:02:36,800 --> 00:02:42,800
+ blunder checkmate at any time now, but if I cannot see it, stockfish may give me a missed win,
+
+27
+00:02:42,800 --> 00:02:51,760
+ which makes me a fool, for ending my own video. F6. Okay that should blunder checkmate somewhere.
+
+28
+00:02:51,760 --> 00:03:00,960
+ But I can't see it. Alright who cares, knight takes E6 check. I will win this queen,
+
+29
+00:03:00,960 --> 00:03:09,600
+ and if that is a missed win, I will just blame it all on luck. King H7. Ah ha! I was about to
+
+30
+00:03:09,600 --> 00:03:15,040
+ pre-move knight takes D8, which very much could have been a missed win, because the best move
+
+31
+00:03:15,040 --> 00:03:37,760
+ was supposed to be, queen takes G7, checkmate. Mission accomplished.
+

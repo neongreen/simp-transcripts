@@ -1,0 +1,208 @@
+1
+00:00:00,000 --> 00:00:05,000
+ If your opponent pre-moves, the video ends.
+
+2
+00:00:05,000 --> 00:00:10,000
+ Playing 3 minute splits on a 100 rated account.
+
+3
+00:00:10,000 --> 00:00:18,000
+ In case you don't know, they pre-move a lot in the 100 rated elo, especially in the opening.
+
+4
+00:00:18,000 --> 00:00:29,000
+ You may argue that you didn't see anyone did so in my videos, but actually, I adjusted the time between the moves, so that the video would become more natural.
+
+5
+00:00:29,000 --> 00:00:35,000
+ And with that out of the way. Let's find an opponent.
+
+6
+00:00:35,000 --> 00:00:44,000
+ We get a 220 from the US.
+
+7
+00:00:44,000 --> 00:00:58,000
+ First move. There is a chance that my opponent has already pre-moved E5, D5, Nc6, Nf6, E6, or anything possible.
+
+8
+00:00:58,000 --> 00:01:06,000
+ And if that is the case, this video will end right on move 1, and there's nothing I can do about it.
+
+9
+00:01:06,000 --> 00:01:09,000
+ So anyway. E4.
+
+10
+00:01:09,000 --> 00:01:16,000
+ After a move is made, the time that is spent for that move, is written right... here.
+
+11
+00:01:16,000 --> 00:01:24,000
+ For example, right here, it is saying that I spent 1.1 second for my E4 move.
+
+12
+00:01:24,000 --> 00:01:38,000
+ A pre-move uses 0.1 second to happen, so if you see a 0.1 on the board, it means that my opponent has just made a pre-move, which ends the video.
+
+13
+00:01:38,000 --> 00:01:46,000
+ E5. That took 4.4 seconds, so it's definitely not a pre-move.
+
+14
+00:01:46,000 --> 00:01:56,000
+ But now, there are also some chances that he has pre-moved Nc6, Nf6, or even Qh4.
+
+15
+00:01:56,000 --> 00:02:01,000
+ And once again, there is no way for me to stop any of those.
+
+16
+00:02:01,000 --> 00:02:12,000
+ Therefore, I think that I will play H4, and if he really played Qh4, the video will end, with a big Queen blunder.
+
+17
+00:02:12,000 --> 00:02:15,000
+ Okay here we go.
+
+18
+00:02:15,000 --> 00:02:20,000
+ H4.
+
+19
+00:02:20,000 --> 00:02:22,000
+ H5.
+
+20
+00:02:22,000 --> 00:02:26,000
+ Ah ha! I think this guy is a copycat!
+
+21
+00:02:26,000 --> 00:02:30,000
+ And do you know the best thing about copycats?
+
+22
+00:02:30,000 --> 00:02:35,000
+ They... don't... pre-move!
+
+23
+00:02:35,000 --> 00:02:39,000
+ Nf3.
+
+24
+00:02:39,000 --> 00:02:41,000
+ Rh6.
+
+25
+00:02:41,000 --> 00:02:45,000
+ Okay, not a copycat then.
+
+26
+00:02:45,000 --> 00:02:58,000
+ But still, since he brought out his rook, I don't think he will pre-move anything, since there are always chances that his rook is attacked, which makes a pre-move too easy to become a blunder.
+
+27
+00:02:58,000 --> 00:03:03,000
+ D4.
+
+28
+00:03:03,000 --> 00:03:05,000
+ C5.
+
+29
+00:03:05,000 --> 00:03:07,000
+ That blunders a rook.
+
+30
+00:03:07,000 --> 00:03:09,000
+ But do I even take it though?
+
+31
+00:03:09,000 --> 00:03:20,000
+ Because maybe he already see that he blundered his rook, and already pre-moved knight takes H6 over there.
+
+32
+00:03:20,000 --> 00:03:24,000
+ Alright. I guess I won't take the risk.
+
+33
+00:03:24,000 --> 00:03:29,000
+ Bg5.
+
+34
+00:03:29,000 --> 00:03:31,000
+ Rg6.
+
+35
+00:03:31,000 --> 00:03:33,000
+ That blunders a queen.
+
+36
+00:03:33,000 --> 00:03:37,000
+ But once again, do I even take it though?
+
+37
+00:03:37,000 --> 00:03:47,000
+ There is a chance that he has already pre-moved king takes D8, which will be activated, if I take his queen.
+
+38
+00:03:47,000 --> 00:03:51,000
+ Alright. I won't take the risk again.
+
+39
+00:03:51,000 --> 00:03:56,000
+ D takes E5.
+
+40
+00:03:56,000 --> 00:03:58,000
+ Qa5 check.
+
+41
+00:03:58,000 --> 00:04:00,000
+ That's actually good for me.
+
+42
+00:04:00,000 --> 00:04:09,000
+ Because since he brought out his queen, his queen is easier to be attacked, which makes it even less likely that he's going to pre-move.
+
+43
+00:04:09,000 --> 00:04:14,000
+ Nc3.
+
+44
+00:04:14,000 --> 00:04:16,000
+ Qb5.
+
+45
+00:04:16,000 --> 00:04:18,000
+ That blunders a queen.
+
+46
+00:04:18,000 --> 00:04:25,000
+ And since there is no available recapture, I will take it.
+
+47
+00:04:25,000 --> 00:04:28,000
+ Rb6.
+
+48
+00:04:28,000 --> 00:04:33,000
+ Ah ha! After such a long time with no victory!
+
+49
+00:04:33,000 --> 00:04:37,000
+ Nc7.
+
+50
+00:04:37,000 --> 00:04:40,000
+ Checkmate!
+
+51
+00:04:40,000 --> 00:04:43,000
+ Challenge, accomplished!
+
+52
+00:04:43,000 --> 00:04:57,000
+ [Music]
+

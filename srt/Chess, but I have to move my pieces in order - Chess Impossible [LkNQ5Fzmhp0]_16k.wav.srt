@@ -1,0 +1,280 @@
+1
+00:00:00,000 --> 00:00:06,720
+ chess, but you always have to move your pieces in a specific order. Pawn, knight, bishop,
+
+2
+00:00:06,720 --> 00:00:10,080
+ rook, queen, and king.
+
+3
+00:00:10,080 --> 00:00:15,880
+ All right. I'm pretty sure that there's no way I can complete this mission.
+
+4
+00:00:15,880 --> 00:00:19,640
+ But again, I can't argue with money.
+
+5
+00:00:19,640 --> 00:00:25,280
+ Since this mission is so hard, I think I'll play 3 minutes chess, so that I can at least
+
+6
+00:00:25,280 --> 00:00:28,800
+ have some chances of flagging my opponent.
+
+7
+00:00:28,800 --> 00:00:39,300
+ And with that out of the way, let's find an opponent.
+
+8
+00:00:39,300 --> 00:00:43,200
+ We get a 287 from Brazil.
+
+9
+00:00:43,200 --> 00:00:48,000
+ Pawn first. E4.
+
+10
+00:00:48,000 --> 00:00:49,000
+ D5.
+
+11
+00:00:49,000 --> 00:00:56,040
+ Dude. It has only been move 2 and there are already some big issues right here.
+
+12
+00:00:56,040 --> 00:01:03,000
+ Now I have to move a horsey, but if I go knight F3, D takes E4, and I'll lose my knight on
+
+13
+00:01:03,000 --> 00:01:07,000
+ the next turn since I'll have to move a bishop.
+
+14
+00:01:07,000 --> 00:01:14,600
+ The same thing happens with knight C3, D4, or knight H3, bishop takes H3.
+
+15
+00:01:14,600 --> 00:01:21,320
+ Therefore, knight A3 is kinda forced.
+
+16
+00:01:21,320 --> 00:01:23,320
+ D takes E4.
+
+17
+00:01:23,320 --> 00:01:25,720
+ Okay a bishop move.
+
+18
+00:01:25,720 --> 00:01:30,920
+ Bishop E2 looks like the safest move, but it will trap my queen, which will fail the
+
+19
+00:01:30,920 --> 00:01:34,040
+ mission in the next 2 moves.
+
+20
+00:01:34,040 --> 00:01:39,480
+ Therefore, bishop C4.
+
+21
+00:01:39,480 --> 00:01:41,640
+ Knight F6.
+
+22
+00:01:41,640 --> 00:01:43,880
+ Rook B1 is forced.
+
+23
+00:01:43,880 --> 00:01:49,320
+ I can only hope that there is no chess master singing anything right now.
+
+24
+00:01:49,320 --> 00:01:52,240
+ E6.
+
+25
+00:01:52,240 --> 00:01:55,000
+ Queen E2 is kinda forced.
+
+26
+00:01:55,000 --> 00:01:56,200
+ Man.
+
+27
+00:01:56,200 --> 00:01:58,360
+ This is so frustrating.
+
+28
+00:01:58,360 --> 00:02:05,360
+ He is definitely going to take my horsey and there's nothing I can do about that.
+
+29
+00:02:05,360 --> 00:02:07,360
+ Knight A6.
+
+30
+00:02:07,360 --> 00:02:10,400
+ Thank god my horsey survived.
+
+31
+00:02:10,400 --> 00:02:14,180
+ King F1.
+
+32
+00:02:14,180 --> 00:02:15,860
+ Knight B4.
+
+33
+00:02:15,860 --> 00:02:19,360
+ I don't know what that horsey is trying to do.
+
+34
+00:02:19,360 --> 00:02:20,840
+ But anyway.
+
+35
+00:02:20,840 --> 00:02:23,480
+ Back to the pawn move.
+
+36
+00:02:23,480 --> 00:02:25,240
+ C3.
+
+37
+00:02:25,240 --> 00:02:28,580
+ I'm making space for knight C2 next.
+
+38
+00:02:28,580 --> 00:02:35,320
+ Need to move my knight as long as he's still alive.
+
+39
+00:02:35,320 --> 00:02:37,520
+ Knight takes A2.
+
+40
+00:02:37,520 --> 00:02:39,840
+ That blunders a horsey.
+
+41
+00:02:39,840 --> 00:02:43,920
+ But of course, it's time for a horsey move.
+
+42
+00:02:43,920 --> 00:02:48,440
+ Knight C2.
+
+43
+00:02:48,440 --> 00:02:50,600
+ Knight takes C1.
+
+44
+00:02:50,600 --> 00:02:55,560
+ That horsey is threatening my queen, and I still cannot take it because it's a bishop's
+
+45
+00:02:55,560 --> 00:02:56,880
+ move.
+
+46
+00:02:56,880 --> 00:02:58,800
+ But no worries.
+
+47
+00:02:58,800 --> 00:03:03,280
+ Bishop B5 check.
+
+48
+00:03:03,280 --> 00:03:05,000
+ Bishop block.
+
+49
+00:03:05,000 --> 00:03:09,720
+ Rook moves, and of course, rook takes C1.
+
+50
+00:03:09,720 --> 00:03:12,440
+ And please don't take my bishop.
+
+51
+00:03:12,440 --> 00:03:17,960
+ If he takes my bishop, queen takes is forced, and that move is a check, which will bring
+
+52
+00:03:17,960 --> 00:03:23,480
+ out C6, and I lose my queen.
+
+53
+00:03:23,480 --> 00:03:25,520
+ Thank you.
+
+54
+00:03:25,520 --> 00:03:27,760
+ Queen back to D1.
+
+55
+00:03:27,760 --> 00:03:31,320
+ Who cares about a bishop anyway.
+
+56
+00:03:31,320 --> 00:03:34,040
+ Haha!
+
+57
+00:03:34,040 --> 00:03:35,040
+ You see?
+
+58
+00:03:35,040 --> 00:03:38,640
+ Even my opponent doesn't care about my bishop.
+
+59
+00:03:38,640 --> 00:03:40,160
+ But anyway.
+
+60
+00:03:40,160 --> 00:03:42,600
+ Now I have to move my king.
+
+61
+00:03:42,600 --> 00:03:45,560
+ I mean there's only one move available.
+
+62
+00:03:45,560 --> 00:03:53,040
+ But since I can already see knight takes G2 coming next, which is a check, it makes me
+
+63
+00:03:53,040 --> 00:03:56,440
+ sad.
+
+64
+00:03:56,440 --> 00:03:58,480
+ Ok man.
+
+65
+00:03:58,480 --> 00:04:01,920
+ What has to come, has to come.
+
+66
+00:04:01,920 --> 00:04:04,560
+ King E1 is forced.
+
+67
+00:04:04,560 --> 00:04:06,680
+ There you go my dude.
+
+68
+00:04:06,680 --> 00:04:09,920
+ Just go knight G2 already and destroy my mission.
+
+69
+00:04:09,920 --> 00:04:19,360
+ What the f-
+
+70
+00:04:19,400 --> 00:04:33,960
+ [outro]
+

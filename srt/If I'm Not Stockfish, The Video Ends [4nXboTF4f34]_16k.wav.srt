@@ -1,0 +1,176 @@
+1
+00:00:00,000 --> 00:00:07,000
+ If I can't tell whether a move is a book move, best move, excellent move, or so on,
+
+2
+00:00:07,000 --> 00:00:10,000
+ the video ends.
+
+3
+00:00:10,000 --> 00:00:15,000
+ Playing 3 minute splits on a 100 rated account.
+
+4
+00:00:15,000 --> 00:00:20,000
+ You know what? I'll give myself 2 options.
+
+5
+00:00:20,000 --> 00:00:27,000
+ Which means, I can pick 2 answers on each move, and whichever guess is right, then it is right.
+
+6
+00:00:28,000 --> 00:00:30,000
+ This is going to be short.
+
+7
+00:00:30,000 --> 00:00:37,000
+ I'll be honest, not even Magnus Carlsen can last over move 10 if he plays against a 100 rated.
+
+8
+00:00:37,000 --> 00:00:41,000
+ But anyway, let's find an opponent.
+
+9
+00:00:41,000 --> 00:00:55,000
+ We get a 286 from Canada.
+
+10
+00:00:56,000 --> 00:01:03,000
+ Well, I think starting the game should not be too hard. Unless he plays... the Carders opening.
+
+11
+00:01:03,000 --> 00:01:09,000
+ Yes. Not the Carders opening.
+
+12
+00:01:09,000 --> 00:01:15,000
+ E4 is definitely a book move, and I'm sure we don't need to check Stockfish about it.
+
+13
+00:01:15,000 --> 00:01:24,000
+ E5. E5 is also 100% a book move, and I also don't really want to check Stockfish,
+
+14
+00:01:25,000 --> 00:01:30,000
+ because it will be a big humiliation, if I fail to analyze my own moves.
+
+15
+00:01:30,000 --> 00:01:40,000
+ Knight f3. That is still in the book. And once again, we don't need to check that.
+
+16
+00:01:40,000 --> 00:01:43,000
+ But now, how should I continue?
+
+17
+00:01:43,000 --> 00:01:50,000
+ I mean knight c6 will lead to some heavy theoretical lines, which I don't think my opponent knows,
+
+18
+00:01:50,000 --> 00:01:53,000
+ because I also don't know.
+
+19
+00:01:54,000 --> 00:01:59,000
+ Therefore, knight f6. This is also a book move.
+
+20
+00:01:59,000 --> 00:02:07,000
+ In case you don't know, I'm actually a big fan of Eric Rosen, and I have also studied his Stafford Gambit lines.
+
+21
+00:02:07,000 --> 00:02:13,000
+ For anyone who don't know about the Stafford Gambit, it's a very forcing opening,
+
+22
+00:02:13,000 --> 00:02:17,000
+ and that should help me a lot in analyzing the moves.
+
+23
+00:02:20,000 --> 00:02:27,000
+ Bishop c4. Well, he didn't take the pawn, so my plan is ruined.
+
+24
+00:02:27,000 --> 00:02:36,000
+ But anyway. That is once again, a book move. And since this is the case, let's go for,
+
+25
+00:02:36,000 --> 00:02:45,000
+ knight c6. I'm getting him into the fried liver, which also should be good, because it is also a very forcing line.
+
+26
+00:02:46,000 --> 00:02:51,000
+ Once again, that was also a book move, and we also don't need stockfish.
+
+27
+00:02:51,000 --> 00:03:01,000
+ Oh, kay. That is definitely, not a book move.
+
+28
+00:03:01,000 --> 00:03:06,000
+ And since it blunders a bishop, I will have my guess, as a blunder.
+
+29
+00:03:06,000 --> 00:03:13,000
+ But of course, I gave myself 2 guesses, so I need to maximize my chances.
+
+30
+00:03:14,000 --> 00:03:21,000
+ Let's see. Even though he blundered his bishop, he still won the pawn, and make me unable to castle.
+
+31
+00:03:21,000 --> 00:03:26,000
+ Therefore, my second guess will be, a mistake.
+
+32
+00:03:26,000 --> 00:03:30,000
+ Okay. Stockfish?
+
+33
+00:03:30,000 --> 00:03:37,000
+ Yes. King takes f7. That is a best move.
+
+34
+00:03:37,000 --> 00:03:42,000
+ And you know what? I don't even need 2 chances now.
+
+35
+00:03:43,000 --> 00:03:45,000
+ Stockfish.
+
+36
+00:03:45,000 --> 00:03:49,000
+ Ah. That feels good.
+
+37
+00:03:49,000 --> 00:03:57,000
+ Oh. Kay. That once again, blunders a piece.
+
+38
+00:03:57,000 --> 00:04:03,000
+ But since he also won the pawn back, I think I will do it like last time.
+
+39
+00:04:03,000 --> 00:04:08,000
+ It is either, a blunder, or a mistake.
+
+40
+00:04:08,000 --> 00:04:11,000
+ Stockfish?
+
+41
+00:04:11,000 --> 00:04:13,000
+ Yes.
+
+42
+00:04:13,000 --> 00:04:16,000
+ And I will have my guess, as a blunder.
+
+43
+00:04:16,000 --> 00:04:18,000
+ What the f-
+
+44
+00:04:18,000 --> 00:04:32,000
+ [Music]
+

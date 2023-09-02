@@ -1,0 +1,88 @@
+1
+00:00:00,000 --> 00:00:06,800
+ 100 rated chess, but you're not allowed to do best moves. Very challenging, we get an exact
+
+2
+00:00:06,800 --> 00:00:14,560
+ 100 rated guy from Morocco. E4. First move E4 is a book move, and even though it is considered to
+
+3
+00:00:14,560 --> 00:00:19,120
+ be the best starting move for white, let's just pretend that we don't know about that today.
+
+4
+00:00:19,120 --> 00:00:28,880
+ E6. D4. Still theory. No more theory. Now any of these developing moves can be the next best move.
+
+5
+00:00:28,880 --> 00:00:34,560
+ Therefore, I'll push this pawn instead. I mean there is no way pushing a pawn that weakens an
+
+6
+00:00:34,560 --> 00:00:44,480
+ important diagonal is a best move. Right? Of course. D6. Not very aggressive. Again,
+
+7
+00:00:44,480 --> 00:00:49,200
+ I'll push this pawn as well. There's no way allowing a massive check is a best move.
+
+8
+00:00:50,800 --> 00:01:00,480
+ No doubt. E5. Taking that pawn is obviously not an option. Knight F3. Stockfish? Thank you.
+
+9
+00:01:00,480 --> 00:01:08,480
+ E takes F4. Ah ha, even though taking that pawn back is not the best move, if I do that right now,
+
+10
+00:01:08,480 --> 00:01:14,000
+ he may decide to go queen E4 check, which forces queen E2 unless I want to lose my bishop,
+
+11
+00:01:14,000 --> 00:01:20,320
+ and since queen E2 will be the best move in that position, I'll have to end the video. Therefore,
+
+12
+00:01:20,320 --> 00:01:28,640
+ knight D2 instead. I mean knight C3 looks like the best move, so I pick this one. Queen D7. Now I have
+
+13
+00:01:28,640 --> 00:01:35,040
+ no idea what the best move is, but I do know, that moving a queen is definitely not. Stockfish?
+
+14
+00:01:35,040 --> 00:01:44,320
+ Absolutely. Queen C6. Knight G5. I mean there's no way moving a knight away from the center is a
+
+15
+00:01:44,320 --> 00:01:55,920
+ best move. Right? There we go. Knight F6. Okay. Now comes the most important part of this entire
+
+16
+00:01:55,920 --> 00:02:02,000
+ game. I want to play C5 double threats checkmate in 1 and bishop B5 skewing the royal couple.
+
+17
+00:02:02,000 --> 00:02:06,640
+ But as you might have guessed, that move looks too strong, and can very much be the best move
+
+18
+00:02:06,640 --> 00:02:15,360
+ of this position. You know what, since I also need to win this game, I guess I have no other choices
+
+19
+00:02:15,360 --> 00:02:21,280
+ but to actually make progress. Who knows, maybe there was a better move in that position and it
+
+20
+00:02:21,280 --> 00:02:32,640
+ makes C5 not the best move. Ah ha. C5, is a great move, and as far as I can see, a great move,
+
+21
+00:02:32,640 --> 00:02:42,640
+ is not a best move, which is to say, that this video, continues. Nevermind. Mission, accomplished.
+
+22
+00:02:42,640 --> 00:02:57,140
+ (outro music)
+

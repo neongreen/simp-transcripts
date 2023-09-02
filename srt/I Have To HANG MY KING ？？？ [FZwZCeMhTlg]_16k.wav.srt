@@ -1,0 +1,180 @@
+1
+00:00:00,000 --> 00:00:05,360
+ 100 rated chess, but your opponent has to have a missed win, before you can win.
+
+2
+00:00:05,360 --> 00:00:08,400
+ How would simp know if it's a missed win?
+
+3
+00:00:08,400 --> 00:00:13,440
+ Ah ha, thank you dude, that is exactly the question I wanted to ask.
+
+4
+00:00:13,440 --> 00:00:19,440
+ He could intentionally blunder something like mate in 3, and hope that his opponent doesn't see it.
+
+5
+00:00:19,440 --> 00:00:23,840
+ You know what? That actually sounds like a great idea.
+
+6
+00:00:23,840 --> 00:00:27,920
+ Let's go, we get a 1 2 3 from the US.
+
+7
+00:00:29,360 --> 00:00:31,680
+ F4. The bird's opening.
+
+8
+00:00:31,680 --> 00:00:36,880
+ E5. So in order to blunder checkmate in 3 or something,
+
+9
+00:00:36,880 --> 00:00:40,640
+ I believe the best approach to this game, is the bonk loud.
+
+10
+00:00:40,640 --> 00:00:44,320
+ G3. Wait a second.
+
+11
+00:00:44,320 --> 00:00:48,720
+ He takes F4. In no world do you take it back.
+
+12
+00:00:48,720 --> 00:00:54,560
+ Nevermind. That blunder's a king. But the video is still so short.
+
+13
+00:00:55,920 --> 00:01:00,240
+ Alright, I'm not breaking the rule this game, for the video's length.
+
+14
+00:01:00,240 --> 00:01:03,920
+ Ke7. Ha, very funny.
+
+15
+00:01:03,920 --> 00:01:07,280
+ Ke7, is a missed, win.
+
+16
+00:01:07,280 --> 00:01:14,320
+ It was supposed to be my opponent who makes a missed win, and definitely not me, f*** you Stockfish.
+
+17
+00:01:14,320 --> 00:01:18,000
+ D4. D5.
+
+18
+00:01:18,000 --> 00:01:24,000
+ By the way, please don't judge my gameplay based on the analysis, because for most of the time,
+
+19
+00:01:24,000 --> 00:01:29,040
+ the best move has to be king back to E8, which is definitely not part of the plan.
+
+20
+00:01:29,040 --> 00:01:32,320
+ E4. I'll take it.
+
+21
+00:01:32,320 --> 00:01:36,160
+ Bb5. Very aggressive.
+
+22
+00:01:36,160 --> 00:01:40,960
+ Knight F6. Apart from blundering the king on move 3,
+
+23
+00:01:40,960 --> 00:01:44,240
+ I think that this guy is actually playing pretty decent.
+
+24
+00:01:44,240 --> 00:01:52,240
+ Maybe not. That blunder's a horsey, but if I take it, I will be at +4, which is too much,
+
+25
+00:01:52,240 --> 00:01:54,080
+ and may cause him to resign.
+
+26
+00:01:54,080 --> 00:02:00,640
+ Therefore, Qd5. My plan is giving him a chance to play Nc3,
+
+27
+00:02:00,640 --> 00:02:06,000
+ which defends the bishop and also attacks my queen, but since I moved my queen out,
+
+28
+00:02:06,000 --> 00:02:12,160
+ it may provoke him to move his queen instead of Nc3, which may be considered, as a missed win.
+
+29
+00:02:12,160 --> 00:02:19,280
+ Ha. So he did move his queen, but it's a bigger blunder instead.
+
+30
+00:02:20,880 --> 00:02:22,560
+ Is this guy a sandbagger?
+
+31
+00:02:22,560 --> 00:02:27,920
+ Alright. I'm gonna assume, that this guy is a sandbagger.
+
+32
+00:02:27,920 --> 00:02:36,800
+ And play. Qxd4. If he's really sandbagging, he will not take my queen, which should obviously,
+
+33
+00:02:36,800 --> 00:02:39,360
+ be a missed win. And he took it.
+
+34
+00:02:39,360 --> 00:02:47,040
+ F***. He made the correct move at the correct time, while blundering everything else.
+
+35
+00:02:47,040 --> 00:02:48,160
+ At every other time.
+
+36
+00:02:49,520 --> 00:02:57,520
+ Bxh3. Okay, it's fine, it's just a woman, I don't need any women to win this game.
+
+37
+00:02:57,520 --> 00:03:05,440
+ And he blundered his queen back. But if I take it, it will be hard for me to blunder checkmate,
+
+38
+00:03:05,440 --> 00:03:08,320
+ not to mention that he can also decide to resign.
+
+39
+00:03:08,320 --> 00:03:11,920
+ Alright. I have an idea.
+
+40
+00:03:12,640 --> 00:03:20,240
+ Kd6. Now Qe5 is checkmate in 1, but since I think that he was targeting my b7 pawn,
+
+41
+00:03:20,240 --> 00:03:26,080
+ he very much will decide to take it now, which misses the checkmate, which can be a missed win.
+
+42
+00:03:26,080 --> 00:03:29,440
+ And he abandoned the game.
+
+43
+00:03:29,440 --> 00:03:33,680
+ But he hasn't made any missed wins yet.
+
+44
+00:03:33,680 --> 00:03:37,040
+ What the f***?
+
+45
+00:03:38,000 --> 00:03:50,720
+ [Music]
+

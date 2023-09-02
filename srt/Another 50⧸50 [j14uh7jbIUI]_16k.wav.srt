@@ -1,0 +1,100 @@
+1
+00:00:00,000 --> 00:00:05,520
+ 100 rated chess, but if your opponent's clock is an even number after his turn,
+
+2
+00:00:05,520 --> 00:00:10,320
+ then you can only move to even ranks, the same thing also applies with odd number.
+
+3
+00:00:10,320 --> 00:00:11,760
+ Too easy.
+
+4
+00:00:11,760 --> 00:00:21,920
+ E3. 4 minute 54 seconds, which is an even number. Therefore, G6, unlike yesterday when I had to rely
+
+5
+00:00:21,920 --> 00:00:26,560
+ on the RNG god, today's RNG is totally depending on my opponent.
+
+6
+00:00:28,000 --> 00:00:38,480
+ Knight F3. Odd number. D5. G3. Even number. Bishop G4. Ha, now if he can just move the
+
+7
+00:00:38,480 --> 00:00:43,120
+ knight away and stop the clock on an odd number time to allow bishop takes D1,
+
+8
+00:00:43,120 --> 00:00:45,200
+ that will be extremely convenient.
+
+9
+00:00:45,200 --> 00:00:54,000
+ Well, I guess sometimes convenient things do happen in our lives. Bishop takes D1.
+
+10
+00:00:55,200 --> 00:01:00,480
+ King takes, odd move again, E5. One more odd move please.
+
+11
+00:01:00,480 --> 00:01:10,880
+ Even move. It's fine. D4. E takes D4. Even move again, but again, it is still fine,
+
+12
+00:01:10,880 --> 00:01:14,400
+ statistically speaking, next move should be an odd move.
+
+13
+00:01:14,400 --> 00:01:21,840
+ Nevermind. Knight C6, I can see that the RNG stuff is starting to turn its ass against me.
+
+14
+00:01:23,040 --> 00:01:30,720
+ Bishop G2. The 4th even move in a row, and you know what, I'll just go queen F6. I'm forking
+
+15
+00:01:30,720 --> 00:01:37,520
+ 2 things, 1 in an odd rank, 1 in an even rank, and as long as he doesn't see knight F3, I should be
+
+16
+00:01:37,520 --> 00:01:46,080
+ able to take something next. After this check, king D8 is kinda forced. Knight takes F7 check.
+
+17
+00:01:47,200 --> 00:01:54,640
+ Wow. That blunders a horsey, but since the clock is at an even number, king C8 is forced.
+
+18
+00:01:54,640 --> 00:02:00,160
+ Now don't tell me that he's gonna go bishop H3 forces king B8 and then rook E8 check on an
+
+19
+00:02:00,160 --> 00:02:06,880
+ odd number time which ends the video because I have no legal odd rank moves. Thank you.
+
+20
+00:02:06,880 --> 00:02:13,280
+ King D7 is forced, but still, this guy is totally destroying me with his random.
+
+21
+00:02:15,200 --> 00:02:24,320
+ Nevermind. King takes E8. Knight takes H8. Ah ha, after all those crazy moves,
+
+22
+00:02:24,320 --> 00:02:31,280
+ I finally have a chance to attack. King E1 is forced, queen H1 looks very tempting,
+
+23
+00:02:31,280 --> 00:02:37,280
+ but as everyone can see the very obvious checkmate in 3 in this position, it has to be D3.
+
+24
+00:02:38,480 --> 00:02:47,760
+ Knight takes G6. Queen E2. Checkmate. Mission accomplished.
+
+25
+00:02:47,760 --> 00:03:00,160
+ [Music]
+

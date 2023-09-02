@@ -1,0 +1,124 @@
+1
+00:00:00,000 --> 00:00:07,200
+ 100 rated chess, but every move you make must share a letter, or number, with the previous move.
+
+2
+00:00:07,200 --> 00:00:14,320
+ It sounds pretty challenging, but actually, I have a plan. We get a 188 from Russia,
+
+3
+00:00:14,320 --> 00:00:19,760
+ and as I've mentioned before, chess.com censored the Russian flag due to the Ukraine war.
+
+4
+00:00:19,760 --> 00:00:28,640
+ E4. E5. For those of you who can't understand the challenge, my last move was E. 5,
+
+5
+00:00:28,640 --> 00:00:36,000
+ which means my next move has to consist an E or a 5, like knight E7, D5, queen E7,
+
+6
+00:00:36,000 --> 00:00:44,640
+ or you get the idea. Knight F3. Ah ha, now queen E7 is the only move that can protect my E pawn,
+
+7
+00:00:44,640 --> 00:00:50,480
+ and I don't like that at all, therefore, D5. This is called the elephant gambit,
+
+8
+00:00:50,480 --> 00:00:53,600
+ and as you have guessed, I know nothing about this thing.
+
+9
+00:00:54,880 --> 00:01:03,760
+ E takes D4. I really want to play E4, but since my last move was D5, E4 shares no letter with D5,
+
+10
+00:01:03,760 --> 00:01:14,800
+ so I guess, queen takes D5. B3. C5. Let's be hyper-aggressive. Bishop C4. Ah ha,
+
+11
+00:01:14,800 --> 00:01:20,640
+ it's time to execute the plan that I had before the game begins. Now I need to move my queen to
+
+12
+00:01:20,640 --> 00:01:30,240
+ a square that has either a C, or a 5, and the only square is, queen C6. Knight takes E5. That
+
+13
+00:01:30,240 --> 00:01:38,720
+ forks my queen and my F7 pawn, but actually, I think that is a bad move. Queen takes G2. Oh,
+
+14
+00:01:38,720 --> 00:01:44,480
+ wait. I think that was my best move, but if he decides to check me now instead of moving his
+
+15
+00:01:44,480 --> 00:01:50,880
+ rook, I will have to move my king, and the moves of king E7 and king D8 actually share no letter
+
+16
+00:01:50,880 --> 00:02:00,320
+ with queen takes G2, which means I will be ending my own video. Ha! Nevermind. Queen back to E4
+
+17
+00:02:00,320 --> 00:02:06,320
+ check. My plan was very simple. I think it would be hard to just develop and play the game normally
+
+18
+00:02:06,320 --> 00:02:11,840
+ if I have to follow the rules, therefore, I need a piece that is strong enough to be moved over and
+
+19
+00:02:11,840 --> 00:02:17,920
+ over again, and as you may have guessed, it's the queen, because every time I move my queen,
+
+20
+00:02:17,920 --> 00:02:27,120
+ they all share the same word, of woman. Queen E2. Ah ha, now queen takes E2 is the best move,
+
+21
+00:02:27,120 --> 00:02:32,240
+ but if I trade queens, that will ruin my plan of moving the queen for the entire game,
+
+22
+00:02:32,240 --> 00:02:38,320
+ and I believe that I won't be able to last long if my queen dies either. Therefore, queen takes
+
+23
+00:02:38,320 --> 00:02:44,880
+ C2. Ok I obviously know that was a really bad move, but based on my experience from playing
+
+24
+00:02:44,880 --> 00:02:50,800
+ against the 100 rated players, there is a big chance that he will play queen D1 next instead
+
+25
+00:02:50,800 --> 00:03:02,320
+ of delivering a devastating discovered check. Ha! I told you so. Queen back to E4. Queen back to E2,
+
+26
+00:03:02,320 --> 00:03:10,720
+ queen back to C2. Queen back to D1, queen back to E4 again. Queen back to E2 again,
+
+27
+00:03:10,720 --> 00:03:30,320
+ and then queen back to C2. Draw by repetition. Ha! Mission, accomplished.
+
+28
+00:03:30,320 --> 00:03:30,840
+ ♫ Winston-Louis
+
+29
+00:03:30,840 --> 00:03:31,280
+ ♫ Winston-Louis
+
+30
+00:03:31,280 --> 00:03:31,760
+ ♫ Winston-Louis
+
+31
+00:03:31,760 --> 00:03:32,700
+ ♫ Winston-Louis
+

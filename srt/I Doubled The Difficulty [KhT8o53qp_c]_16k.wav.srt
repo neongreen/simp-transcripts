@@ -1,0 +1,116 @@
+1
+00:00:00,000 --> 00:00:07,360
+ 100 rated chess, but the floor is lava. Every 10 moves lava rises 1 rank, any of your pieces
+
+2
+00:00:07,360 --> 00:00:14,560
+ or pawns caught in lava can no longer move. You know, 10 sounds like a little bit too much,
+
+3
+00:00:14,560 --> 00:00:24,320
+ so let's just change it to 5. Too easy. We get a 1 26 from Italy. E4. We only have 5 moves to
+
+4
+00:00:24,320 --> 00:00:29,280
+ move the pieces out, so the plan is to get at least the queen, the light square bishop,
+
+5
+00:00:29,280 --> 00:00:36,720
+ and probably another knight if we still have time. D5. Ah ha, that is actually really bad,
+
+6
+00:00:36,720 --> 00:00:42,000
+ because if I develop my queen now, D takes E4 will force me to move my queen again,
+
+7
+00:00:42,000 --> 00:00:48,960
+ which means I'll be wasting a move, but of course, I have no other choices. Now all we can do is hope
+
+8
+00:00:48,960 --> 00:01:00,880
+ that he won't attack my queen. Very convenient. Bishop E2. Queen E6. Very aggressive. Knight C3.
+
+9
+00:01:00,880 --> 00:01:06,800
+ If he still decides to not take my pawn for 1 more move, I guess we can develop 1 more horsey.
+
+10
+00:01:06,800 --> 00:01:14,640
+ Nevermind. Knight takes E4. Alright, now the challenge truly begins, all of these pieces
+
+11
+00:01:14,640 --> 00:01:20,560
+ can no longer move, and after 5 more moves, the 2nd rank pawns also won't be able to move.
+
+12
+00:01:20,560 --> 00:01:28,640
+ Knight H6. D4. Let's try to push as many pawns as possible, and also get this bishop out of the
+
+13
+00:01:28,640 --> 00:01:37,680
+ 2nd rank. Knight C6. Ah ha, that blunders a horsey to D5 forking 2 pieces, so even though I should be
+
+14
+00:01:37,680 --> 00:01:45,120
+ pushing pawns right now, winning a piece is definitely better. Queen takes D5. That blunders
+
+15
+00:01:45,120 --> 00:01:54,160
+ a queen. Knight F6 check. Brilliant move by the way. He takes F6, queen takes D5, okay that is
+
+16
+00:01:54,160 --> 00:01:59,840
+ actually not even good because even though I won his queen, it is already move 9, which means I
+
+17
+00:01:59,840 --> 00:02:05,040
+ desperately need him to not attack my queen in his next move so that I can at least move my bishop
+
+18
+00:02:05,040 --> 00:02:15,920
+ out of the 2nd rank. That was not very convenient. Queen B5. Man, maybe changing 10 to 5 was a little
+
+19
+00:02:15,920 --> 00:02:24,960
+ bit too much. King D8. Very aggressive. Queen takes B7. Now bishop B4 is ending the video because
+
+20
+00:02:24,960 --> 00:02:29,760
+ the only move I can defend the check is by sacrificing my queen, and then after knight
+
+21
+00:02:29,760 --> 00:02:39,040
+ takes, I will have nothing else to move. Ha! Very convenient. Taking this knight is a safer choice
+
+22
+00:02:39,040 --> 00:02:44,400
+ because it will disallow bishop B4 in the future, but since his king has already blocked away his
+
+23
+00:02:44,400 --> 00:02:51,440
+ bishop's way, I'll take this rook first. It's fine, I'll take this horsey next, unless he decides to
+
+24
+00:02:51,440 --> 00:02:56,640
+ move his king again to defend his knight and open the way for his bishop. But I mean who would want
+
+25
+00:02:56,640 --> 00:03:08,960
+ to move their king 3 moves in a row anyway? Right? Queen B7. Well, I mean maybe he'll get scared of
+
+26
+00:03:08,960 --> 00:03:16,960
+ my queen controlling the B4 square and decide not to play that move, and in this very position,
+
+27
+00:03:16,960 --> 00:03:23,200
+ something unexpected happened. The video crashed, but I'll tell you what happened anyway,
+
+28
+00:03:23,200 --> 00:03:28,640
+ queen takes B4 is forced, and he took my queen, so I had to end the video.
+
+29
+00:03:28,640 --> 00:03:43,200
+ [Music]
+

@@ -1,0 +1,184 @@
+1
+00:00:00,000 --> 00:00:07,480
+ If two consecutive moves of one player are of the same vector, the video ends.
+
+2
+00:00:07,480 --> 00:00:15,080
+ So in term of comparing two vectors, there are two things, called magnitude, and direction.
+
+3
+00:00:15,080 --> 00:00:20,680
+ But who cares, all you need to do, is just to watch the video, and I will show you all
+
+4
+00:00:20,680 --> 00:00:24,360
+ of the moves that can end the video during the game.
+
+5
+00:00:24,360 --> 00:00:27,800
+ We get a 2.56 from the US.
+
+6
+00:00:27,800 --> 00:00:30,520
+ With premium membership.
+
+7
+00:00:30,520 --> 00:00:32,680
+ E4.
+
+8
+00:00:32,680 --> 00:00:40,160
+ Since the first move is E4, the video is going to end if my opponent plays D4, C4, B4, or
+
+9
+00:00:40,160 --> 00:00:43,680
+ any of these moves, on his next move.
+
+10
+00:00:43,680 --> 00:00:46,360
+ Therefore, D5.
+
+11
+00:00:46,360 --> 00:00:54,120
+ Of course he can still play those moves, but most people usually just take the pawn, right?
+
+12
+00:00:54,120 --> 00:00:56,320
+ Yes.
+
+13
+00:00:56,320 --> 00:00:58,280
+ Queen takes D5.
+
+14
+00:00:58,280 --> 00:01:04,960
+ Now bishop E2 ends the video, but let's be real, no one plays like that.
+
+15
+00:01:04,960 --> 00:01:07,400
+ Right?
+
+16
+00:01:07,400 --> 00:01:09,120
+ Of course.
+
+17
+00:01:09,120 --> 00:01:11,040
+ Queen back to D8.
+
+18
+00:01:11,040 --> 00:01:16,920
+ And there's no such thing like knight H3 or knight D5, right?
+
+19
+00:01:16,920 --> 00:01:18,800
+ Perfect.
+
+20
+00:01:18,800 --> 00:01:24,800
+ Now there are knight E5 and knight B5 ending the video, but sadly, the only move that can
+
+21
+00:01:24,800 --> 00:01:30,440
+ stop both of them is queen D5, which blunders a queen, and I don't think losing a queen
+
+22
+00:01:30,440 --> 00:01:33,120
+ like that is necessary right now.
+
+23
+00:01:33,120 --> 00:01:35,920
+ Therefore, knight C6.
+
+24
+00:01:35,920 --> 00:01:39,400
+ I mean who plays knight B5 anyway.
+
+25
+00:01:39,400 --> 00:01:41,120
+ Right?
+
+26
+00:01:41,120 --> 00:01:42,880
+ D4.
+
+27
+00:01:42,880 --> 00:01:47,720
+ Pawn moves are very scary, since there are so many of them, and their moves are pretty
+
+28
+00:01:47,720 --> 00:01:50,160
+ much always the same.
+
+29
+00:01:50,160 --> 00:01:53,120
+ Therefore, bishop G4.
+
+30
+00:01:53,120 --> 00:02:00,000
+ Now please go H3 to attack my bishop, or even D5 is also fine.
+
+31
+00:02:00,000 --> 00:02:02,120
+ H3.
+
+32
+00:02:02,120 --> 00:02:03,920
+ Yes.
+
+33
+00:02:03,920 --> 00:02:10,120
+ If I pull my bishop back, he may decide to go D5, which ends the video.
+
+34
+00:02:10,120 --> 00:02:13,720
+ Therefore, bishop takes F3.
+
+35
+00:02:13,720 --> 00:02:19,360
+ In no world do you end my video right now.
+
+36
+00:02:19,360 --> 00:02:20,840
+ Queen takes.
+
+37
+00:02:20,840 --> 00:02:26,600
+ Now there are queen H5 and bishop E3 ending the video, and even though queen H5 looks
+
+38
+00:02:26,600 --> 00:02:32,480
+ like a guy walking down the street without closing his zipper, bishop E3 actually looks
+
+39
+00:02:32,480 --> 00:02:34,200
+ very natural.
+
+40
+00:02:34,200 --> 00:02:37,520
+ Therefore, knight takes D5.
+
+41
+00:02:37,520 --> 00:02:39,840
+ Go back to D1 please.
+
+42
+00:02:39,840 --> 00:02:45,680
+ And the best thing is, after queen D3 or queen D1, there is actually no move that can end
+
+43
+00:02:45,680 --> 00:02:47,560
+ the video.
+
+44
+00:02:47,560 --> 00:02:54,320
+ What the f-
+
+45
+00:02:55,080 --> 00:03:01,080
+ [music]
+
+46
+00:03:01,080 --> 00:03:08,920
+ [music]
+

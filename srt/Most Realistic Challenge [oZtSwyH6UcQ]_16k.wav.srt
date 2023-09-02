@@ -1,0 +1,88 @@
+1
+00:00:00,000 --> 00:00:06,320
+ 100 rated chess, but you have high ping, your pieces and pawns must see a capture 1 move
+
+2
+00:00:06,320 --> 00:00:13,680
+ before they can deliver it. I have ping, but my pieces suffer. We get a 100 rated guy from India.
+
+3
+00:00:13,680 --> 00:00:21,200
+ E4. E5. This challenge will become absolutely impossible in the late game,
+
+4
+00:00:21,200 --> 00:00:30,640
+ therefore, I'll try to end it quickly. Knight F6. Aha, my queen saw the pawn last move already,
+
+5
+00:00:30,640 --> 00:00:41,440
+ so I can take it now. Bishop E7. D4. Knight takes D4. That blunders a horsey, but my queen didn't
+
+6
+00:00:41,440 --> 00:00:47,120
+ see that capture before, and that also blunders this pawn, but my queen also did not see that
+
+7
+00:00:47,120 --> 00:00:56,320
+ before. So I guess, bishop D3. Knight C5. That blunders this knight again, and again I cannot
+
+8
+00:00:56,320 --> 00:01:03,840
+ take it. But I can take this pawn. Knight takes D3. I still cannot take that knight according to
+
+9
+00:01:03,840 --> 00:01:10,720
+ the rules, king D2. Let's hope that he'll move his knight and blunder his rook. Of course that
+
+10
+00:01:10,720 --> 00:01:21,120
+ doesn't happen. Queen G3. Knight takes E1. Again, my king didn't see this capture before. Knight C3.
+
+11
+00:01:21,120 --> 00:01:30,800
+ Quite frankly, f*** this horsey. Knight E2. Still cannot capture, but this time, queen E3 check.
+
+12
+00:01:32,320 --> 00:01:44,800
+ King F8. Ha, after all that time. Dead. Knight C6. Knight F3. Queen E8. I cannot take his queen
+
+13
+00:01:44,800 --> 00:01:50,160
+ due to the rules, and if I keep my queen here, he'll capture and I actually cannot take back
+
+14
+00:01:50,160 --> 00:02:02,080
+ also due to the rules. So I'm. D5. That blunders a pawn, but the rules. Bishop E7. Now I can
+
+15
+00:02:02,080 --> 00:02:15,520
+ take it. Rook G8. I don't care about that pawn. Rook E1. H6. Knight E4. Bishop G4. That blunders
+
+16
+00:02:15,520 --> 00:02:22,720
+ a triple fork. Knight F6. Unless he decides to take my knight which turns out that I blundered
+
+17
+00:02:22,720 --> 00:02:30,480
+ my knight because my rook cannot take his queen due to the rules. H3. Well at least after he moves
+
+18
+00:02:30,480 --> 00:02:39,760
+ his queen, I can take his bishop. That is even better. Rook takes king takes queen takes. Bishop
+
+19
+00:02:39,760 --> 00:02:51,440
+ takes D4. Rook E1 check. King D8. My king feels a bit uneasy. I'll hide him away. And I'm not a
+
+20
+00:02:51,440 --> 00:03:05,920
+ coward. Knight E5. That blunders a bishop. Queen D5 knight D7 queen D4. King C8. Rook E7. Rook takes
+
+21
+00:03:05,920 --> 00:03:14,400
+ G2. That blunders a king. Queen down king over rook down. Checkmate. Mission accomplished.
+
+22
+00:03:14,400 --> 00:03:28,960
+ [Music]
+

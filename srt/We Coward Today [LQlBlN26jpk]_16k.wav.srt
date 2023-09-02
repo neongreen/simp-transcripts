@@ -1,0 +1,120 @@
+1
+00:00:00,000 --> 00:00:07,520
+ 100 rated chess, but you are a coward, which I am obviously not, you can only move a piece,
+
+2
+00:00:07,520 --> 00:00:13,840
+ or pawn, to a square if at least 2 other pieces, or pawns, already defend that square.
+
+3
+00:00:13,840 --> 00:00:19,760
+ So even though I'm obviously not a coward, I still have to do this for the video.
+
+4
+00:00:19,760 --> 00:00:26,960
+ We get a 3 1 0 from Poland. All squares on 3rd rank are obviously defended by either 2 pawns
+
+5
+00:00:26,960 --> 00:00:33,360
+ or a pawn and a horsey, therefore the best move right now, has to be b3. The plan is obviously
+
+6
+00:00:33,360 --> 00:00:38,640
+ to pianketto my bishop, and I've just realized that I actually can not do that because there
+
+7
+00:00:38,640 --> 00:00:44,560
+ are not enough pieces defending the b2 square. I am so f***ing stupid.
+
+8
+00:00:44,560 --> 00:00:54,240
+ E6. Not very aggressive. Knight f3. It's fine, it's not like this very small pawn push is gonna
+
+9
+00:00:54,240 --> 00:01:05,360
+ destroy my position or anything. D5. E3. Bishop c5. D4 is defended by my e-pawn and a horsey,
+
+10
+00:01:05,360 --> 00:01:15,200
+ therefore, pawn to d4. Bishop b4 check. Aha, now pawn to c3 is best, but since the c3 square is
+
+11
+00:01:15,200 --> 00:01:21,440
+ only defended by 1 piece at the moment, I have to block with a piece. Well technically I can also
+
+12
+00:01:21,440 --> 00:01:29,760
+ move my king forward, but maybe that is a bit too much testosterone. Queen d6. Now 2 pieces are
+
+13
+00:01:29,760 --> 00:01:41,360
+ defending c3, c3. Bishop a5. c4. Don't tell me that you're just gonna move back to b4. Okay.
+
+14
+00:01:41,360 --> 00:01:50,720
+ Knight takes. Queen a3. Bishop e2. Just a random waiting move, since I didn't have any good moves
+
+15
+00:01:50,720 --> 00:01:56,000
+ to make, and even though I usually try to attack and win my opponent's queen when he moves her
+
+16
+00:01:56,000 --> 00:02:01,920
+ forward, based on my calculation in this challenge, if I want to take his queen, I'll need to have at
+
+17
+00:02:01,920 --> 00:02:07,280
+ least 2 pieces attacking her at the same time, which means I need my opponent to blunder his
+
+18
+00:02:07,280 --> 00:02:13,360
+ queen at least 3 moves in a row, which is basically impossible, so I'm just not gonna care about his
+
+19
+00:02:13,360 --> 00:02:22,400
+ woman in this game. dc4 knight c4 queen e7 coward. e5 is defended by these guys. Knight f e5.
+
+20
+00:02:22,400 --> 00:02:29,840
+ Knight c6. He wants to take my knight, and since that knight is defending d3 with my bishop,
+
+21
+00:02:29,840 --> 00:02:34,240
+ queen d3. Need to make good use of that horsey before he dies.
+
+22
+00:02:34,240 --> 00:02:43,120
+ F to our horsey. e5 is still defended by this knight and this pawn, therefore, d takes e5,
+
+23
+00:02:43,120 --> 00:02:48,640
+ the challenge only said that the square has to be defended by 2 pieces, and didn't say that I
+
+24
+00:02:48,640 --> 00:02:56,640
+ cannot move one of those pieces to that square. Queen b4 check. Ah ha, blocking the check should
+
+25
+00:02:56,640 --> 00:03:03,600
+ obviously be the best move, but just for this one time, king f1. Trust me, I have a plan.
+
+26
+00:03:04,800 --> 00:03:12,960
+ b5. Very aggressive, d1 is controlled by my bishop and queen. Rook d1. Oh no my horsey.
+
+27
+00:03:12,960 --> 00:03:22,960
+ Your sacrifice won't be in vain. d8 is controlled by this battery. Queen to d8. Checkmate. You may
+
+28
+00:03:22,960 --> 00:03:27,680
+ be wondering how did my rook can see through his queen and control a square all the way to
+
+29
+00:03:27,680 --> 00:03:39,680
+ the other side of the board. Well, I decided it that way.
+
+30
+00:03:39,680 --> 00:03:46,960
+ [Music]
+

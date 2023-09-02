@@ -1,0 +1,192 @@
+1
+00:00:00,000 --> 00:00:01,860
+ Day 12,000,300
+
+2
+00:00:01,860 --> 00:00:06,940
+ No. That's a lie. No one can live that long. Shame on you.
+
+3
+00:00:06,940 --> 00:00:19,800
+ Alright. 100 rated chess, but open files, and half open files, paralyze any pieces, and pawns, on that same file.
+
+4
+00:00:19,800 --> 00:00:25,400
+ For those of you who don't know, an open file means a file that doesn't have any pawns,
+
+5
+00:00:25,400 --> 00:00:29,800
+ and a half open file means a file that only have pawns of the same color.
+
+6
+00:00:30,400 --> 00:00:36,800
+ And with that out of the way, let's start the game. We get a 2-2-2 from the US.
+
+7
+00:00:36,800 --> 00:00:39,300
+ With diamond membership.
+
+8
+00:00:39,300 --> 00:00:45,000
+ Man, I feel like every single American bought the membership for some reasons.
+
+9
+00:00:45,000 --> 00:00:54,600
+ E4, pushing pawns in a pawn challenge sounds like a really bad idea, but you know, a real man never run away from a challenge.
+
+10
+00:00:54,600 --> 00:00:57,800
+ E5, knight F3.
+
+11
+00:00:58,700 --> 00:01:06,600
+ F6. That blunders a pawn, but in my experience, every time I take that pawn, my opponent usually take back,
+
+12
+00:01:06,600 --> 00:01:12,300
+ which blunders a rook to queen H5 G6 queen takes E5 forking the king and rook.
+
+13
+00:01:12,300 --> 00:01:19,500
+ But sadly, in that position, my opponent doesn't have the E pawn anymore, which means the E file is half open,
+
+14
+00:01:19,500 --> 00:01:25,000
+ which means everything on the E file must not move, which means my queen cannot take his rook.
+
+15
+00:01:25,500 --> 00:01:32,500
+ So I guess, bishop C4, there's no reason to risk the entire video just because of a free pawn.
+
+16
+00:01:32,500 --> 00:01:42,000
+ Knight H6. D3. The plan is simple, win the game without losing any pawns, or taking any pawns.
+
+17
+00:01:42,000 --> 00:01:47,200
+ A6. Not very aggressive. I'll take this horsey.
+
+18
+00:01:47,200 --> 00:01:54,700
+ After G takes H6, the G file will become a half open file, which means everything on that file must not move,
+
+19
+00:01:54,700 --> 00:01:58,500
+ but you know, there aren't many things on that file anyway.
+
+20
+00:01:58,500 --> 00:02:07,200
+ B5. Ah ha, that blunders a pawn, but if his bishop takes, that will put his bishop on a half open G file,
+
+21
+00:02:07,200 --> 00:02:13,000
+ which is not good for the video, and if I save this bishop, B takes will make his B file half open
+
+22
+00:02:13,000 --> 00:02:17,000
+ and then a move like knight C6 will immediately end the video.
+
+23
+00:02:17,000 --> 00:02:20,700
+ Therefore, bishop B3 is kinda forced.
+
+24
+00:02:20,700 --> 00:02:24,000
+ Forgive me dark bishop, I have to let you die.
+
+25
+00:02:24,500 --> 00:02:25,500
+ Or not.
+
+26
+00:02:25,500 --> 00:02:31,000
+ Bishop takes F8. Alright, now that bishop will die for real.
+
+27
+00:02:31,000 --> 00:02:38,500
+ Rook takes. Castle. It's a miracle that we're already at move 8 but no pawns have died yet.
+
+28
+00:02:38,500 --> 00:02:46,000
+ C5. He obviously wants to go C4 to attack my bishop, and even though it blunders a pawn,
+
+29
+00:02:46,000 --> 00:02:48,000
+ big chance that he doesn't see that.
+
+30
+00:02:48,500 --> 00:02:57,000
+ Therefore, A3. With this move, I'm trying to tell him that even if C4 happens, my bishop can always retreat.
+
+31
+00:02:57,000 --> 00:03:00,000
+ Yeah, he saw it.
+
+32
+00:03:00,000 --> 00:03:06,000
+ Bishop D5. Alright, now please stop pushing pawns for no reason.
+
+33
+00:03:06,000 --> 00:03:16,000
+ Bishop B7. That blunders a bishop. Perfect situation, I got into his territory, without killing any pawns.
+
+34
+00:03:17,000 --> 00:03:25,500
+ K7. I'll go back, and with my bishop causing chaos in his territory, there's no way he'll continue to move his pawns.
+
+35
+00:03:25,500 --> 00:03:28,500
+ Nevermind. I'll take it.
+
+36
+00:03:28,500 --> 00:03:32,000
+ Oh, wait. I obviously should've pushed.
+
+37
+00:03:32,000 --> 00:03:36,500
+ Well, my bad, but I think it's fine.
+
+38
+00:03:36,500 --> 00:03:44,000
+ C takes before. Yeah, now the A file and C file pieces and pawns must not move,
+
+39
+00:03:44,000 --> 00:03:50,000
+ but since he doesn't have anything on the C file, that file is trash, and about the A file,
+
+40
+00:03:50,000 --> 00:03:56,500
+ well, beginners don't move their rooks a lot, and a move like A5 doesn't make any sense.
+
+41
+00:03:56,500 --> 00:03:59,000
+ Therefore, no worries.
+
+42
+00:03:59,000 --> 00:04:01,000
+ Knight D2.
+
+43
+00:04:01,000 --> 00:04:04,000
+ Knight D7. Knight B3.
+
+44
+00:04:04,000 --> 00:04:07,500
+ It's fine, everything is still under control.
+
+45
+00:04:07,500 --> 00:04:10,000
+ Or not.
+
+46
+00:04:11,000 --> 00:04:14,000
+ What the f-
+
+47
+00:04:14,000 --> 00:04:16,000
+ What the f-
+
+48
+00:04:16,000 --> 00:04:29,000
+ [outro music]
+

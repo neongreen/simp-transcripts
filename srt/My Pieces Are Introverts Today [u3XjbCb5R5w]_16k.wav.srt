@@ -1,0 +1,116 @@
+1
+00:00:00,000 --> 00:00:08,000
+ 100 rated chess, but you may only capture from your starting position, or opposing forces still in their starting position.
+
+2
+00:00:08,000 --> 00:00:17,000
+ Sounds absolutely impossible, but as usual, I'm not a coward. We get a 100 rated guy from the Philippines.
+
+3
+00:00:17,000 --> 00:00:29,000
+ E4. I mean pushing a pawn forward means the pawn can never go back to his starting position, which means the pawn can almost never capture anything in his entire life. But who cares anyway.
+
+4
+00:00:29,000 --> 00:00:37,000
+ Knight F6. E5. I mean I cannot take his knight, but no one said I cannot attack it.
+
+5
+00:00:37,000 --> 00:00:42,000
+ Knight D5. C4. Keep moving baby.
+
+6
+00:00:42,000 --> 00:00:51,000
+ Or not. That blunders a horsey, but since my C pawn is not at his starting position and this knight is also not at its starting position.
+
+7
+00:00:51,000 --> 00:00:53,000
+ D4.
+
+8
+00:00:53,000 --> 00:01:05,000
+ Knight takes D4. Ah ha. Unlike last time, my queen is definitely on her starting position right now. Therefore, that blunders a horsey.
+
+9
+00:01:05,000 --> 00:01:20,000
+ Knight B6. That once again blunders a horsey to C5 trapping the animal, but since my queen is not at her starting position, she cannot eat that knight even if he puts it right in front of her. So I guess, I have to pull her back first.
+
+10
+00:01:20,000 --> 00:01:28,000
+ G6. This guy decided to move both of his knights out first, but I cannot say that he is good at using them.
+
+11
+00:01:28,000 --> 00:01:30,000
+ C5.
+
+12
+00:01:30,000 --> 00:01:40,000
+ Knight A4. And just like last time, I can take with my woman. Man, maybe this challenge is not as hard as I imagined it would be.
+
+13
+00:01:40,000 --> 00:01:48,000
+ Bishop H6. That blunders a bishop, and of course, I can take it. Such an amazing unpaid actor.
+
+14
+00:01:48,000 --> 00:01:55,000
+ Rook F8. I cannot take that rook due to the rules, but I don't even want to take it anyway.
+
+15
+00:01:55,000 --> 00:01:57,000
+ Bishop C4.
+
+16
+00:01:57,000 --> 00:02:05,000
+ Rook G8. It seems like he has already quit the game, so if I somehow mess up, that will be very embarrassing.
+
+17
+00:02:05,000 --> 00:02:07,000
+ Queen B3.
+
+18
+00:02:07,000 --> 00:02:15,000
+ B6. That blunders a king, and since his F pawn is in his starting position, bishop takes F7.
+
+19
+00:02:15,000 --> 00:02:23,000
+ Checkmate. Mission accomplished, but since the video is still so short, I'll answer some of your comments instead.
+
+20
+00:02:23,000 --> 00:02:30,000
+ I can see so many checkmates for you, all caps with a yawning face. Those are actually blunders.
+
+21
+00:02:30,000 --> 00:02:38,000
+ Are you assuming all those pawns are male in the first place? No, but I don't have the gut to assume that they are females.
+
+22
+00:02:38,000 --> 00:02:43,000
+ Imagine there is a guy walking down the street and then says to a random girl that she is just a pawn.
+
+23
+00:02:43,000 --> 00:02:47,000
+ I wonder how many slaps will he get into his face.
+
+24
+00:02:47,000 --> 00:02:49,000
+ Codenet Picking Review.
+
+25
+00:02:49,000 --> 00:02:56,000
+ From random import choice actually speeds up the generation process by removing the dot operator which takes time.
+
+26
+00:02:56,000 --> 00:03:02,000
+ Use plurals for list names or use exception equals knight and choice directions plus exception.
+
+27
+00:03:02,000 --> 00:03:06,000
+ Just print choice and no need for an intermediate variable.
+
+28
+00:03:06,000 --> 00:03:08,000
+ Your permabanned.
+
+29
+00:03:08,000 --> 00:03:22,000
+ [Music]
+

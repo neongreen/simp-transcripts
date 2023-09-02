@@ -1,0 +1,268 @@
+1
+00:00:00,000 --> 00:00:08,000
+ If my opponent moves a piece, not pawn, over the middle of the board, the video ends.
+
+2
+00:00:08,000 --> 00:00:13,000
+ Playing 3 minute splits on a 100 rated account.
+
+3
+00:00:13,000 --> 00:00:21,000
+ Well, that sounds impossible to accomplished, but since I'm out of ideas, let's find an opponent.
+
+4
+00:00:29,000 --> 00:00:35,000
+ We get a 2 or 5 from the US. With diamond membership.
+
+5
+00:00:35,000 --> 00:00:38,000
+ D4.
+
+6
+00:00:38,000 --> 00:00:46,000
+ Ah ha! Now he has bishop g5, invading my side of the board, which ends the video.
+
+7
+00:00:46,000 --> 00:00:48,000
+ So I guess...
+
+8
+00:00:48,000 --> 00:00:50,000
+ H6.
+
+9
+00:00:50,000 --> 00:00:54,000
+ E4.
+
+10
+00:00:54,000 --> 00:00:56,000
+ Very aggressive.
+
+11
+00:00:57,000 --> 00:01:03,000
+ Now he also has bishop b5, and queen h5, ending the video.
+
+12
+00:01:03,000 --> 00:01:09,000
+ But sadly there is no way I can prevent both of them. So let's think about this carefully.
+
+13
+00:01:09,000 --> 00:01:16,000
+ Normally, no one develops their queen first, so preventing bishop b5 should make more sense.
+
+14
+00:01:16,000 --> 00:01:25,000
+ But since people usually only play bishop b5 when there is a knight on c6, that move now should be less likely to happen.
+
+15
+00:01:26,000 --> 00:01:30,000
+ And you know, there are a lot of other squares for his bishop as well.
+
+16
+00:01:30,000 --> 00:01:32,000
+ So I guess...
+
+17
+00:01:32,000 --> 00:01:34,000
+ G6.
+
+18
+00:01:34,000 --> 00:01:39,000
+ Bishop c4.
+
+19
+00:01:39,000 --> 00:01:41,000
+ Yes!
+
+20
+00:01:41,000 --> 00:01:47,000
+ And now, there are still 2 threats, but both of them can easily be stopped.
+
+21
+00:01:47,000 --> 00:01:49,000
+ With c6.
+
+22
+00:01:49,000 --> 00:01:54,000
+ Queen f3.
+
+23
+00:01:55,000 --> 00:01:57,000
+ Let's not blunder checkmate in 1.
+
+24
+00:01:57,000 --> 00:01:59,000
+ E6.
+
+25
+00:01:59,000 --> 00:02:03,000
+ And the best thing is, there is no more threat to the video.
+
+26
+00:02:03,000 --> 00:02:07,000
+ D5.
+
+27
+00:02:07,000 --> 00:02:09,000
+ Very aggressive.
+
+28
+00:02:09,000 --> 00:02:16,000
+ Of course I cannot take that pawn, since my pawns are guarding some important squares for the video.
+
+29
+00:02:16,000 --> 00:02:19,000
+ Therefore, bishop g7.
+
+30
+00:02:19,000 --> 00:02:23,000
+ Knight c3.
+
+31
+00:02:24,000 --> 00:02:25,000
+ Knight e7.
+
+32
+00:02:25,000 --> 00:02:35,000
+ I'm provoking d6, which is a really strong move, but it will cancel all the tension in the middle of the board, which is good for the video.
+
+33
+00:02:35,000 --> 00:02:40,000
+ And he chose to capture instead.
+
+34
+00:02:40,000 --> 00:02:44,000
+ Alright. It's still probably good.
+
+35
+00:02:44,000 --> 00:02:46,000
+ I'll take this way.
+
+36
+00:02:46,000 --> 00:02:50,000
+ Knight h3.
+
+37
+00:02:50,000 --> 00:02:53,000
+ I'll castle.
+
+38
+00:02:54,000 --> 00:02:55,000
+ Castle.
+
+39
+00:02:55,000 --> 00:02:58,000
+ G5.
+
+40
+00:02:58,000 --> 00:03:02,000
+ I want to absolutely shut down his horsey on h3.
+
+41
+00:03:02,000 --> 00:03:04,000
+ Oh!
+
+42
+00:03:04,000 --> 00:03:06,000
+ Wait!
+
+43
+00:03:06,000 --> 00:03:15,000
+ Ha ha!
+
+44
+00:03:15,000 --> 00:03:21,000
+ Not only he didn't play that move, he also blocked his queen view towards that square.
+
+45
+00:03:22,000 --> 00:03:23,000
+ E5.
+
+46
+00:03:23,000 --> 00:03:28,000
+ Let's take some center, and then somehow try to counterattack.
+
+47
+00:03:28,000 --> 00:03:31,000
+ Rook d1.
+
+48
+00:03:31,000 --> 00:03:33,000
+ Queen b6.
+
+49
+00:03:33,000 --> 00:03:36,000
+ Oh!
+
+50
+00:03:36,000 --> 00:03:37,000
+ Wait!
+
+51
+00:03:37,000 --> 00:03:40,000
+ Did I blunder bishop takes g5?
+
+52
+00:03:40,000 --> 00:03:43,000
+ Nah!
+
+53
+00:03:43,000 --> 00:03:46,000
+ There's no way he's going to see it.
+
+54
+00:03:46,000 --> 00:03:48,000
+ Oh wait again!
+
+55
+00:03:49,000 --> 00:03:55,000
+ Maybe he won't be able to see bishop g5, but there is rook d6 ending the video.
+
+56
+00:03:55,000 --> 00:04:01,000
+ What's wrong with me today? I keep blundering the video every move.
+
+57
+00:04:01,000 --> 00:04:04,000
+ Thank god!
+
+58
+00:04:04,000 --> 00:04:06,000
+ b4.
+
+59
+00:04:06,000 --> 00:04:08,000
+ Very aggressive.
+
+60
+00:04:08,000 --> 00:04:10,000
+ But anyway.
+
+61
+00:04:10,000 --> 00:04:12,000
+ That blunders a pawn.
+
+62
+00:04:13,000 --> 00:04:27,000
+ And the best part is, my queen now guards the d6 square, and bishop takes g5 is no longer a threat, since after h takes g5, knight takes g5 is blundering a bishop.
+
+63
+00:04:27,000 --> 00:04:31,000
+ This is such a perfect situation.
+
+64
+00:04:31,000 --> 00:04:38,000
+ I mean I have made a lot of blunders today, but this guy is obviously helping me a lot with my video.
+
+65
+00:04:39,000 --> 00:04:40,000
+ *click*
+
+66
+00:04:40,000 --> 00:04:46,000
+ What the f-
+
+67
+00:04:46,000 --> 00:05:00,000
+ *outro music*
+

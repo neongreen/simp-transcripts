@@ -1,0 +1,76 @@
+1
+00:00:00,000 --> 00:00:05,680
+ 100 rated chess, but you must deliver a super checkmate, opponent's king should not be able
+
+2
+00:00:05,680 --> 00:00:11,520
+ to escape from checkmate even if his pieces could move twice in a row. So to make it easier for you
+
+3
+00:00:11,520 --> 00:00:18,160
+ guys to understand, in this position, queen takes f7 is a super checkmate, because even if his king
+
+4
+00:00:18,160 --> 00:00:23,440
+ can take my queen, the dude will still be in check by my light square bishop and there is no way to
+
+5
+00:00:23,440 --> 00:00:30,080
+ get out of it, which is to say that his king was actually checkmated twice. Maybe some people still
+
+6
+00:00:30,080 --> 00:00:40,640
+ haven't understood, but I don't give a shit. We get a 1 47 from India. e4. e5. Still theory. d4.
+
+7
+00:00:40,640 --> 00:00:46,640
+ Since I want to super checkmate him, pawns won't have many useful effects, so I would rather let
+
+8
+00:00:46,640 --> 00:00:56,800
+ them die. Unless he doesn't want to take. Bishop g5. Knight c6. f4. Let's try to be really aggressive.
+
+9
+00:00:56,800 --> 00:01:06,000
+ Knight b4. What is better than having 2 center pawns? Having 3 center pawns. Knight takes e4.
+
+10
+00:01:06,000 --> 00:01:12,400
+ Ah ha. That blunders a woman, and even though I really don't want to take it because it may cause
+
+11
+00:01:12,400 --> 00:01:18,640
+ my opponent to resign, logically speaking, I of course need to remove his queen so my pieces can
+
+12
+00:01:18,640 --> 00:01:27,040
+ have a lot of safe space to move around, so I guess, bishop takes d8. Bishop e7. He wants to
+
+13
+00:01:27,040 --> 00:01:34,480
+ castle, and I cannot let that happen, so I also have to take this bishop. King takes is kinda
+
+14
+00:01:34,480 --> 00:01:42,160
+ predictable. Bishop c4. Alright, let's try to super checkmate real fast before he decides to resign.
+
+15
+00:01:42,560 --> 00:01:48,720
+ Knight c3. I'll take that too. And that wasn't such a good idea.
+
+16
+00:01:48,720 --> 00:01:55,760
+ You know what? This challenge is absolutely impossible, it is already difficult enough
+
+17
+00:01:55,760 --> 00:02:00,960
+ just finding a normal checkmate, not to mention about resignation, abandonment,
+
+18
+00:02:00,960 --> 00:02:13,760
+ or running out of time, there is obviously no way I can do this. Have a great day.
+
+19
+00:02:14,000 --> 00:02:21,200
+ [Music]
+

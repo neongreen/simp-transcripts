@@ -1,0 +1,184 @@
+1
+00:00:00,000 --> 00:00:05,280
+ 100 rated chess, but you don't follow opening principles.
+
+2
+00:00:05,280 --> 00:00:09,520
+ Man, the idea shortage is getting really really serious.
+
+3
+00:00:09,520 --> 00:00:15,520
+ But anyway, according to this article on chess.com by international master Daniel Wrench,
+
+4
+00:00:15,520 --> 00:00:18,560
+ there are a few opening principles as followed.
+
+5
+00:00:18,560 --> 00:00:24,160
+ Develop, don't bring queen out early, get castled, and connect the rooks.
+
+6
+00:00:24,160 --> 00:00:30,640
+ Therefore, e4, moving a pawn is definitely not following any of those principles.
+
+7
+00:00:30,640 --> 00:00:36,480
+ Knight c6. d4. Again, pawns moves are safe.
+
+8
+00:00:36,480 --> 00:00:44,320
+ Knight f6. e5. Ha, maybe I can actually win this game with the pawns alone.
+
+9
+00:00:44,320 --> 00:00:50,880
+ Knight e4. Very aggressive. f3. Knight takes d4.
+
+10
+00:00:50,880 --> 00:00:55,600
+ Ah ha, the principles said that I shouldn't bring my queen out early.
+
+11
+00:00:55,600 --> 00:00:59,200
+ Therefore, let's bring the queen out. And of course,
+
+12
+00:00:59,200 --> 00:01:04,480
+ let's just assume that developing a queen is not really a development.
+
+13
+00:01:04,480 --> 00:01:09,520
+ Knight c3. Knight takes is best, but that is also developing my knight,
+
+14
+00:01:09,520 --> 00:01:13,520
+ which is one of the opening principles, which is against the rules.
+
+15
+00:01:13,520 --> 00:01:19,760
+ Therefore, I'll take with pawn. d5. The French move.
+
+16
+00:01:19,760 --> 00:01:26,640
+ e6. f4. Dude, if you really think about it, I guess I can only use my queen and
+
+17
+00:01:26,640 --> 00:01:33,360
+ pawns to checkmate him this game. e5. Pawn takes. I mean if he can just
+
+18
+00:01:33,360 --> 00:01:38,640
+ blunder his bishop now, that will definitely help a lot.
+
+19
+00:01:38,640 --> 00:01:42,880
+ I solemnly swear that this guy is not an actor,
+
+20
+00:01:42,880 --> 00:01:51,040
+ no matter paid or unpaid. e takes d6. c takes d6. Queen takes g7.
+
+21
+00:01:51,040 --> 00:01:55,200
+ I mean it will be hard to checkmate his king when I don't have any center pawns
+
+22
+00:01:55,200 --> 00:02:00,000
+ left, so let's just force him to resign instead.
+
+23
+00:02:00,000 --> 00:02:07,120
+ f5. That blunders a rook. King e7. That blunders a queen to bishop g5
+
+24
+00:02:07,120 --> 00:02:11,120
+ skewer the couple, but sadly, that is a developing of a move,
+
+25
+00:02:11,120 --> 00:02:17,360
+ which is against the rules. Therefore, I'll take this pawn instead.
+
+26
+00:02:17,360 --> 00:02:23,920
+ King e6. g4. I mean that blunders a pawn, but if somehow he doesn't take it, I can
+
+27
+00:02:23,920 --> 00:02:29,920
+ bring in another pawn into the attack. Well, that's sad.
+
+28
+00:02:29,920 --> 00:02:35,680
+ Queen e4 check. It's fine, now since my queen is forking his king and pawn,
+
+29
+00:02:35,680 --> 00:02:39,440
+ king f7 is expected so that his bishop can defend his pawn,
+
+30
+00:02:39,440 --> 00:02:44,640
+ and then there is queen h7, king e6, queen back to e4 and then we repeat
+
+31
+00:02:44,640 --> 00:02:49,520
+ moves for a draw. Nevermind. Continue checking for a draw
+
+32
+00:02:49,520 --> 00:02:53,760
+ may not work because queen e7 is forcing a queen trade and I cannot
+
+33
+00:02:53,760 --> 00:02:57,920
+ allow that. Therefore, c4. Let's bring in more
+
+34
+00:02:57,920 --> 00:03:02,000
+ materials. Queen a5 check.
+
+35
+00:03:02,000 --> 00:03:07,920
+ c3 is kinda forced. In no world do you take this pawn.
+
+36
+00:03:07,920 --> 00:03:11,680
+ Wow! That blunders a queen, but once again,
+
+37
+00:03:11,680 --> 00:03:17,920
+ that is developing a piece. Therefore, king d1. It's fine, at least now his
+
+38
+00:03:17,920 --> 00:03:22,080
+ queen is not defending his king anymore, I will have more chance of getting a
+
+39
+00:03:22,080 --> 00:03:27,600
+ draw. Queen takes a1. Queen h7 check.
+
+40
+00:03:27,600 --> 00:03:34,960
+ King c6. Queen e4 check. c5. That should be really bad. Queen takes
+
+41
+00:03:34,960 --> 00:03:41,360
+ c5 check. King c7. Bishop f4 is 100% leading to
+
+42
+00:03:41,360 --> 00:03:45,840
+ some checkmates, but sadly, c5.
+
+43
+00:03:45,840 --> 00:03:54,000
+ c6. Wow! I can't believe I actually did it. That blunders a king. Queen d6 check.
+
+44
+00:03:54,000 --> 00:03:59,600
+ King b7 is forced and then c6. Checkmate with a pawn.
+
+45
+00:03:59,600 --> 00:04:05,520
+ Mission accomplished.
+
+46
+00:04:05,520 --> 00:04:18,320
+ [Music]
+

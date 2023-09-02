@@ -1,0 +1,100 @@
+1
+00:00:00,000 --> 00:00:06,480
+ 100 rated chess, but reverse capture logic, your pawns can only capture pieces, and your
+
+2
+00:00:06,480 --> 00:00:15,120
+ pieces can only capture pawns. Sounds absolutely terrifying. We get a 198 from the United Kingdom.
+
+3
+00:00:15,120 --> 00:00:24,160
+ E4. Knight c6. D4. I mean technically if he takes my pawn right now, I actually cannot take back
+
+4
+00:00:24,160 --> 00:00:35,280
+ because a piece cannot take a piece, but who plays like that anyway? Right? Bishop c4. It's fine,
+
+5
+00:00:35,280 --> 00:00:39,920
+ unless he decides to also take this pawn with a check and forces me to move my king.
+
+6
+00:00:39,920 --> 00:00:50,240
+ c6. Not very aggressive. Knight f3. Knight takes f3. Only pawns can capture pieces,
+
+7
+00:00:50,240 --> 00:00:58,640
+ g takes f3. Queen a5 check. Bishop d2. Somehow I have a feeling that he's gonna blunder his queen
+
+8
+00:00:58,640 --> 00:01:07,600
+ right now. Are you serious? That blunders a woman, but I cannot take it due to the rules. Bishop b3.
+
+9
+00:01:07,600 --> 00:01:14,800
+ Queen retreats. Alright. F4. Opening up my queen for a quick attack at his king,
+
+10
+00:01:14,800 --> 00:01:23,280
+ or else I'm so going to lose this game. Knight f6. E5. Since only my pawns can take his pieces,
+
+11
+00:01:23,280 --> 00:01:30,000
+ if he can just blunder his knight right now, that will be very convenient. Of course it doesn't
+
+12
+00:01:30,000 --> 00:01:35,760
+ happen. Don't want to lose my bishop, not to mention that I also cannot take his knight back.
+
+13
+00:01:35,760 --> 00:01:45,200
+ Bishop e3. Knight back to f6. Ah ha! Finally! That blunders a horsey. After all of those moves,
+
+14
+00:01:45,200 --> 00:01:56,880
+ I finally got some material advantage. He takes f6. Queen e2. Queen a5 check. Knight c3. Bishop e4.
+
+15
+00:01:56,880 --> 00:02:03,280
+ Very aggressive. That blunders a queen to bishop b6 discovered check and double attack on the queen,
+
+16
+00:02:03,280 --> 00:02:11,280
+ but since I actually cannot take his queen due to the rules, bishop c5 instead. King d8 is forced.
+
+17
+00:02:11,280 --> 00:02:19,360
+ I'll check with queen. The problem is that I still cannot find any checkmates. King c7. Queen d6.
+
+18
+00:02:19,360 --> 00:02:25,200
+ I'm down for a repetition. Maybe not. I can win a bishop, but that is against the rules.
+
+19
+00:02:25,200 --> 00:02:29,920
+ Long castle. Let's just hope that he'll take my knight instead of my bishop.
+
+20
+00:02:31,520 --> 00:02:39,840
+ Or not take anything at all. Knight d5. The plan is very simple. C takes d5, bishop takes d5,
+
+21
+00:02:39,840 --> 00:02:49,040
+ checkmate in 1. Or he can blunder his queen instead. I'll give a check first. King a6 is forced.
+
+22
+00:02:49,040 --> 00:02:55,840
+ Okay. Now what? He's threatening queen a1 checkmate in 1, and even though I also have
+
+23
+00:02:55,840 --> 00:03:04,080
+ knight xb4 checkmate in 1, a piece cannot take another piece. Oh well f**k the rules knight xb4,
+
+24
+00:03:04,080 --> 00:03:09,120
+ checkmate, and since I broke the rules myself, there's no what the f**k today.
+
+25
+00:03:09,120 --> 00:03:23,440
+ [Music]
+

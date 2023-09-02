@@ -1,0 +1,152 @@
+1
+00:00:00,000 --> 00:00:05,120
+ 100 rated chess, but you have to win with lower accuracy than your opponent.
+
+2
+00:00:05,120 --> 00:00:11,680
+ Dude. Here's the thing. I cannot know what my accuracy is during the game,
+
+3
+00:00:11,680 --> 00:00:14,960
+ so how am I supposed to know if I'm doing well or not?
+
+4
+00:00:14,960 --> 00:00:21,280
+ Well, I guess we'll figure it out. We get a 250 rated American.
+
+5
+00:00:21,280 --> 00:00:27,840
+ E4, the challenge has two things to do. Win. And play badly.
+
+6
+00:00:29,040 --> 00:00:32,960
+ To be honest, I don't think those two things do go together very often.
+
+7
+00:00:32,960 --> 00:00:40,160
+ E5. Still theory. It's time for my first low accuracy move of the game.
+
+8
+00:00:40,160 --> 00:00:46,240
+ B4. B4 is literally the worst opening move on the chessboard at move 2,
+
+9
+00:00:46,240 --> 00:00:49,600
+ so there is no way he can make an even worse move right now.
+
+10
+00:00:49,600 --> 00:00:53,920
+ Is this guy trying to prove that I'm wrong?
+
+11
+00:00:55,200 --> 00:01:00,000
+ I'll take it. I'm pretty sure the best move was A3 to protect the B pawn,
+
+12
+00:01:00,000 --> 00:01:02,640
+ so taking his pawn should definitely be a bad move.
+
+13
+00:01:02,640 --> 00:01:10,320
+ Knight F6. Aha, that is 100% the best move, which is good for the challenge.
+
+14
+00:01:10,320 --> 00:01:15,840
+ Knight F3. E4 is best, and it is very easy to see my man.
+
+15
+00:01:15,840 --> 00:01:22,800
+ Perfect. The plan is simple. I make the best move very easy to see,
+
+16
+00:01:22,800 --> 00:01:25,440
+ so that he can have higher accuracy than I do.
+
+17
+00:01:25,440 --> 00:01:31,440
+ Bishop C4. Alright, now just take my knight and we both can be happy.
+
+18
+00:01:31,440 --> 00:01:38,480
+ No. That's the wrong move. Castle. Let's try again.
+
+19
+00:01:38,480 --> 00:01:46,640
+ F***. So every time I blunder my knight, my accuracy is low, but every time he misses my
+
+20
+00:01:46,640 --> 00:01:52,480
+ free knight, his accuracy goes to the trash can, because Stockfish really hates miss wins.
+
+21
+00:01:53,280 --> 00:01:56,160
+ Knight C3. Third time's a charm.
+
+22
+00:01:56,160 --> 00:02:02,720
+ Nevermind. I guess I have to move my knight to avoid him further destroy his own accuracy.
+
+23
+00:02:02,720 --> 00:02:10,240
+ Knight G5. I mean knight D4 bishop G6 knight E6 was obviously the best continuation,
+
+24
+00:02:10,240 --> 00:02:17,600
+ so knight G5 was kinda forced, and it also provokes D5 blocking the fork, which is very easy to see.
+
+25
+00:02:20,080 --> 00:02:26,960
+ That blunders a fork. Dude. It seems like this guy is willingly playing all the bad moves on
+
+26
+00:02:26,960 --> 00:02:33,280
+ the board for some reason. Rook E1. I obviously could not go for the fork for the sake of the
+
+27
+00:02:33,280 --> 00:02:41,920
+ challenge, and now please just play D5. This guy is really destroying me right now.
+
+28
+00:02:41,920 --> 00:02:48,320
+ It's fine, I mean he's blundering a fork, so why not use my bishop instead.
+
+29
+00:02:49,120 --> 00:02:56,640
+ Ok, only 2 choices. King E7 maintains the king on the same file with the rook, which is bad,
+
+30
+00:02:56,640 --> 00:03:01,360
+ and king D7 moves the king away from my pieces, away from the rook,
+
+31
+00:03:01,360 --> 00:03:06,000
+ and also dodges a future knight D5 check, which is obviously the better move.
+
+32
+00:03:06,000 --> 00:03:18,160
+ Are you serious? Alright, how about this. Knight takes E4, a trade is very likely to happen,
+
+33
+00:03:18,160 --> 00:03:24,880
+ and rook takes E4 is a check, so he has to go king D7, because king F6 is obviously blundering
+
+34
+00:03:24,880 --> 00:03:32,160
+ checkmate in 3 of queen F3 check king takes G5 is forced E4 check king H4 queen H3 checkmate.
+
+35
+00:03:32,160 --> 00:03:39,200
+ Well, I can't even say that resigning is a bad decision.
+
+36
+00:03:39,200 --> 00:03:44,400
+ But anyway, let's just see the accuracy so we can have the official result.
+
+37
+00:03:47,120 --> 00:03:49,120
+ Yeah. I can see that coming.
+
+38
+00:03:49,680 --> 00:04:04,320
+ [Music]
+

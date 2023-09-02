@@ -1,0 +1,96 @@
+1
+00:00:00,000 --> 00:00:06,640
+ 100 rated chess, but every time your opponent blunders a piece, not pawn, you must blunder
+
+2
+00:00:06,640 --> 00:00:14,080
+ a piece of equal or greater value. Sounds absolutely impossible, but of course, I'm not a coward.
+
+3
+00:00:14,080 --> 00:00:26,560
+ We get a 162 from the US. E4. E5. Still theory. Knight f3. Knight f6. I'll take this pawn,
+
+4
+00:00:26,560 --> 00:00:31,520
+ I mean knight g4 here is blundering a horsey and will force me to blunder a piece back,
+
+5
+00:00:31,520 --> 00:00:39,440
+ but who plays like that anyway? Right? Of course. Knight c3. Alright,
+
+6
+00:00:39,440 --> 00:00:44,080
+ since you didn't take this pawn last move, in no world do you take it this time.
+
+7
+00:00:44,080 --> 00:00:54,000
+ How the hell did that even happen? I have to sacrifice my knight back. King takes f7,
+
+8
+00:00:54,000 --> 00:00:59,840
+ there's no need to take his knight back immediately. Queen h5. This is what they call,
+
+9
+00:00:59,840 --> 00:01:10,000
+ in between moves, or also known as, zwischenzug. G6. Queen d5 check. King back to e8. I'll take
+
+10
+00:01:10,000 --> 00:01:19,040
+ with my horsey. C6. Queen e5. Okay, that was a risky move, because now I'm attacking his rook,
+
+11
+00:01:19,040 --> 00:01:24,160
+ so if he doesn't see it, I'll have to sacrifice my queen because I cannot move my rooks out,
+
+12
+00:01:24,160 --> 00:01:29,120
+ but since it is so obvious that I'm attacking his rook, a move like rook f8 blundering knight
+
+13
+00:01:29,120 --> 00:01:38,720
+ d6 checkmate in 1 should be very convenient for me. Right? Wow. That blunders a rook,
+
+14
+00:01:38,720 --> 00:01:44,640
+ but you know what, that actually also blunders the king, and since I cannot blunder my king back,
+
+15
+00:01:44,640 --> 00:01:51,120
+ I'll say that it is totally fine to just go knight d6 pre-move queen h8. Checkmate.
+
+16
+00:01:51,120 --> 00:01:57,200
+ Mission accomplished, but since the video is still so short, I'll answer some of your comments
+
+17
+00:01:57,200 --> 00:02:04,720
+ instead. Always assume 100 rated players don't know how to capture with a pawn. Ah ha, you must
+
+18
+00:02:04,720 --> 00:02:12,400
+ be new to the channel. As I always say, always have faith in the 100 rated players. Thanks for
+
+19
+00:02:12,400 --> 00:02:17,680
+ the reminder that it's almost Christmas and that I need to buy presents for all my annoying nephews
+
+20
+00:02:17,680 --> 00:02:24,160
+ sad face. Just buy them some cauliflower dude. Calling that position a draw by insufficient
+
+21
+00:02:24,160 --> 00:02:29,920
+ materials has always bugged me, if black king is on h1 and black bishop is on g1 and white king is
+
+22
+00:02:29,920 --> 00:02:35,360
+ on g3 and white bishop is on f3, that's checkmate. It might be impossible to force, but we play out
+
+23
+00:02:35,360 --> 00:02:41,840
+ rook versus rook so why not this? Well, I would rather skip 50 moves ahead of the video instead.
+
+24
+00:02:42,560 --> 00:02:56,800
+ [Music]
+

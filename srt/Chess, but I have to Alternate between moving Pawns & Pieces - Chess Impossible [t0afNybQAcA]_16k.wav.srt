@@ -1,0 +1,256 @@
+1
+00:00:00,000 --> 00:00:04,000
+ chess, but you have to alternate between moving a pawn and a piece.
+
+2
+00:00:04,000 --> 00:00:08,300
+ And since this guy's profile picture is all white,
+
+3
+00:00:08,300 --> 00:00:14,260
+ I had to switch my YouTube studio to the dark theme so that you guys can see his picture.
+
+4
+00:00:14,260 --> 00:00:19,160
+ And with that out of the way, let's find an opponent.
+
+5
+00:00:19,160 --> 00:00:26,680
+ That was fast. We get a 148 from Argentina.
+
+6
+00:00:28,120 --> 00:00:31,440
+ Let's start with a pawn move.
+
+7
+00:00:31,440 --> 00:00:36,340
+ Knight f6.
+
+8
+00:00:36,340 --> 00:00:44,280
+ Normally, I would just push e5, but of course, it's time for a piece move.
+
+9
+00:00:44,280 --> 00:00:49,360
+ e5.
+
+10
+00:00:49,360 --> 00:00:55,520
+ f4. The Vienna Gambit, which I actually don't know anything about.
+
+11
+00:00:57,280 --> 00:00:59,280
+ He took the Gambit.
+
+12
+00:00:59,280 --> 00:01:05,320
+ So I believe the best move now should be e5, kicking the knight back to its original square.
+
+13
+00:01:05,320 --> 00:01:09,920
+ But of course, I have to go with a piece move.
+
+14
+00:01:09,920 --> 00:01:16,080
+ d5. Aha! e5.
+
+15
+00:01:16,080 --> 00:01:20,840
+ Knight e4.
+
+16
+00:01:20,840 --> 00:01:23,880
+ Taking that horsey is obviously a huge blunder.
+
+17
+00:01:23,880 --> 00:01:26,400
+ So I guess,
+
+18
+00:01:26,400 --> 00:01:28,400
+ bishop e2.
+
+19
+00:01:28,400 --> 00:01:30,600
+ Oh, wait.
+
+20
+00:01:30,600 --> 00:01:31,720
+ I blundered.
+
+21
+00:01:31,720 --> 00:01:34,760
+ Now if he chooses not to take my knight on c3,
+
+22
+00:01:34,760 --> 00:01:40,160
+ I'll make a pawn move next, and then if he takes my knight on his next turn,
+
+23
+00:01:40,160 --> 00:01:47,360
+ I'll have to move a piece, which means I won't be able to take his horsey back, which means I'll be down a piece.
+
+24
+00:01:47,360 --> 00:01:51,480
+ Thank God he took it.
+
+25
+00:01:51,480 --> 00:01:53,480
+ Just in time for a pawn move.
+
+26
+00:01:54,480 --> 00:01:59,320
+ Man, maybe I shouldn't have played with such an aggressive opening in the first place.
+
+27
+00:01:59,320 --> 00:02:03,440
+ Bishop g4.
+
+28
+00:02:03,440 --> 00:02:05,040
+ Very aggressive.
+
+29
+00:02:05,040 --> 00:02:10,560
+ But that horsey is defended by both a piece and a pawn, which means if he takes it,
+
+30
+00:02:10,560 --> 00:02:14,560
+ I will be able to recapture, no matter what turn it is.
+
+31
+00:02:14,560 --> 00:02:18,120
+ Therefore, I'll just take a pawn.
+
+32
+00:02:21,160 --> 00:02:23,160
+ Bishop takes f3.
+
+33
+00:02:23,160 --> 00:02:25,160
+ Pawn move,
+
+34
+00:02:25,160 --> 00:02:27,160
+ g takes f3.
+
+35
+00:02:27,160 --> 00:02:31,160
+ Bishop c5.
+
+36
+00:02:31,160 --> 00:02:33,160
+ Queen d2.
+
+37
+00:02:33,160 --> 00:02:37,160
+ Knight c6.
+
+38
+00:02:37,160 --> 00:02:43,160
+ Okay now it's getting tricky, since I don't really have many pawn moves left.
+
+39
+00:02:43,160 --> 00:02:47,160
+ Alright, b4.
+
+40
+00:02:49,160 --> 00:02:51,160
+ Bishop b6.
+
+41
+00:02:51,160 --> 00:02:53,160
+ Long castle.
+
+42
+00:02:53,160 --> 00:03:00,160
+ I mean technically castling is moving two pieces in a row, but you know, let's just ignore that.
+
+43
+00:03:00,160 --> 00:03:04,160
+ Queen e7.
+
+44
+00:03:04,160 --> 00:03:06,160
+ That blunders a pawn.
+
+45
+00:03:06,160 --> 00:03:10,160
+ But of course, it's a pawn move.
+
+46
+00:03:10,160 --> 00:03:13,160
+ Long castle.
+
+47
+00:03:13,160 --> 00:03:15,160
+ That blunders a bishop.
+
+48
+00:03:15,160 --> 00:03:18,160
+ But again, I have to move a piece.
+
+49
+00:03:18,160 --> 00:03:28,160
+ I really want to have a waiting move like bishop g3, but in this position, I believe he wants to go d4, which I think is very dangerous.
+
+50
+00:03:28,160 --> 00:03:32,160
+ Therefore, I think I need to play aggressively.
+
+51
+00:03:32,160 --> 00:03:35,160
+ Bishop to g5.
+
+52
+00:03:35,160 --> 00:03:37,160
+ Let's tickle him a little bit.
+
+53
+00:03:37,160 --> 00:03:41,160
+ Queen takes e5.
+
+54
+00:03:41,160 --> 00:03:43,160
+ Wow!
+
+55
+00:03:43,160 --> 00:03:48,160
+ I was expecting f6, but that move is kinda shocking.
+
+56
+00:03:48,160 --> 00:03:55,160
+ He's baiting me to take his rook, and then he'll go bishop e3, skewering my queen and king.
+
+57
+00:03:55,160 --> 00:03:58,160
+ This guy is such a grandmaster.
+
+58
+00:03:58,160 --> 00:04:00,160
+ F4.
+
+59
+00:04:00,160 --> 00:04:10,160
+ Since this guy has baited me to hang my queen, I'm trying to bait him back by blocking my bishop's view to e3, which may get him to blunder bishop e3.
+
+60
+00:04:10,160 --> 00:04:19,160
+ Yeah.
+
+61
+00:04:19,160 --> 00:04:23,160
+ F4 is so good that he freezed himself to the end of time.
+
+62
+00:04:23,160 --> 00:04:25,160
+ But anyway.
+
+63
+00:04:25,160 --> 00:04:27,160
+ Mission accomplished.
+
+64
+00:04:27,160 --> 00:04:42,160
+ [Music]
+

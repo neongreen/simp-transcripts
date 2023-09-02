@@ -1,0 +1,272 @@
+1
+00:00:00,000 --> 00:00:06,560
+ 100 rated chess, but each series of 8 moves has to be on each unique file.
+
+2
+00:00:06,560 --> 00:00:13,200
+ Well, I normally don't take on challenges that are too strict, or too hard to understand,
+
+3
+00:00:13,200 --> 00:00:17,600
+ because I also need my viewers to understand the challenge.
+
+4
+00:00:17,600 --> 00:00:20,960
+ But of course, I can't argue with money.
+
+5
+00:00:20,960 --> 00:00:22,280
+ So anyway.
+
+6
+00:00:22,280 --> 00:00:25,440
+ We get a 270 from the US.
+
+7
+00:00:25,440 --> 00:00:30,280
+ In a normal game of chess, most of the things happen in the center of the board.
+
+8
+00:00:30,280 --> 00:00:34,920
+ Therefore, I think I should go with A3.
+
+9
+00:00:34,920 --> 00:00:40,320
+ I strongly believe that I should reserve my center moves for emergencies, since I can
+
+10
+00:00:40,320 --> 00:00:44,680
+ only land a move on the file, once.
+
+11
+00:00:44,680 --> 00:00:46,360
+ E5.
+
+12
+00:00:46,360 --> 00:00:47,800
+ H3.
+
+13
+00:00:47,800 --> 00:00:51,520
+ No reason to move in the center yet.
+
+14
+00:00:51,520 --> 00:00:53,040
+ C5.
+
+15
+00:00:53,040 --> 00:00:54,040
+ Very aggressive.
+
+16
+00:00:54,040 --> 00:00:57,080
+ D3.
+
+17
+00:00:57,080 --> 00:00:59,080
+ Knight F6.
+
+18
+00:00:59,080 --> 00:01:00,880
+ G3.
+
+19
+00:01:00,880 --> 00:01:03,520
+ Everything is still fine.
+
+20
+00:01:03,520 --> 00:01:05,640
+ Ok it's not fine.
+
+21
+00:01:05,640 --> 00:01:07,160
+ D3.
+
+22
+00:01:07,160 --> 00:01:11,040
+ Please leave my house little horsey.
+
+23
+00:01:11,040 --> 00:01:12,560
+ Or not.
+
+24
+00:01:12,560 --> 00:01:17,080
+ That blunders a horsey, and since the E file is still available.
+
+25
+00:01:17,080 --> 00:01:20,480
+ Of course I'll take it.
+
+26
+00:01:20,480 --> 00:01:22,120
+ Knight D4.
+
+27
+00:01:22,120 --> 00:01:26,800
+ Man, this guy is really aggressive with his horses.
+
+28
+00:01:26,800 --> 00:01:32,880
+ Knight F3 looks really good, but if he goes knight takes F3, I cannot take back, since
+
+29
+00:01:32,880 --> 00:01:36,200
+ I will have to make a C file move.
+
+30
+00:01:36,200 --> 00:01:40,440
+ Therefore, C3.
+
+31
+00:01:40,440 --> 00:01:42,400
+ Knight takes B3.
+
+32
+00:01:42,400 --> 00:01:44,240
+ That blunders a horsey.
+
+33
+00:01:44,240 --> 00:01:48,720
+ But since I have to make an F file move, I cannot take it.
+
+34
+00:01:48,720 --> 00:01:51,540
+ Which makes me lose a rook.
+
+35
+00:01:51,540 --> 00:01:55,320
+ This mission is getting very wrong very quickly.
+
+36
+00:01:55,320 --> 00:01:58,640
+ Knight F3.
+
+37
+00:01:58,640 --> 00:02:01,280
+ And he didn't even take it.
+
+38
+00:02:01,280 --> 00:02:07,120
+ Now since the series of 8 moves has been reset, rook K2 should be the best move.
+
+39
+00:02:07,120 --> 00:02:10,600
+ But I think that, I should take a risk.
+
+40
+00:02:10,600 --> 00:02:11,880
+ E3.
+
+41
+00:02:11,880 --> 00:02:16,880
+ Unlike you guys who can see the available files on the screen, I'm actually using a
+
+42
+00:02:16,880 --> 00:02:22,900
+ notebook in real life to note down the files, so unless I'm taking risk, I'm so going to
+
+43
+00:02:22,900 --> 00:02:25,920
+ lose on time.
+
+44
+00:02:25,920 --> 00:02:27,760
+ Knight takes A1.
+
+45
+00:02:27,760 --> 00:02:30,440
+ Bishop takes C4.
+
+46
+00:02:30,440 --> 00:02:32,600
+ A5.
+
+47
+00:02:32,600 --> 00:02:38,700
+ Man, this guy has to be the most aggressive opponent I have ever met.
+
+48
+00:02:38,700 --> 00:02:40,200
+ Queen D5.
+
+49
+00:02:40,200 --> 00:02:44,960
+ Now please don't see anything.
+
+50
+00:02:44,960 --> 00:02:46,860
+ Knight C2 check.
+
+51
+00:02:46,860 --> 00:02:48,920
+ That blunders a horsey.
+
+52
+00:02:48,920 --> 00:02:54,340
+ Because now I can go king D2, which counterattack his knight, and after he defends the checkmate
+
+53
+00:02:54,340 --> 00:02:56,960
+ threat, I can win his knight.
+
+54
+00:02:56,960 --> 00:03:04,900
+ But sadly, I have already made a move on the D file, which means, king F1 is kinda forced.
+
+55
+00:03:04,900 --> 00:03:07,200
+ Oh, wait.
+
+56
+00:03:07,200 --> 00:03:12,720
+ On second thought, maybe this guy is actually a genius.
+
+57
+00:03:12,720 --> 00:03:17,760
+ Because it seems like he knows that my king cannot move to the E or D file, so he gave
+
+58
+00:03:17,760 --> 00:03:24,240
+ a check, which forces king F1, and now since my king has already landed on the F file,
+
+59
+00:03:24,240 --> 00:03:30,080
+ my queen cannot checkmate his king anymore, due to the mission.
+
+60
+00:03:30,080 --> 00:03:32,080
+ Are you serious?
+
+61
+00:03:32,080 --> 00:03:34,680
+ A4.
+
+62
+00:03:34,680 --> 00:03:36,520
+ That blunders a king.
+
+63
+00:03:36,520 --> 00:03:41,360
+ But it feels like my opponent is actually laughing into my face that I cannot checkmate
+
+64
+00:03:41,360 --> 00:03:46,200
+ him, even though it is right there.
+
+65
+00:03:46,200 --> 00:03:47,200
+ You know what?
+
+66
+00:03:47,200 --> 00:03:48,840
+ Who cares?
+
+67
+00:03:48,840 --> 00:03:52,520
+ Queen takes F7, checkmate, mission accomplished.
+
+68
+00:03:52,520 --> 00:04:07,520
+ [Music]
+

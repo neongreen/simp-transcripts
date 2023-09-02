@@ -1,0 +1,248 @@
+1
+00:00:00,000 --> 00:00:05,000
+ If a move is not very aggressive, the video ends.
+
+2
+00:00:05,000 --> 00:00:10,000
+ Playing 3 minute splits on a 100 rated account.
+
+3
+00:00:10,000 --> 00:00:12,000
+ This is going to be short.
+
+4
+00:00:12,000 --> 00:00:18,000
+ But anyway, since I'm out of ideas, let's just find an opponent.
+
+5
+00:00:18,000 --> 00:00:22,000
+ We get a 132 from Brazil.
+
+6
+00:00:22,000 --> 00:00:27,000
+ And it seems like this guy is wearing mask while exercising indoor.
+
+7
+00:00:27,000 --> 00:00:30,000
+ But anyway.
+
+8
+00:00:30,000 --> 00:00:31,000
+ E4.
+
+9
+00:00:31,000 --> 00:00:36,000
+ E4 is an aggressive opening move, and I think we can all agree with that.
+
+10
+00:00:36,000 --> 00:00:39,000
+ C6.
+
+11
+00:00:39,000 --> 00:00:40,000
+ Very aggressive.
+
+12
+00:00:40,000 --> 00:00:48,000
+ This is called the Karokan defense, and even though a lot of people say that the Karokan is very drawish and passive,
+
+13
+00:00:48,000 --> 00:00:55,000
+ I personally think that the exchange Karokan is very aggressive, which means the opening is very aggressive.
+
+14
+00:00:55,000 --> 00:00:58,000
+ D4.
+
+15
+00:00:58,000 --> 00:01:00,000
+ Qa5 check.
+
+16
+00:01:00,000 --> 00:01:07,000
+ Developing the queen first should always be very aggressive, and I think we can all agree with that.
+
+17
+00:01:07,000 --> 00:01:08,000
+ Bd2.
+
+18
+00:01:08,000 --> 00:01:15,000
+ This is also very aggressive, because I attack his queen as soon as he develops it.
+
+19
+00:01:15,000 --> 00:01:17,000
+ Qa4.
+
+20
+00:01:17,000 --> 00:01:18,000
+ Very aggressive.
+
+21
+00:01:18,000 --> 00:01:28,000
+ He chose to move his queen forward instead of retreating her, which also attacks my d-pawn, and since c3 or bishop c3 doesn't look very aggressive,
+
+22
+00:01:28,000 --> 00:01:31,000
+ I guess I should go with...
+
+23
+00:01:31,000 --> 00:01:32,000
+ B4.
+
+24
+00:01:32,000 --> 00:01:37,000
+ Ah, I can feel the testosterone level is increasing.
+
+25
+00:01:37,000 --> 00:01:39,000
+ Na6.
+
+26
+00:01:39,000 --> 00:01:41,000
+ Very aggressive.
+
+27
+00:01:41,000 --> 00:01:45,000
+ He attacks my b-pawn as soon as I moved it in an aggressive way.
+
+28
+00:01:45,000 --> 00:01:58,000
+ A3 defending the pawn and then knight c3 next move will most likely win his queen, or even a3, c5, knight c3, queen c6, b5 will also win a horsey.
+
+29
+00:01:58,000 --> 00:02:03,000
+ But sadly, a defending move is hardly considered as aggressive.
+
+30
+00:02:03,000 --> 00:02:06,000
+ Therefore, bishop takes a6.
+
+31
+00:02:06,000 --> 00:02:10,000
+ I need to counter his attack with an attack.
+
+32
+00:02:10,000 --> 00:02:12,000
+ B takes a6.
+
+33
+00:02:12,000 --> 00:02:14,000
+ Very aggressive.
+
+34
+00:02:14,000 --> 00:02:23,000
+ He chose to recapture with the pawn, so that his queen can stay on a much more active square, and also make room to develop his bishop.
+
+35
+00:02:23,000 --> 00:02:25,000
+ Knight f3.
+
+36
+00:02:25,000 --> 00:02:34,000
+ A lot of people are going to argue that this is not an aggressive move, but actually, this move is very aggressive, since I want to defend my d-pawn with my knight,
+
+37
+00:02:34,000 --> 00:02:43,000
+ so that I can push b5 later, and after my b-pawn is captured, I will have an open b-file for my rook.
+
+38
+00:02:43,000 --> 00:02:45,000
+ D6.
+
+39
+00:02:45,000 --> 00:02:47,000
+ Very aggressive.
+
+40
+00:02:47,000 --> 00:02:58,000
+ He could obviously develop his bishop to b7, but instead, he decided that he wants to develop his bishop in the other way, so that he can use his open b-file for his rook.
+
+41
+00:02:58,000 --> 00:03:00,000
+ But anyway.
+
+42
+00:03:00,000 --> 00:03:01,000
+ King e2.
+
+43
+00:03:01,000 --> 00:03:08,000
+ I didn't see any aggressive moves that look good, so this is my ultimate way to solve the problem.
+
+44
+00:03:08,000 --> 00:03:10,000
+ Bishop g4.
+
+45
+00:03:10,000 --> 00:03:12,000
+ Very aggressive.
+
+46
+00:03:12,000 --> 00:03:18,000
+ He attacks my king as soon as I move it, by delivering a double-pin skewer stuff.
+
+47
+00:03:18,000 --> 00:03:20,000
+ But anyway.
+
+48
+00:03:20,000 --> 00:03:21,000
+ H3.
+
+49
+00:03:21,000 --> 00:03:29,000
+ Moving a pawn one square like this is also very aggressive, because I attack his bishop as soon as he moves it.
+
+50
+00:03:29,000 --> 00:03:32,000
+ Bishop takes f3.
+
+51
+00:03:32,000 --> 00:03:33,000
+ Very aggressive.
+
+52
+00:03:33,000 --> 00:03:38,000
+ He chose to capture my knight instead of moving his bishop back.
+
+53
+00:03:38,000 --> 00:03:40,000
+ King takes f3.
+
+54
+00:03:40,000 --> 00:03:44,000
+ I believe no one argues about this move.
+
+55
+00:03:44,000 --> 00:03:47,000
+ Knight f6.
+
+56
+00:03:47,000 --> 00:03:49,000
+ Very aggressive.
+
+57
+00:03:49,000 --> 00:03:55,000
+ He develops his knight close to my king as soon as he sees my king is coming closer.
+
+58
+00:03:55,000 --> 00:03:57,000
+ Rook he won.
+
+59
+00:03:57,000 --> 00:04:01,000
+ Centralizing a rook is definitely an aggressive move.
+
+60
+00:04:01,000 --> 00:04:03,000
+ G6.
+
+61
+00:04:03,000 --> 00:04:09,000
+ I don't know what to say about this.
+
+62
+00:04:09,000 --> 00:04:23,000
+ [Music]
+

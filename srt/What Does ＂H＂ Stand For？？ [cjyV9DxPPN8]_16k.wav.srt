@@ -1,0 +1,100 @@
+1
+00:00:00,000 --> 00:00:07,280
+ 100 rated chess, but every piece, not pawn, must land on the H-file, at least once.
+
+2
+00:00:07,280 --> 00:00:12,320
+ Well even though I'm wondering why he chose the H-file instead of the A-file in his name,
+
+3
+00:00:12,320 --> 00:00:17,920
+ let's just assume that his girlfriend's name starts with an H. For those of you who don't know,
+
+4
+00:00:17,920 --> 00:00:24,320
+ this area, is called the H-file, which means I'll have to move all the pieces I have to that area,
+
+5
+00:00:24,320 --> 00:00:32,080
+ at least once. E4. Knight C6, I mean this knight has to be my biggest problem in this video,
+
+6
+00:00:32,080 --> 00:00:41,680
+ so I really need to move it over there before it dies. Knight C3. Knight E5. Knight F3. Ah ha,
+
+7
+00:00:41,680 --> 00:00:47,040
+ taking that knight and then E5 is obviously the best continuation, but since my knight hasn't
+
+8
+00:00:47,040 --> 00:00:55,920
+ landed on the H-file yet, it is not allowed to die. Therefore, knight G6. Alright, just one more move,
+
+9
+00:00:55,920 --> 00:01:03,840
+ and I can play with the other pieces. D4. E6, knight H4 next, and don't tell me that you're
+
+10
+00:01:03,840 --> 00:01:14,400
+ gonna play G6 and absolutely destroy my plan. Thank you. Knight H4. Alright, one down, 6 more to go.
+
+11
+00:01:15,440 --> 00:01:24,720
+ Bishop C4. G6, the plan is very simple. Bishop H6, bishop takes H6, knight takes H6, knight takes
+
+12
+00:01:24,720 --> 00:01:34,480
+ H4, queen takes H4, and then guess what, I only have 3 more pieces to worry about. Castle. Bishop
+
+13
+00:01:34,480 --> 00:01:45,200
+ H6. Of course he'll take. Nevermind. Knight F5. G4. Very aggressive. Knight H4 again, man these
+
+14
+00:01:45,200 --> 00:01:52,240
+ bishops have been staring at each other for like an eternity. D5. You know what, since he really
+
+15
+00:01:52,240 --> 00:01:57,520
+ doesn't want to take me, I'll take him then, I mean there is a chance that he'll just take with
+
+16
+00:01:57,520 --> 00:02:06,960
+ his queen and blunder this horsey right here. Right? Nevermind. Knight H6. Dude, on second
+
+17
+00:02:06,960 --> 00:02:12,320
+ thought, I think that most 100 rated players would have just immediately taken with their queens
+
+18
+00:02:12,320 --> 00:02:17,520
+ instead of their rooks, so the fact that he actually spotted that his queen was being overloaded with
+
+19
+00:02:17,520 --> 00:02:23,120
+ defending 2 pieces at once, makes me think that he is not really a 100 rated player.
+
+20
+00:02:25,040 --> 00:02:33,360
+ Wow. As soon as I said that, he blundered his woman. Knight takes F3 royal fork. Alright,
+
+21
+00:02:33,360 --> 00:02:37,600
+ now comes the moment of truth, please don't resign just because of a queen.
+
+22
+00:02:37,600 --> 00:02:46,160
+ Well I mean after I take his queen there is a second fork of his rook and his bishop too,
+
+23
+00:02:46,160 --> 00:02:53,120
+ so a resignation is actually an acceptable decision. Therefore, mission failed, successfully.
+
+24
+00:02:53,280 --> 00:02:55,360
+ (outro)
+
+25
+00:02:55,360 --> 00:03:08,180
+ (outro)
+

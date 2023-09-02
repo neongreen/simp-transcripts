@@ -1,0 +1,120 @@
+1
+00:00:00,000 --> 00:00:07,120
+ 100 rated chess, but the pieces, not pawns, can only make the longest available move.
+
+2
+00:00:07,120 --> 00:00:14,400
+ Well, there are actually some problems with this idea. You see, in this position, my queen's
+
+3
+00:00:14,400 --> 00:00:20,640
+ longest available move is queen h5 check, but after that, the longest available move for my
+
+4
+00:00:20,640 --> 00:00:27,200
+ queen is queen back to d1, which means my queen can only go back and forth between d1 and h5 the
+
+5
+00:00:27,200 --> 00:00:34,640
+ entire game. Therefore, let's add something like. In that direction, and it's like in this position,
+
+6
+00:00:34,640 --> 00:00:40,560
+ queen d3 is also good, since it's the longest possible move in this direction, or in this
+
+7
+00:00:40,560 --> 00:00:46,320
+ position, queen b3 also works, because it's also the longest move in this direction.
+
+8
+00:00:46,320 --> 00:00:53,600
+ And with that out of the way, let's start the game. We get a 1 55 from columbia.
+
+9
+00:00:54,480 --> 00:01:00,320
+ E4. Let's take some center space, since it's going to be hard to develop my bishops.
+
+10
+00:01:00,320 --> 00:01:10,720
+ E5. Aha! That move opened up his dark bishop, which means bishop e7, bishop d6, bishop c5,
+
+11
+00:01:10,720 --> 00:01:18,720
+ and bishop b4, are all threats to my video. Therefore, b4. With this move, I'm making bishop
+
+12
+00:01:18,720 --> 00:01:24,320
+ b4 his longest available bishop move, and it comes with a free pawn, so he won't play the
+
+13
+00:01:24,320 --> 00:01:32,640
+ other moves that can end my video. Knight f6. I think he's afraid that I'll play c3 after he
+
+14
+00:01:32,640 --> 00:01:39,360
+ takes my b-pawn. Therefore, knight c3. And in no world do you end my video now.
+
+15
+00:01:41,200 --> 00:01:48,800
+ Knight c6. Knight moves are good, since they always have the same length. Knight f3. I mean
+
+16
+00:01:48,800 --> 00:01:54,960
+ knight takes b4 is also fine, because that will make bishop c5 his longest bishop move,
+
+17
+00:01:54,960 --> 00:02:01,440
+ which is also very natural. Or just absolutely block the bishop instead.
+
+18
+00:02:01,440 --> 00:02:10,560
+ But anyway, that move opened up his other bishop, and just like last time, g4, I mean bishop takes
+
+19
+00:02:10,560 --> 00:02:18,400
+ is so obvious now, since that also pins my knight to my queen. Or not. And that's bad,
+
+20
+00:02:18,400 --> 00:02:26,400
+ since bishop f5 cannot happen due to my pawn on e4. Bishop h3. Let's just hope that he'll get
+
+21
+00:02:26,400 --> 00:02:36,000
+ scared and move his knight away, so there can be a bishop trade. F5. Very aggressive. He takes f5.
+
+22
+00:02:36,560 --> 00:02:46,640
+ Ha! Now bishop f5 is available again, and he will definitely play it. Right? Of course. d4.
+
+23
+00:02:46,640 --> 00:02:54,560
+ I think he can do something with my f-pawn here, but I think it's not that bad. He takes d4. Knight
+
+24
+00:02:54,560 --> 00:03:06,160
+ takes d4. Knight takes d4. Queen takes d4. Bishop takes c2. Very aggressive. That blunders a horsey.
+
+25
+00:03:06,160 --> 00:03:13,440
+ I'll take with queen. Okay, now comes the hard part. The board is now very opened up, which means
+
+26
+00:03:13,440 --> 00:03:19,680
+ there are all tons of moves possible, which means he can pretty much end my video any time now,
+
+27
+00:03:19,680 --> 00:03:24,720
+ or he can just blunder his king in one move, but there's no way that can happen anyway.
+
+28
+00:03:24,720 --> 00:03:34,240
+ I solemnly swear, that this guy is not a paid actor. Queen takes d7. Checkmate.
+
+29
+00:03:35,760 --> 00:03:37,760
+ Mission accomplished.
+
+30
+00:03:37,760 --> 00:03:52,480
+ [Music]
+

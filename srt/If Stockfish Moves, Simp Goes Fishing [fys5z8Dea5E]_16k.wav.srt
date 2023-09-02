@@ -1,0 +1,140 @@
+1
+00:00:00,000 --> 00:00:03,600
+ If Stockfish sees a 1.0 material advantage...
+
+2
+00:00:03,600 --> 00:00:05,100
+ or more...
+
+3
+00:00:05,100 --> 00:00:07,100
+ Simp goes fishing.
+
+4
+00:00:07,100 --> 00:00:12,100
+ Yeah, Stockfish ends my video, but another fish has to die.
+
+5
+00:00:12,100 --> 00:00:13,600
+ Disclaimer.
+
+6
+00:00:13,600 --> 00:00:20,600
+ I only use Stockfish to analyze my game after it is already done, which means I didn't cheat during the game.
+
+7
+00:00:20,600 --> 00:00:25,100
+ I know most people know about this, but I still want to say it out loud,
+
+8
+00:00:25,100 --> 00:00:30,100
+ since there are always some haters who just want to ruin my video coming in and say,
+
+9
+00:00:30,100 --> 00:00:35,100
+ "Oh you trash YouTuber you cheat during the game disliked unsubbed."
+
+10
+00:00:35,100 --> 00:00:39,100
+ And with that out of the way, let's start the game.
+
+11
+00:00:39,100 --> 00:00:42,100
+ We get a 219 from the US.
+
+12
+00:00:42,100 --> 00:00:50,100
+ Man, that is like my 69th American opponent in a row, and chess.com has been invaded by the US.
+
+13
+00:00:50,100 --> 00:00:58,100
+ But anyway, since I have to keep the game as balanced as possible, I think I have to go with a less aggressive opening.
+
+14
+00:00:58,100 --> 00:00:59,100
+ d4.
+
+15
+00:00:59,100 --> 00:01:10,100
+ Yeah, you see? White starts at +0.5 advantage, but after d4, it's just a dead... draw.
+
+16
+00:01:10,100 --> 00:01:11,100
+ d5.
+
+17
+00:01:11,100 --> 00:01:13,100
+ Still theory.
+
+18
+00:01:13,100 --> 00:01:21,100
+ Bg4 is really scary, since it allows me to kick his bishop around, which may cause Stockfish to dislike it,
+
+19
+00:01:21,100 --> 00:01:28,100
+ but a preventing move like f3 or h3 is even riskier, since I may end up ending my own video.
+
+20
+00:01:28,100 --> 00:01:32,100
+ Therefore, let's just follow my own plan.
+
+21
+00:01:32,100 --> 00:01:34,100
+ Bf4.
+
+22
+00:01:34,100 --> 00:01:35,100
+ Wow.
+
+23
+00:01:35,100 --> 00:01:39,100
+ 0.00000000.
+
+24
+00:01:39,100 --> 00:01:44,100
+ This video is definitely going to be long.
+
+25
+00:01:44,100 --> 00:01:46,100
+ Nc6.
+
+26
+00:01:46,100 --> 00:01:53,100
+ Aha, I was worrying that he might have played Bg4, but this is actually perfect.
+
+27
+00:01:53,100 --> 00:01:54,100
+ e3.
+
+28
+00:01:54,100 --> 00:02:01,100
+ Now Bg4 is no longer available.
+
+29
+00:02:01,100 --> 00:02:05,100
+ At least I think so.
+
+30
+00:02:05,100 --> 00:02:07,100
+ My god that was scary.
+
+31
+00:02:07,100 --> 00:02:09,100
+ Nf3.
+
+32
+00:02:09,100 --> 00:02:23,100
+ Now that you have developed your bishop, please don't move it again to pin my knight, since I'm pretty positive that it ends the video.
+
+33
+00:02:23,100 --> 00:02:29,100
+ Well, I actually don't think we even need to check Stockfish about that move.
+
+34
+00:02:29,100 --> 00:02:35,100
+ And since I'm being quarantined due to covid-19, let's just end the video instead.
+
+35
+00:02:35,100 --> 00:02:50,100
+ Thanks for watching.
+

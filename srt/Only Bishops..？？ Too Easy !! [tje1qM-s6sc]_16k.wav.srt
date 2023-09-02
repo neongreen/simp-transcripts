@@ -1,0 +1,112 @@
+1
+00:00:00,000 --> 00:00:04,400
+ 100 rated chess, but the bishops must never see the same square.
+
+2
+00:00:04,400 --> 00:00:11,600
+ Wow. It's been a long time since I last see a challenge that only requires a specific type of
+
+3
+00:00:11,600 --> 00:00:19,840
+ piece. Because you know, they are too easy. We get a 137 from Italy. Since this is a bishop challenge,
+
+4
+00:00:19,840 --> 00:00:27,120
+ pushing center pawns is obviously a bad idea. So I guess, c4. It's a shame that I cannot use
+
+5
+00:00:27,120 --> 00:00:35,920
+ the Italian opening against an Italian. d6. Not very aggressive. My original plan was to push c4
+
+6
+00:00:35,920 --> 00:00:42,320
+ first, and then I can push e4, because my bishop's view is already blocked by my c-pawn, but since
+
+7
+00:00:42,320 --> 00:00:51,040
+ he's playing very passively, let's go for... f4. I mean why not try to play both e4 and d4? Right?
+
+8
+00:00:52,320 --> 00:01:00,640
+ b6. Aha! He's obviously threatening bishop b7 ending the video, so e4 should be able to stop it,
+
+9
+00:01:00,640 --> 00:01:08,080
+ but if I play e4, there is also bishop a6, which immediately turns me into a fool. Therefore,
+
+10
+00:01:08,080 --> 00:01:14,960
+ knight f3 is kinda forced. Now unless he goes crazy and plays bishop h3, nothing can end the
+
+11
+00:01:14,960 --> 00:01:29,680
+ video now. c5. Alright, it's time to push those pawns. d4. Knight c6. Perfect. d5. Ha! Now the
+
+12
+00:01:29,680 --> 00:01:35,200
+ biggest threat of bishop b7 and then takes my knight to end the video, does no longer exist.
+
+13
+00:01:36,480 --> 00:01:47,120
+ Knight b4. That is even better for me. a3. Knight a6. Ha! Now since bishop a6 is no longer a thing,
+
+14
+00:01:47,120 --> 00:01:52,480
+ I can finally play... e4. This mission is going so well in my direction.
+
+15
+00:01:52,480 --> 00:02:02,560
+ f5. Aha! That blunders a pawn, but if I take it, he may blunder bishop takes f5, queen a4 forking
+
+16
+00:02:02,560 --> 00:02:08,960
+ his knight and his king, but the point is, the move bishop f5 makes his bishop c the e3 square,
+
+17
+00:02:08,960 --> 00:02:18,800
+ which is the same as my bishop, which ends the video. Therefore, e5. d takes e5. f takes is
+
+18
+00:02:18,800 --> 00:02:25,920
+ obviously the best continuation, but then there is g6 ending the video. Therefore, I'll take with
+
+19
+00:02:25,920 --> 00:02:35,040
+ knight. Knight c7. Aha! That brings back the threat of bishop a6 seeing the c4 square. But no
+
+20
+00:02:35,040 --> 00:02:43,600
+ worries, I will not let him have the chance to play that move. Queen h5 check. g6 is forced.
+
+21
+00:02:43,600 --> 00:02:52,720
+ Knight takes g6. By the way, Stockfish said, brilliant! h takes g6. I'll take the rook. Oh,
+
+22
+00:02:53,280 --> 00:03:01,840
+ wait. I missed the checkmate in 2. Oh well who cares anyway. Now since my queen is attacking
+
+23
+00:03:01,840 --> 00:03:08,560
+ his knight, there's no way he can play bishop a6 or bishop h6 to end my video. Right?
+
+24
+00:03:08,560 --> 00:03:17,840
+ Knight e6. That blunders a horsey. Ha! Even better, now this bishop is pinned,
+
+25
+00:03:17,840 --> 00:03:22,320
+ and his other knight is also being attacked, so the other bishop still cannot move.
+
+26
+00:03:22,320 --> 00:03:26,320
+ [Sick Music]
+
+27
+00:03:26,320 --> 00:03:30,320
+ Yeah this mission is obviously impossible.
+
+28
+00:03:30,320 --> 00:03:43,680
+ [Sick Music]
+

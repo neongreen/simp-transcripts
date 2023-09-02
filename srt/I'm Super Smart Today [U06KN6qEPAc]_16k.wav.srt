@@ -1,0 +1,236 @@
+1
+00:00:00,000 --> 00:00:06,000
+ 100 rated chess, but you reveal the challenge once you move one of your horses.
+
+2
+00:00:06,000 --> 00:00:10,400
+ It's very suspicious to me why the covered challenges always get more reactions than
+
+3
+00:00:10,400 --> 00:00:12,100
+ the normal ones.
+
+4
+00:00:12,100 --> 00:00:13,920
+ But it's not my problem.
+
+5
+00:00:13,920 --> 00:00:17,360
+ We get a 100 rated guy from South Africa.
+
+6
+00:00:17,360 --> 00:00:19,520
+ E4.
+
+7
+00:00:19,520 --> 00:00:21,600
+ Let's try something fun.
+
+8
+00:00:21,600 --> 00:00:22,980
+ F5.
+
+9
+00:00:22,980 --> 00:00:28,400
+ This is a very famous opening called the King's Pawn Opening, Duras Gambit.
+
+10
+00:00:28,400 --> 00:00:30,200
+ But don't play this.
+
+11
+00:00:30,200 --> 00:00:31,680
+ F3.
+
+12
+00:00:31,680 --> 00:00:34,440
+ I don't want to take that pawn yet.
+
+13
+00:00:34,440 --> 00:00:36,240
+ E5.
+
+14
+00:00:36,240 --> 00:00:37,960
+ Knight H3.
+
+15
+00:00:37,960 --> 00:00:40,240
+ Now I'll take.
+
+16
+00:00:40,240 --> 00:00:41,240
+ Pawn takes.
+
+17
+00:00:41,240 --> 00:00:43,440
+ Queen H5 check.
+
+18
+00:00:43,440 --> 00:00:48,240
+ Knight F2 is best, but please go G3.
+
+19
+00:00:48,240 --> 00:00:49,720
+ Thank you.
+
+20
+00:00:49,720 --> 00:00:54,000
+ That blunders a rook, Queen takes E4 check.
+
+21
+00:00:54,000 --> 00:00:55,720
+ Bishop blocks.
+
+22
+00:00:55,720 --> 00:00:56,840
+ Free rook.
+
+23
+00:00:56,840 --> 00:01:01,240
+ Beginners are not very good with rooks as they don't move them very often, so I don't
+
+24
+00:01:01,240 --> 00:01:07,720
+ think there is a potential early resignation after I make that capture.
+
+25
+00:01:07,720 --> 00:01:09,120
+ Knight G1.
+
+26
+00:01:09,120 --> 00:01:10,720
+ Ah ha.
+
+27
+00:01:10,720 --> 00:01:13,160
+ Now comes the real question.
+
+28
+00:01:13,160 --> 00:01:15,100
+ Do I take that knight?
+
+29
+00:01:15,100 --> 00:01:20,800
+ If I take that horsey, it'll bring my material advantage to +9, which is a very dangerous
+
+30
+00:01:20,800 --> 00:01:25,120
+ threshold as a resignation is very likely to happen.
+
+31
+00:01:25,120 --> 00:01:27,160
+ Well but who cares anyway.
+
+32
+00:01:27,160 --> 00:01:31,120
+ As always, I'm not a coward.
+
+33
+00:01:31,120 --> 00:01:33,320
+ Bishop F1 is forced.
+
+34
+00:01:33,320 --> 00:01:35,920
+ I cannot delay this any further.
+
+35
+00:01:35,920 --> 00:01:38,520
+ Knight F6.
+
+36
+00:01:38,520 --> 00:01:39,880
+ Queen E2.
+
+37
+00:01:39,880 --> 00:01:47,320
+ That attacks my pawn, but before we deal with that, that horse must deliver a letter to
+
+38
+00:01:47,320 --> 00:01:52,480
+ your opponent's king that offers them a draw, if your opponent declines, then that horse
+
+39
+00:01:52,480 --> 00:01:56,040
+ must go all the way back to report to your king.
+
+40
+00:01:56,040 --> 00:02:00,880
+ You lose if that horse dies at any point while delivering the letter.
+
+41
+00:02:00,880 --> 00:02:03,040
+ Well.
+
+42
+00:02:03,040 --> 00:02:07,200
+ I guess we shouldn't have too much hope for a victory in this game.
+
+43
+00:02:07,200 --> 00:02:08,800
+ D6.
+
+44
+00:02:08,800 --> 00:02:10,880
+ G4.
+
+45
+00:02:10,880 --> 00:02:12,880
+ That blunders a pawn.
+
+46
+00:02:12,880 --> 00:02:20,680
+ And in no world do you take my knight right here.
+
+47
+00:02:20,680 --> 00:02:22,080
+ No doubt.
+
+48
+00:02:22,080 --> 00:02:28,680
+ It's not safe enough for my knight to touch his king yet, therefore, I have an idea.
+
+49
+00:02:28,680 --> 00:02:31,280
+ Queen G3 check.
+
+50
+00:02:31,280 --> 00:02:32,680
+ King D1.
+
+51
+00:02:32,680 --> 00:02:34,240
+ Knight F2 check.
+
+52
+00:02:34,240 --> 00:02:44,760
+ If my knight cannot touch his king, I'll let his king touches my knight instead.
+
+53
+00:02:44,760 --> 00:02:46,160
+ There we go.
+
+54
+00:02:46,160 --> 00:02:52,840
+ Now I send a draw offer, but in this very position, something unexpected happened.
+
+55
+00:02:52,840 --> 00:02:54,720
+ I got a power outage.
+
+56
+00:02:54,720 --> 00:03:00,560
+ Therefore, I don't know if my opponent agreed to the draw offer or not, I even had to bring
+
+57
+00:03:00,560 --> 00:03:04,080
+ my laptop to a cafe to edit this video.
+
+58
+00:03:04,080 --> 00:03:04,920
+ Not my fault.
+
+59
+00:03:05,080 --> 00:03:19,680
+ [Music]
+

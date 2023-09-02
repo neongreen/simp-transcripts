@@ -1,0 +1,200 @@
+1
+00:00:00,000 --> 00:00:04,000
+ 100 rated chess, but everyone got a chance.
+
+2
+00:00:04,000 --> 00:00:10,000
+ All of your pieces, not pawns, must check your opponent's king before they die.
+
+3
+00:00:10,000 --> 00:00:13,300
+ Not only will they check, checkmate.
+
+4
+00:00:13,300 --> 00:00:19,060
+ We get a 2 26 from somewhere around the world, it seems like chess.com forgot to add the
+
+5
+00:00:19,060 --> 00:00:22,420
+ flag for this guy.
+
+6
+00:00:22,420 --> 00:00:23,420
+ Very racist.
+
+7
+00:00:23,420 --> 00:00:24,420
+ E4.
+
+8
+00:00:24,420 --> 00:00:25,420
+ E5.
+
+9
+00:00:25,420 --> 00:00:30,580
+ Since I'll have to attack his king a lot.
+
+10
+00:00:30,580 --> 00:00:32,300
+ King's gambit.
+
+11
+00:00:32,300 --> 00:00:37,040
+ King's gambit is risky for my king, but it also creates a lot of initiatives for me to
+
+12
+00:00:37,040 --> 00:00:40,320
+ attack his king.
+
+13
+00:00:40,320 --> 00:00:42,260
+ Gambit accepted.
+
+14
+00:00:42,260 --> 00:00:44,300
+ Queen h4 is a threat.
+
+15
+00:00:44,300 --> 00:00:46,500
+ Knight f3 book move.
+
+16
+00:00:46,500 --> 00:00:48,940
+ D6 book move.
+
+17
+00:00:48,940 --> 00:00:50,480
+ D4 book move.
+
+18
+00:00:50,480 --> 00:00:56,700
+ This guy is scaring me by continuously making book moves, I'm down to resign if g5 happens
+
+19
+00:00:56,700 --> 00:01:00,500
+ now.
+
+20
+00:01:00,500 --> 00:01:01,780
+ Of course.
+
+21
+00:01:01,780 --> 00:01:03,900
+ I'll take this pawn.
+
+22
+00:01:03,900 --> 00:01:06,060
+ a5.
+
+23
+00:01:06,060 --> 00:01:10,940
+ That weakens b5 a lot, I'll take this pawn first.
+
+24
+00:01:10,940 --> 00:01:12,700
+ D takes e5.
+
+25
+00:01:12,700 --> 00:01:14,940
+ Bishop b5 check.
+
+26
+00:01:14,940 --> 00:01:20,460
+ In case you haven't noticed, this guy hasn't even developed a single piece yet, so bishop
+
+27
+00:01:20,460 --> 00:01:26,060
+ b5 is forcing him to finally make a first piece move.
+
+28
+00:01:26,060 --> 00:01:28,460
+ Or king.
+
+29
+00:01:28,460 --> 00:01:31,140
+ Queen trade is legal as that is a check.
+
+30
+00:01:31,140 --> 00:01:35,480
+ But I don't like it, knight bd2.
+
+31
+00:01:35,480 --> 00:01:37,060
+ Rook a6.
+
+32
+00:01:37,060 --> 00:01:41,220
+ That blunders a rook and a knight, but my bishop is much stronger than his rook, and
+
+33
+00:01:41,220 --> 00:01:46,420
+ there is also no reason to waste a move on a horsey that will never be developed.
+
+34
+00:01:46,420 --> 00:01:48,380
+ Knight e5 instead.
+
+35
+00:01:48,380 --> 00:01:54,780
+ I'm starting to feel the tension, let's try to end this quickly.
+
+36
+00:01:54,780 --> 00:01:56,340
+ Rook e6.
+
+37
+00:01:56,340 --> 00:01:57,660
+ Queen f3.
+
+38
+00:01:57,660 --> 00:02:02,300
+ You may say he's threatening to take my knight which hasn't given a single check yet, but
+
+39
+00:02:02,300 --> 00:02:08,220
+ since his rook is also as active as my knight, who plays like that anyway.
+
+40
+00:02:08,220 --> 00:02:10,180
+ Right?
+
+41
+00:02:10,180 --> 00:02:12,180
+ Ha!
+
+42
+00:02:12,180 --> 00:02:14,180
+ Doubters.
+
+43
+00:02:14,180 --> 00:02:16,180
+ Long castle.
+
+44
+00:02:16,180 --> 00:02:18,220
+ f5.
+
+45
+00:02:18,220 --> 00:02:19,220
+ Knight takes e4.
+
+46
+00:02:19,220 --> 00:02:21,740
+ Fe4 queen e4.
+
+47
+00:02:21,740 --> 00:02:26,300
+ Alright, now my setup should be strong enough for a checkmate attack.
+
+48
+00:02:26,300 --> 00:02:35,180
+ So as long as he doesn't make a crazy capture.
+
+49
+00:02:35,180 --> 00:02:35,460
+ What the f-
+
+50
+00:02:35,460 --> 00:02:50,040
+ [Outro music]
+

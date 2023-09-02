@@ -1,0 +1,132 @@
+1
+00:00:00,000 --> 00:00:09,160
+ If a piece attacks 3 pieces, or pawns, at the same time, the video ends.
+
+2
+00:00:09,160 --> 00:00:11,120
+ This is going to be short.
+
+3
+00:00:11,120 --> 00:00:14,080
+ We get a 1 0 3 from the US.
+
+4
+00:00:14,080 --> 00:00:19,800
+ So in order to prevent a real fork from happening, I strongly believe that I need to take, as
+
+5
+00:00:19,800 --> 00:00:23,160
+ much center space, as possible.
+
+6
+00:00:23,160 --> 00:00:24,760
+ E4.
+
+7
+00:00:24,760 --> 00:00:27,280
+ E5.
+
+8
+00:00:27,280 --> 00:00:28,800
+ Still theory.
+
+9
+00:00:28,800 --> 00:00:35,600
+ Now queen H4 ends my video, since it attacks my E-pawn, my F-pawn, and my H-pawn.
+
+10
+00:00:35,600 --> 00:00:39,920
+ Therefore, knight F3.
+
+11
+00:00:39,920 --> 00:00:44,680
+ Knights are good, because even though they attack a lot of squares, their attack range
+
+12
+00:00:44,680 --> 00:00:47,720
+ is very limited to their positions.
+
+13
+00:00:47,720 --> 00:00:50,520
+ F6.
+
+14
+00:00:50,520 --> 00:00:56,080
+ That blunders a pawn, but if I take it, there is a chance that he takes back with his pawn,
+
+15
+00:00:56,080 --> 00:01:02,080
+ which blunders a rook to queen H5, but that move actually ends my video, so I cannot play
+
+16
+00:01:02,080 --> 00:01:06,840
+ it, which means I'll be losing a knight, instead of him losing a rook.
+
+17
+00:01:06,840 --> 00:01:10,720
+ Therefore, D4.
+
+18
+00:01:10,720 --> 00:01:12,200
+ Knight C6.
+
+19
+00:01:12,200 --> 00:01:13,200
+ Yes.
+
+20
+00:01:13,200 --> 00:01:17,000
+ Another knight move, which is definitely good for the video.
+
+21
+00:01:17,000 --> 00:01:21,880
+ And if you take a look at the board, there is absolutely no way for him to end my video
+
+22
+00:01:21,880 --> 00:01:23,520
+ right now.
+
+23
+00:01:24,160 --> 00:01:29,160
+ And he resigned.
+
+24
+00:01:29,160 --> 00:01:34,080
+ Mission accomplished, but since the video is so short, I think I'll take this chance
+
+25
+00:01:34,080 --> 00:01:38,320
+ to answer some of your comments in my videos.
+
+26
+00:01:38,320 --> 00:01:42,920
+ I am so used to brilliant moves, I find them easily now.
+
+27
+00:01:42,920 --> 00:01:45,840
+ Yeah you wish.
+
+28
+00:01:45,840 --> 00:01:48,040
+ Nice chopsticks man.
+
+29
+00:01:48,040 --> 00:01:50,120
+ Nice avatar man.
+
+30
+00:01:50,120 --> 00:01:57,000
+ Hey, maybe if you ply your challenges against 1000s, you get better results.
+
+31
+00:01:57,000 --> 00:02:02,800
+ That is absolutely correct, therefore I decided that I should play against the 100s, so that
+
+32
+00:02:02,800 --> 00:02:05,800
+ they become unpredictably hard.
+
+33
+00:02:06,480 --> 00:02:20,320
+ [Outro]
+

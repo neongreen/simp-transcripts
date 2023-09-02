@@ -1,0 +1,84 @@
+1
+00:00:00,000 --> 00:00:05,600
+ 100 rated chess, but your pawns are not allowed to touch any of your opponent's pawns.
+
+2
+00:00:05,600 --> 00:00:12,720
+ Well, knight f3, of course I'm not gonna push pawns too early, and if he can just blunder a
+
+3
+00:00:12,720 --> 00:00:22,880
+ pawn right now, that will be very convenient. f5. Very aggressive. Knight c3. e6. I want to
+
+4
+00:00:22,880 --> 00:00:28,800
+ push this pawn to open up my queen and bishop, but if he goes f4 next, that will make his f-pawn
+
+5
+00:00:28,800 --> 00:00:41,120
+ touches my e-pawn, which ends the video. Therefore, d3. Bishop c5. Bishop g5. Bishop e7. Bishop f4.
+
+6
+00:00:41,120 --> 00:00:47,520
+ I mean as long as he doesn't play something like c5 and c4, the video will be absolutely fine.
+
+7
+00:00:51,600 --> 00:00:59,040
+ Alright, knight e5. Okay now it is very clear that the c4 square is heavily controlled, so in no
+
+8
+00:00:59,040 --> 00:01:09,840
+ world do you push that pawn. Thank you. e3. I'm threatening queen h5 g6 knight g6 hg6 queen h8 to
+
+9
+00:01:09,840 --> 00:01:20,720
+ finish this game real fast before he can end my video. And he saw it. Bishop e2. d6. Bishop h5
+
+10
+00:01:20,720 --> 00:01:26,720
+ check. I mean g6 will make the game really complicated, but I'm sure he's just gonna take it.
+
+11
+00:01:26,720 --> 00:01:36,960
+ Perfect. Queen takes h5 check. g6. Knight takes g6. I mean my knight is no longer controlling the
+
+12
+00:01:36,960 --> 00:01:43,040
+ c4 square, but he should be able to see, that c4 is just blundering a full rook and probably the
+
+13
+00:01:43,040 --> 00:01:52,480
+ king as well. Right? There we go. Queen takes h8 check. I mean if he can just pull his bishop
+
+14
+00:01:52,480 --> 00:02:03,280
+ down to block the check, that will help me. A lot. Of course it doesn't happen. Queen g7. Knight c6.
+
+15
+00:02:03,280 --> 00:02:10,320
+ Long castle. Alright, now he should be able to see, that c4 is just opening up my rook straight
+
+16
+00:02:10,320 --> 00:02:20,880
+ towards his king, so in no world that move should be played. Right? b6. I'll take this pawn. Bishop a6.
+
+17
+00:02:20,880 --> 00:02:28,640
+ Ah ha, that move is obviously telling me that he wants to go c4. But again, my rook will be opened,
+
+18
+00:02:28,640 --> 00:02:35,840
+ and maybe his target is actually to trade pawns and then target my a-pawn, therefore, a3. Now there
+
+19
+00:02:35,840 --> 00:02:45,760
+ is no reason to play c4 anymore. It's like every single time, when my opponent ends my video,
+
+20
+00:02:45,760 --> 00:02:49,680
+ Stockfish gives them a compliment.
+
+21
+00:02:49,680 --> 00:03:03,680
+ [Music]
+

@@ -1,0 +1,88 @@
+1
+00:00:00,000 --> 00:00:07,920
+ 100 rated chess, but you are far-sighted, your pieces and pawns cannot take any pieces or pawns
+
+2
+00:00:07,920 --> 00:00:14,080
+ within a three-tile distance of your piece. Too easy! We get a 120 from Germany.
+
+3
+00:00:14,080 --> 00:00:21,360
+ e4. Since I cannot take anything within three tiles, pushing center pawns or developing a knight
+
+4
+00:00:21,360 --> 00:00:28,000
+ is not very efficient, therefore, b6. Playing the bishop on the long diagonal is definitely
+
+5
+00:00:28,000 --> 00:00:41,760
+ the best way to start this challenge. Qh5. Very aggressive. Be7. Bc4. g6. Alright, Bf7 is forcing
+
+6
+00:00:41,760 --> 00:00:48,560
+ Kxf7, which makes me a fool for ending my own video, but since it's obviously blundering a bishop,
+
+7
+00:00:48,560 --> 00:01:00,320
+ who plays like that anyway. Right? Of course. e6. Again, Qxf7 is forcing Kxf7, which makes me a fool
+
+8
+00:01:00,320 --> 00:01:06,480
+ for ending my own video, but just like last time, it is obviously blundering a queen, who plays like
+
+9
+00:01:06,480 --> 00:01:16,720
+ that anyway. Right? No doubt. F5. My bishop is 4 squares away from his queen, which is longer than
+
+10
+00:01:16,720 --> 00:01:26,160
+ 3, so why not try our luck at winning the woman? g4. Bg7. I can already see that this video is
+
+11
+00:01:26,160 --> 00:01:34,000
+ going in a very wrong direction. Gxf5. Nc6, there's nothing I can do about this pawn.
+
+12
+00:01:34,000 --> 00:01:44,800
+ Fxe6. Qf7 is checkmate in 1, therefore, Ne5. I mean if he really goes Qf7, I technically cannot
+
+13
+00:01:44,800 --> 00:01:50,160
+ take his queen because the knight only travels a 2 square distance every move, but of course he's
+
+14
+00:01:50,160 --> 00:02:00,400
+ not going to play it. Right? Of course. Ke7 is forced. Well, I mean at least now Qf7 is not
+
+15
+00:02:00,400 --> 00:02:08,080
+ forcing me to end the video anymore. Qf4. That blunders a bishop, but my knight can never take
+
+16
+00:02:08,080 --> 00:02:15,680
+ anything. So I guess, Nh6, as long as he doesn't take my knight right here, I guess I can still
+
+17
+00:02:15,680 --> 00:02:25,520
+ bring this game back into my control. That blunders a queen, but it's only 2 squares away.
+
+18
+00:02:25,520 --> 00:02:37,040
+ Kf8. Qf4 check. Ke7. A repetitional draw will be very convenient. Of course it doesn't happen.
+
+19
+00:02:37,600 --> 00:02:46,000
+ Moving the king up is obviously way too dank. Kf8. I mean Qxd8 is forcing Rx which ends the video,
+
+20
+00:02:46,000 --> 00:02:51,040
+ but since he is the attacking side, of course he's not gonna trade down his strongest piece
+
+21
+00:02:51,040 --> 00:02:54,080
+ on the entire board. Right?
+
+22
+00:02:54,560 --> 00:03:14,560
+ [Music]
+

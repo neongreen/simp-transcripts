@@ -1,0 +1,268 @@
+1
+00:00:00,000 --> 00:00:05,280
+ 100 rated chess, but you have a rook lift every 3 moves.
+
+2
+00:00:05,280 --> 00:00:06,480
+ Very salty.
+
+3
+00:00:06,480 --> 00:00:09,120
+ We get a 198 from Russia.
+
+4
+00:00:09,120 --> 00:00:10,800
+ E4.
+
+5
+00:00:10,800 --> 00:00:13,600
+ Since I'll have to lift a rook on move 3.
+
+6
+00:00:13,600 --> 00:00:16,760
+ H5 is kinda forced.
+
+7
+00:00:16,760 --> 00:00:18,760
+ Bishop E2.
+
+8
+00:00:18,760 --> 00:00:20,280
+ Very aggressive.
+
+9
+00:00:20,280 --> 00:00:24,120
+ Just as I pushed my pawn, he immediately attacked it.
+
+10
+00:00:24,120 --> 00:00:25,120
+ Therefore.
+
+11
+00:00:25,120 --> 00:00:26,540
+ H4.
+
+12
+00:00:26,540 --> 00:00:32,920
+ You know what people say, if you can't protect your girl, just put her in more danger.
+
+13
+00:00:32,920 --> 00:00:35,400
+ H3.
+
+14
+00:00:35,400 --> 00:00:37,240
+ Not very aggressive.
+
+15
+00:00:37,240 --> 00:00:38,920
+ The time has come.
+
+16
+00:00:38,920 --> 00:00:41,680
+ Rook H7 is kinda forced.
+
+17
+00:00:41,680 --> 00:00:43,680
+ G3.
+
+18
+00:00:43,680 --> 00:00:44,800
+ I'll take it.
+
+19
+00:00:44,800 --> 00:00:48,760
+ Opening up more room for my rook to move is always good.
+
+20
+00:00:48,760 --> 00:00:50,760
+ F takes.
+
+21
+00:00:50,760 --> 00:00:55,160
+ This rook doesn't have many squares left to move, and I don't really want to pull it back
+
+22
+00:00:55,160 --> 00:00:57,880
+ to just push it again in the future.
+
+23
+00:00:57,880 --> 00:01:00,240
+ Therefore, A5.
+
+24
+00:01:00,240 --> 00:01:04,360
+ Man, this challenge is getting a little bit annoying.
+
+25
+00:01:04,360 --> 00:01:06,520
+ A4.
+
+26
+00:01:06,520 --> 00:01:08,080
+ Very aggressive.
+
+27
+00:01:08,080 --> 00:01:11,080
+ Rook A7 is kinda forced.
+
+28
+00:01:11,080 --> 00:01:12,720
+ Knight C3.
+
+29
+00:01:12,720 --> 00:01:13,960
+ Ha!
+
+30
+00:01:13,960 --> 00:01:14,960
+ Finally!
+
+31
+00:01:14,960 --> 00:01:20,400
+ After all of those moves, now I finally have some time to develop the other pieces.
+
+32
+00:01:20,400 --> 00:01:21,960
+ E5.
+
+33
+00:01:21,960 --> 00:01:24,640
+ Taking the center baby.
+
+34
+00:01:24,640 --> 00:01:26,480
+ Bishop H5.
+
+35
+00:01:26,480 --> 00:01:27,860
+ Well.
+
+36
+00:01:27,860 --> 00:01:32,920
+ That is very aggressive, but I really don't understand the purpose of that move.
+
+37
+00:01:32,920 --> 00:01:35,600
+ Bishop C5.
+
+38
+00:01:35,600 --> 00:01:36,600
+ Queen F3.
+
+39
+00:01:36,600 --> 00:01:39,080
+ Oh wow!
+
+40
+00:01:39,080 --> 00:01:44,880
+ So Bishop H5 is to attack the F7 pawn with the future queen on F3.
+
+41
+00:01:44,880 --> 00:01:49,940
+ Dude, the creativity is absolutely remarkable.
+
+42
+00:01:49,940 --> 00:01:50,940
+ But anyway.
+
+43
+00:01:50,940 --> 00:01:55,740
+ I have to lift a rook now, but a normal rook lift is just hanging my king.
+
+44
+00:01:55,740 --> 00:01:59,380
+ Therefore, rook takes H5 is forced.
+
+45
+00:01:59,380 --> 00:02:04,860
+ Man, this guy has to be the creativest guy I have ever seen.
+
+46
+00:02:04,860 --> 00:02:06,780
+ Queen takes H5.
+
+47
+00:02:06,780 --> 00:02:09,860
+ It's fine, I still have another rook here.
+
+48
+00:02:09,860 --> 00:02:10,900
+ Queen F6.
+
+49
+00:02:10,900 --> 00:02:16,540
+ I mean since he tried to checkmate me, how about we try to checkmate him back.
+
+50
+00:02:16,540 --> 00:02:18,020
+ Ha!
+
+51
+00:02:18,020 --> 00:02:19,340
+ Noob!
+
+52
+00:02:19,340 --> 00:02:21,620
+ That blunders a king.
+
+53
+00:02:21,620 --> 00:02:23,780
+ Queen F2 check.
+
+54
+00:02:23,780 --> 00:02:25,500
+ King D1 is forced.
+
+55
+00:02:25,500 --> 00:02:27,620
+ Oh, wait.
+
+56
+00:02:27,620 --> 00:02:32,700
+ Even though queen F1 is checkmate in 1, it's actually a third move.
+
+57
+00:02:32,700 --> 00:02:36,220
+ Therefore, rook K6 is forced.
+
+58
+00:02:36,220 --> 00:02:40,580
+ This challenge is going very wrong very quickly.
+
+59
+00:02:40,580 --> 00:02:42,580
+ He takes my knight.
+
+60
+00:02:42,580 --> 00:02:43,580
+ King E7.
+
+61
+00:02:43,580 --> 00:02:49,660
+ Ok dude, now just take my bishop and we can continue to checkmate your king.
+
+62
+00:02:49,660 --> 00:02:51,740
+ Well.
+
+63
+00:02:51,740 --> 00:02:53,540
+ That also works.
+
+64
+00:02:53,540 --> 00:02:55,420
+ Queen to F1.
+
+65
+00:02:55,420 --> 00:02:57,420
+ Checkmate.
+
+66
+00:02:57,420 --> 00:02:59,180
+ Mission accomplished.
+
+67
+00:02:59,500 --> 00:03:14,100
+ [Music]
+

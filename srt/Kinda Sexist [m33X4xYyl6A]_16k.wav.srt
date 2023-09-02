@@ -1,0 +1,136 @@
+1
+00:00:00,000 --> 00:00:05,760
+ 100 rated chess, but neither woman can kill, unless their man is next to them.
+
+2
+00:00:05,760 --> 00:00:14,480
+ Well, this is actually pretty easy, so let's add. No queens are allowed to die, because if I can
+
+3
+00:00:14,480 --> 00:00:20,560
+ just make a big trade like this, the mission will become impossible to lose. And with that out of
+
+4
+00:00:20,560 --> 00:00:30,800
+ the way, let's start the game, we get a 2 27 from Brazil. E4. E5. As long as he doesn't develop his
+
+5
+00:00:30,800 --> 00:00:41,120
+ queen early, the video should be able to last for a while. Knight c3. Knight c6. d3. Not very
+
+6
+00:00:41,120 --> 00:00:48,320
+ aggressive. Bishop c5. On second thought, I think I should be thankful that he didn't decide to open
+
+7
+00:00:48,320 --> 00:00:56,400
+ up his queen file. Nevermind. That blunders a pawn. Well, I guess we can still be positive,
+
+8
+00:00:56,400 --> 00:01:00,960
+ because even if he blunders his queen like this, it still doesn't end the video.
+
+9
+00:01:00,960 --> 00:01:12,880
+ Knight d5. Very aggressive. c6. Knight e3. d5. Let's play a bit more aggressively and try to
+
+10
+00:01:12,880 --> 00:01:18,720
+ checkmate him before he can castle, because you know, his king will no longer be by his queen's
+
+11
+00:01:18,720 --> 00:01:27,920
+ side after he has castled. E takes d5, c takes d5, man it feels so intense that he can just take my
+
+12
+00:01:27,920 --> 00:01:36,320
+ knight at any moment and I cannot take back due to the rules. c4. Very aggressive. Knight f6.
+
+13
+00:01:37,840 --> 00:01:47,440
+ Knight takes d5, knight takes d5. c takes d5, queen takes d5. Again, this doesn't end the video,
+
+14
+00:01:47,440 --> 00:01:54,320
+ because my queen was standing next to my king. But of course, now my queen cannot capture anything,
+
+15
+00:01:54,320 --> 00:02:03,040
+ so maybe I'll have to pull her back next move. Bishop b5 check. Ah ha, this guy is obviously
+
+16
+00:02:03,040 --> 00:02:09,840
+ tricking me to take his bishop, and then blunder my queen, along with my video. Very tricky.
+
+17
+00:02:09,840 --> 00:02:18,480
+ Bishop d7. And by the way, fun fact, chess.com's engine actually thinks this move is an inaccuracy.
+
+18
+00:02:18,480 --> 00:02:26,320
+ And instead, king e7, is f***ing best. I mean someone really needs to work on this engine.
+
+19
+00:02:27,760 --> 00:02:35,600
+ a4. Ha, I was preparing bishop takes d7 and king takes d7 since my queen cannot capture in such
+
+20
+00:02:35,600 --> 00:02:42,160
+ position, but if he doesn't capture. I'll do it instead. Now is he gonna get scared of my queen
+
+21
+00:02:42,160 --> 00:02:50,880
+ and go knight f3, which blunders a checkmate in 4. No he doesn't. And by the way, if he had gone
+
+22
+00:02:50,880 --> 00:02:57,200
+ knight f3, feel free to pause the video right now to find the forced checkmate in 4, while I don't
+
+23
+00:02:57,200 --> 00:03:03,600
+ give you any seconds to do so because people skip the video, and the answer is bishop b4 check queen
+
+24
+00:03:03,600 --> 00:03:11,440
+ d2 queen e4 check king d1 queen e2 check queen takes e2 and bishop takes e2 mate, or bishop b4
+
+25
+00:03:11,440 --> 00:03:19,360
+ check bishop d2 queen e4 check queen e2 queen takes e2 checkmate. But anyway, back to the game.
+
+26
+00:03:19,360 --> 00:03:26,400
+ Queen takes g2 is obviously the best move, but of course, that is against the rules. Therefore,
+
+27
+00:03:26,400 --> 00:03:35,360
+ rook d8. Knight f3. Ah ha, now knight takes f3 check should be the best move, but even though
+
+28
+00:03:35,360 --> 00:03:41,120
+ queen takes f3 is fine, I don't think getting his queen far away from his king is a good idea.
+
+29
+00:03:41,120 --> 00:03:49,040
+ So I guess, queen d6. Man somehow that move looks so bad, maybe queen c4 was better but I didn't
+
+30
+00:03:49,040 --> 00:04:00,400
+ have much time to think. Bishop g5. Very aggressive. F6. Rook takes a7. That blunders a rook.
+
+31
+00:04:00,400 --> 00:04:08,560
+ Knight takes e5. Now the crazy stuff is swarming in real fast. I'll take the bishop.
+
+32
+00:04:09,760 --> 00:04:24,320
+ Queen h5 check. Wait. No. Did he trick me to play like that?
+
+33
+00:04:26,720 --> 00:04:43,280
+ Well, I kinda saw that was coming, so there's no what the f*** today.
+
+34
+00:04:43,280 --> 00:04:45,760
+ *outro music*
+

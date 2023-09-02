@@ -1,0 +1,120 @@
+1
+00:00:00,000 --> 00:00:10,000
+ 100 rated chess, but you are Robin Hood, you can only take a piece. Or pawn, if it is 3 tiles away, or further.
+
+2
+00:00:10,000 --> 00:00:16,000
+ Ha! It has been a long time since the last time I get to say "or pawn", but anyway.
+
+3
+00:00:16,000 --> 00:00:21,000
+ Very challenging. We get a 101 American.
+
+4
+00:00:21,000 --> 00:00:22,000
+ E4.
+
+5
+00:00:22,000 --> 00:00:23,000
+ E5.
+
+6
+00:00:23,000 --> 00:00:31,000
+ D4. The plan is to open up the board real fast so that my pieces can have more squares to move around.
+
+7
+00:00:31,000 --> 00:00:40,000
+ Perfect. I normally will just lay C3 and go for the Danish Gambit, but after D takes C3 Bishop C4 C takes B2,
+
+8
+00:00:40,000 --> 00:00:47,000
+ I cannot take his pawn because my bishop is only 1 square away from the pawn, and as you have already known,
+
+9
+00:00:47,000 --> 00:00:54,000
+ 1, is less than 3, which means that pawn will continue to take my rook and then change his gender.
+
+10
+00:00:54,000 --> 00:00:57,000
+ So I guess, queen takes D4.
+
+11
+00:00:57,000 --> 00:01:09,000
+ Bishop E7. That blunders a pawn, and as you can see, 1, 2, 3, and 3, is not less than 3, therefore, I can take it.
+
+12
+00:01:09,000 --> 00:01:19,000
+ Bishop back to F8. Ah ha! That blunders a rook, but sadly, the rook is only 1 square away from my queen, which is less than 3,
+
+13
+00:01:19,000 --> 00:01:30,000
+ so I guess, queen back to C3. I'm moving my queen away to gain some distance, because you know, big chances that he will blunder his rook again.
+
+14
+00:01:30,000 --> 00:01:37,000
+ Or his bishop. Queen takes G7. That was a 4 square distance, and if I remember correctly,
+
+15
+00:01:37,000 --> 00:01:43,000
+ 4, is not less than 3, therefore that move was possible.
+
+16
+00:01:43,000 --> 00:01:49,000
+ Queen E7. That blunders the rook again, and again, I cannot take it right now.
+
+17
+00:01:49,000 --> 00:01:58,000
+ Queen back to C3 again, and I did not blunder Edward, I need him dead so that my pieces can have more space to move around.
+
+18
+00:01:58,000 --> 00:02:03,000
+ Edward is dead. Who cares, bishop E3.
+
+19
+00:02:03,000 --> 00:02:13,000
+ Queen E6. Ah ha, now that really blunders the rook. Man my queen just hippity hoppity all over around his territory.
+
+20
+00:02:13,000 --> 00:02:17,000
+ And I absolutely don't know what that move is.
+
+21
+00:02:17,000 --> 00:02:24,000
+ Wow! That blunders a horsey, but once again, the rules are destroying all the fun.
+
+22
+00:02:24,000 --> 00:02:34,000
+ Knight C3. My horses are actually useless in this game because their move length is square root of 5, which is approximately 2.236,
+
+23
+00:02:34,000 --> 00:02:40,000
+ which is less than 3, but I still need to develop the knight so that I can use my rook.
+
+24
+00:02:40,000 --> 00:02:45,000
+ King retreats. Not very aggressive. Long castle.
+
+25
+00:02:45,000 --> 00:02:48,000
+ Queen E8. Bishop? No.
+
+26
+00:02:48,000 --> 00:03:01,000
+ Rook E1. I was planning to go bishop H6 king E7 rook E1 skewering the royal couple, but let's be a bit more greedy and go for a checkmate in one threat.
+
+27
+00:03:01,000 --> 00:03:12,000
+ Ha, he's obviously baiting me to take his pawn so that he can win my rook, but sadly, that is actually a check, so that plan is just blundering a queen, but anyway.
+
+28
+00:03:12,000 --> 00:03:16,000
+ Bishop to H6. Checkmate.
+
+29
+00:03:16,000 --> 00:03:19,000
+ Mission accomplished.
+
+30
+00:03:19,000 --> 00:03:33,000
+ [outro music]
+

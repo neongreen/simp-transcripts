@@ -1,0 +1,388 @@
+1
+00:00:00,000 --> 00:00:05,000
+ 100 rated chess, but you can only move diagonally.
+
+2
+00:00:05,000 --> 00:00:07,000
+ Knights are fine.
+
+3
+00:00:07,000 --> 00:00:11,000
+ Also, I cannot make any sacrifices.
+
+4
+00:00:11,000 --> 00:00:16,000
+ Because if I just let my knights die to open up the way for the other pieces,
+
+5
+00:00:16,000 --> 00:00:19,000
+ the mission may become a bit too easy.
+
+6
+00:00:19,000 --> 00:00:24,000
+ And with that out of the way, let's start the game.
+
+7
+00:00:24,000 --> 00:00:28,000
+ We get a 257 from the US.
+
+8
+00:00:28,000 --> 00:00:30,000
+ E4.
+
+9
+00:00:30,000 --> 00:00:34,000
+ Well, I don't have many choices anyway.
+
+10
+00:00:34,000 --> 00:00:37,000
+ Knight C6.
+
+11
+00:00:37,000 --> 00:00:39,000
+ D4.
+
+12
+00:00:39,000 --> 00:00:41,000
+ Very aggressive.
+
+13
+00:00:41,000 --> 00:00:43,000
+ Knight F6.
+
+14
+00:00:43,000 --> 00:00:45,000
+ E5.
+
+15
+00:00:45,000 --> 00:00:48,000
+ Again, very aggressive.
+
+16
+00:00:48,000 --> 00:00:53,000
+ Leaving the knight to death can open up the way for my queen and bishop to move,
+
+17
+00:00:53,000 --> 00:00:56,000
+ but of course, that is against the rules.
+
+18
+00:00:56,000 --> 00:01:01,000
+ Therefore, knight back to G8.
+
+19
+00:01:01,000 --> 00:01:03,000
+ Bishop B5.
+
+20
+00:01:03,000 --> 00:01:05,000
+ Very aggressive.
+
+21
+00:01:05,000 --> 00:01:08,000
+ But actually, if he takes my knight with his bishop,
+
+22
+00:01:08,000 --> 00:01:12,000
+ I can open up the way for my bishop to go out.
+
+23
+00:01:12,000 --> 00:01:16,000
+ Therefore, knight H6.
+
+24
+00:01:16,000 --> 00:01:18,000
+ Bishop takes C6.
+
+25
+00:01:18,000 --> 00:01:20,000
+ That should be good.
+
+26
+00:01:20,000 --> 00:01:24,000
+ But the question is, which way should I take his bishop?
+
+27
+00:01:24,000 --> 00:01:28,000
+ If I take it with my B-pawn, then after bishop A6,
+
+28
+00:01:28,000 --> 00:01:33,000
+ a simple move like B3 will absolutely kill my bishop's activity.
+
+29
+00:01:33,000 --> 00:01:37,000
+ But if I go with my D-pawn, my king will be exposed to more danger,
+
+30
+00:01:37,000 --> 00:01:42,000
+ because my queen is still not able to move yet.
+
+31
+00:01:42,000 --> 00:01:46,000
+ Alright. I think I need to take the risk.
+
+32
+00:01:46,000 --> 00:01:48,000
+ D takes C6.
+
+33
+00:01:48,000 --> 00:01:51,000
+ Because not only do I open up the way for my bishop,
+
+34
+00:01:51,000 --> 00:01:54,000
+ my king can also join in the fun too.
+
+35
+00:01:54,000 --> 00:01:58,000
+ #KingsFunMatters
+
+36
+00:01:58,000 --> 00:02:00,000
+ C4.
+
+37
+00:02:00,000 --> 00:02:04,000
+ Man, this guy is really aggressive.
+
+38
+00:02:04,000 --> 00:02:07,000
+ Bishop E6.
+
+39
+00:02:07,000 --> 00:02:09,000
+ Knight A3.
+
+40
+00:02:09,000 --> 00:02:11,000
+ Knight F5.
+
+41
+00:02:11,000 --> 00:02:13,000
+ Bishop E3.
+
+42
+00:02:13,000 --> 00:02:16,000
+ Ah ha! Very funny.
+
+43
+00:02:16,000 --> 00:02:21,000
+ He's basically telling me to go knight H4, G3, knight G to check,
+
+44
+00:02:21,000 --> 00:02:29,000
+ king E2, knight takes E3, king takes E3 going for the hyper-bonk-cloud opening.
+
+45
+00:02:29,000 --> 00:02:33,000
+ Well, if this were a normal game, I would do it for sure.
+
+46
+00:02:33,000 --> 00:02:37,000
+ But sadly, for this video, if I let my knight die like that,
+
+47
+00:02:37,000 --> 00:02:40,000
+ I will only have a bishop to play with.
+
+48
+00:02:40,000 --> 00:02:42,000
+ And king.
+
+49
+00:02:42,000 --> 00:02:45,000
+ Knight H6.
+
+50
+00:02:46,000 --> 00:02:47,000
+ D5.
+
+51
+00:02:47,000 --> 00:02:50,000
+ That blunders a pawn.
+
+52
+00:02:50,000 --> 00:02:52,000
+ C takes D5.
+
+53
+00:02:52,000 --> 00:02:54,000
+ Bishop takes D5.
+
+54
+00:02:54,000 --> 00:02:59,000
+ Of course queen takes D5 is winning a bishop since I cannot take back.
+
+55
+00:02:59,000 --> 00:03:04,000
+ But of course, no one plays like that. Right?
+
+56
+00:03:04,000 --> 00:03:08,000
+ My god that scares me to death.
+
+57
+00:03:08,000 --> 00:03:10,000
+ But anyway.
+
+58
+00:03:10,000 --> 00:03:11,000
+ That blunders a rook.
+
+59
+00:03:11,000 --> 00:03:14,000
+ But sadly, if I go for his rook,
+
+60
+00:03:14,000 --> 00:03:18,000
+ queen takes D8 is actually forcing king takes D8,
+
+61
+00:03:18,000 --> 00:03:20,000
+ which is not a diagonal move,
+
+62
+00:03:20,000 --> 00:03:24,000
+ which makes me a fool for ending my own video.
+
+63
+00:03:24,000 --> 00:03:28,000
+ Also, it looks like that he wants to go E6,
+
+64
+00:03:28,000 --> 00:03:34,000
+ bishop takes H6, G takes H6, and queen takes H8.
+
+65
+00:03:34,000 --> 00:03:37,000
+ Therefore, knight F5.
+
+66
+00:03:37,000 --> 00:03:43,000
+ It's actually pretty scary that my bishop is hard-pinned here in the middle of the board.
+
+67
+00:03:43,000 --> 00:03:45,000
+ Queen A4 check.
+
+68
+00:03:45,000 --> 00:03:47,000
+ Ah ha!
+
+69
+00:03:47,000 --> 00:03:50,000
+ Just as I was worrying about my bishop being pinned,
+
+70
+00:03:50,000 --> 00:03:52,000
+ he unpinned it immediately.
+
+71
+00:03:52,000 --> 00:03:56,000
+ Bishop C6 is kinda forced.
+
+72
+00:03:56,000 --> 00:03:59,000
+ Queen back to D1.
+
+73
+00:03:59,000 --> 00:04:00,000
+ Nope.
+
+74
+00:04:00,000 --> 00:04:02,000
+ No queen trade here.
+
+75
+00:04:02,000 --> 00:04:04,000
+ Bishop D7.
+
+76
+00:04:04,000 --> 00:04:07,000
+ Queen D3.
+
+77
+00:04:07,000 --> 00:04:09,000
+ Knight back to H6.
+
+78
+00:04:09,000 --> 00:04:12,000
+ I don't have many choices anyway.
+
+79
+00:04:13,000 --> 00:04:15,000
+ Long castle.
+
+80
+00:04:15,000 --> 00:04:16,000
+ Ah!
+
+81
+00:04:16,000 --> 00:04:18,000
+ This is becoming a bit scary.
+
+82
+00:04:18,000 --> 00:04:22,000
+ Now queen takes D7 is ending the mission immediately.
+
+83
+00:04:22,000 --> 00:04:26,000
+ But since it's actually blundering a rook for bishop exchange,
+
+84
+00:04:26,000 --> 00:04:29,000
+ let's just hope that he won't do it.
+
+85
+00:04:29,000 --> 00:04:35,000
+ Knight F5 knight F3 knight H6 queen D5 knight F5 knight G5
+
+86
+00:04:35,000 --> 00:04:37,000
+ Oh wait wait wait.
+
+87
+00:04:37,000 --> 00:04:39,000
+ Let's not blunder checkmate in 1.
+
+88
+00:04:39,000 --> 00:04:41,000
+ Knight H6.
+
+89
+00:04:42,000 --> 00:04:44,000
+ Knight E4.
+
+90
+00:04:44,000 --> 00:04:53,000
+ Knight F5 bishop G5 knight H6 bishop takes H6 G takes H6 and I win on time.
+
+91
+00:04:53,000 --> 00:04:57,000
+ Well, I guess everyone understands this,
+
+92
+00:04:57,000 --> 00:04:59,000
+ but I still have to say it out,
+
+93
+00:04:59,000 --> 00:05:05,000
+ that the times when I speed up the moves are the times when I was only repeating my moves,
+
+94
+00:05:05,000 --> 00:05:09,000
+ and speeding up is to avoid the boringness in the video.
+
+95
+00:05:10,000 --> 00:05:12,000
+ But anyway.
+
+96
+00:05:12,000 --> 00:05:14,000
+ Mission accomplished.
+
+97
+00:05:14,000 --> 00:05:29,000
+ [Music]
+

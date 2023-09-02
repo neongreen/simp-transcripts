@@ -1,0 +1,108 @@
+1
+00:00:00,000 --> 00:00:06,640
+ 100 rated chess, but all of your pieces are frozen. Every time your pawn captures,
+
+2
+00:00:06,640 --> 00:00:14,240
+ you unlock the piece from his original file. Very interesting. We get a 1 26 from the US.
+
+3
+00:00:14,240 --> 00:00:22,800
+ Alright, so I can only move pawns now. E4. It's fine though, I always have faith in the little
+
+4
+00:00:22,800 --> 00:00:35,600
+ guys. B6. Not very aggressive. D4. Bishop B7. Ah ha, if I lose my E pawn now, it means that my king
+
+5
+00:00:35,600 --> 00:00:43,280
+ will never be able to move anymore, which is extremely dangerous. Therefore, D5 is kinda forced.
+
+6
+00:00:43,280 --> 00:00:49,200
+ I'm predicting E5, all pass on, and he resigns because he thinks that I hacked into the game
+
+7
+00:00:49,200 --> 00:01:00,240
+ server. Well E6 is also very convenient though. D takes E6. Ha! You fool! Now I can activate my
+
+8
+00:01:00,240 --> 00:01:09,520
+ queen. F6. Weird move. I'll take this pawn as well. And even though my pawn was on the E file,
+
+9
+00:01:09,520 --> 00:01:13,920
+ the challenge said that I can only unlock the piece on the pawn's original file,
+
+10
+00:01:13,920 --> 00:01:19,520
+ and since that was originally the D pawn, I still don't have access to moving my king right now.
+
+11
+00:01:19,520 --> 00:01:27,840
+ Queen takes D7. Trading queens is obviously a bad idea, especially since she is my only tool
+
+12
+00:01:27,840 --> 00:01:36,160
+ right now. Therefore, queen F3. Everything is great, I have my queen now, let's just win this
+
+13
+00:01:36,160 --> 00:01:44,400
+ game real fast. Knight A6. C4. I have to be careful though, because if I lose a pawn,
+
+14
+00:01:44,400 --> 00:01:53,600
+ the piece on that pawn's file will never be able to move. Rook D8. Oh no! Is he gonna blunder queen
+
+15
+00:01:53,600 --> 00:02:02,080
+ D1? I mean after queen D1 queen takes D1, rook takes D1 is a check, and it forces me to move
+
+16
+00:02:02,080 --> 00:02:11,360
+ my king, which is against the rules. Nah. I'm just worrying too much. G4. I think I've just
+
+17
+00:02:11,360 --> 00:02:20,720
+ blundered something really bad, but I don't really see how. Bishop B4 check. Wait. Dude.
+
+18
+00:02:20,720 --> 00:02:28,560
+ I didn't even see that. He saw that queen D1 was blundering to queen takes D1, so he plays bishop
+
+19
+00:02:28,560 --> 00:02:34,800
+ B4 check, and even though knight C3 is best, I cannot play that due to the rules, but I have to
+
+20
+00:02:34,800 --> 00:02:40,800
+ play queen C3 instead, which distract my queen from guarding the D1 square, which allows queen
+
+21
+00:02:40,800 --> 00:02:52,640
+ D1 checkmate. What the f*** is this? Well I mean there is still a small chance that he actually
+
+22
+00:02:52,640 --> 00:03:02,560
+ doesn't even see the checkmate. Ha! No. Knight takes will also defend the D1 square. But of
+
+23
+00:03:02,560 --> 00:03:10,480
+ course, that is against the rules. B takes C3 is forced. Alright dude. Just one more move,
+
+24
+00:03:10,480 --> 00:03:20,880
+ and I can activate my knight to defend the checkmate. To my defense, I actually went to
+
+25
+00:03:20,880 --> 00:03:27,600
+ this guy's profile after the game, and then I saw, that he's played over 5000 chess games for the
+
+26
+00:03:27,600 --> 00:03:48,720
+ last 10 f***ing years, but somehow still stay at the 100 rated ELO. Very interesting.
+
+27
+00:03:48,720 --> 00:03:51,760
+ [MUSIC PLAYING]
+

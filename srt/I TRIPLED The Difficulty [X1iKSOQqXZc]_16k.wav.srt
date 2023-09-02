@@ -1,0 +1,284 @@
+1
+00:00:00,000 --> 00:00:07,040
+ 100 rated chess, but every time your pawn steps on a square, you gain a piece step.
+
+2
+00:00:07,040 --> 00:00:10,960
+ Your pieces can only move by consuming a piece step.
+
+3
+00:00:10,960 --> 00:00:16,440
+ One piece step obviously sounds way too easy, so let's just make it.
+
+4
+00:00:16,440 --> 00:00:17,520
+ 3.
+
+5
+00:00:17,520 --> 00:00:19,800
+ Now that's some real challenges.
+
+6
+00:00:19,800 --> 00:00:21,600
+ E4.
+
+7
+00:00:21,600 --> 00:00:29,720
+ My first move obviously has to be a pawn move, therefore, E5, I mean Qh5 d6 Qxf7+.
+
+8
+00:00:29,720 --> 00:00:34,920
+ Qh7+ will force me to move my king before I can stack up 3 piece steps, which makes
+
+9
+00:00:34,920 --> 00:00:37,760
+ me a fool for ending my own video.
+
+10
+00:00:37,760 --> 00:00:41,840
+ But to be honest, the chance that this entire thing can happen is even smaller than the
+
+11
+00:00:41,840 --> 00:00:47,080
+ chance that a random girl will show up and ask for your phone number.
+
+12
+00:00:47,080 --> 00:00:49,520
+ F3.
+
+13
+00:00:49,520 --> 00:00:51,200
+ Not very aggressive.
+
+14
+00:00:51,200 --> 00:00:52,760
+ F5.
+
+15
+00:00:52,760 --> 00:00:54,440
+ D3.
+
+16
+00:00:54,440 --> 00:00:55,680
+ D5.
+
+17
+00:00:55,680 --> 00:01:00,560
+ And with that, we have officially reached 3 piece steps, which is enough for 1 piece
+
+18
+00:01:00,560 --> 00:01:04,840
+ move, but let's just try to stack up some more before that.
+
+19
+00:01:04,840 --> 00:01:06,640
+ C4.
+
+20
+00:01:06,640 --> 00:01:08,240
+ Dxc4.
+
+21
+00:01:08,240 --> 00:01:14,000
+ Maybe this is a bad decision because it can open up the queen file, which costs me 3 steps,
+
+22
+00:01:14,000 --> 00:01:18,400
+ but if I had pushed my pawn instead, that will close the position down, which will be
+
+23
+00:01:18,400 --> 00:01:23,400
+ very difficult to make pawn moves to tackle the challenge.
+
+24
+00:01:23,400 --> 00:01:24,800
+ Qa4 check.
+
+25
+00:01:24,800 --> 00:01:29,240
+ Bd7 is best, but of course, c6.
+
+26
+00:01:29,240 --> 00:01:31,160
+ B4.
+
+27
+00:01:31,160 --> 00:01:32,480
+ Very aggressive.
+
+28
+00:01:32,480 --> 00:01:38,840
+ That blunders a rook to Qd4 Qxa1, but since I only have 5 steps, that is only enough for
+
+29
+00:01:38,840 --> 00:01:40,480
+ 1 piece move.
+
+30
+00:01:40,480 --> 00:01:43,040
+ Therefore, Exd3.
+
+31
+00:01:43,040 --> 00:01:44,960
+ H4.
+
+32
+00:01:44,960 --> 00:01:50,000
+ I'm very suspicious that this guy is also trying to do some crazy challenges with his
+
+33
+00:01:50,000 --> 00:01:51,640
+ pawns.
+
+34
+00:01:51,640 --> 00:01:53,840
+ Qd4.
+
+35
+00:01:53,840 --> 00:01:54,840
+ Qb3.
+
+36
+00:01:54,840 --> 00:02:00,760
+ Aha, that still blunders a rook, but I think that he thinks that he can actually trap my
+
+37
+00:02:00,760 --> 00:02:02,800
+ queen with Bb2.
+
+38
+00:02:02,800 --> 00:02:06,040
+ Therefore, Bxb4.
+
+39
+00:02:06,040 --> 00:02:11,480
+ Maybe this is an unnecessary risk, but I want to take as many pawns away as possible, and
+
+40
+00:02:11,480 --> 00:02:15,880
+ I strongly believe that he won't take my bishop because he thinks that I can take his rook
+
+41
+00:02:15,880 --> 00:02:21,360
+ and then get away with Qa2.
+
+42
+00:02:21,360 --> 00:02:23,360
+ Just like a paid actor.
+
+43
+00:02:23,360 --> 00:02:28,000
+ D5, this game is going unbelievably well for me.
+
+44
+00:02:28,000 --> 00:02:29,000
+ Bxd3.
+
+45
+00:02:29,000 --> 00:02:30,000
+ E4.
+
+46
+00:02:30,000 --> 00:02:31,000
+ Fxe4.
+
+47
+00:02:31,000 --> 00:02:32,000
+ Fxe4.
+
+48
+00:02:32,000 --> 00:02:33,000
+ A3.
+
+49
+00:02:33,000 --> 00:02:39,920
+ Spending 3 steps to retreat my bishop is not very appealing.
+
+50
+00:02:39,920 --> 00:02:42,520
+ Therefore, Exd3.
+
+51
+00:02:42,520 --> 00:02:48,560
+ I mean there is also a chance that he won't take my bishop for some very unknown reasons.
+
+52
+00:02:48,560 --> 00:02:50,560
+ Right?
+
+53
+00:02:50,560 --> 00:02:53,120
+ Sadly he's not a paid actor.
+
+54
+00:02:53,120 --> 00:02:54,120
+ H5.
+
+55
+00:02:54,120 --> 00:02:58,880
+ Man, I'm literally almost out of pawn moves.
+
+56
+00:02:58,880 --> 00:03:00,640
+ Nf3.
+
+57
+00:03:00,640 --> 00:03:02,040
+ Bg4.
+
+58
+00:03:02,040 --> 00:03:07,600
+ Rook e1 will force a piece move, but since he's been blundering this rook for 9 moves,
+
+59
+00:03:07,600 --> 00:03:11,920
+ and I've never seen anyone blundering the same thing for 10 moves straight, he should be
+
+60
+00:03:11,920 --> 00:03:13,760
+ moving his rook.
+
+61
+00:03:13,760 --> 00:03:15,040
+ Right?
+
+62
+00:03:15,040 --> 00:03:16,320
+ Now.
+
+63
+00:03:16,320 --> 00:03:17,600
+ Exactly.
+
+64
+00:03:17,600 --> 00:03:18,840
+ B6.
+
+65
+00:03:19,080 --> 00:03:21,480
+ Dude, I'm running out of pawns.
+
+66
+00:03:21,480 --> 00:03:27,400
+ Maybe changing from 1 to 3 is just a little bit too much testosterone.
+
+67
+00:03:27,400 --> 00:03:28,400
+ Rook b5.
+
+68
+00:03:28,400 --> 00:03:31,600
+ Alright, change of plan.
+
+69
+00:03:31,600 --> 00:03:35,160
+ Queen f2 bc5 queen e2 checkmate.
+
+70
+00:03:35,160 --> 00:03:37,320
+ Mission is failed, but at least I won.
+
+71
+00:03:37,480 --> 00:03:52,040
+ [outro music]
+

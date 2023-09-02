@@ -1,0 +1,304 @@
+1
+00:00:00,000 --> 00:00:02,000
+ If my opponent types in chat,
+
+2
+00:00:02,000 --> 00:00:05,000
+ the video ends.
+
+3
+00:00:05,000 --> 00:00:11,000
+ Well, normally, no one chats during a game of Blitz Chess.
+
+4
+00:00:11,000 --> 00:00:14,000
+ But if we do this,
+
+5
+00:00:14,000 --> 00:00:17,000
+ every time one of my pieces,
+
+6
+00:00:17,000 --> 00:00:19,000
+ or pawns,
+
+7
+00:00:19,000 --> 00:00:20,000
+ is taken,
+
+8
+00:00:20,000 --> 00:00:23,000
+ I press F to pay respects.
+
+9
+00:00:23,000 --> 00:00:26,000
+ If we combine these two rules,
+
+10
+00:00:26,000 --> 00:00:29,000
+ the challenge is legit.
+
+11
+00:00:30,000 --> 00:00:34,000
+ Playing 3 minute splits on a 100 rated account.
+
+12
+00:00:34,000 --> 00:00:39,000
+ I have nothing else to say.
+
+13
+00:00:39,000 --> 00:00:41,000
+ Let's find an opponent.
+
+14
+00:00:41,000 --> 00:00:52,000
+ We get a 300 rated from the US.
+
+15
+00:00:52,000 --> 00:00:55,000
+ E4.
+
+16
+00:00:57,000 --> 00:00:59,000
+ E5.
+
+17
+00:00:59,000 --> 00:01:01,000
+ Still theory.
+
+18
+00:01:01,000 --> 00:01:03,000
+ Knight F3.
+
+19
+00:01:03,000 --> 00:01:06,000
+ Knight F6.
+
+20
+00:01:06,000 --> 00:01:08,000
+ The Russian opening.
+
+21
+00:01:08,000 --> 00:01:11,000
+ So normally, I would take on E5,
+
+22
+00:01:11,000 --> 00:01:13,000
+ but after D6,
+
+23
+00:01:13,000 --> 00:01:15,000
+ Knight F3,
+
+24
+00:01:15,000 --> 00:01:19,000
+ Knight takes E4 will force me to send an F in the chat,
+
+25
+00:01:19,000 --> 00:01:22,000
+ which may cause my opponent to reply.
+
+26
+00:01:22,000 --> 00:01:24,000
+ Therefore,
+
+27
+00:01:24,000 --> 00:01:26,000
+ Knight C3.
+
+28
+00:01:26,000 --> 00:01:28,000
+ Knight C3.
+
+29
+00:01:28,000 --> 00:01:32,000
+ Knight C6.
+
+30
+00:01:32,000 --> 00:01:34,000
+ Bishop C4.
+
+31
+00:01:34,000 --> 00:01:38,000
+ Bishop C5.
+
+32
+00:01:38,000 --> 00:01:42,000
+ Such a peaceful game for a 100 rated match.
+
+33
+00:01:42,000 --> 00:01:45,000
+ I'll castle.
+
+34
+00:01:45,000 --> 00:01:48,000
+ Castle.
+
+35
+00:01:48,000 --> 00:01:50,000
+ D3.
+
+36
+00:01:50,000 --> 00:01:53,000
+ Knight G4.
+
+37
+00:01:53,000 --> 00:01:54,000
+ Aha!
+
+38
+00:01:54,000 --> 00:01:56,000
+ Here we go.
+
+39
+00:01:56,000 --> 00:01:59,000
+ The first strange move of the game.
+
+40
+00:01:59,000 --> 00:02:01,000
+ Bishop G5.
+
+41
+00:02:01,000 --> 00:02:06,000
+ Bishop takes F2.
+
+42
+00:02:06,000 --> 00:02:08,000
+ That's a big blunder.
+
+43
+00:02:08,000 --> 00:02:12,000
+ He was probably thinking about danger levels.
+
+44
+00:02:12,000 --> 00:02:14,000
+ If you attack my queen,
+
+45
+00:02:14,000 --> 00:02:16,000
+ I attack your king.
+
+46
+00:02:16,000 --> 00:02:18,000
+ But sadly,
+
+47
+00:02:18,000 --> 00:02:20,000
+ things don't work like that.
+
+48
+00:02:20,000 --> 00:02:23,000
+ After rook takes F2,
+
+49
+00:02:23,000 --> 00:02:26,000
+ Knight takes F2 counterattacking my queen,
+
+50
+00:02:26,000 --> 00:02:28,000
+ King takes F2.
+
+51
+00:02:28,000 --> 00:02:30,000
+ If queen E8,
+
+52
+00:02:30,000 --> 00:02:32,000
+ I will have Knight D5,
+
+53
+00:02:32,000 --> 00:02:34,000
+ with an unstoppable family fork.
+
+54
+00:02:34,000 --> 00:02:37,000
+ Or if after king takes F2,
+
+55
+00:02:37,000 --> 00:02:38,000
+ Knight E7,
+
+56
+00:02:38,000 --> 00:02:40,000
+ Knight D5,
+
+57
+00:02:40,000 --> 00:02:41,000
+ F6,
+
+58
+00:02:41,000 --> 00:02:44,000
+ there is knight takes F6 double check,
+
+59
+00:02:44,000 --> 00:02:46,000
+ King H8 is forced,
+
+60
+00:02:46,000 --> 00:02:48,000
+ knight back to D5,
+
+61
+00:02:48,000 --> 00:02:52,000
+ and then he will still at least lose a rook to a bishop.
+
+62
+00:02:53,000 --> 00:02:55,000
+ But of course,
+
+63
+00:02:55,000 --> 00:02:58,000
+ before all of that going to happen,
+
+64
+00:02:58,000 --> 00:03:00,000
+ F.
+
+65
+00:03:00,000 --> 00:03:02,000
+ Rest in peace,
+
+66
+00:03:02,000 --> 00:03:04,000
+ my F-pawn.
+
+67
+00:03:04,000 --> 00:03:09,000
+ And let's just hope that my opponent won't reply to just a random F.
+
+68
+00:03:09,000 --> 00:03:11,000
+ Rook takes F2.
+
+69
+00:03:11,000 --> 00:03:16,000
+ Knight takes F2.
+
+70
+00:03:16,000 --> 00:03:19,000
+ Of course I will take that horsey.
+
+71
+00:03:19,000 --> 00:03:21,000
+ But once again,
+
+72
+00:03:22,000 --> 00:03:24,000
+ I will take that horsey.
+
+73
+00:03:24,000 --> 00:03:25,000
+ F.
+
+74
+00:03:25,000 --> 00:03:28,000
+ I haven't even sent my second F yet.
+
+75
+00:03:28,000 --> 00:03:30,000
+ What the f-
+
+76
+00:03:30,000 --> 00:03:44,000
+ [outro music]
+

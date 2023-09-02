@@ -1,0 +1,176 @@
+1
+00:00:00,000 --> 00:00:05,000
+ 100 rated chess, but I can only make 3 best moves.
+
+2
+00:00:05,000 --> 00:00:11,000
+ Ah ha! I see what you're trying to do here, Deja Wellner.
+
+3
+00:00:11,000 --> 00:00:14,000
+ He's trying to make me end my own video.
+
+4
+00:00:14,000 --> 00:00:21,000
+ Okay then. Let me show you that I know Stockfish like the back of my ex-girlfriend.
+
+5
+00:00:21,000 --> 00:00:24,000
+ Therefore, let's even change it to...
+
+6
+00:00:24,000 --> 00:00:30,000
+ 1. If I ever make a best move, the video ends.
+
+7
+00:00:30,000 --> 00:00:35,000
+ And with that out of the way, let's find an opponent.
+
+8
+00:00:49,000 --> 00:00:56,000
+ We get a 1 1 6 from... from... somewhere in the world.
+
+9
+00:00:56,000 --> 00:01:03,000
+ So in order to complete this mission, I think I should stay in theory as long as possible.
+
+10
+00:01:03,000 --> 00:01:15,000
+ And right at the moment I want to play theoretically, he gave me the Vant Kroeges opening, which I don't even know anything about.
+
+11
+00:01:15,000 --> 00:01:18,000
+ E5. Stockfish?
+
+12
+00:01:18,000 --> 00:01:23,000
+ Ah, it's still a book move.
+
+13
+00:01:23,000 --> 00:01:31,000
+ Qh5. Nc6 should be the best move, so let's totally ignore that.
+
+14
+00:01:31,000 --> 00:01:42,000
+ And even though I want to play Nf6 to gambit the pawn, but after Qxe5, Be7 should be a best move, which is bad for the video.
+
+15
+00:01:42,000 --> 00:01:46,000
+ Therefore, d6. Stockfish?
+
+16
+00:01:46,000 --> 00:01:49,000
+ Of course.
+
+17
+00:01:49,000 --> 00:01:58,000
+ Qb2 d1. Fun fact, that Qb2 d1 is actually a best move according to Stockfish.
+
+18
+00:01:58,000 --> 00:02:03,000
+ But of course, that doesn't have anything to do with my video.
+
+19
+00:02:03,000 --> 00:02:15,000
+ So now, Nf6, Nc6, Be6, Bf5, are all good moves, and have some big chances to be the best moves.
+
+20
+00:02:15,000 --> 00:02:25,000
+ Therefore, Be7. There is no way developing a bad bishop by moving it one square can be a best move, right?
+
+21
+00:02:25,000 --> 00:02:27,000
+ Yes.
+
+22
+00:02:28,000 --> 00:02:33,000
+ Bb5 check. Ah ha! Very tricky.
+
+23
+00:02:33,000 --> 00:02:48,000
+ Now c6 should be the best move, so we won't play that, and if I play Nc6, then after Bxc6, Bxc6 is also a best move, which is also bad for the video.
+
+24
+00:02:48,000 --> 00:02:52,000
+ Therefore, Be7. Stockfish?
+
+25
+00:02:52,000 --> 00:02:55,000
+ Of course.
+
+26
+00:02:55,000 --> 00:03:04,000
+ And furthermore, if he goes Bxc7, I'll go Kxc7, and there is no way that is a best move.
+
+27
+00:03:04,000 --> 00:03:08,000
+ So he choose to keep the tension.
+
+28
+00:03:08,000 --> 00:03:14,000
+ Now c6 is once again the best move, so I can also just keep the tension like this.
+
+29
+00:03:14,000 --> 00:03:19,000
+ But to be honest, I don't really like to play Kxd7.
+
+30
+00:03:19,000 --> 00:03:22,000
+ So I guess, Nc6.
+
+31
+00:03:22,000 --> 00:03:27,000
+ And again, I'm not a coward, this is for the video's sake.
+
+32
+00:03:27,000 --> 00:03:29,000
+ Stockfish?
+
+33
+00:03:29,000 --> 00:03:31,000
+ As I predicted.
+
+34
+00:03:31,000 --> 00:03:41,000
+ Bxc6. Bxc6 should be the best move, therefore, Bxc6.
+
+35
+00:03:41,000 --> 00:03:43,000
+ Stockfish?
+
+36
+00:03:43,000 --> 00:03:46,000
+ Perfection.
+
+37
+00:03:46,000 --> 00:03:58,000
+ Nf3. Ah ha! Now e4 is obviously the best move, therefore, Nf6. Such an amazing chance to develop my knight.
+
+38
+00:03:58,000 --> 00:04:00,000
+ Stockfish?
+
+39
+00:04:00,000 --> 00:04:10,000
+ Yes. I was so worried that this can also be a best move, but I think Stockfish is trying to be a good friend of mine today.
+
+40
+00:04:10,000 --> 00:04:14,000
+ Ng5. Ah ha!
+
+41
+00:04:14,000 --> 00:04:22,000
+ Now castle should be the best move, or maybe even Bg4, activating a bishop with a tempo on attacking a queen.
+
+42
+00:04:22,000 --> 00:04:32,000
+ Therefore, h6. There is no way moving a flank pawn one square can be a best move, right my good friend Stockfish?
+
+43
+00:04:32,000 --> 00:04:40,000
+ What the f-
+
+44
+00:04:40,000 --> 00:04:54,000
+ [Outro]
+

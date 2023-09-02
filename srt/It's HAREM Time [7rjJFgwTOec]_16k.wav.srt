@@ -1,0 +1,116 @@
+1
+00:00:00,000 --> 00:00:05,520
+ 100 rated chess, but each side has 8 queens, or you draw the spider queen.
+
+2
+00:00:05,520 --> 00:00:10,880
+ Well, I heard about the spider man, but never heard about his wife.
+
+3
+00:00:10,880 --> 00:00:14,240
+ We get a 1 74 from Spain.
+
+4
+00:00:14,240 --> 00:00:21,600
+ E4. Since I need to have 8 queens, pushing pawns early doesn't seem to be a great idea.
+
+5
+00:00:21,600 --> 00:00:24,240
+ Therefore, knights E6.
+
+6
+00:00:24,240 --> 00:00:27,840
+ D3. Not very aggressive.
+
+7
+00:00:28,480 --> 00:00:33,040
+ B6. Knight C3. And that was a pre-move.
+
+8
+00:00:33,040 --> 00:00:38,720
+ Very confident. Bishop B7. Nothing crazy so far.
+
+9
+00:00:38,720 --> 00:00:44,960
+ Bishop G5. Aha, now the crazy stuff is kicking in.
+
+10
+00:00:44,960 --> 00:00:51,360
+ F6. Somehow I feel like he's gonna play queen H5 check and blunder his bishop.
+
+11
+00:00:51,360 --> 00:00:57,920
+ Well, he didn't play queen H5, but still blunders his bishop.
+
+12
+00:00:58,240 --> 00:01:06,480
+ E5. Aha, very tricky. This guy is trying to trick me to go knight takes E5,
+
+13
+00:01:06,480 --> 00:01:10,720
+ which blunders my bishop back. Therefore, rook B8.
+
+14
+00:01:10,720 --> 00:01:15,840
+ D4. That blunders a pawn, but let's be careful.
+
+15
+00:01:15,840 --> 00:01:21,440
+ Taking on E5 will make my knight abate for him to take, which blunders his queen,
+
+16
+00:01:21,440 --> 00:01:25,280
+ but since the mission requires my opponent to have 8 queens,
+
+17
+00:01:25,280 --> 00:01:29,680
+ losing a pawn and a queen will make his maximum amount of queens is 7,
+
+18
+00:01:29,680 --> 00:01:33,440
+ which fails the mission, which means even if he blunders his queen,
+
+19
+00:01:33,440 --> 00:01:38,000
+ I still cannot take it, so I'll be losing a knight, instead of winning a queen.
+
+20
+00:01:38,000 --> 00:01:44,480
+ Therefore, knight takes D4. Okay, now I have to be careful,
+
+21
+00:01:44,480 --> 00:01:48,240
+ because I cannot take any pawns, and I cannot take his queen.
+
+22
+00:01:49,840 --> 00:01:56,960
+ Bishop C4. That blunders a woman. But again, I cannot take it, due to the rules.
+
+23
+00:01:56,960 --> 00:02:04,320
+ E6. Actually, when you think about it, how am I supposed to win this mission anyway?
+
+24
+00:02:04,320 --> 00:02:10,720
+ Ha! I guess I don't have to think about how to win the mission anymore.
+
+25
+00:02:10,720 --> 00:02:14,240
+ King takes F7 is forced.
+
+26
+00:02:16,320 --> 00:02:21,840
+ Alright then, it's drawing time, but when I google search for spider queen,
+
+27
+00:02:21,840 --> 00:02:26,720
+ there are too many results, so I guess I will just pick one myself.
+
+28
+00:02:26,720 --> 00:02:43,680
+ Yeah, I think it's fine.
+
+29
+00:02:44,480 --> 00:02:59,040
+ [Music]
+

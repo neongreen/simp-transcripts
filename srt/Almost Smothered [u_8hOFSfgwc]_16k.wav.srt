@@ -1,0 +1,100 @@
+1
+00:00:00,000 --> 00:00:07,440
+ 100 rated chess, but if a piece, not pawn, dies, the king must go to the square that it died to pay
+
+2
+00:00:07,440 --> 00:00:14,080
+ respect. If the king gets checked 3 times, the video ends. This challenge was worded incredibly
+
+3
+00:00:14,080 --> 00:00:19,680
+ badly, we obviously need to add something like "before another piece dies on another square",
+
+4
+00:00:19,680 --> 00:00:24,880
+ or else the game would be a normal game with my king lands on every single square at the end to
+
+5
+00:00:24,880 --> 00:00:32,320
+ pay respect to everyone at the same time. Let's go. E4. Since the pawns are not affected by the
+
+6
+00:00:32,320 --> 00:00:39,440
+ rules, I'll let them all die to open up the board so that my king has more space to move. D5. I mean
+
+7
+00:00:39,440 --> 00:00:47,680
+ I'm also sacrificing a check here, but I think it's absolutely worthy. F3. Not very aggressive.
+
+8
+00:00:48,320 --> 00:00:55,680
+ E5. Knight C3. I'll take this pawn. Again, pawns are not included in the mission,
+
+9
+00:00:55,680 --> 00:01:03,440
+ so my king doesn't have to go to this square. Bishop C4. Aha, now we can be sure that he won't
+
+10
+00:01:03,440 --> 00:01:09,760
+ go bishop E5 just for an empty check. I'll take this pawn as well, in no world do you take this
+
+11
+00:01:09,760 --> 00:01:18,560
+ pawn just to take away one of my 3 checks. Of course. Knight C6. Castle. Okay now this is
+
+12
+00:01:18,560 --> 00:01:29,200
+ actually pretty dangerous. Knight F6. Knight G5. That blunders a bishop. Queen D4 check. King H1.
+
+13
+00:01:29,200 --> 00:01:35,600
+ But now comes the question. Do I take his bishop? If I take his bishop now, my king will have to
+
+14
+00:01:35,600 --> 00:01:41,360
+ go all the way to C4 to pay respect, and I have absolutely no doubt that the video will be ended
+
+15
+00:01:41,360 --> 00:01:51,760
+ before he can reach the place. Yeah I'm pretty sure I'm not gonna do it. Knight G4. Call me
+
+16
+00:01:51,760 --> 00:01:57,840
+ coward all you want to, but you know what people say, if you want to be brave, you need to be
+
+17
+00:01:57,840 --> 00:02:08,320
+ cowardly. Knight takes F7. Aha, exactly as planned. Knight F2 check. My plan is king G1 knight H3
+
+18
+00:02:08,320 --> 00:02:15,040
+ double check king H1 is forced queen G8 check rook takes G8 knight F2 smothered mate. And I mean even
+
+19
+00:02:15,040 --> 00:02:20,400
+ though he has rook takes F2 now to absolutely ruin my plan, he's not gonna see a smothered
+
+20
+00:02:20,400 --> 00:02:29,760
+ checkmate in 4 moves. Right? Wow. Now I have to move my king all the way over there, without being
+
+21
+00:02:29,760 --> 00:02:35,680
+ checked 3 times, and no piece is allowed to die on a different square before my king reaches the place.
+
+22
+00:02:35,680 --> 00:02:38,720
+ How the f*** is that even possible?
+
+23
+00:02:38,720 --> 00:02:46,720
+ Well I guess we all know that this mission is a failure. I'll just let him take my rook and end
+
+24
+00:02:46,720 --> 00:02:53,360
+ my video. Yeah there's no way this is doable.
+
+25
+00:02:53,600 --> 00:03:06,000
+ [Music]
+

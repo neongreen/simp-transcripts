@@ -1,0 +1,124 @@
+1
+00:00:00,000 --> 00:00:07,040
+ 100 rated chess, but once you capture a piece, or pawn, you cannot capture another piece,
+
+2
+00:00:07,040 --> 00:00:12,960
+ or pawn, that has a lower value. Actually, I think we can just erase this part.
+
+3
+00:00:12,960 --> 00:00:19,280
+ Yeah, I mean as long as my opponent doesn't blunder his queen many times in the early moves,
+
+4
+00:00:19,280 --> 00:00:26,400
+ I'm sure this challenge is absolutely doable. H3, the very famous Clemens opening.
+
+5
+00:00:27,120 --> 00:00:34,160
+ E5, E4, ah ha, since the challenge doesn't allow me to downgrade my captures,
+
+6
+00:00:34,160 --> 00:00:38,880
+ the best plan is obviously to capture as many pawns as possible in the early game,
+
+7
+00:00:38,880 --> 00:00:44,560
+ therefore, D5, need to make good use of our chances when his queen hasn't moved out yet.
+
+8
+00:00:44,560 --> 00:00:51,120
+ Nevermind. I'll take this, well I mean as long as he doesn't go crazy with his queen,
+
+9
+00:00:51,120 --> 00:00:59,120
+ things are still totally under my control. Queen takes E4. Knight C6, in no world do you take this
+
+10
+00:00:59,120 --> 00:01:10,320
+ pawn. Or this horsey. No doubt. F5. Queen E3, continue attacking that queen feels a bit too
+
+11
+00:01:10,320 --> 00:01:15,280
+ aggressive for me, not to mention that I can't really take it this early into the game and ruin
+
+12
+00:01:15,280 --> 00:01:25,280
+ my video. So I guess, knight F6. Knight F3. Ah ha, that blunders a piece to knight D5 queen G5
+
+13
+00:01:25,280 --> 00:01:33,280
+ queen G5 knight G5 knight Db4 castle H6 knight F3 E4 forking 2 minor pieces, but since I'll have to
+
+14
+00:01:33,280 --> 00:01:40,160
+ take his queen first in that line, that is not very positive for the video. So I guess. E4. I
+
+15
+00:01:40,160 --> 00:01:45,200
+ mean this pawn is pinned, but there is a chance that he doesn't know about such tactic, and will
+
+16
+00:01:45,200 --> 00:01:55,040
+ just go for a desperado. Perfect. F takes E4. Okay. Now the challenge truly begins, all of his pawns
+
+17
+00:01:55,040 --> 00:02:03,520
+ are invincible, so let's just hope that he won't push them too aggressively. B3. Ha. I mean that
+
+18
+00:02:03,520 --> 00:02:09,440
+ is also a pawn push, but to be honest, that pawn is gonna take a while until it can do any damage.
+
+19
+00:02:10,160 --> 00:02:16,480
+ Bishop E7. But anyway, the fact that he sees that he was pinning my pawn so he doesn't need to move
+
+20
+00:02:16,480 --> 00:02:27,680
+ a knight was very impressive. Nevermind. That blunders a horsey. G takes. Castle. D4. Very
+
+21
+00:02:27,680 --> 00:02:34,320
+ aggressive. That blunders a pawn, but of course I cannot take it due to the rules, therefore, rook
+
+22
+00:02:34,320 --> 00:02:42,480
+ E8. A4. Aha, that blunders a queen to bishop E4 discover double pin on both the knight and the
+
+23
+00:02:42,480 --> 00:02:48,960
+ woman. But do I even want to do that though, because after queen E8 desperado queen takes E8,
+
+24
+00:02:48,960 --> 00:02:54,400
+ all of his other materials will become invincible, so I'll have to somehow checkmate his king without
+
+25
+00:02:54,400 --> 00:03:02,960
+ taking anything from that point onward. Well, I'm not a coward. I mean if he can just somehow let me
+
+26
+00:03:02,960 --> 00:03:11,360
+ take his knight first before taking his queen, that will be very convenient. Well. Very convenient.
+
+27
+00:03:11,360 --> 00:03:20,720
+ I'll take the knight first. Bishop takes. Maidenless. F takes. Alright, now I somehow have
+
+28
+00:03:20,720 --> 00:03:26,400
+ to checkmate his king without taking anything at all, and to be honest, that is not going to be an
+
+29
+00:03:26,400 --> 00:03:34,880
+ easy task. Bishop F5 rook C1 knight D5 E4 queen H4 king D2 queen F2 king D1 knight E3 checkmate.
+
+30
+00:03:34,880 --> 00:03:39,200
+ Mission accomplished.
+
+31
+00:03:39,200 --> 00:03:51,440
+ [Music]
+

@@ -1,0 +1,148 @@
+1
+00:00:00,000 --> 00:00:10,000
+ If your piece, not pawn, is a knight's distance away from your opponent's same piece, the video ends.
+
+2
+00:00:10,000 --> 00:00:16,000
+ For example, if this position happens, the video ends.
+
+3
+00:00:16,000 --> 00:00:26,000
+ Okay, so I guess, he means that, if two mentioned pieces are a square root of 5 distance from each other, the video ends.
+
+4
+00:00:26,000 --> 00:00:38,000
+ You know, the Pythagorean theorem. Like, this is 1, this is 2, and this is square root of 1 squared plus 2 squared.
+
+5
+00:00:38,000 --> 00:00:47,000
+ No? Oh well. Anyway. Playing 3 minute splits on a 100 rated account.
+
+6
+00:00:47,000 --> 00:00:59,000
+ Alright. This shouldn't be too hard. But only if I can remain my focus on the game. And with that out of the way, let's find an opponent.
+
+7
+00:00:59,000 --> 00:01:06,000
+ We get a 2 0 8 from the US.
+
+8
+00:01:06,000 --> 00:01:09,000
+ E4.
+
+9
+00:01:09,000 --> 00:01:12,000
+ E5. Still theory.
+
+10
+00:01:12,000 --> 00:01:26,000
+ I really want to play knight F3, but after knight C6, there's a threat of knight D4, creating an L-shaped knight's distance, aka, a square root of 5 distance, with my knight.
+
+11
+00:01:26,000 --> 00:01:32,000
+ So I will have to move my knight again to avoid that, which is obviously not good.
+
+12
+00:01:32,000 --> 00:01:36,000
+ Therefore, knight C3.
+
+13
+00:01:36,000 --> 00:01:39,000
+ Knight F6.
+
+14
+00:01:39,000 --> 00:01:41,000
+ F4.
+
+15
+00:01:41,000 --> 00:01:43,000
+ Vienna gambit.
+
+16
+00:01:43,000 --> 00:01:49,000
+ There's no way he's taking my E-pawn. Right?
+
+17
+00:01:49,000 --> 00:01:52,000
+ E takes F4.
+
+18
+00:01:52,000 --> 00:01:54,000
+ E5.
+
+19
+00:01:54,000 --> 00:02:01,000
+ There's no way he's playing knight E4 or knight D5. Right?
+
+20
+00:02:01,000 --> 00:02:10,000
+ I mean there's obviously a safe square right here. Dude.
+
+21
+00:02:11,000 --> 00:02:17,000
+ Why is he thinking for so long?
+
+22
+00:02:17,000 --> 00:02:20,000
+ Queen E7.
+
+23
+00:02:20,000 --> 00:02:22,000
+ Thank you.
+
+24
+00:02:22,000 --> 00:02:24,000
+ Queen E2.
+
+25
+00:02:24,000 --> 00:02:32,000
+ Since he saw those two squares are not available last time, there's no way he's playing these moves now. Right?
+
+26
+00:02:32,000 --> 00:02:35,000
+ D6.
+
+27
+00:02:35,000 --> 00:02:37,000
+ Yes.
+
+28
+00:02:37,000 --> 00:02:40,000
+ That blunders a horsey.
+
+29
+00:02:40,000 --> 00:02:42,000
+ G takes.
+
+30
+00:02:42,000 --> 00:02:48,000
+ Oh, so he wants to keep his woman above him, instead of putting her above me.
+
+31
+00:02:48,000 --> 00:02:51,000
+ That actually makes sense.
+
+32
+00:02:51,000 --> 00:02:54,000
+ Knight F3.
+
+33
+00:02:54,000 --> 00:02:57,000
+ Knight C6.
+
+34
+00:02:57,000 --> 00:03:05,000
+ Ah ha! He's obviously trying to go knight D5, creating a square root of 5 distance with my knight.
+
+35
+00:03:05,000 --> 00:03:09,000
+ Therefore, D4.
+
+36
+00:03:09,000 --> 00:03:18,000
+ What the f-
+
+37
+00:03:18,000 --> 00:03:31,000
+ [outro music]
+

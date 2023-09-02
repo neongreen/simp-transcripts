@@ -1,0 +1,316 @@
+1
+00:00:00,000 --> 00:00:08,000
+ 100 rated chess, but I cannot capture a piece normally. It must be through some sort of tactics.
+
+2
+00:00:08,000 --> 00:00:15,000
+ Well, if this is the case, I guess we'll have to go with... not pawn.
+
+3
+00:00:15,000 --> 00:00:23,000
+ This sounds very difficult, but I have a feeling that things are probably going to go well.
+
+4
+00:00:23,000 --> 00:00:27,000
+ And with that out of the way, let's find an opponent.
+
+5
+00:00:27,000 --> 00:00:37,000
+ We get a 154 from the US.
+
+6
+00:00:37,000 --> 00:00:40,000
+ d4
+
+7
+00:00:40,000 --> 00:00:43,000
+ d5
+
+8
+00:00:43,000 --> 00:00:46,000
+ knight c3
+
+9
+00:00:46,000 --> 00:00:48,000
+ knight f6
+
+10
+00:00:48,000 --> 00:00:50,000
+ So far so good.
+
+11
+00:00:50,000 --> 00:00:52,000
+ e4
+
+12
+00:00:52,000 --> 00:00:54,000
+ That blunders a pawn.
+
+13
+00:00:54,000 --> 00:00:59,000
+ And once again, pawns are not included in the rules.
+
+14
+00:00:59,000 --> 00:01:02,000
+ Bishop b5 check.
+
+15
+00:01:02,000 --> 00:01:14,000
+ Ah ha! Now if I go bishop d7, he will probably take it, which forces me to take back, which is against the rules, since that is just a normal.
+
+16
+00:01:14,000 --> 00:01:16,000
+ Recapture.
+
+17
+00:01:16,000 --> 00:01:21,000
+ The same thing also applies with knight d7 or knight c6.
+
+18
+00:01:21,000 --> 00:01:26,000
+ Therefore, c6 is kinda forced.
+
+19
+00:01:26,000 --> 00:01:31,000
+ Bishop a4
+
+20
+00:01:31,000 --> 00:01:48,000
+ I want to push my e-pawn, but doing that may provoke bishop g5, pinning my knight to my queen, and then he may also decide to take the knight, which I cannot take back, since it's just a normal recapture, which is not very tactical.
+
+21
+00:01:48,000 --> 00:01:53,000
+ Therefore, h6.
+
+22
+00:01:53,000 --> 00:01:57,000
+ Knight h3.
+
+23
+00:01:57,000 --> 00:02:06,000
+ I want to take his knight, but once again, that doesn't include any tactics in it, it's just a normal capture.
+
+24
+00:02:06,000 --> 00:02:10,000
+ So I guess, knight d7.
+
+25
+00:02:10,000 --> 00:02:13,000
+ f3
+
+26
+00:02:13,000 --> 00:02:16,000
+ I'll take a pawn.
+
+27
+00:02:17,000 --> 00:02:19,000
+ Knight e4.
+
+28
+00:02:19,000 --> 00:02:21,000
+ Very aggressive.
+
+29
+00:02:21,000 --> 00:02:25,000
+ But anyway, that blunders a horsey.
+
+30
+00:02:25,000 --> 00:02:31,000
+ But again, this doesn't include any tactics in it, so I can't really take it.
+
+31
+00:02:31,000 --> 00:02:42,000
+ Also, if I just leave the situation like this, he may decide to take my knight, which I cannot take back, because it's just a normal recapture.
+
+32
+00:02:42,000 --> 00:02:44,000
+ So I guess,
+
+33
+00:02:44,000 --> 00:02:47,000
+ knight to d5.
+
+34
+00:02:47,000 --> 00:02:51,000
+ Castle.
+
+35
+00:02:51,000 --> 00:02:54,000
+ I'll take another pawn.
+
+36
+00:02:54,000 --> 00:02:57,000
+ Rook f2.
+
+37
+00:02:57,000 --> 00:02:58,000
+ Ah ha!
+
+38
+00:02:58,000 --> 00:03:00,000
+ Very tricky.
+
+39
+00:03:00,000 --> 00:03:15,000
+ He's obviously baiting me to go knight b6, double attacking his knight and his bishop. And then he'll go queen f3, saying, oh yeah, take my bishop, and I'll make your king run for his life.
+
+40
+00:03:15,000 --> 00:03:22,000
+ Well, I actually think my king will still be okay, but let's not take the risk.
+
+41
+00:03:22,000 --> 00:03:24,000
+ e5.
+
+42
+00:03:24,000 --> 00:03:31,000
+ Let's play a bit more aggressively, so that there can be more tactics happen.
+
+43
+00:03:31,000 --> 00:03:35,000
+ d takes e5.
+
+44
+00:03:35,000 --> 00:03:38,000
+ Knight takes e5.
+
+45
+00:03:38,000 --> 00:03:41,000
+ Rook f5.
+
+46
+00:03:41,000 --> 00:03:47,000
+ That blunders a rook. And since my bishop is having a skewer of rook and knight,
+
+47
+00:03:47,000 --> 00:03:49,000
+ this capture
+
+48
+00:03:49,000 --> 00:03:51,000
+ is legit.
+
+49
+00:03:53,000 --> 00:03:55,000
+ Knight hf2.
+
+50
+00:03:55,000 --> 00:03:57,000
+ Bishop e7.
+
+51
+00:03:57,000 --> 00:04:01,000
+ Queen h5.
+
+52
+00:04:01,000 --> 00:04:03,000
+ Very aggressive.
+
+53
+00:04:03,000 --> 00:04:06,000
+ g6.
+
+54
+00:04:06,000 --> 00:04:11,000
+ Queen back to d1.
+
+55
+00:04:11,000 --> 00:04:14,000
+ I'll castle.
+
+56
+00:04:14,000 --> 00:04:18,000
+ Queen e2.
+
+57
+00:04:18,000 --> 00:04:21,000
+ Let's try to make a queen trade.
+
+58
+00:04:22,000 --> 00:04:24,000
+ Queen a5.
+
+59
+00:04:24,000 --> 00:04:28,000
+ b3.
+
+60
+00:04:28,000 --> 00:04:33,000
+ That blunders a bishop. But again, this is not very tactical.
+
+61
+00:04:33,000 --> 00:04:38,000
+ So I guess, let's stick with the queen trade plan.
+
+62
+00:04:38,000 --> 00:04:41,000
+ Queen e1 check.
+
+63
+00:04:41,000 --> 00:04:45,000
+ Queen takes.
+
+64
+00:04:45,000 --> 00:04:47,000
+ Knight f3 check.
+
+65
+00:04:49,000 --> 00:04:52,000
+ King takes g2 is forced.
+
+66
+00:04:52,000 --> 00:04:54,000
+ Knight takes e1.
+
+67
+00:04:54,000 --> 00:05:00,000
+ And since that was a royal fork, this capture is legit.
+
+68
+00:05:00,000 --> 00:05:03,000
+ King f1.
+
+69
+00:05:03,000 --> 00:05:06,000
+ Knight takes c2.
+
+70
+00:05:06,000 --> 00:05:10,000
+ Rook b1.
+
+71
+00:05:10,000 --> 00:05:13,000
+ Knight back to d4.
+
+72
+00:05:13,000 --> 00:05:18,000
+ Bishop takes h6.
+
+73
+00:05:18,000 --> 00:05:20,000
+ Rook d8.
+
+74
+00:05:20,000 --> 00:05:24,000
+ Knight g4.
+
+75
+00:05:24,000 --> 00:05:30,000
+ That blunders a horsey, and since this is a pin, this capture
+
+76
+00:05:30,000 --> 00:05:33,000
+ is legit.
+
+77
+00:05:33,000 --> 00:05:39,000
+ And he resigned.
+
+78
+00:05:39,000 --> 00:05:42,000
+ Mission, accomplished.
+
+79
+00:05:42,000 --> 00:05:56,000
+ [Music]
+

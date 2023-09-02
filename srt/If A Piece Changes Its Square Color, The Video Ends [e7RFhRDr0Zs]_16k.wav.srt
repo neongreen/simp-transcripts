@@ -1,0 +1,208 @@
+1
+00:00:00,000 --> 00:00:07,000
+ If a piece or a pawn changes its square color, the video ends.
+
+2
+00:00:07,000 --> 00:00:14,000
+ Wait. No. Let's change this to "Not Pawn".
+
+3
+00:00:14,000 --> 00:00:22,000
+ Because if pawns count 2, that means it cannot move forward unless it is its first move of 2 squares.
+
+4
+00:00:22,000 --> 00:00:25,000
+ #PawnLivesMatter
+
+5
+00:00:25,000 --> 00:00:30,000
+ Playing 3-minute splits on a 100-rated account.
+
+6
+00:00:30,000 --> 00:00:34,000
+ Let's be real. This is not doable.
+
+7
+00:00:34,000 --> 00:00:37,000
+ At the moment my opponent moves his knight.
+
+8
+00:00:37,000 --> 00:00:39,000
+ The video ends.
+
+9
+00:00:39,000 --> 00:00:43,000
+ But anyway, let's find an opponent.
+
+10
+00:00:43,000 --> 00:00:55,000
+ [Music]
+
+11
+00:00:55,000 --> 00:00:59,000
+ We get a 135 from India.
+
+12
+00:00:59,000 --> 00:01:05,000
+ Let's just hope he doesn't move his knights right from move 1.
+
+13
+00:01:05,000 --> 00:01:07,000
+ E4.
+
+14
+00:01:07,000 --> 00:01:09,000
+ Thank you.
+
+15
+00:01:09,000 --> 00:01:14,000
+ So in order to prevent a knight move, I think I need to keep him busy.
+
+16
+00:01:14,000 --> 00:01:16,000
+ Therefore,
+
+17
+00:01:16,000 --> 00:01:20,000
+ d5.
+
+18
+00:01:20,000 --> 00:01:22,000
+ He takes d5.
+
+19
+00:01:22,000 --> 00:01:23,000
+ Yes.
+
+20
+00:01:23,000 --> 00:01:29,000
+ Normally, people would take back this pawn, going into the Scandinavian defense.
+
+21
+00:01:29,000 --> 00:01:35,000
+ But of course, since that square is a light square, and my queen is on a dark square,
+
+22
+00:01:35,000 --> 00:01:39,000
+ doing that is just ending my own video.
+
+23
+00:01:39,000 --> 00:01:42,000
+ So I guess, c6.
+
+24
+00:01:42,000 --> 00:01:45,000
+ That pawn changed its square color.
+
+25
+00:01:45,000 --> 00:01:51,000
+ But once again, pawns don't count towards the challenge.
+
+26
+00:01:51,000 --> 00:01:53,000
+ D takes c6.
+
+27
+00:01:53,000 --> 00:01:55,000
+ Yes yes yes.
+
+28
+00:01:55,000 --> 00:02:00,000
+ The more you move your pawn, the longer this video can be.
+
+29
+00:02:00,000 --> 00:02:02,000
+ E5.
+
+30
+00:02:02,000 --> 00:02:06,000
+ Please continue to take.
+
+31
+00:02:06,000 --> 00:02:08,000
+ Yes.
+
+32
+00:02:08,000 --> 00:02:15,000
+ Normally, people would suggest me to take back the pawn now, but let's think about this for a moment.
+
+33
+00:02:15,000 --> 00:02:20,000
+ If I take the pawn back, there's a big chance he'll go bishop b5 check.
+
+34
+00:02:20,000 --> 00:02:28,000
+ And at that point, I don't have any moves to defend it, because even if bishop c6, bishop takes c6,
+
+35
+00:02:28,000 --> 00:02:33,000
+ then I'll either have to move my knight, move my queen, or move my king,
+
+36
+00:02:33,000 --> 00:02:42,000
+ and all of those moves are changing the square color of a piece, which makes me a fool, for ending my own video.
+
+37
+00:02:42,000 --> 00:02:43,000
+ But don't worry.
+
+38
+00:02:43,000 --> 00:02:49,000
+ Even if I don't take down that pawn, I think I still have a pretty good plan.
+
+39
+00:02:49,000 --> 00:02:51,000
+ Bishop c5.
+
+40
+00:02:51,000 --> 00:02:54,000
+ Now please take my rook and make a queen.
+
+41
+00:02:54,000 --> 00:03:01,000
+ And in no world should you take the bishop here.
+
+42
+00:03:01,000 --> 00:03:05,000
+ Why is he still thinking?
+
+43
+00:03:05,000 --> 00:03:07,000
+ Finally!
+
+44
+00:03:07,000 --> 00:03:09,000
+ Queen to d4.
+
+45
+00:03:09,000 --> 00:03:11,000
+ Here's my plan.
+
+46
+00:03:11,000 --> 00:03:18,000
+ Now he should be able to see that I'm threatening mate in 1, so he will play queen a to f3 to defend it,
+
+47
+00:03:18,000 --> 00:03:24,000
+ then I'll play bishop g4, queen takes g4, and queen takes f2.
+
+48
+00:03:24,000 --> 00:03:27,000
+ Checkmate.
+
+49
+00:03:27,000 --> 00:03:30,000
+ Well he can also just blunder the checkmate right now.
+
+50
+00:03:30,000 --> 00:03:34,000
+ That is actually even better to be honest.
+
+51
+00:03:34,000 --> 00:03:41,000
+ What the f
+
+52
+00:03:41,000 --> 00:03:55,000
+ [Music]
+

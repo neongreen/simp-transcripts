@@ -1,0 +1,244 @@
+1
+00:00:00,000 --> 00:00:09,000
+ If a piece, or pawn, gets captured, identical pieces, or pawns, can't move anymore.
+
+2
+00:00:09,000 --> 00:00:14,000
+ Playing 3 minute splits on a 100 rated account.
+
+3
+00:00:14,000 --> 00:00:19,000
+ Ah ha! This challenge reminds me of Halloween.
+
+4
+00:00:19,000 --> 00:00:28,000
+ You see, when a bunch of kids comes to your home and ask for candy, you can just refuse one of them, and everyone walks away.
+
+5
+00:00:29,000 --> 00:00:31,000
+ Empty handed.
+
+6
+00:00:31,000 --> 00:00:36,000
+ And with that out of the way, let's find an opponent.
+
+7
+00:00:36,000 --> 00:00:42,000
+ We get a 1 54 from Peru.
+
+8
+00:00:42,000 --> 00:00:47,000
+ G3. Not very aggressive.
+
+9
+00:00:47,000 --> 00:00:55,000
+ But actually, that should be good for me, since I don't really want any captures to happen too early.
+
+10
+00:00:55,000 --> 00:00:58,000
+ D5.
+
+11
+00:00:59,000 --> 00:01:01,000
+ Bishop H3.
+
+12
+00:01:01,000 --> 00:01:06,000
+ Ah ha! Now my best move should be bishop takes H3.
+
+13
+00:01:06,000 --> 00:01:18,000
+ But then according to the rules, my bishops won't be able to move, and if this bishop can't move, then my king won't be able to castle, and I have to develop my rook in a weirdo way.
+
+14
+00:01:19,000 --> 00:01:28,000
+ Also, if I just leave the situation like this, he may be going to take my bishop, which also leads to the same situation.
+
+15
+00:01:28,000 --> 00:01:32,000
+ Therefore, E6.
+
+16
+00:01:32,000 --> 00:01:38,000
+ B3. Again, not very aggressive.
+
+17
+00:01:38,000 --> 00:01:41,000
+ Knight F6.
+
+18
+00:01:41,000 --> 00:01:48,000
+ E3. This guy has to be the nicest 100 rated I have ever met.
+
+19
+00:01:48,000 --> 00:01:50,000
+ Knight C6.
+
+20
+00:01:50,000 --> 00:01:57,000
+ Bishop A3. Once again, offering a bishop trade.
+
+21
+00:01:57,000 --> 00:02:01,000
+ But I think, I can take it this time.
+
+22
+00:02:01,000 --> 00:02:12,000
+ And of course, now my light square bishop cannot move anymore, and even if he doesn't take my dark square bishop back, I won't be able to move it either.
+
+23
+00:02:12,000 --> 00:02:16,000
+ Knight takes A3.
+
+24
+00:02:17,000 --> 00:02:19,000
+ I'll castle.
+
+25
+00:02:19,000 --> 00:02:22,000
+ C3.
+
+26
+00:02:22,000 --> 00:02:24,000
+ Queen D6.
+
+27
+00:02:24,000 --> 00:02:28,000
+ Knight C2.
+
+28
+00:02:28,000 --> 00:02:31,000
+ Let's play a bit more aggressively.
+
+29
+00:02:31,000 --> 00:02:33,000
+ Knight E4.
+
+30
+00:02:33,000 --> 00:02:37,000
+ Queen F3.
+
+31
+00:02:37,000 --> 00:02:39,000
+ E5.
+
+32
+00:02:39,000 --> 00:02:45,000
+ Since my bishop cannot move, it would be perfect if he can make a trade.
+
+33
+00:02:46,000 --> 00:02:48,000
+ Thank you.
+
+34
+00:02:48,000 --> 00:02:50,000
+ Rook A takes C8.
+
+35
+00:02:50,000 --> 00:02:54,000
+ D4.
+
+36
+00:02:54,000 --> 00:02:56,000
+ That blunders a pawn.
+
+37
+00:02:56,000 --> 00:02:58,000
+ But should I even take it though?
+
+38
+00:02:58,000 --> 00:03:04,000
+ Because after I take that pawn, all of my pawns cannot move.
+
+39
+00:03:04,000 --> 00:03:06,000
+ No.
+
+40
+00:03:06,000 --> 00:03:09,000
+ I think I should take
+
+41
+00:03:09,000 --> 00:03:11,000
+ this pawn.
+
+42
+00:03:11,000 --> 00:03:14,000
+ This move looks pretty bad in normal chess.
+
+43
+00:03:14,000 --> 00:03:18,000
+ But I believe that it should be my best choice for this video.
+
+44
+00:03:18,000 --> 00:03:22,000
+ He takes D4.
+
+45
+00:03:22,000 --> 00:03:24,000
+ Rook C2 E8.
+
+46
+00:03:24,000 --> 00:03:28,000
+ Queen E2.
+
+47
+00:03:28,000 --> 00:03:30,000
+ That blunders a queen.
+
+48
+00:03:30,000 --> 00:03:33,000
+ Knight takes C3.
+
+49
+00:03:33,000 --> 00:03:35,000
+ Oh.
+
+50
+00:03:35,000 --> 00:03:36,000
+ Wait.
+
+51
+00:03:36,000 --> 00:03:43,000
+ Now if he takes my rook, I won't be able to take his queen, because of the rules.
+
+52
+00:03:44,000 --> 00:03:46,000
+ Are you serious?
+
+53
+00:03:46,000 --> 00:03:51,000
+ He is really taking his time here.
+
+54
+00:03:51,000 --> 00:03:54,000
+ Oh.
+
+55
+00:03:54,000 --> 00:03:57,000
+ He chose to move his king instead.
+
+56
+00:03:57,000 --> 00:04:00,000
+ And now offering a draw.
+
+57
+00:04:00,000 --> 00:04:03,000
+ You know what?
+
+58
+00:04:03,000 --> 00:04:08,000
+ Even though I can win a full queen, my queen won't be able to move after that.
+
+59
+00:04:08,000 --> 00:04:12,000
+ Therefore, let's accept it.
+
+60
+00:04:13,000 --> 00:04:17,000
+ Mission kinda accomplished.
+
+61
+00:04:17,000 --> 00:04:32,000
+ [Music]
+

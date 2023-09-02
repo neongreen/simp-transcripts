@@ -1,0 +1,300 @@
+1
+00:00:00,000 --> 00:00:05,560
+ If your opponent pieces, not pawns, c20 squares or more.
+
+2
+00:00:05,560 --> 00:00:07,560
+ The video ends.
+
+3
+00:00:07,560 --> 00:00:08,740
+ Let's go.
+
+4
+00:00:08,740 --> 00:00:11,680
+ We get a 2 36 from the US.
+
+5
+00:00:11,680 --> 00:00:16,920
+ Ah, I was hoping that I can get the white pieces, since it should be much better if
+
+6
+00:00:16,920 --> 00:00:18,580
+ I can go first.
+
+7
+00:00:18,580 --> 00:00:21,040
+ But well, that is life.
+
+8
+00:00:21,040 --> 00:00:22,400
+ E3.
+
+9
+00:00:22,400 --> 00:00:24,080
+ Wow.
+
+10
+00:00:24,080 --> 00:00:29,120
+ That was just his first move, and the number is already 11 out of 20.
+
+11
+00:00:29,120 --> 00:00:34,280
+ And to make things fair, I think we can all agree that we should only count the empty
+
+12
+00:00:34,280 --> 00:00:35,520
+ squares.
+
+13
+00:00:35,520 --> 00:00:39,960
+ With that said, his queen is obviously the most dangerous piece.
+
+14
+00:00:39,960 --> 00:00:42,580
+ Therefore, knight f6.
+
+15
+00:00:42,580 --> 00:00:47,440
+ At least that stopped queen h5 and queen g4.
+
+16
+00:00:47,440 --> 00:00:48,880
+ Bishop c4.
+
+17
+00:00:48,880 --> 00:00:50,040
+ Aha!
+
+18
+00:00:50,040 --> 00:00:52,480
+ That gives me some free tempos.
+
+19
+00:00:52,480 --> 00:00:53,960
+ d5.
+
+20
+00:00:53,960 --> 00:00:59,400
+ And the best thing is, even if he plays queen f3 right now, his queen's view is already
+
+21
+00:00:59,400 --> 00:01:02,960
+ blocked by my d-pawn.
+
+22
+00:01:02,960 --> 00:01:04,600
+ Bishop b3.
+
+23
+00:01:04,600 --> 00:01:06,800
+ c5.
+
+24
+00:01:06,800 --> 00:01:07,800
+ Knight c3.
+
+25
+00:01:07,800 --> 00:01:10,680
+ Let's try to trap his bishop.
+
+26
+00:01:10,680 --> 00:01:12,240
+ a6.
+
+27
+00:01:12,240 --> 00:01:14,120
+ e4.
+
+28
+00:01:14,120 --> 00:01:17,240
+ That blunders a bishop.
+
+29
+00:01:17,240 --> 00:01:20,160
+ c4.
+
+30
+00:01:20,160 --> 00:01:21,960
+ A desperado.
+
+31
+00:01:21,960 --> 00:01:24,320
+ d takes c4.
+
+32
+00:01:24,320 --> 00:01:26,520
+ d4.
+
+33
+00:01:26,520 --> 00:01:29,020
+ Okay that could have ended the video.
+
+34
+00:01:29,020 --> 00:01:34,880
+ So let's count, 1 2 3 4 5, 16 squares.
+
+35
+00:01:34,880 --> 00:01:35,880
+ Ha!
+
+36
+00:01:35,880 --> 00:01:37,520
+ Not even close.
+
+37
+00:01:37,520 --> 00:01:43,480
+ Now the French move is possible, but sadly, there is queen takes d3, which can very well
+
+38
+00:01:43,480 --> 00:01:48,280
+ just straight up end the video, and since I didn't have time to count the squares during
+
+39
+00:01:48,280 --> 00:01:51,000
+ the game, I decided to go.
+
+40
+00:01:51,000 --> 00:01:52,240
+ d5.
+
+41
+00:01:52,240 --> 00:01:57,800
+ And don't worry, I already counted the free squares even if he takes my e-pawn, and it
+
+42
+00:01:57,800 --> 00:02:01,960
+ was only, 9, 10.
+
+43
+00:02:01,960 --> 00:02:05,380
+ Which is not even close.
+
+44
+00:02:05,380 --> 00:02:06,860
+ Knight f3.
+
+45
+00:02:06,860 --> 00:02:12,520
+ So he doesn't want to trade queens, and actually that's also good for me, since his knight
+
+46
+00:02:12,520 --> 00:02:15,440
+ closed down his queen's diagonal.
+
+47
+00:02:15,440 --> 00:02:18,260
+ Therefore, bishop g4.
+
+48
+00:02:18,260 --> 00:02:24,600
+ Of course I need to pin his knight down, so his queen's diagonal will keep on being closed.
+
+49
+00:02:24,600 --> 00:02:26,280
+ Castle.
+
+50
+00:02:26,280 --> 00:02:27,880
+ e takes d4.
+
+51
+00:02:27,880 --> 00:02:33,120
+ I didn't count the squares in case of queen takes d4, but since most of her roots are
+
+52
+00:02:33,120 --> 00:02:37,400
+ closed down, it shouldn't be too bad.
+
+53
+00:02:37,400 --> 00:02:38,680
+ Knight e2.
+
+54
+00:02:38,680 --> 00:02:41,480
+ I'll take this knight then.
+
+55
+00:02:41,480 --> 00:02:43,400
+ Knight takes d4.
+
+56
+00:02:43,400 --> 00:02:44,760
+ Yes!
+
+57
+00:02:44,760 --> 00:02:47,080
+ That blunders a woman.
+
+58
+00:02:47,080 --> 00:02:48,960
+ Rook takes d1.
+
+59
+00:02:48,960 --> 00:02:53,880
+ And since the queen is pretty much the only piece that I'm scared of, now I'm confident
+
+60
+00:02:53,880 --> 00:03:00,760
+ to say, that this mission, is 100% a victory.
+
+61
+00:03:00,760 --> 00:03:02,900
+ Rook takes d1.
+
+62
+00:03:02,900 --> 00:03:05,920
+ Bishop c5.
+
+63
+00:03:05,920 --> 00:03:07,480
+ Knight c6.
+
+64
+00:03:07,480 --> 00:03:13,380
+ That blunders a king, but of course, we still need to count the controlled squares, to make
+
+65
+00:03:13,380 --> 00:03:14,380
+ it official.
+
+66
+00:03:14,380 --> 00:03:20,120
+ 1, 2, 3 4 5, 19.
+
+67
+00:03:20,120 --> 00:03:21,920
+ Not even close.
+
+68
+00:03:21,920 --> 00:03:26,300
+ And since you're already watching this long into the video, I just want to tell you that
+
+69
+00:03:26,300 --> 00:03:31,440
+ I have another channel, featuring some very simple games from random people around the
+
+70
+00:03:31,440 --> 00:03:32,440
+ internet.
+
+71
+00:03:32,440 --> 00:03:36,960
+ Feel free to check it out through the link in the description below.
+
+72
+00:03:36,960 --> 00:03:40,000
+ Queen takes d1.
+
+73
+00:03:40,000 --> 00:03:41,000
+ Checkmate.
+
+74
+00:03:41,000 --> 00:03:43,560
+ Mission, accomplished.
+
+75
+00:03:43,560 --> 00:03:58,500
+ [outro music]
+

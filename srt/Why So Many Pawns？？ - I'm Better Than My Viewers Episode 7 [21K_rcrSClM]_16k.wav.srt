@@ -1,0 +1,124 @@
+1
+00:00:00,000 --> 00:00:07,920
+ Okay. Draw. I have absolutely no idea how this can be a draw, but let's try it out anyway.
+
+2
+00:00:07,920 --> 00:00:13,200
+ Welcome to episode 7 of I'm Better Than My Viewers, and the challenger this time is a guy
+
+3
+00:00:13,200 --> 00:00:18,720
+ called Sylvia. As you can see, Stockfish is saying that White has a big advantage,
+
+4
+00:00:18,720 --> 00:00:25,200
+ but since Stockfish hates me, I'm not gonna believe that. But anyway, these pawns are gonna
+
+5
+00:00:25,200 --> 00:00:30,880
+ change their gender really soon, therefore, let's spring more pieces into the defense.
+
+6
+00:00:30,880 --> 00:00:39,440
+ And wow, a blunder on move 1, who would have thought. G-pawn changes gender. Queen cf1.
+
+7
+00:00:39,440 --> 00:00:47,920
+ More pieces into the defense. G2. Bishop d3. Since I only have to fight against pawns,
+
+8
+00:00:47,920 --> 00:00:55,280
+ bishops and queens are basically the same. Another G-pawn changes gender. I'll take with queen.
+
+9
+00:00:55,280 --> 00:01:04,880
+ G3. Ah ha, it's time to take the risk and turn the table. Queen takes h3, I mean G2 should be
+
+10
+00:01:04,880 --> 00:01:10,880
+ the best move now, but it is also very difficult to see because it hangs the f3-pawn, and he
+
+11
+00:01:10,880 --> 00:01:19,040
+ immediately found it. Wow. Alright, I'll take this pawn, I mean what else can I do anyway.
+
+12
+00:01:19,040 --> 00:01:26,160
+ Ha! Nevermind, I think that is the wrong move because that queen was supposed to help the
+
+13
+00:01:26,160 --> 00:01:34,000
+ h-pawn to change gender, but now, there is queen takes b1, now after another G-pawn changes gender,
+
+14
+00:01:34,000 --> 00:01:42,960
+ it's just the same thing as the beginning of the game. There we go. Queen f1 again. G4. Very
+
+15
+00:01:42,960 --> 00:01:53,120
+ aggressive. Queen h1. G3. This pawn obviously needs a supporter to go to G2, therefore, bishop d1,
+
+16
+00:01:53,120 --> 00:02:03,920
+ I mean at least that stops f3, but if he finds h3, bishop f3. It's fine, e4 then I'll have
+
+17
+00:02:03,920 --> 00:02:13,040
+ to sacrifice. E4. Bishop takes f takes bishop takes d5 and bishop back to f3. It's fine,
+
+18
+00:02:13,040 --> 00:02:22,320
+ it's not like he can find e5 and then e4. This guy is absolutely destroying me right here. King e2,
+
+19
+00:02:22,320 --> 00:02:29,920
+ I need to move this queen, or else my other queen will be overloaded. E4, queen takes h3.
+
+20
+00:02:31,040 --> 00:02:37,920
+ E6. I think that was a mouse slip as he was trying to play e5. But you know, I'm not gonna
+
+21
+00:02:37,920 --> 00:02:47,360
+ complain about it. Bishop takes f6 check. Finally, a check from me. King h7. Bishop e5.
+
+22
+00:02:47,360 --> 00:02:53,520
+ Everything is great, as soon as I can eliminate all of these pawns, the game will be mine.
+
+23
+00:02:54,480 --> 00:03:04,480
+ D6. Man this guy just doesn't like my bishop at all. I'll take this pawn. Finally, queen takes f3.
+
+24
+00:03:04,480 --> 00:03:11,040
+ As you can see, Stockfish now thinks it's only 3.6 for black, but to be honest, I think he just
+
+25
+00:03:11,040 --> 00:03:16,000
+ hates me because this should be better for me, and the fish just doesn't want to accept it.
+
+26
+00:03:17,200 --> 00:03:25,520
+ Each pawn changes gender. Queen takes queen takes queen takes e5 bishop g3 c5 bishop f2 e4 queen
+
+27
+00:03:25,520 --> 00:03:32,400
+ h3 c4 and in this position, there is a checkmate in 5 for white, so if you're interested, please
+
+28
+00:03:32,400 --> 00:03:37,440
+ feel free to pause the video right now to find the checkmate pattern, while I don't give you any
+
+29
+00:03:37,440 --> 00:03:44,000
+ seconds to do so, and the idea is to move the bishop closer, and then queen d7 d3 queen takes
+
+30
+00:03:44,000 --> 00:03:50,000
+ f7. Checkmate. And once again, I'm better than my viewers.
+
+31
+00:03:50,000 --> 00:04:04,640
+ [Music]
+

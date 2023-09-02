@@ -1,0 +1,168 @@
+1
+00:00:00,000 --> 00:00:06,800
+ I'm better than my viewers, and you play as white in this position. That looks very interesting.
+
+2
+00:00:06,800 --> 00:00:11,920
+ Welcome to episode 3 of I'm better than my viewers, and the challenge of this time is a guy
+
+3
+00:00:11,920 --> 00:00:19,360
+ called Haito9734. And he is 1150, which is to say the highest rated opponent I have ever had in this
+
+4
+00:00:19,360 --> 00:00:26,640
+ series. D3, of course opening up my bishop straight to his F pawn is my best move, and even though
+
+5
+00:00:26,640 --> 00:00:35,280
+ Stockfish says it's -10 right now, unless he can see the idea of knight H7 G5 bishop G5 king F5 E5
+
+6
+00:00:35,280 --> 00:00:40,240
+ to get his queen active against my king, I don't think he can win this game that easily.
+
+7
+00:00:40,240 --> 00:00:51,840
+ G3. Okay that should be the wrong move. But still, the situation is very, very, intense. H takes G3.
+
+8
+00:00:51,840 --> 00:00:57,120
+ I'm threatening bishop takes F4 checkmate in 1, so there's no way that's a bad move.
+
+9
+00:00:57,120 --> 00:01:04,480
+ F takes G3. Alright, it's time to test out if he really can understand his advantage.
+
+10
+00:01:04,480 --> 00:01:11,200
+ F takes G3. I'm threatening the same mate in 1 again, but is he gonna see that he can actually
+
+11
+00:01:11,200 --> 00:01:16,960
+ take back with his H pawn, because his rook is already defended by the extra G pawn behind it?
+
+12
+00:01:19,360 --> 00:01:25,440
+ Ha! Wrong move, but at least it also blocks my bishop away, which may be really bad for me in
+
+13
+00:01:25,440 --> 00:01:35,200
+ the future. Knight F3 check. Knight takes F3 is kinda forced. G takes F3. Third time's a charm.
+
+14
+00:01:35,200 --> 00:01:43,120
+ Or not. Comparing to the 11 hundreds that I've met, this guy is typically good at spotting checkmates.
+
+15
+00:01:43,120 --> 00:01:49,040
+ Well at least I have a fork, unless Stockfish says that it's not a fork and it's a blunder
+
+16
+00:01:49,040 --> 00:01:58,000
+ and I have no idea where the blunder is. Ha! You see, even the most obvious move of bishop G6 to
+
+17
+00:01:58,000 --> 00:02:05,600
+ attack my king is not the correct move. I'll take this rook. Bishop takes. His best plan right now
+
+18
+00:02:05,600 --> 00:02:13,440
+ is to move his king aside, E5, queen F7 checkmate, and to be honest, I have no idea how to save my
+
+19
+00:02:13,440 --> 00:02:20,800
+ king if his queen can get over there. Therefore, bishop H3, at least that can prevent king F5,
+
+20
+00:02:20,800 --> 00:02:25,520
+ but if he really decides to play king F4, things will be really bad for me.
+
+21
+00:02:25,520 --> 00:02:35,840
+ Well, at least Stockfish thinks this is good for me. Queen G1, at least I'm threatening
+
+22
+00:02:35,840 --> 00:02:44,880
+ queen H2 checkmate in 1, so he can't really play E5 right now. Man, this guy is really good at
+
+23
+00:02:44,880 --> 00:02:51,440
+ defending his king. I'll take with pawn. It's fine, at least I have a temper at his bishop.
+
+24
+00:02:51,440 --> 00:03:00,240
+ Bishop G6. Knight D2. Now please just take my knight and blunder your king to bishop D2 king
+
+25
+00:03:00,240 --> 00:03:10,640
+ E5 queen H2 mate. E5. Ah ha! That threats an unavoidable checkmate. But sadly, it's just a
+
+26
+00:03:10,640 --> 00:03:19,600
+ little bit too slow. Queen G2 check. King G5 is forced. Knight F3 check, and now he has to
+
+27
+00:03:19,600 --> 00:03:26,160
+ sacrifice his queen, which is to say, that I will not lose this game, unless I make some very stupid
+
+28
+00:03:26,160 --> 00:03:34,560
+ decision. Yes! F takes the woman. But still, the game is not over because my king is literally
+
+29
+00:03:34,560 --> 00:03:43,040
+ always in his hand. D5 check. King G7, this move also blocks the way for his king to go back,
+
+30
+00:03:43,040 --> 00:03:51,520
+ which means my king is now also contributing to the attack. Knight C7. Ah ha! After all of those
+
+31
+00:03:51,520 --> 00:03:58,960
+ moves, now he sees that his knights can actually go backwards. Rook F1. The plan is very simple.
+
+32
+00:03:58,960 --> 00:04:10,880
+ F4 check, E takes F4, queen takes F4 checkmate. But he checks me first. King G8. F5. Ah ha! So he
+
+33
+00:04:10,880 --> 00:04:16,960
+ may thinks that move is making room for his king to go back, but sadly, that blunders queen takes
+
+34
+00:04:16,960 --> 00:04:25,920
+ E5. Ha, thank you for helping me developing my queen dude. Knight F6 check, man it is very close
+
+35
+00:04:25,920 --> 00:04:32,400
+ to a smothered pawn checkmate. King G7, if he checks again I'll go to corner and there is no
+
+36
+00:04:32,400 --> 00:04:41,280
+ more check. Bishop F8 check. Ah ha, he is very obviously baiting king takes F8 knight D7 forking
+
+37
+00:04:41,280 --> 00:04:48,960
+ my king and my queen, but sadly, that actually doesn't work. King takes F8. Oh no my queen.
+
+38
+00:04:48,960 --> 00:04:56,560
+ Knight D7 royal fork. For an 1100 to spot such tactics is actually pretty amazing,
+
+39
+00:04:56,560 --> 00:05:04,000
+ but sadly, I can't just give you my queen. King back to G7, now even if he takes my queen,
+
+40
+00:05:04,000 --> 00:05:09,360
+ F4 is still a checkmate in one, and at this very moment, my opponent resigns.
+
+41
+00:05:09,360 --> 00:05:13,760
+ So once again, I'm better than my viewers.
+
+42
+00:05:13,760 --> 00:05:28,340
+ [Music]
+

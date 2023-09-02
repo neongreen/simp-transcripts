@@ -1,0 +1,108 @@
+1
+00:00:00,000 --> 00:00:07,600
+ 100 rated chess, but enemy pawns have very long weapons, your pieces, not pawns, must never be in
+
+2
+00:00:07,600 --> 00:00:14,320
+ a square within 2 tiles in front of an enemy pawn. Very challenging. Developing a knight first is
+
+3
+00:00:14,320 --> 00:00:21,200
+ obviously a bad idea because for example knight f3 gets f5 ends the video, knight c3 gets e5 ends
+
+4
+00:00:21,200 --> 00:00:29,680
+ the video, and same thing with the other 2 moves. Therefore, e4, e5. I still don't want to develop
+
+5
+00:00:29,680 --> 00:00:36,080
+ my horsey because it's too risky, d4 is also bad because after he takes, queen takes is just asking
+
+6
+00:00:36,080 --> 00:00:42,240
+ him to end my video, and if I don't take he can push d3 the move after and still ends the video.
+
+7
+00:00:42,240 --> 00:00:48,480
+ So I guess, f4. I mean there'll be some problems if he decides to take, but based on my Guinness
+
+8
+00:00:48,480 --> 00:00:54,400
+ World Record experience about the 100 rated players, I'm pretty sure that he'll give a check.
+
+9
+00:00:55,920 --> 00:01:04,800
+ Ha! There we go. g3. Queen f6. I'll take this pawn. Alright, now his e-file doesn't have a
+
+10
+00:01:04,800 --> 00:01:10,320
+ pawn anymore, I now can develop all of my pieces onto the e-file without having to worry about
+
+11
+00:01:10,320 --> 00:01:18,640
+ anything at all. Queen takes, aha, I really want to go knight c3, but maybe he'll go c5 to end my
+
+12
+00:01:18,640 --> 00:01:28,960
+ video, therefore, d3. Slow and steady. Bishop e7. Not very aggressive. Knight f3, well I mean now
+
+13
+00:01:28,960 --> 00:01:37,600
+ f5 immediately ends the video, but who plays like that anyway. Right? Of course, but that move is
+
+14
+00:01:37,600 --> 00:01:43,920
+ actually not that good for me. So I guess, knight d4, I want him to block one of his remaining
+
+15
+00:01:43,920 --> 00:01:49,280
+ pawns with his queen so that I can have another free file to use, and in no world do you push
+
+16
+00:01:49,280 --> 00:01:57,600
+ your d-pawn here. That is perfect. Bishop e3. Alright, now with his queen is also blocking
+
+17
+00:01:57,600 --> 00:02:03,360
+ his d-pawn, I'm literally having 2 center files to play here, which is to say, that there is
+
+18
+00:02:03,360 --> 00:02:13,120
+ absolutely no chance for him to end my video. c5. Very aggressive. I'll go back. Again, f5 ends the
+
+19
+00:02:13,120 --> 00:02:18,560
+ video, but since it's just straight up blundering a pawn, there's no way he's gonna play like that.
+
+20
+00:02:18,560 --> 00:02:27,520
+ Right? No doubt. That blunders a pawn. Ha, and with that, I now have one more free file to play with.
+
+21
+00:02:27,520 --> 00:02:35,440
+ f6. I really want to go bishop f4 to gain a tempo, but as you can see, I'm not a fool that end my
+
+22
+00:02:35,440 --> 00:02:44,720
+ own video. Therefore, bishop e3. Knight h6. Ah ha, that blunders a horsey, but of course I cannot
+
+23
+00:02:44,720 --> 00:02:50,400
+ take it due to the rules, and since his idea is so obvious that he wants to support his f-pawn to go
+
+24
+00:02:50,400 --> 00:02:58,000
+ to f5, therefore, bishop h3. Now f5 is no longer available, and since he's hanging his knight over
+
+25
+00:02:58,000 --> 00:03:08,320
+ here, it is time that he moves it away. It feels like every single time my opponent makes a move
+
+26
+00:03:08,320 --> 00:03:13,440
+ that ends my video, Stockfish always has to say "Good."
+
+27
+00:03:13,440 --> 00:03:28,080
+ [Music]
+

@@ -1,0 +1,196 @@
+1
+00:00:00,000 --> 00:00:07,280
+ 100 rated chess, but on every second move, you must move the same piece, or pawn, you
+
+2
+00:00:07,280 --> 00:00:10,400
+ moved on the previous move.
+
+3
+00:00:10,400 --> 00:00:11,960
+ Ok then.
+
+4
+00:00:11,960 --> 00:00:15,200
+ We get a 1 8 e 9 from Canada.
+
+5
+00:00:15,200 --> 00:00:19,340
+ Let's be real, this is 100% not doable.
+
+6
+00:00:19,340 --> 00:00:22,640
+ But of course, I'll still try my best.
+
+7
+00:00:22,640 --> 00:00:29,040
+ And to be honest, I only hope that I won't be checkmated too early.
+
+8
+00:00:29,040 --> 00:00:30,040
+ e 4.
+
+9
+00:00:30,040 --> 00:00:33,180
+ e oh wait wait wait.
+
+10
+00:00:33,180 --> 00:00:39,000
+ If I play e 5, I won't be able to move my e pawn again next turn, because his pawn is
+
+11
+00:00:39,000 --> 00:00:41,180
+ already blocking the way.
+
+12
+00:00:41,180 --> 00:00:46,640
+ And if you really think about it, this first move is actually harder than it looks.
+
+13
+00:00:46,640 --> 00:00:47,640
+ Let's see.
+
+14
+00:00:47,640 --> 00:00:54,840
+ e 6 also doesn't work, because if he just pushes e 5, my e pawn is once again.
+
+15
+00:00:54,840 --> 00:00:56,280
+ Trapped.
+
+16
+00:00:56,280 --> 00:01:01,480
+ Pushing the d pawn is just provoking bishop b 5 check, which also prevents me from moving
+
+17
+00:01:01,480 --> 00:01:03,280
+ it again.
+
+18
+00:01:03,280 --> 00:01:08,080
+ Developing a knight also doesn't work, because since I have to move my knight again, it's
+
+19
+00:01:08,080 --> 00:01:11,680
+ most likely going to jump around for a while.
+
+20
+00:01:11,680 --> 00:01:20,360
+ And if I push another pawn, for example, c 6, queen h 5, c 5 is forced, bishop c 4, g
+
+21
+00:01:20,360 --> 00:01:27,060
+ 6, queen f 3, g 5 is forced, and I get checkmated by a bishop.
+
+22
+00:01:27,060 --> 00:01:28,600
+ So I guess.
+
+23
+00:01:28,600 --> 00:01:29,720
+ g 6.
+
+24
+00:01:29,720 --> 00:01:38,060
+ I mean this is the only way to prevent queen h 5, or at least just delay it for one move.
+
+25
+00:01:38,060 --> 00:01:39,400
+ Knight f 3.
+
+26
+00:01:39,400 --> 00:01:40,920
+ Ah ha.
+
+27
+00:01:40,920 --> 00:01:45,140
+ He's obviously trying to prevent me from pushing g 5.
+
+28
+00:01:45,140 --> 00:01:46,880
+ But guess what?
+
+29
+00:01:46,880 --> 00:01:48,720
+ g 5 is forced.
+
+30
+00:01:48,720 --> 00:01:53,960
+ Ha ha, you didn't stop anything, noob.
+
+31
+00:01:53,960 --> 00:01:56,680
+ Well of course that's a free pawn.
+
+32
+00:01:56,680 --> 00:02:00,400
+ This mission is getting out of control really quickly.
+
+33
+00:02:00,400 --> 00:02:01,640
+ But anyway.
+
+34
+00:02:01,640 --> 00:02:04,080
+ That knight is actually really annoying.
+
+35
+00:02:04,080 --> 00:02:06,640
+ Therefore, e 6.
+
+36
+00:02:06,640 --> 00:02:13,040
+ Well, technically, if he just plays knight back to f 3, e 5 is forced, and then I'll
+
+37
+00:02:13,040 --> 00:02:15,640
+ lose another pawn.
+
+38
+00:02:15,640 --> 00:02:20,360
+ What is wrong with this mission by the way?
+
+39
+00:02:20,360 --> 00:02:22,400
+ Queen f 3.
+
+40
+00:02:22,400 --> 00:02:24,680
+ That blunders a horsey.
+
+41
+00:02:24,680 --> 00:02:27,320
+ But e 5 is forced.
+
+42
+00:02:27,320 --> 00:02:30,880
+ But that's blundering a king.
+
+43
+00:02:30,880 --> 00:02:36,680
+ Are you serious?
+
+44
+00:02:36,680 --> 00:02:46,640
+ Well, at least I tried.
+
+45
+00:02:46,640 --> 00:02:50,300
+ [MUSIC PLAYING]
+
+46
+00:02:50,300 --> 00:02:53,660
+ [MUSIC PLAYING]
+
+47
+00:02:53,660 --> 00:02:57,020
+ [MUSIC PLAYING]
+
+48
+00:02:57,020 --> 00:02:59,600
+ (upbeat music)
+
+49
+00:02:59,600 --> 00:03:02,600
+ (audience cheering)
+

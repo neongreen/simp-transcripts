@@ -1,0 +1,120 @@
+1
+00:00:00,000 --> 00:00:05,680
+ 100 rated chess, but you're nothing like your opponent, you have to move a different type of
+
+2
+00:00:05,680 --> 00:00:11,120
+ piece than they did, from a different color square, and also to a different color square.
+
+3
+00:00:11,120 --> 00:00:16,640
+ Okay this sounds absolutely impossible, so let's just delete this part away.
+
+4
+00:00:16,640 --> 00:00:22,720
+ And to be honest, this still sounds very impossible. We get a 188 from Italy.
+
+5
+00:00:23,840 --> 00:00:30,480
+ H3. Ah ha, that pawn moved from a dark square to a light square, so I need to make a move from a
+
+6
+00:00:30,480 --> 00:00:38,160
+ light square to a dark square. B6. Fianchetto. Being a bishop doesn't sound so bad. Knight C3.
+
+7
+00:00:38,160 --> 00:00:45,440
+ Light to dark, so I need to go. Dark to light. Man, I guess it'll take a while until he makes
+
+8
+00:00:45,440 --> 00:00:54,400
+ a dark to dark move so that I can move my bishop. Nevermind. Bishop B7. A3. Light to dark,
+
+9
+00:00:54,400 --> 00:00:59,440
+ dark to light, this guy has to be the most not very aggressive opponent I have ever met.
+
+10
+00:00:59,440 --> 00:01:07,280
+ G4. Very aggressive. That blunders a rook, but since he made a light to light move, I cannot
+
+11
+00:01:07,280 --> 00:01:12,800
+ move my light square bishop due to the rules, and since I obviously want him to make a dark to dark
+
+12
+00:01:12,800 --> 00:01:19,840
+ move, let's go for. Bishop takes A3. This will guarantee that he'll make a dark to dark move,
+
+13
+00:01:19,840 --> 00:01:26,080
+ which allows me to take his rook. Well, I mean that isn't the move in the plan,
+
+14
+00:01:26,080 --> 00:01:31,840
+ but since it's still a dark to dark move, I can take his rook. I mean now if he can make a light
+
+15
+00:01:31,840 --> 00:01:38,240
+ to light move to let me retreat my bishop, that will be very convenient. Of course it doesn't
+
+16
+00:01:38,240 --> 00:01:46,160
+ happen. F5. I want to go queen H4, so F5 is to provoke G takes, and there is no way that is not
+
+17
+00:01:46,160 --> 00:01:56,800
+ happening. Ha! Again, that is also a light to light move, which is totally acceptable. King D1.
+
+18
+00:01:56,800 --> 00:02:02,320
+ That was a dark to light move, so even though I think that horses are absolutely useless in this
+
+19
+00:02:02,320 --> 00:02:09,360
+ game, I don't really have many choices. Now just take this pawn and we'll both be happy. Or I mean
+
+20
+00:02:09,360 --> 00:02:16,800
+ at least I'll be happy. Queen F3. Dude! That blunders a queen, but I cannot take it because
+
+21
+00:02:16,800 --> 00:02:22,080
+ I have to make a dark to dark move, and there is absolutely no dark to dark move that can defend
+
+22
+00:02:22,080 --> 00:02:31,200
+ my rook and my bishop. C5. Alright, let's just hope that he'll take this pawn. It's a dark to
+
+23
+00:02:31,200 --> 00:02:36,880
+ dark move again, and still there is no way I can defend my rook, and then he'll clean my entire
+
+24
+00:02:36,880 --> 00:02:45,200
+ back rank. Queen F2. Ha! You better get scared of this move. This guy is totally destroying me.
+
+25
+00:02:45,200 --> 00:02:50,160
+ And I can't even take his bishop for a check, because I have to make a dark to dark move,
+
+26
+00:02:50,160 --> 00:02:54,320
+ then he can take my knight for a check, and since that'll be a light to dark move,
+
+27
+00:02:54,320 --> 00:02:59,440
+ I won't be able to move my king because the king is on a light square, which means I'll have to
+
+28
+00:02:59,440 --> 00:03:06,800
+ end the video. Please move your queen back to defend your bishop.
+
+29
+00:03:06,800 --> 00:03:25,600
+ Yeah there's no way this is possible.
+
+30
+00:03:25,600 --> 00:03:28,340
+ (dramatic music)
+

@@ -1,0 +1,64 @@
+1
+00:00:00,000 --> 00:00:05,160
+ So I was 1599 rapid rated in chess.com.
+
+2
+00:00:05,160 --> 00:00:07,480
+ There comes the question.
+
+3
+00:00:07,480 --> 00:00:10,360
+ How can I get to 1600?
+
+4
+00:00:10,360 --> 00:00:14,120
+ I mean queuing into a game is too much of a risk.
+
+5
+00:00:14,120 --> 00:00:16,480
+ So here is what I did.
+
+6
+00:00:16,480 --> 00:00:24,040
+ I opened the live chess settings, and changed the outgoing range to -25 to +400.
+
+7
+00:00:24,040 --> 00:00:25,960
+ Then I queued for a match.
+
+8
+00:00:25,960 --> 00:00:27,800
+ We got d4,
+
+9
+00:00:27,800 --> 00:00:29,040
+ d5,
+
+10
+00:00:29,040 --> 00:00:31,400
+ bishop f4.
+
+11
+00:00:31,400 --> 00:00:33,400
+ And I offered a draw.
+
+12
+00:00:33,400 --> 00:00:35,400
+ Mouse slipped.
+
+13
+00:00:35,400 --> 00:00:41,160
+ Well of course, I didn't mouse slipped into a London system, just wanted the free draw.
+
+14
+00:00:41,160 --> 00:00:46,080
+ At first, he declined the draw so fast that he couldn't read my chat.
+
+15
+00:00:46,080 --> 00:00:49,100
+ But then the nice guy offered back the draw.
+
+16
+00:00:49,100 --> 00:00:54,880
+ And since his elo was way higher than mine, a draw is a +1 for me.
+

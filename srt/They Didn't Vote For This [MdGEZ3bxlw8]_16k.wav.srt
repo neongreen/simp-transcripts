@@ -1,0 +1,104 @@
+1
+00:00:00,000 --> 00:00:06,480
+ 100 rated chess, but you reveal the challenge after a bishop move. This has to be the first
+
+2
+00:00:06,480 --> 00:00:12,160
+ time I've ever taken on a covered challenge that has absolutely no reaction in it. So logically
+
+3
+00:00:12,160 --> 00:00:23,920
+ speaking, this should be an easy one. We get a 139 from India. e4. e5. Bishop c5 is a very big
+
+4
+00:00:23,920 --> 00:00:32,160
+ threat. d4. I mean in contrast, I am in some way provoking bishop b4, but he should be able to see
+
+5
+00:00:32,160 --> 00:00:42,320
+ that c3 will cause him a lot of troubles. Right? Definitely. I normally continue to gambit a pawn
+
+6
+00:00:42,320 --> 00:00:49,680
+ here, but just for this game, queen takes d4. This way, my queen can completely prevent his bishop
+
+7
+00:00:49,680 --> 00:01:00,720
+ from going out. Knight c6. Queen c4. b6. He's threatening bishop b7 starting the challenge,
+
+8
+00:01:00,720 --> 00:01:08,240
+ and as you can see, there is no way I can prevent it from happening. Therefore, knight h3. Instead
+
+9
+00:01:08,240 --> 00:01:13,440
+ of desperately preventing it, I'm provoking him to open up his bishop the other way to capture my
+
+10
+00:01:13,440 --> 00:01:19,840
+ offsided horsey. And then for some unknown reason he decided to move the other bishop.
+
+11
+00:01:19,840 --> 00:01:28,160
+ Alright, we'll see the challenge. There is gravity toward the bishop's location,
+
+12
+00:01:28,160 --> 00:01:34,000
+ your moves must now reduce the distance from the bishop's location, using Pythagorean theorem.
+
+13
+00:01:34,000 --> 00:01:41,920
+ This challenge is basically saying that his bishop is fat, but who cares anyway. My knight on h3 is
+
+14
+00:01:41,920 --> 00:01:48,400
+ square root of 29 away from his bishop, while the g5 square is only 4 squares away from it.
+
+15
+00:01:48,400 --> 00:01:55,120
+ Knight g5. I'm threatening queen f7 checkmate in one, but in fact, my queen cannot move away
+
+16
+00:01:55,120 --> 00:02:03,840
+ from his bishop, so I may have to come up with a more detailed plan. Queen f6. Square root of 18,
+
+17
+00:02:03,840 --> 00:02:13,520
+ square root of 13, f3, d5. Aha, putting something right next to his bishop is definitely going
+
+18
+00:02:13,520 --> 00:02:22,080
+ closer to the fat guy, he takes d5. Bishop g4. A very desperate attempt to provoke me to allow
+
+19
+00:02:22,080 --> 00:02:27,680
+ queen f2 to the point that he doesn't notice my queen on the other side, but I can only take this
+
+20
+00:02:27,680 --> 00:02:33,600
+ horsey. I'll say that moving my pawn next to his bishop to another square also next to his bishop
+
+21
+00:02:33,600 --> 00:02:44,160
+ is legal. Bishop takes f3. My pawn on g2 is 5 squares away from his bishop, f3 to c5 is square
+
+22
+00:02:44,160 --> 00:02:52,400
+ root of 13, g takes f3. And for those of you who are wondering why c5 to g2 is 5 squares,
+
+23
+00:02:52,400 --> 00:03:00,720
+ ha, I'm not going to explain. Queen takes f3. 4 is larger than square root of 13,
+
+24
+00:03:00,720 --> 00:03:06,640
+ free woman. I can't believe that I've been setting up queen f7 from the beginning of the game,
+
+25
+00:03:06,640 --> 00:03:20,240
+ and this guy has never even blundered it once. Resignation. Mission accomplished.
+
+26
+00:03:21,040 --> 00:03:28,560
+ [Music]
+

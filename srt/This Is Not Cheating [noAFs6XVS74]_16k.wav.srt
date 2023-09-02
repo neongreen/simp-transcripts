@@ -1,0 +1,116 @@
+1
+00:00:00,000 --> 00:00:07,200
+ 100 rated chess, but you have tunnel vision, you may only move the pieces, or pawns, that are
+
+2
+00:00:07,200 --> 00:00:13,920
+ currently within a 3 tile range from what your opponent just moved. You know, this sounds pretty
+
+3
+00:00:13,920 --> 00:00:21,680
+ impossible, but actually, I think I have a small trick. We get a 2 1 6 from Costa Rica, and since
+
+4
+00:00:21,680 --> 00:00:26,800
+ I have to make the first move, let's just ignore the challenge for now, because it wouldn't be fair
+
+5
+00:00:26,800 --> 00:00:37,120
+ if I have to end my video at move 1. E4. E5. Aha, now I can only move a piece, or pawn, that is
+
+6
+00:00:37,120 --> 00:00:47,520
+ within 3 square from this guy, so let's see. 1, 2, 3. F4. Some people may say that counting like this
+
+7
+00:00:47,520 --> 00:00:53,200
+ is cheating and it makes the challenge way much easier, but you know, the guy who gave the challenge
+
+8
+00:00:53,200 --> 00:00:59,040
+ didn't say anything about how I'm supposed to count the squares, so I will take full advantage of
+
+9
+00:00:59,040 --> 00:01:09,440
+ that. And I'm not a coward. F5. I'll take that pawn, no need to count there. E takes F4. Aha,
+
+10
+00:01:09,440 --> 00:01:20,640
+ now queen H5 is very strong, and let's see. 1, 2, 3, queen H5. Again, I'm absolutely not cheating at all.
+
+11
+00:01:21,600 --> 00:01:31,600
+ G6. F takes G6. Again, no need to count that. H takes G6. That blunders a rook. I mean a move like
+
+12
+00:01:31,600 --> 00:01:37,360
+ B6 will immediately end my video, but since my queen is attacking very hard over here,
+
+13
+00:01:37,360 --> 00:01:42,000
+ no one can get their bishop on the other side of the board. Right?
+
+14
+00:01:42,000 --> 00:01:50,640
+ Of course, that move cuts my queen away from seeing the H4 square, which helps him play
+
+15
+00:01:50,640 --> 00:01:57,600
+ queen H4 next, and even though I can go queen E5 check, queen E7 will force me to trade queens,
+
+16
+00:01:57,600 --> 00:02:03,440
+ and after bishop takes E7, I actually have no pieces or pawns that are 3 squares away from
+
+17
+00:02:03,440 --> 00:02:10,240
+ his bishop, which means I'll have to end the video. So I guess, queen H7. This move threatens
+
+18
+00:02:10,240 --> 00:02:15,360
+ to take his pawn with a big check, so I hope that he will get scared and play something like queen
+
+19
+00:02:15,360 --> 00:02:24,720
+ F6 instead of queen H4. Or he can just don't get scared and also don't go queen H4. But anyway.
+
+20
+00:02:24,720 --> 00:02:36,640
+ 1, 2, 3, queen takes G6. Man, this challenge is so easy. King E7 is forced, queen takes G4,
+
+21
+00:02:36,640 --> 00:02:41,520
+ the plan is just to keep my queen in the middle of the board, so that she can have an optimal
+
+22
+00:02:41,520 --> 00:02:53,120
+ distance from all of his pieces. D6. Aha. 1, 2, and 3. Queen H4, wait wait wait. I almost went
+
+23
+00:02:53,120 --> 00:02:59,440
+ queen H4, which is a check, and then after king back to E8, I actually have no pieces or pawns
+
+24
+00:02:59,440 --> 00:03:06,160
+ that are 3 square close to his king, which means I will be ending my own video. So I guess, queen
+
+25
+00:03:06,160 --> 00:03:12,240
+ takes F4. I don't really want to block my bishop's way, but at least this will keep my queen in the
+
+26
+00:03:12,240 --> 00:03:18,400
+ center, and since I didn't check him, there is no reason to play a move like king E8. Right?
+
+27
+00:03:18,400 --> 00:03:32,800
+ 1, 2, no. 1, 2, no. And the worst thing is, Stockfish actually said, "Excellent".
+
+28
+00:03:32,800 --> 00:03:40,560
+ [Music]
+
+29
+00:03:40,560 --> 00:03:48,000
+ [Music]
+

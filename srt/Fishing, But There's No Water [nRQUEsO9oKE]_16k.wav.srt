@@ -1,0 +1,156 @@
+1
+00:00:00,000 --> 00:00:06,800
+ 100 rated chess, but you like fishing, you can only capture pieces, not pawns, that have
+
+2
+00:00:06,800 --> 00:00:13,200
+ captured your bait. Sounds very annoying. Okay so the pawns are obviously my best choices to
+
+3
+00:00:13,200 --> 00:00:24,240
+ become baits, therefore, let's push them. C6, not very aggressive. D4. D5. It's been a long time
+
+4
+00:00:24,240 --> 00:00:31,600
+ since I last saw a 100 rated guy that knows about the Karo-Kan opening. Taking his pawn is obviously
+
+5
+00:00:31,600 --> 00:00:36,880
+ not a good idea because I need as many pawns as possible to act as baits to capture his pieces.
+
+6
+00:00:36,880 --> 00:00:47,120
+ Therefore, E5. H5. Very aggressive. Bishop G5, I mean even if he plays E6 right now and blunders
+
+7
+00:00:47,120 --> 00:00:52,240
+ his queen, I actually still cannot take his queen because it hasn't captured any baits,
+
+8
+00:00:52,240 --> 00:01:02,560
+ but the point of this move is to provoke F6 that weakens his king. Bishop G4. F3. F6. Ah ha,
+
+9
+00:01:02,560 --> 00:01:10,400
+ I really want to go FG4 FG5 GH5 and I win a pawn, but since his bishop hasn't taken any baits yet,
+
+10
+00:01:10,400 --> 00:01:16,960
+ I cannot take it due to the rules. So I guess, bishop E3. I mean if he really just leaves his
+
+11
+00:01:16,960 --> 00:01:23,600
+ bishop there to irritate me, that will be very annoying. And he did. And not just that, he
+
+12
+00:01:23,600 --> 00:01:30,240
+ literally actively trap his own bishop for some very unknown reasons. Bishop D3. As soon as he
+
+13
+00:01:30,240 --> 00:01:38,320
+ takes my pawn, I'll call that pawn a bait and take his bishop. Knight F6. Ah ha, that blunders
+
+14
+00:01:38,320 --> 00:01:44,640
+ another piece, but again, I cannot take it due to the rules. This is getting really frustrating.
+
+15
+00:01:45,440 --> 00:01:53,120
+ H3. Ok now I literally 100% trapped his bishop, there is no way he'll just leave it there. Right?
+
+16
+00:01:53,120 --> 00:02:03,440
+ Knight E2. Now I'm sure the best plan is just to attack his king and ignore absolutely everything
+
+17
+00:02:03,440 --> 00:02:10,480
+ else. Queen A5 check. Ah ha, that is really good, because it removes his queen from defending his
+
+18
+00:02:10,480 --> 00:02:18,880
+ king. C3. I mean at least now we know that he'll retreat his bishop. Or not. Knight F4. Everything
+
+19
+00:02:18,880 --> 00:02:27,200
+ is hanging right now. Knight E4. Fun fact, that is still blundering the knight. But anyway. I'll
+
+20
+00:02:27,200 --> 00:02:33,120
+ take this pawn, I mean if he really takes my C pawn with his knight, I'll call that pawn a bait
+
+21
+00:02:33,120 --> 00:02:41,920
+ and then I can finally win a piece. Ha, that also works. Rook takes H3. My H pawn was a bait for his
+
+22
+00:02:41,920 --> 00:02:48,400
+ bishop to take, and you may ask how can a well defended pawn be a bait? Well, that is the problem
+
+23
+00:02:48,400 --> 00:02:54,160
+ with this challenge. You see, if defended pawns cannot be considered as baits, then how can I
+
+24
+00:02:54,160 --> 00:02:59,840
+ capture his pieces after they take my undefended free pawns, so we have no other way but to consider
+
+25
+00:02:59,840 --> 00:03:07,840
+ protected pawns are also baits. Bishop B4. I can see that this guy really hates his bishops.
+
+26
+00:03:07,840 --> 00:03:14,080
+ Bishop G5. Ok now this bishop is a bait to remove his central knight and my other bishop can finally
+
+27
+00:03:14,080 --> 00:03:20,800
+ see light. Or he'll go for his own plan. Knight takes is not good, because after knight takes
+
+28
+00:03:20,800 --> 00:03:26,960
+ knight, my knight cannot be considered as a bait, because that is an equal trade. Therefore, I'll
+
+29
+00:03:26,960 --> 00:03:33,120
+ take with pawn. Knight takes knight takes queen takes ok. Now comes the biggest decision of this
+
+30
+00:03:33,120 --> 00:03:40,160
+ game. Bishop D2. I'm giving this bishop away as a bait, so that I'll have my chances at taking his
+
+31
+00:03:40,160 --> 00:03:50,080
+ queen. He took it. Ok. First attempt. Knight C7. If his king lands on any of these dark squares,
+
+32
+00:03:50,080 --> 00:03:58,880
+ I can win his queen. Didn't work. How about this? F4. This unleashes a discovered attack from my
+
+33
+00:03:58,880 --> 00:04:04,800
+ rook to his queen, and as my experience said, the 100 rated guys are not going to see this.
+
+34
+00:04:04,800 --> 00:04:14,720
+ Perfect. Rook D3 C D4 Rook D4 Knight C6 Rook D5 Rook A D8 E6 check king F6 testosterone bishop
+
+35
+00:04:14,720 --> 00:04:22,560
+ C3 king E7 aha. Rook D7 check. I'm using a rook to bait another rook now, and if you say that an
+
+36
+00:04:22,560 --> 00:04:28,240
+ equal trade is not the goal when going fishing, the actual goal is to checkmate his king, not to
+
+37
+00:04:28,240 --> 00:04:36,480
+ trade rooks, so I'll say that this one is acceptable. Rook takes D7. Queen D7 king F8 queen G7.
+
+38
+00:04:37,120 --> 00:04:44,880
+ Checkmate. Mission, accomplished.
+
+39
+00:04:44,880 --> 00:04:55,040
+ [Music]
+

@@ -1,0 +1,228 @@
+1
+00:00:00,000 --> 00:00:08,640
+ If a piece, not a pawn, is not defended, the video ends.
+
+2
+00:00:08,640 --> 00:00:12,760
+ Playing 3 minute splits on a 100 rated account.
+
+3
+00:00:12,760 --> 00:00:18,800
+ Actually, I have seen this challenge months ago, but haven't taken it yet, due to it being
+
+4
+00:00:18,800 --> 00:00:20,680
+ too hard.
+
+5
+00:00:20,680 --> 00:00:27,920
+ But today, is the day, that I will overcome my fear, and deliver a victory, over an impossible
+
+6
+00:00:27,920 --> 00:00:30,120
+ challenge.
+
+7
+00:00:30,120 --> 00:00:37,600
+ Therefore, let's find an opponent.
+
+8
+00:00:37,600 --> 00:00:41,400
+ We get a 1 97 from Columbia.
+
+9
+00:00:41,400 --> 00:00:46,720
+ Now there are obviously 4 rooks in the corners that are not defended at all.
+
+10
+00:00:46,720 --> 00:00:50,360
+ But of course, there is nothing I can do about that.
+
+11
+00:00:50,360 --> 00:00:57,080
+ So let's just say, the starting position, doesn't, count.
+
+12
+00:00:57,080 --> 00:00:58,640
+ E4.
+
+13
+00:00:58,640 --> 00:01:00,200
+ Ah ha!
+
+14
+00:01:00,200 --> 00:01:09,480
+ In this position, bishop c4, bishop b5, queen g4, and queen h5, are all threats to my video.
+
+15
+00:01:09,480 --> 00:01:15,380
+ And of course, there is no way for me, or even Magnus Carlsen, to prevent all of them
+
+16
+00:01:15,380 --> 00:01:17,560
+ from happening.
+
+17
+00:01:17,560 --> 00:01:20,560
+ So I guess, d5.
+
+18
+00:01:20,560 --> 00:01:26,280
+ With this move, I can at least prevent bishop c4, and also give him a choice to capture
+
+19
+00:01:26,280 --> 00:01:30,200
+ my pawn, instead of moving his pieces.
+
+20
+00:01:30,200 --> 00:01:34,240
+ And you know, who develops their queen first anyway.
+
+21
+00:01:34,240 --> 00:01:36,120
+ Right?
+
+22
+00:01:36,120 --> 00:01:40,720
+ E takes d5.
+
+23
+00:01:40,720 --> 00:01:42,320
+ Yes.
+
+24
+00:01:42,320 --> 00:01:48,360
+ But now, once again, all of those 4 moves are threats to the video.
+
+25
+00:01:48,360 --> 00:01:55,200
+ Queen takes d5 looks like it stops the bishop, but sadly, that move ends the video itself,
+
+26
+00:01:55,200 --> 00:01:57,560
+ which makes me a fool.
+
+27
+00:01:57,560 --> 00:02:00,520
+ Therefore, e6.
+
+28
+00:02:00,520 --> 00:02:07,920
+ Since he decided to capture my pawn last time, there's no way he refuses it this time.
+
+29
+00:02:07,920 --> 00:02:09,960
+ Right?
+
+30
+00:02:09,960 --> 00:02:11,960
+ Yes.
+
+31
+00:02:11,960 --> 00:02:15,000
+ Bishop takes e6.
+
+32
+00:02:15,000 --> 00:02:19,540
+ And with that, I have prevented queen g4 and bishop c4.
+
+33
+00:02:19,540 --> 00:02:25,760
+ Now please don't give a check, just because it's possible to do so.
+
+34
+00:02:25,760 --> 00:02:26,760
+ Knight f3.
+
+35
+00:02:26,760 --> 00:02:32,980
+ I'll be honest, this video is actually lasting longer than I thought it would.
+
+36
+00:02:32,980 --> 00:02:34,300
+ But anyway.
+
+37
+00:02:34,300 --> 00:02:40,440
+ Now there are knight d4 and knight e5 threats, so knight c6 looks pretty good.
+
+38
+00:02:40,440 --> 00:02:46,920
+ But if I play knight c6, it will only give him more reason to play bishop b5, which also
+
+39
+00:02:46,920 --> 00:02:49,460
+ ends the video.
+
+40
+00:02:49,460 --> 00:02:52,180
+ So I guess, queen d6.
+
+41
+00:02:52,180 --> 00:02:56,540
+ Oh wait, I should have played queen f6.
+
+42
+00:02:56,540 --> 00:02:57,740
+ Nah.
+
+43
+00:02:57,740 --> 00:03:04,300
+ Who cares, he's not gonna move his horsey to the side of the board.
+
+44
+00:03:04,300 --> 00:03:07,700
+ Right?
+
+45
+00:03:07,700 --> 00:03:09,180
+ Knight c3.
+
+46
+00:03:09,180 --> 00:03:10,940
+ Aha!
+
+47
+00:03:10,940 --> 00:03:16,820
+ He's obviously threatening to go knight b5, attacking my queen, and ending the video,
+
+48
+00:03:16,820 --> 00:03:19,380
+ at the same time.
+
+49
+00:03:19,380 --> 00:03:22,820
+ Therefore, a6.
+
+50
+00:03:22,820 --> 00:03:25,300
+ d4.
+
+51
+00:03:25,300 --> 00:03:32,460
+ That unleashed this bishop, so now knight g5 is no longer a threat.
+
+52
+00:03:32,460 --> 00:03:35,740
+ So I guess, bishop e7.
+
+53
+00:03:35,740 --> 00:03:40,820
+ Developing a piece, and also preventing knight h4.
+
+54
+00:03:40,820 --> 00:03:46,540
+ And with that, the only threat remaining is knight a4, which is obviously not going to
+
+55
+00:03:46,540 --> 00:04:01,700
+ happen, therefore, I can guarantee you, that this video, is going to be, pretty, long.
+
+56
+00:04:01,700 --> 00:04:01,980
+ What the f-
+
+57
+00:04:01,980 --> 00:04:16,540
+ [Music]
+

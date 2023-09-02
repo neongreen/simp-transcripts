@@ -1,0 +1,252 @@
+1
+00:00:00,000 --> 00:00:07,000
+ 100 rated chess, but you use a random number generator for how many steps that your pieces
+
+2
+00:00:07,000 --> 00:00:10,520
+ or pawns have to move.
+
+3
+00:00:10,520 --> 00:00:12,960
+ Number between 1 and 10.
+
+4
+00:00:12,960 --> 00:00:18,600
+ Dude, for your information, the chess board is only 8x8.
+
+5
+00:00:18,600 --> 00:00:22,200
+ So let's change it to 5.
+
+6
+00:00:22,200 --> 00:00:24,320
+ Because let's take a look at this.
+
+7
+00:00:24,320 --> 00:00:32,000
+ In H5, is only 4 squares in length, and even a max length bishop move, is only 1 2 3 4,
+
+8
+00:00:32,000 --> 00:00:34,320
+ and 5 squares only.
+
+9
+00:00:34,320 --> 00:00:41,160
+ Therefore, if I somehow roll an early 6 or bigger number, the mission is failed.
+
+10
+00:00:41,160 --> 00:00:45,900
+ And with that out of the way, let's start the game.
+
+11
+00:00:45,900 --> 00:00:49,760
+ We get a 1 0 2 from Venezuela.
+
+12
+00:00:49,760 --> 00:00:50,760
+ Random.
+
+13
+00:00:50,760 --> 00:00:51,760
+ 2.
+
+14
+00:00:51,760 --> 00:00:53,440
+ Oh, wait.
+
+15
+00:00:53,440 --> 00:00:58,720
+ On second thought, maybe I should have skipped the random first move, since if I had rolled
+
+16
+00:00:58,720 --> 00:01:02,680
+ a 4 or 5, the mission would have been failed.
+
+17
+00:01:02,680 --> 00:01:06,980
+ But anyway, since I rolled a 2, e4.
+
+18
+00:01:06,980 --> 00:01:12,480
+ And by the way, let's make the knight's moves 2 squares as well.
+
+19
+00:01:12,480 --> 00:01:14,840
+ F6.
+
+20
+00:01:14,840 --> 00:01:15,840
+ Random.
+
+21
+00:01:15,840 --> 00:01:16,840
+ 3.
+
+22
+00:01:16,840 --> 00:01:23,040
+ The queen g4 is too risky, because if he plays things like d5, the RNGesus may not
+
+23
+00:01:23,040 --> 00:01:26,160
+ allow me to move the queen away from danger.
+
+24
+00:01:26,160 --> 00:01:29,000
+ Therefore, bishop c4.
+
+25
+00:01:29,000 --> 00:01:34,900
+ Well, technically this move is not 3 squares in length, but to make things simpler, let's
+
+26
+00:01:34,900 --> 00:01:38,600
+ just ignore all of the excessive maths.
+
+27
+00:01:38,600 --> 00:01:41,440
+ D5.
+
+28
+00:01:41,440 --> 00:01:43,560
+ That blunders a pawn.
+
+29
+00:01:43,560 --> 00:01:50,680
+ But if I don't roll a 1, 2, or 3, it's actually me blundering a bishop.
+
+30
+00:01:50,680 --> 00:01:53,240
+ Are you serious?
+
+31
+00:01:53,240 --> 00:01:59,400
+ Well I think it's actually fine, since I have a 60% chance of small number.
+
+32
+00:01:59,400 --> 00:02:01,120
+ Right?
+
+33
+00:02:01,120 --> 00:02:04,080
+ And I get a big number.
+
+34
+00:02:04,080 --> 00:02:07,120
+ Queen h5 is forced.
+
+35
+00:02:07,120 --> 00:02:09,440
+ G6.
+
+36
+00:02:09,440 --> 00:02:12,300
+ And now I'm being double attacked.
+
+37
+00:02:12,300 --> 00:02:15,880
+ This mission is going very wrong very quickly.
+
+38
+00:02:15,880 --> 00:02:17,960
+ 2.
+
+39
+00:02:17,960 --> 00:02:21,680
+ Queen f3 is kinda forced.
+
+40
+00:02:21,680 --> 00:02:23,600
+ Knight h6.
+
+41
+00:02:23,600 --> 00:02:26,520
+ And he didn't even take my bishop.
+
+42
+00:02:26,520 --> 00:02:28,360
+ 60%.
+
+43
+00:02:28,360 --> 00:02:30,160
+ 4.
+
+44
+00:02:30,160 --> 00:02:34,220
+ Man, what is wrong with my 60%?
+
+45
+00:02:34,220 --> 00:02:36,280
+ Queen b3 is forced.
+
+46
+00:02:36,280 --> 00:02:41,200
+ Well at least if he takes my bishop now, his pawn will be attacking my queen, but I can
+
+47
+00:02:41,200 --> 00:02:46,720
+ still see there are a lot of safe squares for her to go.
+
+48
+00:02:46,720 --> 00:02:48,480
+ Bishop g4.
+
+49
+00:02:48,480 --> 00:02:50,960
+ Still denying my bishop.
+
+50
+00:02:50,960 --> 00:02:55,240
+ Again, 60%.
+
+51
+00:02:55,240 --> 00:02:58,480
+ Queen takes b7 is kinda forced.
+
+52
+00:02:58,480 --> 00:03:04,440
+ Well at least he won't take my bishop now, right?
+
+53
+00:03:04,440 --> 00:03:06,360
+ Knight a6.
+
+54
+00:03:06,360 --> 00:03:08,040
+ 2.
+
+55
+00:03:08,040 --> 00:03:09,400
+ Finally.
+
+56
+00:03:09,400 --> 00:03:10,800
+ Bishop takes a6.
+
+57
+00:03:10,800 --> 00:03:12,800
+ Oh, wait.
+
+58
+00:03:12,800 --> 00:03:17,360
+ Maybe I shouldn't have done that, because rook d8 is very much likely going to win my
+
+59
+00:03:17,360 --> 00:03:22,200
+ queen.
+
+60
+00:03:22,200 --> 00:03:29,520
+ After ignoring my bishop for 3 moves, he loses a piece, and now he resigns.
+
+61
+00:03:29,520 --> 00:03:30,920
+ But anyway.
+
+62
+00:03:30,920 --> 00:03:32,640
+ Mission, accomplished.
+
+63
+00:03:33,000 --> 00:03:47,560
+ [Outro]
+

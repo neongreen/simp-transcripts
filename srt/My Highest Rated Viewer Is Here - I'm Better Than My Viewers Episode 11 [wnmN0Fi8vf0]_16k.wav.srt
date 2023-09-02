@@ -1,0 +1,200 @@
+1
+00:00:00,000 --> 00:00:05,840
+ I am better than my viewers. Well actually the series name is I am better than my viewers,
+
+2
+00:00:05,840 --> 00:00:11,360
+ but you know, it's fine. Welcome to episode 11 of I'm better than my viewers,
+
+3
+00:00:11,360 --> 00:00:17,840
+ and the challenger this time is a guy called Flair, with a ratings of whopping 1852.
+
+4
+00:00:17,840 --> 00:00:25,120
+ G6, I'm obviously threatening H7 checkmate in one, so if he can just blunder it right now,
+
+5
+00:00:25,120 --> 00:00:32,080
+ that will be very convenient. Of course he sees it. At least I win a knight. I mean having an
+
+6
+00:00:32,080 --> 00:00:39,200
+ evaluation of -16 against an 1850 is not really a situation that I want to be in, but I can still
+
+7
+00:00:39,200 --> 00:00:46,480
+ see that there are chances for me to turn the table. Knight takes F6. F5. I mean what else
+
+8
+00:00:46,480 --> 00:00:55,920
+ can I do anyway, and good luck finding that checkmate in 21. Dude. He's actually spending
+
+9
+00:00:55,920 --> 00:01:04,480
+ time to find it. Ha. Noob. I really want to take that pawn back, but blundering this pawn also
+
+10
+00:01:04,480 --> 00:01:11,040
+ doesn't seem to be a good idea, so I guess, I have to check here. In a perfect world, he'll go king
+
+11
+00:01:11,040 --> 00:01:19,760
+ takes G7, H6 check, king takes H6 and then I'll have a wife. I guess I'm maidenless. G takes.
+
+12
+00:01:19,760 --> 00:01:28,160
+ King takes. H6. Man now I realize that even though I have a lot of pawns, most of them are so useless
+
+13
+00:01:28,160 --> 00:01:32,800
+ because it takes too many moves to push them forward and make them actually show their value
+
+14
+00:01:32,800 --> 00:01:41,120
+ on the chessboard. B takes A2. Ah ha, I think he wants to say that now it is his turn to attack.
+
+15
+00:01:41,120 --> 00:01:50,160
+ G5. No, it is still my turn, I'm the attacker here. And then he says no, it is his turn,
+
+16
+00:01:50,160 --> 00:01:59,200
+ but again, no, it's still my turn. Okay fine it's his turn. King takes A2 is forced. Now don't tell
+
+17
+00:01:59,200 --> 00:02:04,880
+ me that he's gonna see the entire checkmate in 10 and absolutely humiliate me in front of my views.
+
+18
+00:02:04,880 --> 00:02:13,680
+ Ha, of course not. C takes B4. I mean I was supposed to say that blunders a horsey,
+
+19
+00:02:13,680 --> 00:02:18,160
+ but I think we all know very clearly that losing a horsey is nothing much right now.
+
+20
+00:02:18,160 --> 00:02:26,240
+ Knight takes B4 check. King B1. No worries, it's very hard to checkmate with only knights,
+
+21
+00:02:26,240 --> 00:02:34,400
+ even to an 1800. Well but it's not that hard to take all the pawns with those knights. King C1.
+
+22
+00:02:34,400 --> 00:02:42,000
+ Knight back to B3 check. Ah ha, I don't know if he's offering a draw by repetition,
+
+23
+00:02:42,000 --> 00:02:47,760
+ but if I trust him and go king B1, there is actually knight A3 check B takes A3 knight
+
+24
+00:02:47,760 --> 00:02:54,080
+ C3 check king B2 is forced knight B A4 checkmate in 3, and even though I didn't see that checkmate
+
+25
+00:02:54,080 --> 00:02:59,280
+ in 3 during the game, I did know for sure that going back to B1 was very dangerous,
+
+26
+00:02:59,280 --> 00:03:06,480
+ and I also don't think I can trust him for making a repetition draw, therefore, king D1. At least I
+
+27
+00:03:06,480 --> 00:03:11,360
+ calculated that my king will be able to move to the other side and stay safe behind the pawns
+
+28
+00:03:11,360 --> 00:03:20,480
+ for a couple of moves. Knight B2 king E1 knight C2 king F1 knight D2 king G1. Ha, guess what,
+
+29
+00:03:20,480 --> 00:03:28,960
+ there's no more check, unless he goes knight C3 knight E2. C3. Ah ha, he's obviously aiming to
+
+30
+00:03:28,960 --> 00:03:38,560
+ get a wife, therefore, I need to make progress right now. E4. Knight E1. E takes F5. Alright,
+
+31
+00:03:38,560 --> 00:03:48,320
+ let's see who's better, your C pawn or my 5 pawns. Knight D7. Ah ha, I can see, that he's getting
+
+32
+00:03:48,320 --> 00:03:56,720
+ scared. He will 100% sacrifice his knight if I play F6, therefore, G6. It's very rare to see
+
+33
+00:03:56,720 --> 00:04:01,040
+ someone getting scared that they'll lose when Stockfish is saying that they have a checkmate
+
+34
+00:04:01,040 --> 00:04:08,240
+ in 16. F takes G6. I'll take this way, the grandmasters always say that you should take
+
+35
+00:04:08,240 --> 00:04:13,360
+ towards the center, but this time is absolutely different because there are some very hungry
+
+36
+00:04:13,360 --> 00:04:20,640
+ horses in the middle of the board. King G8. And then at this very moment, I realized that no matter
+
+37
+00:04:20,640 --> 00:04:27,200
+ how hard I try, there is no way I can make a queen unless he blunders it real hard. But well, let's
+
+38
+00:04:27,200 --> 00:04:37,440
+ just try our luck. H7 check. King takes G7 is forced. H6 check. How about king takes H6? Nevermind.
+
+39
+00:04:38,000 --> 00:04:46,320
+ Random move go. G4. C2. And in this position, I realized that he only needs one move to get a
+
+40
+00:04:46,320 --> 00:04:52,240
+ woman, and since I didn't have any women in this game, I cannot allow him to have one, therefore,
+
+41
+00:04:52,240 --> 00:04:58,080
+ I resigned. But even though this guy have one and I should be saying I'm better than my viewers but
+
+42
+00:04:58,080 --> 00:05:04,800
+ this guy and only this guy is equal to me, there is actually a very big plot twist here. You see,
+
+43
+00:05:04,800 --> 00:05:10,240
+ this is actually the second game that I recorded with this guy, and for why this is the second
+
+44
+00:05:10,240 --> 00:05:16,800
+ game, it's because in the first game, after my G6, he actually went for B takes A2, which obviously
+
+45
+00:05:16,800 --> 00:05:22,640
+ blunders H7 checkmate in one with a pawn, and then he said brah, even though I should be the one who
+
+46
+00:05:22,640 --> 00:05:27,760
+ say that instead of him, so then I felt bad for him and I also couldn't just make a video with
+
+47
+00:05:27,760 --> 00:05:33,760
+ only one move featuring a freaking 1800 blundering his king at the very first move of a chess game.
+
+48
+00:05:33,760 --> 00:05:39,280
+ I decided to play a second game like you've just watched, therefore, I won the first game,
+
+49
+00:05:39,280 --> 00:05:45,600
+ he won the second game, so it was a draw, which is to say, that I'm better than my viewers.
+
+50
+00:05:45,600 --> 00:06:00,240
+ [Music]
+

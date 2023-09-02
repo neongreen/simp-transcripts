@@ -1,0 +1,172 @@
+1
+00:00:00,000 --> 00:00:03,680
+ Chess, but you play against bot.
+
+2
+00:00:03,680 --> 00:00:09,160
+ Great idea, but of course, I have to add something to make it a challenge.
+
+3
+00:00:09,160 --> 00:00:13,920
+ Let's say, I have to win, without losing any material.
+
+4
+00:00:13,920 --> 00:00:14,920
+ Let's go.
+
+5
+00:00:14,920 --> 00:00:21,200
+ I chose Harry Mack as my opponent, and for anyone who don't know, Harry Mack is an artist,
+
+6
+00:00:21,200 --> 00:00:24,360
+ and is a participant of PogChamp 4.
+
+7
+00:00:24,360 --> 00:00:26,120
+ E4.
+
+8
+00:00:26,120 --> 00:00:32,560
+ Since I can't afford to let any pieces die, pushing center pawns seems a bit too risky.
+
+9
+00:00:32,560 --> 00:00:37,040
+ Therefore, knight C6.
+
+10
+00:00:37,040 --> 00:00:38,720
+ Knight F3.
+
+11
+00:00:38,720 --> 00:00:41,400
+ B6.
+
+12
+00:00:41,400 --> 00:00:43,120
+ Bishop C4.
+
+13
+00:00:43,120 --> 00:00:44,320
+ Bishop B7.
+
+14
+00:00:44,320 --> 00:00:48,040
+ Nothing wrong so far.
+
+15
+00:00:48,040 --> 00:00:49,040
+ Knight G5.
+
+16
+00:00:49,040 --> 00:00:52,120
+ Oh, here it comes.
+
+17
+00:00:52,120 --> 00:00:54,880
+ E6.
+
+18
+00:00:54,880 --> 00:00:56,560
+ Queen H5.
+
+19
+00:00:56,560 --> 00:00:57,560
+ Knight E5.
+
+20
+00:00:57,560 --> 00:01:00,000
+ Oh, wait.
+
+21
+00:01:00,000 --> 00:01:01,360
+ I blundered.
+
+22
+00:01:01,360 --> 00:01:10,600
+ Now he has knight takes E6, D takes E6, queen takes E5, winning a pawn, and end the video.
+
+23
+00:01:10,600 --> 00:01:12,600
+ My bad.
+
+24
+00:01:12,600 --> 00:01:18,760
+ Haha, of course a 600 rated engine cannot see it.
+
+25
+00:01:18,760 --> 00:01:20,320
+ G6.
+
+26
+00:01:20,320 --> 00:01:23,120
+ G4.
+
+27
+00:01:23,120 --> 00:01:25,400
+ That blunders a queen.
+
+28
+00:01:25,400 --> 00:01:29,520
+ But if I take his queen, it will turn out that I have a double attack on his knight
+
+29
+00:01:29,520 --> 00:01:34,080
+ and bishop, which may cause him to make a desperado.
+
+30
+00:01:34,080 --> 00:01:37,400
+ So I guess, I'll take the bishop.
+
+31
+00:01:37,400 --> 00:01:39,840
+ A3.
+
+32
+00:01:39,840 --> 00:01:42,360
+ That blunders the queen again.
+
+33
+00:01:42,360 --> 00:01:47,760
+ Chess.com, I believe you guys should try to fix this engine, since I don't think Mack
+
+34
+00:01:47,760 --> 00:01:51,760
+ is going to abandon his woman, twice.
+
+35
+00:01:51,760 --> 00:01:57,920
+ But again, should I even take it though, since there is also G takes H5, and even though
+
+36
+00:01:57,920 --> 00:02:03,600
+ that blunders the horsey, I mean he blundered his queen twice, so the horsey is nothing
+
+37
+00:02:03,600 --> 00:02:05,080
+ much.
+
+38
+00:02:05,080 --> 00:02:09,640
+ Yeah, I think that is still too risky.
+
+39
+00:02:09,640 --> 00:02:10,640
+ Knight F6.
+
+40
+00:02:10,640 --> 00:02:16,760
+ Alright, now there are 2 pieces attacking his queen, of course he'll move it.
+
+41
+00:02:16,760 --> 00:02:18,160
+ Right?
+
+42
+00:02:18,160 --> 00:02:24,940
+ What the f-
+
+43
+00:02:24,940 --> 00:02:39,500
+ (Outro music)
+

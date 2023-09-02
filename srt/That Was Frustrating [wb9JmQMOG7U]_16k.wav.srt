@@ -1,0 +1,164 @@
+1
+00:00:00,000 --> 00:00:08,160
+ 100 rated chess, but if your piece, not pawn, can get behind the enemy piece, not pawn, it has to.
+
+2
+00:00:08,160 --> 00:00:13,520
+ This actually sounds pretty fun, but at the same time, pretty impossible.
+
+3
+00:00:13,520 --> 00:00:20,480
+ We get a 2 44 from Italy. Before the game begins, let's make this clear that behind a piece is only
+
+4
+00:00:20,480 --> 00:00:25,440
+ this square, because if we consider some other squares are also included in the mission,
+
+5
+00:00:25,440 --> 00:00:33,440
+ it's going to be way too difficult. E4. Ah ha, I want to play E5, but then he may decide to go
+
+6
+00:00:33,440 --> 00:00:39,200
+ queen H5, which actually forces me to play queen H4 to put my queen behind his queen,
+
+7
+00:00:39,200 --> 00:00:45,920
+ which renders me maidenless. Therefore, H5. Let's just prevent queen H5 in advance,
+
+8
+00:00:45,920 --> 00:00:50,640
+ and if you really think about it, my rooks are actually the strongest pieces I have,
+
+9
+00:00:50,640 --> 00:00:56,160
+ because they are almost exempted from the rules when only horizontal moves can put them into the
+
+10
+00:00:56,160 --> 00:01:03,840
+ mission's rules. D4. A5. I mean I can't really use any rooks right now, but there will definitely
+
+11
+00:01:03,840 --> 00:01:12,000
+ be a way. E5. Knight H6. Alright, that blunders a pawn to queen takes H5, but let's just hope
+
+12
+00:01:12,000 --> 00:01:18,640
+ that he'll take my knight with his bishop, which helps me develop my rook. That was very convenient.
+
+13
+00:01:19,440 --> 00:01:29,120
+ Queen D2. Very aggressive. Knight A6, how about one more time? Maybe not. E6, the idea is bishop
+
+14
+00:01:29,120 --> 00:01:38,080
+ B4 skewering his queen and his king. Bishop B5. Ah ha, now since I can put a piece behind his piece,
+
+15
+00:01:38,080 --> 00:01:46,080
+ bishop B4 is kinda forced, this guy is literally forcing me to win his woman. Bishop takes D7.
+
+16
+00:01:46,080 --> 00:01:51,840
+ That is a panic move. I'll take with queen. I mean taking with bishop was obviously better,
+
+17
+00:01:51,840 --> 00:01:57,760
+ but I'll use my queen to checkmate him real fast before he can do some serious damage to my pieces.
+
+18
+00:01:57,760 --> 00:02:05,760
+ A desperado. I'll take with or C0. Wait, I actually wanted to threaten knight takes C2
+
+19
+00:02:05,760 --> 00:02:11,440
+ forking his king and rook, but now I finally notice that he also has knight A3, which defends
+
+20
+00:02:11,440 --> 00:02:17,200
+ the C2 pawn, and also forces me to put my knight behind his knight, which blunders a horsey.
+
+21
+00:02:17,200 --> 00:02:27,600
+ Ha! Nevermind. Knight C2 check. Okay, in no world do you play king E2 now which forces me to play
+
+22
+00:02:27,600 --> 00:02:35,440
+ knight E1 instead of taking your rook. There we go. I'll take that rook. Man, even when I'm having
+
+23
+00:02:35,440 --> 00:02:42,800
+ this much advantage, I still don't see how I am supposed to accomplish this mission. Knight A3.
+
+24
+00:02:42,800 --> 00:02:48,000
+ Let's improve my rook. I said that my rooks were the strongest in this game, but there's still no
+
+25
+00:02:48,000 --> 00:02:55,760
+ chance to see them in action. Knight F3. Ah ha, now I can take this pawn, but then next move I'll
+
+26
+00:02:55,760 --> 00:03:01,440
+ most likely have to take the F2 pawn behind his knight as well, so a move like rook F1 or king
+
+27
+00:03:01,440 --> 00:03:09,520
+ E2 is gonna force me to blunder my rook. So I guess, C5, I'll attack the center first. Rook A1
+
+28
+00:03:09,520 --> 00:03:18,480
+ C D4 knight D4 I'll take this now rook F1 rook A6 knight C5 B5 knight E3 rook A2 B4 A B4 C B4
+
+29
+00:03:18,480 --> 00:03:27,040
+ that should blunder a king queen takes D4 check. King E2. Ah ha, now rook takes A2 is 100% the
+
+30
+00:03:27,040 --> 00:03:32,560
+ best move, but after he moves his king back, I'll have to put my rook behind his horsey,
+
+31
+00:03:32,560 --> 00:03:39,520
+ which blunders a rook. Therefore, let's take this pawn instead. Man, this knight is so going to be
+
+32
+00:03:39,520 --> 00:03:46,960
+ the most annoying piece in this video. Rook C1. Man, I totally don't see anything else,
+
+33
+00:03:46,960 --> 00:03:52,640
+ let's just try our luck. By the way, I actually looked at the situation after the game,
+
+34
+00:03:52,640 --> 00:03:57,760
+ and found out that there was a great idea of rook A3 and rook takes E3 removing the knight from the
+
+35
+00:03:57,760 --> 00:04:05,200
+ game, but somehow that idea didn't come to me during the game. King E1. That blunders rook H1
+
+36
+00:04:05,200 --> 00:04:12,160
+ checkmate in 1, but sadly, rook E2 check is forced. This is the first time I've ever been in such a
+
+37
+00:04:12,160 --> 00:04:20,080
+ frustrating situation like this. King takes, let's defend this bishop first, in no world do you take
+
+38
+00:04:20,080 --> 00:04:30,000
+ my bishop now and force queen C7 behind your rook. Of course. King E7. Rook C1 again. You know what,
+
+39
+00:04:30,000 --> 00:04:36,720
+ I've had enough of this. Queen B2 check king D1 and f*** the rules rook H1 check resignation.
+
+40
+00:04:36,720 --> 00:04:39,520
+ Mission is failed, but at least I won.
+
+41
+00:04:39,520 --> 00:04:53,920
+ [Music]
+
